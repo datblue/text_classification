@@ -90,6 +90,7 @@ class classification:
             samples_train = preprocessing.load_dataset(data_train)
             X_train, y_train = self.prepare_data(samples_train)
             X_train = self.feature_extraction(X_train)
+            self.save_training_vector(X_train, y_train)
         self.fit(X_train, y_train)
 
         X_test, y_test = self.load_testing_vector()
@@ -97,6 +98,7 @@ class classification:
             samples_test = preprocessing.load_dataset(data_test)
             X_test, y_test = self.prepare_data(samples_test)
             X_test = self.feature_extraction(X_test)
+            self.save_testing_vector(X_test, y_test)
         self.evaluation(X_test, y_test)
         self.save_model()
 
