@@ -52,9 +52,11 @@ class classification:
 
     def prepare_data(self, dataset):
         X = []; y = []
-        for name, content in dataset.items():
-            y.append(my_map.name2label[name])
-            X.append(content)
+        for name, list_content in dataset.items():
+            label = my_map.name2label[name]
+            for content in list_content:
+                y.append(label)
+                X.append(content)
         return X, y
 
 
