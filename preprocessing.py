@@ -25,7 +25,7 @@ def load_dataset(dataset):
         else:
             print(file_path)
             with open(file_path, 'r', encoding='utf-16') as fp:
-                content = r.run(get_content(fp))
+                content = r.run(fp.read())
                 content = tokenizer.predict(content)
                 dir_name = utils.get_dir_name(file_path)
                 list_samples[dir_name].append(content)
@@ -40,16 +40,6 @@ def load_dataset_ex(list_samples):
         result.append(sample)
     return result
 
-
-def get_content(fp):
-    content = []
-    for sen in fp:
-        try:
-            sen = unicodedata.normalize('NFKC', sen)
-            content.append(sen)
-        except Exception as e:
-            print(e.message)
-    return u'\n'.join(content)
 
 
 
