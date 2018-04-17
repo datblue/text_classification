@@ -30,10 +30,22 @@ class classification:
         self.model = self.load('model/model.pkl')
 
 
+    def load_training_vector(self):
+        X_train = self.load('model/X_train.pkl')
+        y_train = self.load('model/y_train.pkl')
+        return X_train, y_train
+
+
+    def load_testing_vector(self):
+        X_test = self.load('model/X_test.pkl')
+        y_test = self.load('model/y_test.pkl')
+        return X_test, y_test
+
+
     def save(self, model, path):
         print('saving %s ...' % (path))
         utils.mkdir('model')
-        joblib.dump(model, path)
+        joblib.dump(model, path, compress=True)
         return
 
 
@@ -41,6 +53,18 @@ class classification:
         utils.mkdir('model')
         self.save(self.vectorizer, 'model/vectorizer.pkl')
         self.save(self.model, 'model/model.pkl')
+
+
+    def save_training_vector(self, X_train, y_train):
+        utils.mkdir('model')
+        self.save(X_train, 'model/X_train.pkl')
+        self.save(y_train, 'model/y_train.pkl')
+
+
+    def save_testing_vector(self, X_test, y_test):
+        utils.mkdir('model')
+        self.save(X_test, 'model/X_test.pkl')
+        self.save(y_test, 'model/y_test.pkl')
 
 
     def feature_extraction(self, X):
@@ -61,14 +85,18 @@ class classification:
 
 
     def training(self, data_train, data_test):
-        samples_train = preprocessing.load_dataset(data_train)
-        X_train, y_train = self.prepare_data(samples_train)
-        X_train = self.feature_extraction(X_train)
+        X_train, y_train = self.load_training_vector()
+        if X_train == None or y_train == None:
+            samples_train = preprocessing.load_dataset(data_train)
+            X_train, y_train = self.prepare_data(samples_train)
+            X_train = self.feature_extraction(X_train)
         self.fit(X_train, y_train)
 
-        samples_test = preprocessing.load_dataset(data_test)
-        X_test, y_test = self.prepare_data(samples_test)
-        X_test = self.feature_extraction(X_test)
+        X_test, y_test = self.load_testing_vector()
+        if X_test == None or y_test == None:
+            samples_test = preprocessing.load_dataset(data_test)
+            X_test, y_test = self.prepare_data(samples_test)
+            X_test = self.feature_extraction(X_test)
         self.evaluation(X_test, y_test)
         self.save_model()
 
