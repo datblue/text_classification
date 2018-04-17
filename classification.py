@@ -72,6 +72,7 @@ class classification:
 
 
     def fit(self, X, y):
+        print('fit model...')
         self.model = SVC(C=100, kernel='linear', class_weight='balanced')
         self.model.fit(X, y)
 

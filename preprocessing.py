@@ -23,6 +23,7 @@ def load_dataset(dataset):
         if (os.path.isdir(file_path)):
             utils.push_data_to_stack(stack, file_path, file_name)
         else:
+            print(file_path)
             with open(file_path, 'r', encoding='utf-16') as fp:
                 content = r.run(get_content(fp))
                 content = tokenizer.predict(content)
