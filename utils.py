@@ -77,7 +77,7 @@ def add_to_list(l1, l2):
     return l
 
 
-def id_generator(size=32, chars=string.ascii_letters + string.digits):
+def id_generator(size=10, chars=string.ascii_letters + string.digits):
     return ''.join(random.choice(chars) for _ in range(size))
 
 

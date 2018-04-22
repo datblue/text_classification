@@ -1,1 +1,2 @@
-C=100: accuracy score = 0.91546
+best model: LogisticRegressionCV, class_weight='balanced'
+	accuracy score = 0.91792

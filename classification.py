@@ -7,14 +7,21 @@ import preprocessing
 from collections import Counter
 from sklearn.externals import joblib
 from sklearn.svm import SVC
+from sklearn.linear_model import LogisticRegressionCV
+from sklearn.ensemble import BaggingClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.feature_extraction.text import TfidfVectorizer
+from io import open
+
 
 
 class classification:
     def __init__(self):
         self.model = None
         self.vectorizer = None
+        self.result_dir = 'classification_result'
+        utils.mkdir(self.result_dir)
+        _ = map(lambda x: utils.mkdir(os.path.join(self.result_dir, x)), my_map.name2label.keys())
 
 
     def load(self, model):
@@ -69,7 +76,7 @@ class classification:
 
     def feature_extraction(self, X):
         if self.vectorizer == None:
-            self.vectorizer = TfidfVectorizer(ngram_range=(1, 1), max_df=0.6, min_df=1)
+            self.vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.6, min_df=2)
             self.vectorizer.fit(X)
         return self.vectorizer.transform(X)
 
@@ -105,7 +112,7 @@ class classification:
 
     def fit(self, X, y):
         print('fit model...')
-        self.model = SVC(C=100, kernel='linear', class_weight='balanced')
+        self.model = LogisticRegressionCV(class_weight='balanced')
         self.model.fit(X, y)
 
 
@@ -129,6 +136,14 @@ class classification:
         docs = preprocessing.load_dataset_ex(list_document)
         X = self.feature_extraction(docs)
         return self.model.predict(X)
+
+
+    def save_to_dir(self, list_document, labels):
+        for i in xrange(len(labels)):
+            output_dir = os.path.join(self.result_dir, my_map.labe2name[labels[i]])
+            with open(os.path.join(output_dir, utils.id_generator()), 'w', encoding='utf-8') as fw:
+                fw.write(unicode(list_document[i]))
+
 
 
 
