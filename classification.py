@@ -140,7 +140,7 @@ class classification:
     	utils.mkdir(self.result_dir)
         _ = map(lambda x: utils.mkdir(os.path.join(self.result_dir, x)), my_map.name2label.keys())
         for i in xrange(len(labels)):
-            output_dir = os.path.join(self.result_dir, my_map.labe2name[labels[i]])
+            output_dir = os.path.join(self.result_dir, my_map.label2name[labels[i]])
             with open(os.path.join(output_dir, utils.id_generator()), 'w', encoding='utf-8') as fw:
                 fw.write(unicode(list_document[i]))
 
