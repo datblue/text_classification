@@ -104,3 +104,4 @@ model/
 *.pyc
 *.tar.gz
 .idea/
+result/

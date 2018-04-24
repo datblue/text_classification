@@ -16,10 +16,11 @@ from io import open
 
 
 class classification:
-    def __init__(self):
+    def __init__(self, root_dir='.'):
         self.model = None
         self.vectorizer = None
-        self.result_dir = 'classification_result'
+        self.root_dir = root_dir
+        self.result_dir = os.path.join(self.root_dir, 'result')
 
 
     def load(self, model):
