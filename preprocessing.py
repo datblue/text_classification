@@ -11,7 +11,7 @@ from tokenizer.tokenizer import Tokenizer
 
 r = regex.regex()
 tokenizer = Tokenizer()
-tokenizer.run()
+
 
 def load_dataset(dataset):
     list_samples = {k:[] for k in my_map.name2label.keys()}

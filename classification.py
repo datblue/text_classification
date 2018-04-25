@@ -75,7 +75,8 @@ class classification:
 
     def feature_extraction(self, X):
         if self.vectorizer == None:
-            self.vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.6, min_df=2)
+            self.vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.6,
+                                              min_df=2, max_features=10000)
             self.vectorizer.fit(X)
         return self.vectorizer.transform(X)
 
