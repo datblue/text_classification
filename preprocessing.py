@@ -30,7 +30,7 @@ def load_dataset(dataset):
                 content = tokenizer.predict(content)
                 dir_name = utils.get_dir_name(file_path)
                 list_samples[dir_name].append(content)
-    print('\n')
+    print('')
     return list_samples
 
 
