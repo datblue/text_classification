@@ -75,8 +75,7 @@ class classification:
 
     def feature_extraction(self, X):
         if self.vectorizer == None:
-            self.vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.6,
-                                              min_df=2, max_features=10000)
+            self.vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.6, min_df=2)
             self.vectorizer.fit(X)
         return self.vectorizer.transform(X)
 
@@ -114,6 +113,11 @@ class classification:
         print('fit model...')
         self.model = LogisticRegressionCV(class_weight='balanced')
         self.model.fit(X, y)
+        # remove unnecessary attributes
+        self.model.coefs_paths_ = None
+        self.model.scores_ = None
+        self.model.C_ = None
+        self.n_iter_ = None
 
 
     def evaluation(self, X, y):
