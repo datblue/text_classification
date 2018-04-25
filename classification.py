@@ -77,6 +77,7 @@ class classification:
         if self.vectorizer == None:
             self.vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.6, min_df=2)
             self.vectorizer.fit(X)
+            self.vectorizer.stop_words_ = None
         return self.vectorizer.transform(X)
 
 
