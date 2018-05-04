@@ -1,0 +1,3 @@
+Khối vuông kỳ_ảo.
+Để kích_hoạt trò_chơi 7 bạn hãy tiến_hành xả nén tập_tin Rubik_Cube 1 7 zip vừa được tải về rồi nhấp đúp chuột vào tập_tin RubikCube 7 exe 7 Trước_mắt bạn giờ_đây là một khối vuông được đặt trong không_gian ba chiều 7 Hãy xáo_trộn các mặt của khối vuông càng nhiều_lần càng tốt trước_khi chơi 7 Sau_đó 7 di_chuyển con_trỏ và nhấp chuột để xoay_chiều các mặt cho_đến_khi giải được bài_toán 7 Hãy ấn phím S khi bạn đã bó_tay và xem chương_trình tự_động xoay khối 7.
+Với dung_lượng siêu gọn_nhẹ 6 chỉ 1 KB 6 7 tương_thích trên Windows XP 7 phiên_bản miễn_phí 6 freeware 6 được cung_cấp tại địa_chỉ 2 7.

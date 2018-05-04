@@ -1,0 +1,3 @@
+Đóng con_tàu lớn_nhất VN.
+Tàu có chiều_dài 1 7 rộng 1 7 chiều_cao mạn 1 7 chiều chìm 1 7 Dung_tích hầm hàng 1 7 Tàu Florence được trang_bị bốn cẩu crane có sức nâng 1 tấn 7 Tàu Florence được trang_bị máy sản_xuất nước_ngọt công_suất 1 tấn / giờ 7.
+Theo thiết_kế 7 tàu Florence có tốc_độ 1 hải_lý / giờ 7 Tàu được đóng mới theo mẫu của nhà thiết_kế hàng_hải Carl_Bro_Marine 6 Đan_Mạch 6 7 Dự_kiến tàu Florence sẽ được hạ_thủy vào tối 4 7.

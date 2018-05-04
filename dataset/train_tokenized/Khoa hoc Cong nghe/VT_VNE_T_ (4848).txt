@@ -1,0 +1,6 @@
+Không cài được đĩa main 6 1 6.
+Em có một vấn_đề như_thế_này 7 Máy_tính của em cài WinXP bình_thường nhưng khi cài đĩa main thì lại không cài được 7 Sau mỗi_lần cài xong một phần_nào thì lại không khởi_động tiếp được mà nó chỉ dừng_lại ở màn_hình Windows_starting up 7 Cho em hỏi đó là lỗi gì và cách khắc_phục như thế_nào 7 Em xin chân_thành cảm_ơn 7.
+Lê Anh_Tuyến.
+Hồi_âm 7 . Tình_trạng này có liên_quan đến hệ_điều_hành Windows và ổ_đĩa_cứng 7 nếu Windows bị hỏng Data thì có_thể gặp khó_khăn khi copy_file từ CD vào hệ_thống PC 7 Em phải xóa hết từ_đầu và cài lại Windows 7 nên xóa trắng ổ_cứng trước_khi cài lại Windows 7 Nếu sau_khi cài lại hệ_điều_hành mà vẫn bị như_vậy thì em coi lại ổ_đĩa_cứng và tạo lại Partition 7.
+Qui_Hung.
+Bạn đang sử_dụng Main Intell đúng không 7 Bạn thử sử_dụng cách này xem sao 7 Khi bạn vào khởi_động máy vào Windows thì sau_khi trên bàn_phím ba đèn Num Lock 7 Caps_Lock và Scroll_Lock sáng lên đồng_thời thì bạn gõ Enter liên_tục càng nhanh càng tốt 7 Khi_đó bạn sẽ vào được Windows 7 Chúc bạn thành_công 7.

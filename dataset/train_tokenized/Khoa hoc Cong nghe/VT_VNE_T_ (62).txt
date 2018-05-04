@@ -1,0 +1,4 @@
+Lỗi cài_đặt phần_mềm 6 1 6.
+Khi tôi cài một phần_mềm thì máy báo 6 Could not initialize_installation_File_size_expected = -1 7 size_returned = 1 6 7 Điều_này có nghĩa_là gì và cách khắc_phục như thế_nào 7 Mong các_bạn chỉ giúp cho tôi 7 Cám_ơn rất_nhiều 7.
+Nguyễn_Văn_Đại.
+Hồi_âm 7 . Điều_này có nghĩa_là file cài_đặt của phần_mềm đó bị hỏng hoặc máy của bạn_bị virus 7 Bạn thử tìm một bản khác của phần_mềm đó rồi cài lại xem sao 7 Nếu vẫn không_được thì nên kiểm_tra xem máy có bị virus hay_không 7 Nếu cả_hai điều trên đều không_đúng thì RAM của bạn bị hỏng 7 tuy_nhiên 7 điều_này rất hãn_hữu 7.

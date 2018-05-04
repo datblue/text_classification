@@ -1,0 +1,51 @@
+Thêm hai ĐH TP_HCM công_bố điểm_chuẩn.
+ĐH_Luật và ĐH KHXH NV thành_phố chính_thức công_bố điểm_chuẩn vào chiều_nay 7 Trong_đó 7 điểm_chuẩn đợt 1 cao_nhất các khối của ĐH Luật đều thuộc_về ngành Luật_Thương_mại và KHXH NV là Báo_chí 7 . Điểm_chuẩn khối A của ĐH Luật là 1 điểm và khối C 7 1 điểm 7 Điểm_chuẩn khối 1 của ĐH KHXH NV là 1 điểm và khối C 7 1 điểm 7.
+Ngoài ngành Luật_Thương_mại 7 điểm_chuẩn của phần_lớn các ngành khối A ĐH Luật là 1 điểm 7 khối C là 1 7 Mức điểm_chuẩn giữa các ngành của KHXH NV chênh_lệch từ 4 điểm 7 Phần_lớn các ngành có mức chuẩn là 1 điểm 7 . Tuy_nhiên 7 điểm_chuẩn Nguyện_vọng 1 6 NV 1 6 của đều cao_hơn NV 1 7 Trong_đó 7 điểm_chuẩn NV 1 của KHXH NV cao_hơn NV 1 là 1 điểm 7 còn ĐH Luật cao_hơn từ 1 đến 1 điểm 7 . Bạn_đọc có_thể xem_điểm chi_tiết theo bảng dưới_đây 7 . Trường_đại_học_luật TP_HCM. Điểm_chuẩn khối A. Khu_vực.
+Khoa luật DS 7 HS 7 HC và QT.
+Khoa luật thương_mại.
+Đối_tượng.
+1 . 1 . 1-NT. KVl.
+1 . 1 . 1-NT. KVl . Học_sinh phổ_thông.
+1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . Ưu_tiên 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . Ưu_tiên 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . Điểm_chuẩn khối C. Khu_vực.
+Khoa luật DS 7 HS 7 HC và QT.
+Khoa luật thương_mại.
+Đối_tượng.
+1 . 1 . 1-NT. KVl.
+1 . 1 . 1-NT. KVl . Học_sinh phổ_thông.
+1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . Ưu_tiên 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . Ưu_tiên 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . 1 . Trường_đại_học KHXH NV TP_HCM. Điểm_chuẩn 1.
+Ngành.
+Khối_C.
+Khối 1.
+Khối 1 7 1 7 1 . Ngữ_Văn.
+1 . 1 . Báo_chí.
+1 . 1 . Lịch_sử.
+1 . 1 . Nhân học.
+1 . 1 . Triết_học.
+1 . 1 . Địa_lí.
+1 . 1 . Xã_hội_học.
+1 . 1 . Thư_viện thông_tin.
+1 . 1 . Đông phương_học.
+1 . Giáo_dục_học.
+1 . Lưu_trữ học.
+1 . Ngữ_văn Anh . 1 . Song_ngữ Nga -Anh . 1 . 1 . Ngữ văn_pháp.
+1 . 1 . Ngữ_văn Trung.
+1 . 1 . Ngữ_văn Đức . 1 . Quan_hệ Quốc_tế.
+1 . Điểm_chuẩn NV 1.
+Ngành.
+Khối_C.
+Khối 1.
+Khối 1 7 1 7 1 . Ngữ_Văn.
+1 . 1 . Báo_chí.
+1 . 1 . Lịch_sử.
+1 . 1 . Nhân học.
+1 . 1 . Triết_học.
+1 . 1 . Địa_lí.
+1 . 1 . Xã_hội_học.
+1 . 1 . Thư_viện thông_tin.
+1 . 1 . Đông phương_học.
+1 . 1 . Giáo_dục_học.
+1 . 1 . Lưu_trữ học.
+1 . 1 . Ngữ_văn Anh . 1 . Song_ngữ Nga -Anh . 1 . 1 . Ngữ văn_pháp.
+1 . 1 . Ngữ_văn Trung.
+1 . Ngữ_văn Đức . 1 . Quan_hệ Quốc_tế.
+1.

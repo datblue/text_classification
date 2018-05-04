@@ -1,0 +1,15 @@
+Mở một file ảnh mới ở chế_độ màu RGB
+- Bấm T để chọn công_cụ Type và nhập chữ Crôm.
+- Trong bảng Layer 7 nhấn 7 giữ phím Ctrl + Click chuột vào layer văn_bản để tạo vùng chọn của chữ Crôm 6 hình 1 6 . - Chọn Select - Save_Selection 7 trong hộp_thoại nhấn 1 ở phần Channels rồi click chọn OK
+- Bấm Ctrl + D 7 bỏ vùng chọn.
+- Trong bảng layer 7 xóa_bỏ layer văn_bản.
+- Mở bảng Channels 7 click chọn Channel 1 . - Chọn Filter - Blur_Gaussian_Blur 7 với thông_số là 1 pixel 6 hình 1 7 1 6 . - Mở bảng Layer 7 click chọn Background.
+- Chọn Filter - Render - Lighting_Effects 7 trong hộp_thoại ở vùng Texture_Channel chọn 1 rồi bấm OK 6 hình 1 7 1 6 . - Bấm Ctrl + A. - Bấm Ctrl + Shift + J. - Chọn Image - Adjust - Curves 6 hình 1 6 . - Chọn Select - Load_Selection 7 trong hộp_thoại chọn Alpha 1 . - Chọn Select - Modify - Expand 7 với thông_số 1 pixel 6 hình 1 6 . - Bấm Ctrl + Shift + I 7 sau_đó bấm Delete.
+- Bấm Ctrl + D. - Chọn Layer - Layer_Style - Drop_shadow.
+- Trong bảng Layer 7 click chọn Background.
+- Tô 1 % đen.
+- Chọn Filter - Noise - Add_Noise 7 với thông_số Amount 7 1 %.
+- Chọn Filter - Blur - Motion_Blur 7 với thông_số 7.
+Angle 7 1 độ.
+Distance 7 1 pixel.
+Ta được kết_quả như hình 1 7.

@@ -1,0 +1,5 @@
+Microsoft cập_nhật IE 1.
+Bản cập_nhật này sẽ kiểm_soát không cho IE 1 thực_thi một_số tập lệnh ActiveX 7 nếu_không hoàn_toàn được sự_cho_phép của người_dùng 7 Trên phiên_bản cũ 7 một_số lệnh ActiveX sẽ tự_động thực_thi mà không cần tới sự_can_thiệp của người_dùng 7 tạo điều_kiện cho các Rootkit và mã_độc đột_nhập vào máy_tính 7.
+Microsoft cho_rằng 7 bản cập_nhật này không liên_quan đến việc bảo_mật 7 nó chỉ thay_đổi cách_thức quản_lý và điều_khiển một_số tập lệnh ActiveX mà_thôi 7 Chính lỗi này dẫn tới hậu_quả là một_số các bản vá đã được phát_hành trong năm 1 7.
+Riêng IE 1 đang trong thời_gian thử_nghiệm bản beta 7 và thật_sự không_phải khắc_phục lỗi này 7.
+Bạn có_thể vào download bản cập_nhật tại_đây 7 hoặc sử_dụng Microsoft_Download_Center 7 Windows_Update 7.

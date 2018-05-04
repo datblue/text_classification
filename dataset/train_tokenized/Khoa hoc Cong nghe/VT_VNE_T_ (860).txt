@@ -1,0 +1,19 @@
+Khôi_phục damaged_file trong Microsoft_Word 6 1 6 . Xin_chào các_bạn 7 Hôm_nọ khi tôi đang_dùng Microsost_Word để soạn_thảo một văn_bản khá dài 6 1 MB 7 1 trang hơn 6 thì bỗng_nhiên màn_hình máy_tính tắt_ngấm mặc_dù đèn CPU vẫn sáng 7 Khi tôi restart lại máy thì văn_bản của tôi đã bị lỗi và Word không_thể load lên được 7 Khi dùng Word_Pad thì chương_trình này mở được nhưng không_thể đọc được chữ vì màn_hình lẫn_lộn chữ và kí_hiệu lạ 7 Tôi rất mong là có_thể hồi_phục lại được file này 7 Xin các_bạn giúp cho 7 Cám_ơn rất_nhiều 7 . Quốc_Bảo.
+Hồi_âm 7.
+Khi ban mo file_word de_soan_thao van ban 7 nhung gi chua duoc sao luu lai dang con tren bo nho RAM thi se mat neu bi cup dien giua chung hoac may bi treo 6 crash 6 7 nhung file truoc do co the tim lai duoc vi toi 1 MB 7 nhung dieu_duoi day_ap_dung cho word 1 7 7 7.
+How to Recover_Information_from a Damaged_Document.
+To use the 6 Recover_Text_from_Any_File 6 converter to recover the text_from a file 7 use_one_of the following_methods 7 as_appropriate to your_situation 7.
+To Open a Word_Document.
+To use the 6 Recover_Text_from_Any_File 6 converter to recover_text_from a Word_document 7 follow_these_steps 7.
+Start_Word 7.
+On the File_menu 7 click_Open 7 and then select the document that you_want to recover 7.
+In the Files_of_type_box 7 click_Recover_Text_from_Any_File 6 7 6 7 and then click_Open 7 Note_When_you_change the selection in_the Files_of_type_box 6 on the File_menu 7 click_Open 6 to Recover_Text_from_Any_File 6 7 6 7 Word_retains_this_setting_and_uses it the next_time that you_open a document 7 To avoid_this_behavior 7 reset the Files_of_type_box to Word_Document 6 7 doc 6 after_you_finish_recovering_your_damaged_document 7 . khoi_phuc nhung file khong thuoc word 7 7.
+To Open a_Non-Word_File.
+To use the 6 Recover_Text_from_Any_File 6 converter to recover_text_from a non-Word_file 7 follow_these_steps 7.
+Start_Word 7.
+On the Tools_menu 7 click_Options 7.
+Click the General_tab 7.
+Click to select the Confirm_conversion at Open_check_box 7 and then click OK 7.
+On the File_menu 7 click_Open 7.
+Select the file that you_want to recover 7 and then click_Open 7.
+In the Convert_File_dialog_box that appears 7 click_Recover_Text_from_Any_File 7 and then click OK 7 Word_converts_and_recovers_text_from the document 7 . ban co the xem them oday 7 . 2.

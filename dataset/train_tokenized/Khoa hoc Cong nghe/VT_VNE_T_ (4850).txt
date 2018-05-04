@@ -1,0 +1,9 @@
+Không truy_cập được vào máy_chủ 6 1 6.
+Tôi có 1 máy_chủ có tên là 1 7 trước_kia tôi vẫn truy_xuất vào nó thông_qua máy con bình_thường nhưng bây_giờ mỗi_lần truy_xuất thì nó báo lỗi như_sau 7 The connection_was_ended_because_of the networking_error 7 Please_try_connecting to_the remote_computer_again 7 . Các_bạn chỉ giúp đó là lỗi gì và phải sửa như_thế_nào để có_thể truy_xuất được 6 Ghi_chú 7 tôi cũng có một máy_chủ tên là 1 7 tôi vẫn truy_xuất vào máy này bình_thường 7 không_hề báo lỗi 6.
+Tran_Hoa_Vien.
+Hồi_âm 7.
+Bạn xem_lại card_Internet và dây tại máy_báo error có bị lỏng hay_không 7 Có_thể vào xem Device_Manage để biết card_Internet có hỏng hay_không 7 nếu trong Device_Manage hiện_ra dấu_hiệu gạch_chéo màu_đỏ thì bạn click vào card và delete cái card đó 7 Click vào biểu_tượng scan_hard_drive để dò lại card 7 bạn cần có driver để cài lại card này 7 Sau_khi tìm_thấy card xong mà vẫn không connect được thì nên coi lại dây cắm từ máy error sang máy kia 7.
+Qui_Hung.
+Bạn thử vào Start -- Run -- Gõ chữ cmd và nhấn OKSau đó đánh lệnh ping 1 xem nó báo có kết_nối được không 7 Nếu_không kết_nối được chứng_tỏ card mạng hoặc dây kết_nối tới máy_chủ 1 của bạn bị hỏng 7.
+Nếu có sự trả_lời 6 Reply 6 từ máy_chủ thì máy_tính của bạn đang kết_nối tốt đến máy_chủ 1 7 Khi_đó bạn kiểm_tra xem có đặt chế_độ tường lửa không 7 nếu đặt thì bỏ_đi 6 Windows XP 6 7 Còn với Windows_Server 1 thì khi bạn chia_sẻ phải chia_sẻ theo kiểu Share_Full 7.
+Chúc bạn thành_công 7.

@@ -1,0 +1,3 @@
+- Mở một file ảnh muốn biến thành bức tranh_khắc_gỗ 6 hình 1 6 - Double_click vào layer_Background - chọn OK 7 layer_Background trở_thành Layer 1 . - Chọn Layer - Duplicate_Layer 6 hình 1 6 - Chọn Filter -Other - High_Pass với thông_số 7 Radius 7 1 pixels- Bấm tổ_hợp phím Shift + Ctrl + U 6 hình 1 6 . - Chọn Image - Adjustment - Posterize với thông_số 7 Levels 7 1 6 hình 1 6 - Đổi phương_thức trộn màu Blending_Mode của layer thành Multiply- Click chọn Layer 1 điều_chỉnh thông_số 7 Opacity 7 1 %.
+6 Hình 1 6 . 6 Hình 1 6 . 6 Hình 1 6 . 6 Hình 1 6.
+Ta được kết_quả như hình 1.

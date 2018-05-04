@@ -1,0 +1,3 @@
+Lưu toàn_bộ trang_web mình thích 6 1 6.
+Trên mạng có rất_nhiều trang_web hay 7 ví_dụ như trang hướng_dẫn tạo web cho riêng mình 7 Em muốn_lưu toàn_bộ trang_web đó lại để lưu vào đĩa cd sau_đó đem_về máy 6 vì em truy_cập ở dịch_vụ 6 xem nhưng khi nhấn save_as thì chỉ lưu được trang đầu thôi 7 các thư_mục con và những hình_ảnh thì mất_tiêu không vào được 7 Xin hỏi có cách nào lưu toàn_bộ trang_web hay_không 7 . Hồi_âm 7.
+Chao bạn 7 Ban vao save_as - ở save_type_as bạn chọn web_archive 7 single_file 6 7 mht 6 sau_đó OK 7 Thế_là xong 7.

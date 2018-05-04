@@ -1,0 +1,5 @@
+Lỗi khi cài phần_mềm ứng_dụng 1 6 1 6.
+Trong một_lần em cài 1 chương_trình ứng_dụng 1 7 thì nhận_được thông_báo sau_khi bật file_Sci Tech GLD open GL Unsupported_Operation_System At this_time 7 Sci Tech GLD Direct_will not run_on Windows NT 7 when_Direct 1 support_is_added to windows NT 7 it will run và hiện OK 7 Cancel 7 . Sau_đó em nhấn OK hay cancel thì chương_trình đều thoát_ra 7 không chạy nữa 7 Em không hiểu đây là lỗi gì 7 Cách khắc_phục ra sao 7 Em rất được giúp_vì em đang rất cần chương_trình này 7 Cấu_hình máy của em là Windows 1 Professional 1 7 1 SDR 7 Intel_Grafics 1 MB 7.
+Em có nghe nhiều người nói về phần_mềm tạo ra bộ_nhớ Ram và VGA ảo để tăng_tốc cho máy_tính 7 không_biết có_thật không 7 và cách sử_dụng 7.
+Cuong.
+Hồi_âm 7 . Có_lẽ cấu_hình máy bạn không đạt yêu_cầu khi cài 7 6 Sci Tech GLD 6 phiên_bản 1 yêu_cầu 7 6 Intel_grafic của bạn chỉ_có 1 MB 6 card hình tối_thiểu 1 MB hệ_điều_hành 1 Pro 1 thì ít_nhất RAM phải 1 MB 7 Về vấn_đề tăng_tốc bộ_nhớ tốt_hơn nên thêm RAM và đổi cạc hình nếu bạn muốn chơi game hay áp_dụng trong các chương_trình ứng_dụng 1 7.

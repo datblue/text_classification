@@ -1,0 +1,17 @@
+EtherLinx sẽ triển_khai WiMax tại VN năm 1 . Doanh_nghiệp tư_nhân đến từ nước_Mỹ khẳng_định VN là một thị_trường đầy tiềm_năng và cơ_sở_hạ_tầng trong_nước hoàn_toàn phù_hợp để phát_triển mạng băng rộng không dây 7 EtherLinx hứa_hẹn sản_phẩm và dịch_vụ của hãng có_giá rẻ và tính bảo_mật cao 7.
+Layne E 7 Holt 7 người_sáng_lập EtherLinx 7 cho_biết các sản_phẩm WiEX 1 và WiEX 1 của công_ty là 6 gạch_nối 6 giữa WLAN và WiMax 7 6 Khả_năng truyền sóng trong kỹ_thuật của EtherLinx là 1 - 1 km 6 NLOS 6 7 từ 1 đến 1 km 6 gần LOS 6 và trên 1 km 6 LOS 6 7 lớn_hơn nhiều so_với Wi-Fi chỉ_có 1 km 6 NLOS 6 6 7 Layne E 7 Holt nói 7.
+Theo người đứng_đầu EtherLinx 7 kỹ_thuật bảo_mật của công_nghệ này được cải_tiến từ phần_mềm 7 phần_cứng cũng_như công_nghệ mạng được triển_khai cho những chương_trình quốc_phòng của Mỹ 7 Đó là DSSS 6 direct_sequence_spread_spectrum 6 và DS - CDMA 6 direct_sequence_code_division_multiple_access 6 cộng với kỹ_thuật BPSK / QPSK / CCK nên có khả_năng cũng_như tầm hoạt_động xa_hơn những kỹ_thuật tương_tự khác 7 . 6 Sóng phát đi trong hệ_thống của chúng_tôi có khả_năng 6 tàng_hình 6 đối_với những đối_tác khác 6 7 Layne E 7 Holt khẳng_định 7 6 Người_ta có sử_dụng thiết_bị spectrum_analyzer đắt_tiền cũng không_thể nhận_diện rõ tín_hiệu của ErtherLinx và hacker cũng khó có_thể lọt vào hệ_thống này 6 7 . Hiện_tại 7 hơn 1 % thị_trường Mỹ vẫn sử_dụng kết_nối băng hẹp 7 Và theo Layne E 7 Holt 7 lý_do mà băng rộng không dây chưa phổ_dụng tại nước này là_vì các nhà khai_thác viễn_thông lớn không muốn triển_khai dịch_vụ mới mà muốn tận_dụng cơ_sở_hạ_tầng và công_nghệ đang có đến hết thời_gian hoàn vốn 7 6 Ở VN 7 việc triển_khai một công_nghệ mới như băng rộng không dây hoàn_toàn phụ_thuộc và quan_điểm phát_triển của chính_phủ 6 7 Chủ_tịch ErtherLinx nhận_định 7 6 Những điều_kiện về công_nghệ_hay giá_cả của băng rộng không dây hiện_tại rất phù_hợp với thị_trường có thu_nhập thấp như VN 7 Tôi không thấy có rào_cản nào đáng ngại trong việc triển_khai WiMax tại_đây 6 7.
+Bảng so_sánh khả_năng của các hệ_thống.
+Kỹ_thuật.
+Tốc_độ.
+Phủ_sóng 6 LOS 6 . Phủ_sóng 6 NLOS 6.
+Wi - 1 7 1 . 4 MB / giây 6 actual 6.
+Up to 1 kmat 1 MB / giây.
+1 - 1 kmindoor 1 km . EtherLinx.
+1 MB / giâ1 MB / giây.
+Up to 1 kmUp to 1 km.
+CPE to 1 kmFixed to 1 km . WiMax.
+1 MB / giây 6 no mobile 6.
+Spec to 1 km 6 unproven 6 . 1 km 6 unproven 6 . 1 cellphone.
+1 KB / giây 6 mobile 6
+N / A. 1 đến 1 km.

@@ -1,0 +1,3 @@
+Microsoft_Virtual_Server 1 1 hỗ_trợ Linux.
+Trong 6 làn_sóng 6 Windows_Server 6 Longhorn 6 tiếp_theo 7 công_nghệ ảo sẽ trở_thành một_phần của môi_trường Windows qua công_nghệ Windows_Hypervisor và người_dùng sẽ có_thể sử_dụng không giới_hạn số_lượng các hệ_điều_hành ảo trên một máy_chủ vật_lý 7.
+Virtual_Server 1 1 hỗ_trợ các phiên_bản Red Hat Enterprise_Linux 1 7 1 7 1 7 Red Hat Linux 1 7 1 7 SUSE Linux_Enterprise_Server 1 7 SUSE Linux 1 7 1 7 1 7 Người_dùng phiên_bản Virtual_Server 1 1 cũ có_thể tải về Virtual_Machine_Additions cho Linux trên website_Microsoft_Connect 6 2 6 để có_thể bổ_sung tính_năng hỗ_trợ Linux 7.

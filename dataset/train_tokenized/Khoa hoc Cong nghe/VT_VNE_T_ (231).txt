@@ -1,0 +1,20 @@
+Danh_mục các định_dạng file 6 vần J - L 6.
+Đây là những phần mở_rộng ở cuối một tên file 6 đuôi file 6 7 biểu_thị file đó thuộc định_dạng nào 7 Thông_tin đuôi file được hệ_điều_hành sử_dụng để mở_ra chương_trình phù_hợp khi bạn click vào tên file 7 Ví_dụ 7 7 txt là loại file chữ_viết và được xử_lý bằng một chương_trình văn_bản tương_ứng 7 . 7 JFF hay 7 JFIF. Định_dạng tương_tác file JPEG 6 Joint_Photographic_Experts_Group 6 - một định_dạng đồ_họa 1-bit 7 có_thể mở bằng QuickTime 7 trình_duyệt web hay một công_cụ xem đồ_họa như JPEGView 7 . 7 JIF.
+Dạng file hình_ảnh JPEG 7 . 7 JPEG.
+File_bitmap JPEG 7 . 7 JPG.
+Đuôi file lưu trong định_dạng JPEG 7 JPEG là một chuẩn của 1 tổ_chức ISO / ITU dùng cho việc lưu_trữ hình_ảnh với khả_năng nén cao 7 sử_dụng một công_cụ chuyển_đổi theo phép_toán cosin để đạt tỷ_lệ nén 1 7 1 6 mất đáng_kể dữ_liệu so_với bản_gốc 6 và 1 7 1 6 mất tối_thiểu dữ_liệu 6 7 . 7 JT. Biểu_thị JT Fax 7 . 7 JTF.
+File_bitmap JPEG 7 . 7 KDC.
+Dạng file trong chương_trình Kodak_Photo-Enhancer 7 . 7 KFX.
+Kofax 7 . 7 LBL. Biểu_thị nhãn 6 Label - một kiểu dòng ký_tự 6 trong dBASE 7 . 7 LBM.
+File đồ_họa Deluxe_Paint 7 . 7 LDB.
+Dạng file khóa 6 Lock 6 trong Microsoft_Access 7 . 7 LEG.
+Dạng file_Legacy 6 đã dùng lâu trên các máy_tính lớn mainframe và minicomputer 6 7 . 7 lha.
+File của định_dạng nén PC / Amiga 7 có_thể giải_mã bằng LHA Expander hay MacLHA 7 . 7 lhs.
+File nguồn Literate_Haskell 7 . 7 lhz.
+File nén LHA 7 . 7 LIB. Thư_viện 7 . 7 LIC.
+Dạng file giấy_phép 6 License 6 cho phần_mềm chia_sẻ 6 shareware 6 7 . 7 LOG.
+Log 7 1 7 Hồ_sơ lưu các hoạt_động của máy_tính 7 1 7 Viết tắt của logarithm 7 . 7 LST.
+File danh_sách 6 List 6 7 . 7 LWP.
+File văn_bản Lotus_Word_Pro 7 . 7 LZH.
+Dạng nén LHARC 7 . 7 lzs.
+Dạng nén PC / Amiga 7 . Còn_tiếp.

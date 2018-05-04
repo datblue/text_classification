@@ -1,0 +1,6 @@
+Mở CSDL dùng chung khi lập_trình bằng Visual_Fox 6 1 6.
+Tôi làm thử phần_mềm bằng Visual 1 nhưng không_biết làm cách nào để các mở CSDL để dùng chung trên mạng LAN 7 Cụ_thể là Form_add nhiều Table 7 nên khi mở form cùng_lúc trên nhiều máy bị báo lỗi 7 Nhờ các anh_chị chỉ dùm tôi với 7 Xin chân_thành cám_ơn 7.
+Hoàng_Sơn.
+Hồi_âm 7.
+Bạn tham_khảo phần Help của Visual_Fox những lệnh sau_đây 7 Open_Database_Use Set Exclusive.
+Lenh Open_Database và Use có thêm tuỳ chọn là shared để mở file dữ_liệu ở dạng dùng chung 7 Bạn thử xem sao 7.

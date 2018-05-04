@@ -1,0 +1,4 @@
+Lỗi trong WinXP 6 1 6.
+Máy chủa_cháu dùng Winxp 7 gần_đây hay bị hỏng 6 7 7 7 is not a valid 1 application 6 những dữ_liệu trong thư_mục 1 7 dù đã format ổ_cứng và cài lại toàn_bộ nhưng vẫn xảy_ra tình_trạng trên 7 Dùng System Suit 1 để kiểm_tra ổ_cứng thì được thông_báo là vẫn bình_thường 7 Không chỉ các file trong system 1 bị mất mà trong Office 1 cũng không bật được 6 null_is not a valid 1 application 6 và những file_Word 7 Excell 7 Mong cô_chú giúp cháu 7.
+Vu My_Dung.
+Hồi_âm 7 . Có_lẽ file điều_hành đã bị hỏng 6 exe_file 6 bạn hãy thử bằng cách này startsearch hoặc find_file_or_foldergõ_lệnh winword 7 exe_find_now 7 Khi các file được hiển_thị 7 nhấp đôi chuột để mở 7 nếu vẫn nhận_thấy 6 is not a valid 1 application 6 bạn hãy tìm đĩa word khác mà cài lại 7.

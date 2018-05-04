@@ -1,0 +1,5 @@
+Viết tiếng_Việt trong C + + 1 6 1 6.
+Tôi đang học lập_trình C + + Builder 7 nhưng gặp một khó_khăn là không viết được tiếng_Việt trong C + + 1 7 Tôi đã thử rất_nhiều loai Font cũng_như kiểu gõ 7 nhưng vẫn không thu được kết_quả như mong_muốn 7 Các_bạn giúp tôi với 7 xin cảm_ơn các_bạn 7.
+Nguyen_Nghia.
+Hồi_âm 7.
+Ban_khong the_viet tieng Viet trong 1 duoc 7 tru khi ban viet cho ban mot c + + compiler moi cho tieng Viet 7.

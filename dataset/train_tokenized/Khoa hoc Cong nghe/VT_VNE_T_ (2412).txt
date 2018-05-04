@@ -1,0 +1,4 @@
+Microsoft thử_nghiệm chương_trình nâng_cấp mới.
+Bắt_đầu triển_khai từ hôm_qua 7 dự_kiến hệ_thống Windows_Update hoàn_chỉnh sẽ ra_mắt vào cuối năm_nay 7 cho_phép người sử_dụng Windows XP 7 1 7 Server 1 và bộ Office tải tất_cả các phần_mềm update theo cơ_chế tự_động hoặc lựa_chọn 7
+Ở mức_độ thử_nghiệm hiện_tại 7 Microsoft_Update sẽ cập_nhật cho chương_trình cơ_sở_dữ_liệu SQL Server 7 hệ_thống e-mail_Exchange và phần_mềm lịch_trình 7 bên_cạnh các bản nâng_cấp cho Windows và Office 7 . Tăng_cường cơ_cấu quản_lý hệ_thống vá lỗi là một mục_tiêu quan_trọng của Microsoft khi mà máy_tính dùng sản_phẩm của họ thường_xuyên bị đe_dọa rất lâu trước_khi các lỗ_hổng an_ninh được khắc_phục 7 mà nguyên_nhân chủ_yếu là do khách_hàng sử_dụng những phiên_bản chưa nâng_cấp 7.
+Microsoft cho_biết sẽ tiếp_tục cung_cấp riêng_rẽ các tiện_ích Windows_Update và Office_Update cho những khách_hàng còn muốn sử_dụng theo cách này 7.

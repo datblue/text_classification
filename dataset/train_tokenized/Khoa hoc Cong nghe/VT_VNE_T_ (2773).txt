@@ -1,0 +1,9 @@
+Không_thể thiết_lập màn_hình desktop 6 1 6.
+Desktop của tôi bị thay_đổi hình nền 7 tôi nghĩ máy bị nhiễm spy nên chạy chương_trình Microsoft_Antispyware và đã xoá được wallpaper đó và màn_hình chỉ còn background đen 7 Tôi vào menu_StartSettingControl_panelDisplay để set lại_hình mới 7 Tuy_nhiên 7 tab_Desktop trong phần Display của Control_Panel không còn_nữa 7 chỉ còn tab_Screensaver 7 Effect và Setting 7 Do_đó 7 tôi không_thể cài_đặt wallpaper cho màn_hình 7 Tôi đang sử_dụng máy_tính với cấu_hình sau 7 4 7 1 RAM 7 WINDOWS Pro 7 1 7 Xin các_bạn cho_biết cách_thức sửa_chữa 7 Cám_ơn rất_nhiều 7.
+Vũ N Trâm.
+Hồi_âm 7.
+Chào bạn Trâm 7 Nếu bạn_dùng MS Antispyware và đã có diệt được spyware 6 nhưng chưa hẳn đã diệt được hết 6 thì máy bạn đã nhiễm spyware 7 đồng_thời chương_trình spyware đó đã cấm không cho bạn thay_đổi hình nền 7 Để khắc_phục 7 bạn làm như_sau 7 . 1 7 Vào StartRun 7 gõ regedit rồi nhấn OK 7 Một cửa_sổ Registry_Editor xuất_hiện.
+1 7 Bạn lần_lượt kiểm_tra theo 1 các đường_dẫn dưới_đây để xoá hoặc thay_đổi khoá sau 6 NoDispBackgroundPage 6 HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrent_VersionPoliciesSystem_HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionpoliciessystem.
+1 7 Để xoá 7 bạn nhấn chuột phải vào dòng 6 NoDispBackgroundPage 6 ở cửa_sổ bên phải_rồi chọn Delete 7 Để sửa giá_trị thì bạn chọn Modify 7 rồi sửa số 1 thành số 1 1 7 Đóng cửa_sổ Registry_Editor lại rồi restart_Windows 7 Chúc bạn thành_công 7.
+Van Truoc.
+Trong truong hop Windows_Pro 1 cua ban bi truc trac 7 thi ban co the_dung 6 Restoration 6 de_di_nguoc lai ve trang_thai truoc khi may_vi_tinh bi truc trac 7 Hoac ban khong muon lam nhu vay 7 thi ban co the lam theo khac 7 Ra File_Explorer 7 chon 1 tam_hinh nao ban thich 7 hinh nao cung_duoc 7 right_click con chuot 7 chon Set as_Desktop_Background 7 Chi vay thoi 7 6 chuc ban thanh_cong 7.

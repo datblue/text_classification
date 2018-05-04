@@ -1,0 +1,8 @@
+Tạo mạng ngang_hàng 6 1 6.
+Làm cách nào để tạo mạng ngang_hàng 6 peer to peer 6 giữa 1 máy có cài 1 hệ_điều_hành khác_nhau là 7 Win 1 và Win XP 7 Em và các_bạn cùng phòng mò hoài mà chẳng được 7 Mong anh_chị giúp em 7 Em cảm_ơn anh_chị 7.
+Nguyễn_Thanh_Tùng.
+Hồi_âm 7.
+Ban chon mot cai ten cho 6 Workgroup 6 7 chang han nhu 6 NhomA 6 7 sau do di vao 6 Computer_Name 6 7 nhap vao 6 Change 6 va dac ten cua 6 Workgroup 6 la 6 NhomA 6 7 ban lam dieu nay cho_tac cac may_ma ban moun ket noi_chung_mot nhom 6 NhomA 6 7 ban se thuc hien duoc 6 tao mang ngang hang 6 7 Chuc ban thanh_cong 7 Chu_y 7 ban_nen noi 1 may qua trung_gian cua 6 Hub / router 6 7 neu khong_xai 6 Hub / router 6 thi phai xai giay noi 6 Cross_over 6 7 de TCP / IP 6 auto 6 va phai co 6 Client_for_Microsoft_Networks 6 Protocol 7 6 File_and_Printer_sharing_for_Microsoft_Networks 6 Protocol 7 . BT. 1 máy_tính phải có card mạng 7.
+Bạn cần có một hub.
+Cắm 1 máy vào hub sử_dụng cáp mạng.
+Bật 1 máy lên 7 vậy là đã thành_lập được mạng rồi 7 Bây_giờ để chia_sẽ file bạn chỉ_cần tạo ra các Share 7 . Có_thể xem thêm ở đây 7 2.

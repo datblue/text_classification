@@ -1,0 +1,5 @@
+Không_thể tắt máy_tính 6 1 6.
+Xin cho tôi hỏi 7 máy_tính của tôi dùng hệ_điều_hành WinXP 7 nhưng khi tôi shutdown thì máy_tự_động khởi_động lại 7 không_thể nào tắt được 7 Xin cho tôi biết nguyên_nhân và cách khắc_phục 7 Tôi xin chân_thành cảm_ơn 7 thân chào 7.
+Lê Anh_Huân.
+Hồi_âm 7.
+Khi bạn shutdown 7 máy_tính sẽ chạy qua phần save lại setup của bạn 7 máy bi lỗi trong phần này nên tự_đông restart lại trước_khi thật_sự shutdown 7 Ngưng 6 disable 6 phần_tự_đông automatic_restart bằng cách 7 Right_Click My computer ---Device_manager 6 load_System_manager 6 -- Advance 7 Trong Startup_and_Recovery nhấp Settings 7 Đừng Check_mark_Automatically_restart 7 OK để thoát ra_ngoài 7 Máy bạn khi bị lỗi sẽ không tự khởi_động và sẽ nói cho bạn biết là bị lỗi gì 7 Như_vậy bạn mới biết máy mình bị lỗii gì mà sửa hay cầu_cứu 7 . Bây_giờ cứ shutdown máy 7 máy sẽ cho bạn biết lỗi gì và bạn theo đó mà sửa 7.

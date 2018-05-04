@@ -1,0 +1,4 @@
+Phần_mềm giúp tìm_lại ảnh kỹ_thuật_số.
+Zero_Assumption_Digital_ImageRecovery 6 ZADI 6 là tiện_ích có_thể giúp phục_hồi những bức_ảnh kỹ_thuật_số đã bị xóa đi trong Memory_Stick 7 Compact_Flash 7 đĩa_cứng 7 7 7 ngay_cả khi các thiết_bị lưu_trữ này đã format 7.
+Có rất_nhiều phần_mềm hồi_phục các định_dạng file khác_nhau 7 nhưng ZADI chuyên_nghiệp hơn vì nó chỉ thuần_túy tác_động đến ảnh kỹ_thuật_số 7.
+Các bước thực_hiện trong chương_trình này như_sau 7 mở_cửa sổ chương_trình 7 trong khung Select_device to analyze hãy chọn thiết_bị sẽ tác_động để phục_hồi file hình_ảnh 7 Trong khung Specify_folder to Store_recoved_inmage in hãy bấm vào nút bên_cạnh 7 chỉ vị_trí thư_mục chứa hình_ảnh được phục_hồi 7 Sau_đó là bấm_nút Proceed để bắt_đầu 7 Cửa_sổ thứ_hai mở_ra sẽ hiển_thị tiến_trình cũng_như số_lượng file phục_hồi được 7 . Phần_mềm này có dung_lượng 1 KB của tác_giả là Alexay V 7 Gubin và có_thể tải miễn_phí tại địa_chỉ 7 www 7 z-a-recovery 7 com.

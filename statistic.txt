@@ -1,2 +1,2 @@
 best model: LogisticRegressionCV, class_weight='balanced'
-	accuracy score = 0.91792
+	accuracy score = 0.93418

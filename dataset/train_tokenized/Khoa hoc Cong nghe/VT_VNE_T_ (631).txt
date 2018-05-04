@@ -1,0 +1,5 @@
+Lỗi khi in 6 1 6.
+Xin các anh_chị chỉ_bảo cho cách khắc_phục lỗi khi in 7 Không hiểu tại_sao máy_in của tôi khi in tài_liệu thì luôn in kèm một tờ đề tên file và các số_liệu liên_quan đến file giữ_liệu 7 Để khắc_phục hiện_tượng này tôi phải xử_lý thế_nào 7 Xin chân_thành cám_ơn 7.
+Thanh_Nam.
+Hồi_âm 7.
+Trong MS Word 7 nhấn Tools chọn Options 7 vào tab_Print 7 Trong phần Include_with_document xóa dấu chọn trước Document_properties 7 Nhấn OK là xong 7.

@@ -1,0 +1,27 @@
+Danh_mục các định_dạng file 6 vần G - I 6.
+Đây là những phần mở_rộng ở cuối một tên file 6 đuôi file 6 7 biểu_thị file đó thuộc định_dạng nào 7 Thông_tin đuôi file được hệ_điều_hành sử_dụng để mở_ra chương_trình phù_hợp khi bạn click vào tên file 7 Ví_dụ 7 7 txt là loại file chữ_viết và được xử_lý bằng một chương_trình văn_bản tương_ứng 7 . 7 1 . Chương_trình GTX RasterCAD 7 . 7 GCA. Đồ_họa GOCA 7 . 7 GED. Đồ_họa Arts_Letters 7 . 7 GEM. Đồ_họa GEM 7 . 7 GEO. Định_dạng file_VideoScope 7 . 7 GIF. Định_dạng tương_tác đồ_họa 7 . 7 GLY.
+Bảng chú_giải 6 Glossary 6 7 . 7 1 . Định_dạng nén CCITT Group 1 TIFF 7 . 7 1 . Định_dạng nén Group 1 - CALS của ITU hay CCITT Group 1 TIFF 7 . 7 GRA. Biểu_đồ của Microsoft 7 . 7 GRF. Biểu_đồ 7 . 7 GRP.
+Nhóm 6 Group 6 7 . 7 1 . Đồ_họa Show_Partner 7 . 7 1 . Đồ_họa Show_Partner 7 . 7 GZ.
+File nén gzip của dự_án mã mở GNU - Unix 7 . 7 H.
+Đầu trang 6 Header 6 trong ngôn_ngữ C 7 . 7 HDF.
+File dữ_liệu phân_cấp 7 . 7 HED. Định_dạng văn_bản HighEdit 7 . 7 HEL.
+Dạng file trò_chơi Hellbender của Microsoft 7 . 7 HGL.
+Dạng ngôn_ngữ đồ_họa của HP 7 . 7 HLP. Trợ_giúp 6 Help 6 7 . 7 HPJ. Định_dạng file_Help_Project trong Visual_Basic 7 . 7 HPL. Đồ_họa của HP 7 . 7 HQX.
+Dạng file_BinHex của Macintosh 7 . 7 HST. Máy_chủ 6 Host 6 7 . 7 HT.
+Dạng file_HyperTerminal 7 . 7 htm.
+Dạng file DOS dành_cho một văn_bản có_mã HTML 7 có_thể đọc bằng trình_duyệt web 7 . 7 html.
+Dạng file DOS dành_cho một văn_bản có_mã HTML 7 có_thể đọc bằng trình_duyệt web 7 . 7 HWP.
+Dạng file của chương_trình văn_bản Hangul 7 . 7 HYC. Biểu_thị tách từ trong WordPerfect 7 . 7 HYP.
+Tách từ 7 . 7 ICA. Đồ_họa IOCA 7 . 7 ICB.
+Dạng file_bitmap_Targa 7 . 7 ICM.
+Dạng file của trình ghép màu cho hình_ảnh Image_Colour_Matching 7 . 7 ICO. Biểu_tượng 6 Icon 6 trong Windows hay OS / 1 7 . 7 ICON. Biểu_tượng và con_trỏ của Sun 7 . 7 IDD.
+Dạng file định_nghĩa công_cụ Instrument_Definition - MIDI 7 . 7 IDE.
+Dạng file cấu_hình trong môi_trường phát_triển tích_hợp 6 Integrated_Development_Environment 6 7 . 7 IDX. Mục_lục 7 . 7 IFF. Máy_tính Amiga 7 . 7 IGF. Đồ_họa trong Inset_Systems của hãng Hijaak 7 . 7 IIF.
+File tương_tác Interchange trong QuickBooks dùng cho Windows 7 . 7 IL. Thư_viện biểu_tượng 7 . 7 ima . Định_dạng nén Winimage 7 Những file này có_thể được giải_mã hoặc cài bằng ShrinkWrap 7 . 7 image.
+File hình_ảnh đĩa Mac 7 một định_dạng nén có_thể giải_mã hoặc cài bằng DiskCopy 7 Disk_Image_Mounter 7 Disk_Charmer và ShrinkWrap 6 của ImageMaster 6 7 . 7 IMG. Hình_ảnh 6 Image 6 7 Loại này là file hình_ảnh đĩa của Mac 6 Macintosh_Disk_Image 6 7 Disk_Copy có_thể được dùng để cài hình_ảnh đĩa_lên máy để bàn Macintosh 7 Hình_ảnh đĩa được cài sẽ hoạt_động như một địa_chỉ đọc ra 6 read-only 6 7 . 7 IND. Mục_lục 7 . 7 INF. Thông_tin 6 Information 6 7 . 7 INI. Quá_trình khởi tạo khuôn_thức_đĩa 6 Initialization 6 hay cài_đặt cấu_hình 7 . 7 IOB.
+File_Imagine 7 . 7 ISU.
+File_Netscape 7 . 7 IT.
+Dạng file nhạc MOD 7 . 7 IW.
+Trình duy_trì màn_hình Idlewild_screensaver 7 . 7 IX.
+Dạng file mục_lục trong ứng_dụng tạo khung Framemaker 7 . Còn_tiếp.
+Danh_mục các định_dạng file 6 vần D - F 6 6 4 6 . Danh_mục các định_dạng file 6 vần B - C 6 6 4 6 . Danh_mục các định_dạng file 6 vần A 6 6 4 6.

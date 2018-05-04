@@ -1,0 +1,3 @@
+Xử_lý tiếng_Việt.
+Em đang làm chương_trình quản_lý với nguồn tài_nguyên là các file 7 doc 7 Em muốn hỏi là làm thế_nào để đọc được một file 7 doc 7 Em đã làm với PHP có_thể mở được file 7 doc 7 nhưng sau_đó xuất_hiện các ký_tự khó_hiểu trong phần text 7 Làm thế_nào để tách được các từ_khoá trong phần text đó ra nguyên_bản theo tiếng_Việt và có_thể Insert vào cơ_sở_dữ_liệu 6 trên môi_trường Web 6 7 Em xin chân_thành cảm_ơn 7.
+Trần Văn_Cường.

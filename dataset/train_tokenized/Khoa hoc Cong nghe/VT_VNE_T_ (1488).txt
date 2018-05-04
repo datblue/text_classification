@@ -1,0 +1,5 @@
+Hỏi về cách cài 1 hệ_điều_hành 6 1 6.
+Tôi có vấn_đề muốn nêu_lên để nhờ_sự_giúp_đỡ 7 Tôi đang sử_dụng hệ_điều_hành WinXP 6 Master 6 7 nay có gắn thêm một ổ_cứng 6 slave 6 khác đang có hệ_điều_hành 1 7 Nhưng khi tôi cài 1 7 1 lên 1 thì chỉ vào được 1 còn chọn winXP thi bị khởi_động lại 7 nhưng nếu tôi cài 1 7 1 vào winXP thì lại không cài được 7 Tôi muốn sử_dụng dual_boot của WinXP để quản_lí 1 hệ_điều_hành thì_có được không 6 ổ master có 1 1 logical 7 ổ slave có 1 primary 1 logical 6 7 Cách_làm như thế_nào 7 Hoặc còn có_thể sử_dụng cách nào nữa 7 Rất mong các_bạn hướng_dẫn để giải_quyết tình_huống này 7 Chân_thành cảm_ơn 7.
+Hua Thoi_Dung.
+Hồi_âm 7.
+Chao ban Hua_Thoi_Dung 7 BootMagic chi cho cai tren MOT Partition 7 cho nen ban khong cai_vao WinXP duoc la dung_vi ban da cai BootMagic vao Win 1 roi 7 Ban nen cai 1 he dieu hanh lai tu dau 7 ban muon su dung Dual_boot cua Windows cung_duoc 7 Truoc tien ban_nen cai Win 1 vao o cung Master 7 cai len Primary_Partition 7 Sau_do ban cai Win XP 6 theo toi ban_nen cai Win XP len Partition khac 7 Primary hay la Logical deu duoc 6 7 Ban se lam duoc 7.

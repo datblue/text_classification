@@ -1,0 +1,5 @@
+Làm_việc cùng_lúc với 1 trang Word hoặc Excel.
+Trong trường_hợp phải hiển_thị cùng_lúc hai trang Word để sửa_chữa hay so_sánh 7 chắc_chắn người sử_dụng phải liên_tục dùng chuột hoặc phím hay thanh cuộn 7 Như_thế thật bất_tiện 7 Dưới_đây là cách_dùng tiện_ích phân trang_trong Word 7.
+Trên thanh tiêu_đề 7 hãy nháy chuột vào WindowsSplit 6 hoặc bấm vào Windows và nhấn_phím S 6 sẽ xuất_hiện vạch_ngang trên Word 7 khi_đó có_thể di_chuyển phân trang tùy_ý 7 Sau_đó 7 nháy chuột trái và sẽ người sử_dụng sẽ có ngay 1 trang Word với đầy_đủ các thanh cuộn 7 7 7 Khi muốn trở_lại 1 trang 7 chỉ_cần nhấp chuột vào WindowsRemove_Split 6 hoặc click vào Windows và nhấn_phím S 6 7.
+Trong Excel có nhiều lựa_chọn hơn 7 Chẳng_hạn 7 xếp 1 trang Excel theo kiểu lớp 6 Tiled 6 hoặc theo kiểu dọc 6 Horizontal 6 7 kiểu ngang 6 Vertical 6 7 7 7 Các bước thực_hiện như_sau 7 Nhấp chuột vào WindowsArrange 6 hoặc click vào windows và nhấn_phím A 6 7 khi xuất_hiện hộp_thoại 6 Arrange 6 là có_thể tùy lựa_chọn click vào 6 Horizontal 6 hay 6 Vertical 6 7 7 7 rồi nhấn OK 7.
+Muốn trở_lại 1 bảng tính Excel_click vào Windows_of_active_wordbookOK 7 . 6 theo Tin_Học_Đời_Sống 6.

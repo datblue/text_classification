@@ -1,0 +1,6 @@
+Khắc_phục lỗi IIS 6 1 6.
+Tôi đang sử_dụng WindowsXP 1 và đã cài IIS 1 7 Trong thư_mục web ngầm_định C 7 / Inetpub / wwwroot tôi có nhiều thư_mục trang_web động và tĩnh 7 Khi gõ địa_chỉ vào web tĩnh 7 ví_dụ 2 thì hiển_thị tốt 7 Nhưng khi vào các trang_web động 7 ví_dụ 2 7 thì báo lỗi sau 7 . 6 Server_Application_Error 7 The server_has_encountered an error_while_loading an application_during the processing_of_your_request 7 Please_refer to_the event_log_for_more_detail_information 7 Please_contact the server_administrator_for_assistance 7 6.
+Xin các cao_thủ chỉ cách tìm lỗi và khắc_phục 7 Cảm_ơn nhiều 7.
+Linh_Nguyen.
+Hồi_âm 7.
+Có_thê la ban chưa enable tính_năng ASP 6 Active_Server_Pages 6 trong IIS lên hoăc chưa cai đăt 7 Nếu chưa cai đăt ban_vao Window_Component = = App_server = = WWW services = = check vao 6 Active_Server_Pages 6 sau_đó enable lên la có thê chay đươc web đông ASP 7 Chúc thanh_công 7.

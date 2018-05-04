@@ -1,0 +1,5 @@
+Diệt spyware bằng Spybot_Search_and_Destroy 1 7 1 . Chương_trình này sẽ quét ổ_cứng để xác_định những phần_mềm do_thám hoặc những module phần_mềm chuyên làm hiển_thị các mục quảng_cáo hoặc gửi thông_tin từ máy của bạn về cho chủ của nó 7.
+Nếu tìm_được những đối_tượng này 7 Spybot_Search_and_Destroy sẽ gỡ bỏ và thay_thế chúng bằng những adware giả 7 trống_rỗng 7 vì thông_thường 7 phần_mềm chủ của chúng vẫn sẽ hoạt_động sau_khi adware đã bị gỡ đi 7.
+Trong số các mục_tiêu mà Spybot_Search_and_Destroy xử_lý có Aureate 7 CLPRS 7 Comet_Cursors 7 eZula_HotText 7 Gator 7 GoHip 7 Radiate 7 WebHancer và WildTangent 7 . Chương_trình an_ninh này còn loại_bỏ phần lưu hồ_sơ sử_dụng 6 track 6 chẳng_hạn như các trang_web mới truy_cập 7 những file đã mở 7 các chương_trình đã kích_hoạt hoặc cookies 7 Vì_thế 7 ngay_cả những loại spyware mà chương_trình chưa_biết cũng không_thể khai_thác và truyền đi thông_tin cá_nhân được 7.
+Spybot_Search_and_Destroy hỗ_trợ cả 1 loại trình_duyệt phổ_biến nhất 7 Internet_Explorer 7 Netscape_Communicator và Opera 7.
+Để_tải miễn_phí Spybot_Search_and_Destroy 1 7 1 7 bấmvào_đây 7.

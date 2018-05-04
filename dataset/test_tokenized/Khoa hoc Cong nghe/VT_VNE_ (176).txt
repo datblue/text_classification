@@ -1,0 +1,4 @@
+Hỏi về ulead_cool 1 6 1 6.
+Chao cac ban 7 Toi muon lam_doan phim dau co chu chay 7 Co nguoi bao_la phan men ulead_cool 1 lam duoc 7 Xin chi giup toi lam nhu the nao de bo qua chuong trinh Pinnacle_Studio 1 7 Cam on nhieu 7 . viet ho.
+Hồi_âm 7.
+Neu ban_dung Ulead 1 Cool thi ban chi viec chon File / Create_animations_file / video 7 con neu_dung Ulead 1 production_studio thi ban_chon File / export_video_Overlay / AVi la duoc 7 Qua ben Studio 7 ban chi viec chon Edit / click_Folder roi mo file AVI nay 7.

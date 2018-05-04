@@ -1,0 +1,2 @@
+Sẽ thanh_tra hoạt_động cấp_phát tên_miền.
+Lý_do thanh_tra được giải_thích là do dư_luận có nhiều ý_kiến cho_rằng VNNIC chưa sòng_phẳng trong việc cấp_phát tên_miền đối_với khách_hàng 7 Mặc_dù được giao nhiệm_vụ quản_lý tên_miền nhưng VNNIC đã để xảy_ra tình_trạng tên_miền bị đem rao bán tràn_lan trên mạng Internet 7 trong_khi qui_định về quản_lý và sử_dụng tài_nguyên Internet cấm chuyển_nhượng 7 cho_thuê 7 bán lại tài_nguyên Internet 7.

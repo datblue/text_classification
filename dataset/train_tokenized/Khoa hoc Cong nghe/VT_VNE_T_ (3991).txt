@@ -1,0 +1,29 @@
+Để format mà ổ_đĩa không bị ẩn 6 1 6.
+Tôi đang sử_dụng WinXP 7 bây_giờ muốn Format để cài_đặt lại nhưng khi khởi_động 6 bằng_đĩa CDROM khởi_động 6 xong các ổ_đĩa đều bị ẩn 6 không nhìn_thấy để format 6 7 Có cách nào để khắc_phục mà không cần_phải Fdisk lại đĩa_cứng 7.
+Xin chân_thành cảm_ơn 7.
+Trần_Tam.
+Hồi_âm 7.
+Em nghĩ nếu anh đã dùng đĩa boot rồi mà các ổ đều bị_ẩn thì chắc là các ổ anh để hệ NTFS 7 Anh chỉ_cần cài NTFS for_dos là được thôi 7 Trong đĩa_hiện boot có phần_mềm đó 7.
+Huu Tung.
+Toi co mot vai kinh_nghiem muon trao doi cung cac ban 7 Viec ban hoi_vi sao khi khoi dong_bang CDROM lai khong nhin thay cac o dia 7 Dieu_nay co the do dinh_dang o dia cua ban theo kieu NTFS 7 Dinh_dang theo kieu nay lam cho viec khoi dong may bang CDROM 7 vao DOS 6 mot HDH khong ho tro kieu tep NTFS 6 7 Chinh_vi the ban khong thay cac o_dia cua minh 7.
+Ban thu lam theo cach sau 7 ban_dung_khoi dong may bang dia CDROM cua DOS hay khoi dong may bang chinh dia cai dat he dieu hanh winXP 7 O do ban se de_danh nhin ra cac o_dia cua minh trong qua trinh cai dat 7 he thong se yeu cau ban format o dia 7 ban co the de_dang chuyen tu he thong file NTFS sang 1 hoac 1 7 he thong se co nhung tuy chon rieng cho ban_neu trong may cua ban co nhung tai lieu_quan_trong ban hay bo qua buoc format va tien hanh cai dat he dieu hanh win XP binh_thuong 7 sau_khi luu lai du lieu_quan_trong ban co the format thoai_mai 7 chuyen_doi kieu tep tuy_y 7 Chuc thanh_cong 7.
+Nguyen_Anh_Duc.
+Anh dùng đĩa CD room khởi_động lên môi_trường MS-DoS thì nếu trước_đây partition chứa OS của anh được định_dạng theo NTFS sẽ không_thể thấy trong MS_DOS được Anh có_thể dùng partition_magic 1 6 có trong cd_room khởi_động 6 để format và định_dạng lại partition la 1 7 Không cần_phải Fdisk lại đĩa_cứng 7.
+Chúc thành_công 7.
+Tran_Khuong.
+Theo toi thi o dia cua ban dang duoc dinh_dang NTFS nen khi_vao dos ban khong the thay no duoc 7 ban phai dung 1 va format 7 nho chon dinh_dang 1 de_lan sao con_vao dos de dang hon 7 Hoac tim_phan mem NTFS floppy_setup de dos co the thay_phan vung NTFS 7.
+Tran_Long_Thanh.
+Bạn đang sử_dụng WinXP 7 muốn Format lại để cài_đặt mới nhưng_mà các ổ_đĩa bị_ẩn là do trước_kia bạn chọn File hệ_thống là NTFS 7 Đối_với loại NTFS thì khi vào DOS sẽ không nhận_thấy 7 Vì_vậy 7 bạn muốn format được các ổ_đĩa trên thì bạn BOOT bằng CDROM và dùng chương_trình Partion_Magic để chuyển_đổi từ NTFS sang 1 7 Rồi sau_đó bạn có_thể format được bình_thường 7 Nên nhớ rằng sau_này bạn cài lại WinXP thì chọn 1 luôn 7 nếu_không_thì bạn phải mất_công thêm 1 lần_nữa 7.
+Xin chúc bạn may_mắn 7.
+Nguyen_Hai_Son . Không_phải ổ ẩn mà là XP không thấy Hard_drive vì do là Ultra DMA hay Sata 7.
+Khi khởi_động CD để cài XP phải gõ key 1 lúc WP đang load 7 XP sẽ bảo bạn có driver cho hard_drive thì bỏ driver UDMA hay Sata vào floppy 7 Thì WP mới thấy Hard_drive mà Format hay partiton 7 . Nói_tóm_lại bạn phải có driver cho controller_card UDMA hay SATA copy vào floppy_disk thì mới install được 7 . TOM.
+Theo toi 7 ban_dung WinXP_home hay la winXP_professional de format 6 vi neu ban_dung xp_home de format tren_phan ma luc truoc ban_xai_la NTFS thi duong nhien la o dia se bi an 6 7 ban thu xai XP professional thu xem sao.
+Quang.
+Do luc cai dat WinXP da format dang bang NTFS nen khi khoi dong o DOS thuong thi ko the nhin thay duoc 7 muon nhin thay no la phai khoi dong_cung voi chuong trinh DOSS NTFS cua LHT.
+Chuc thanh_cong 7.
+Nguyen XHieu.
+Ổ của bạn để ở định_dạng NTFS nên trong môi_trường DOS sẽ không nhận_diện được ổ 7 Bạn có_thể dùng chương_trình PQmagic để chuyển ổ muốn cài sang định_dạng 1 sau_đó format lại rồi cài 7 Khi cài lại win bạn lại có_thể định_dạng lại NTFS trong quá_trình cài_đặt 7.
+Chúc thành_công 7.
+Viet_Thanh.
+Đĩa_cài đăt WinXP tự bút có tính_năng format ổ_đĩa khi cài hệ_điều_hành 7 Bạn không cần_phải fdisk 7.
+Có các tính_năng 7 format_using NTSF hoặc format_using FAT 1 7.

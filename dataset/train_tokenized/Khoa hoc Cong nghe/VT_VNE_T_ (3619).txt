@@ -1,0 +1,10 @@
+Cách cài_đặt Internet qua mạng điện_thoại 6 1 6.
+Theo tôi được biết thì hai máy_tính có_thể kết_nối và truyền dữ_liệu với nhau thông_qua mạng điện_thoại cố_định nếu hai máy này có gắn modem và line điện_thoại 7.
+Vậy xin hướng_dẫn tôi cách cài_đặt Internet qua mạng điện_thoại và khai_báo cho các máy trong trường_hợp các PC sử_dụng hệ_điều_hành 1 7 Win XP và Win 1.
+Tôi xin chân_thành cám_ơn 7.
+To Quyen.
+Hồi_âm 7.
+De ket noi hai may tinh qua modern va line dien_thoai de truyen_nhan du lieu giua hai may ban co the_dung 1 trong cac phuong phap sau.
+- Dung_cong cu_san co cua Windows 7 su_dung Hyper_Terminal 6 Start-program-Accessories-Communication-Hyper_Terminal 7 O cua so dau tien ban dien ten va chon_bieu tuong cho ket noi 7 nhan Ok 7 Tai man hinh connect to ban thiet lap thong so ve country 6 ma nuoc 6 7 area_code 6 ma vung 6 7 phone_number 6 so may ket noi cua may tinh_thu 1 6 7 connect_using 6 chon ten modern cua ban 6 7 nhan ok 7 Nhu vay ban da thiet lap xong cac thong so ky_thuat o_may 1 7.
+Lam tuong tu cho may thu 1 7 De 1 may ket noi 6 VD 7 1 ket noi vao 1 6 7 Tai may 1 ban_chon menu_Call-wait_for a call 7 con tai may 1 ban_chon menu_Call-call 7 Khi hai may da ket noi voi nhau ban_chon menu_Tranfer-send_file de truyen du lieu 7 Muon ngat ket noi chon Call-disconnect 7 . - Ngoai_ra ban co the su dung phan mem Pc_anywhere hoac ket noi bang 1 trong chuong trinh NC 7.
+Chuc ban thanh_cong 7.

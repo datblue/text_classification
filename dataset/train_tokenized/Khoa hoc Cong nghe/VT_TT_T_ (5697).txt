@@ -1,0 +1,4 @@
+Thêm một lỗi bảo_mật Quicktime.
+Lỗi bảo_mật nằm_trong trình chơi các tập_tin media của Quicktimes 7 chạy trên cả_hai phiên_bản dành_cho Windows và Mac_OS 7 Công_ty Cupertino 7 chi_nhánh của Apple tại California cho_biết 7 những kẻ tấn_công có_thể lợi_dụng lỗi này bằng cách_lừa người_dùng mở một tập_tin mã độc_hại 7 và sau_đó chiếm quyền kiểm_soát máy_tính 7.
+Apple đã cho phát_hành bản QuickTime 1 7 1 để chặn_đứng lỗi này 7 Lỗi này được French_Security_Incident_Response_Team đánh_giá ở mức_độ nguy_hiểm nhất 7.
+Dù_vậy 7 Apple vẫn không đánh_giá mức_độ nguy_hiểm của lỗi này là cao 7 Họ vẫn khuyến_cáo người_dùng 7 đừng bao_giờ mở một tập_tin media ở một nguồn không đáng_tin_cậy 7 bởi_vì rất_có_thể nó sẽ dẫn bạn đến với một hacker 7 Lỗi kiểu này cũng đã từng xuất_hiện trong iTune và QuickTime và được phát_hiện lần gần_đây nhất là tháng 1 và tháng 1 năm 1 7.

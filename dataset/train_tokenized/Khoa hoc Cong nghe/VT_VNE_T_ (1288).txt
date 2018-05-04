@@ -1,0 +1,7 @@
+Font_Unicode hay VIQR 7 6 1 6.
+Toi_dung 7 I 7 E 1 Macintosh 7 khi mo Safari thi doc duoc cac chu nhung khi mo I 7 E thi chi toansymbol 7 Xin hoi nen lamsao de_doc duoc UNICODE 6 cho may_vi_tinh Macintosh 6 va_neu toi_danh theo VIQR 7 nguoi khac co doc duoc_binh_thuong khong 7.
+Vo Anh_Dung.
+Hồi_âm 7.
+May tinh nao cung theo 1 nguyen_tac 7 neu ban_chon khong dung font thi khong the hien_thi_dung van ban nao ca 7 vi vay ban phai cau_hinh lai font cho IE 7 De doc duoc Unicode thi ban phai co font_Unicode 7 Neu ban danh VIQR 7 va_neu may ban co font cho bo ma VIQR thi se hien thi duoc tieng Viet co dau 7 tuy_nhien neu khong thi van ban do van co the doc duoc voi bat ki font nao nhung hoi kho 7 6 vi 6 du 7 nhu the ^ 6 nay 6 7 Bo font cua ma VIQR hoi hiem 7 trong phan mem GVSBK co rat nhieu font cho cac loai bo ma 7 nhung_toi khong biet co font cho MAC khong 7.
+Nam_Nguyen.
+Bạn không_thể dọc Unicode với IE trên máy Mac 7 tuy_nhiên Safari tốt_hơn IE nhiều_lần vì_thế tốt_nhất là bạn sử_dụng Safari để duyệt web 7 VIQR 7 không sử_dụng font chữ riêng 6 mà sử_dụng các ký_tự của bảng mã ASCII để hiển_thị tiếng_Việt 6 và vì_thế bất_cứ_ai cũng có_thể đọc được nếu họ không cảm_thấy quá rối_mắt 7.

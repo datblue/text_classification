@@ -1,0 +1,5 @@
+Lỗi lặp chữ 6 1 6.
+Khi tôi gõ trong Excel thì_có hiện_tượng lặp chữ ví_dụ như chữ 6 đăng 6 thì nó ra 6 đaăng 6 6 lúc tôi đánh_dấu cho chữ a thì nó thêm một chữ 6 a 6 và chữ 6 ă 6 6 7 Thỉnh_thoảng nó lại xuất_hiện chứ không_phải lúc_nào cũng_vậy 7 Trong Word thì tôi không gặp trường_hợp đó 7.
+Nguyen_Mai_Dang.
+Hồi_âm 7 . Trường_hợp của bạn có_thể được khắc_phục dễ_dàng như_sau 7.
+Nhấn chuột vào Menu_Tools -- Options 7 7 7 -- chọn thẻ Edit -- bỏ chọn Enable_AutoComplete_for_cell_values 7.

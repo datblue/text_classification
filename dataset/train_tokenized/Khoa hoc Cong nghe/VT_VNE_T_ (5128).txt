@@ -1,0 +1,8 @@
+Intel sẽ tập_trung vào công_nghệ 1 nm . Hầu_hết mọi_người đều chắc rằng_vi cấu_trúc thế_hệ mới của Intel sẽ dựa_trên Merom 1 nm 7 Tuy_nhiên 7 theo những thông_tin bị rò_rỉ gần_đây 7 đó mới chỉ_là bề nổi của tảng băng 7.
+Theo trang Tom 6 s Hardware 7 Intel dự_định sẽ phát_hành gần 1 mẫu thiết_kế chip khác_nhau trong_vòng 1 quý sắp_tới nhằm duy_trì vị_trí thống_trị của họ trên thị_trường desktop 7 di_động và doanh_nghiệp 7.
+Tom 6 s Hardware khẳng_định 7 cơ_sở sản_xuất Fab 1 mà Intel giới_thiệu với 1 nhà phân_tích và phóng_viên tuần trước đủ mạnh để phát_triển chip lõi kép 7 1 lõi 7 thậm_chí 1 lõi 7 không chỉ theo công_nghệ 1 nm mà_cả 1 nm 7.
+Conroe 7 thiết_bị xử_lý lõi kép cho desktop thế_hệ mới 7 sẽ xuất_hiện trong quý III / 1 với bộ_nhớ đệm 1 6 cache 6 1 MB 7 Ngoài_ra 7 Intel cũng phát_hành Allendale 1 MB cache 1 7 Giống_như Conroe 7 Merom cũng được trang_bị 1 MB và 1 MB cache 1 7.
+Đầu 1 7 Intel được cho_là sẽ công_bố Millville 1 MB cache nhưng chưa rõ sẽ tích_hợp trong máy_tính_xách_tay hay để bàn 7.
+Tiếp đó 7 vào_khoảng giữa 1 7 Stealey 7 chip cho thiết_bị di_động đơn_lõi 1 KB cache 1 và thiết_bị xử_lý trên desktop_Cedar_Mill 1 KB 7 1 MB và 1 MB cache 1 7 cũng được trình_làng 7.
+Intel sẽ không sử_dụng thương_hiệu Pentium chocấu_trúc chip thế_hệ mới trong thiết_bị di_động 7 mà chỉ đơn_giản gọi_là Core với hậu_tố Solo 6 đơn_lõi 6 và Duo 6 lõi kép 6 7 . 1 là chip đơn_lõi 7 được phát_triển trực_tiếp từ Pentium M Dothan 7 sẽ xuất_hiện với cache 1 1 MB và 1 MB 7 trong_khi 1 lõi kép có 1 MB cache 1 7 Yonah sẽ hoạt_động với 1 mức điện_năng 7 chuẩn 7 thấp và cực thấp 7.
+Hãng đối_thủ AMD đã xây_dựng sản_phẩm với công_suất 1 MB và 1 MB cache 1 cho những chip có cùng xung nhịp và có_vẻ như Intel đang thực_hiện bước_đi tương_tự 7.

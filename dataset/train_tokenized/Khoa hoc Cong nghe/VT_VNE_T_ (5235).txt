@@ -1,0 +1,4 @@
+Sâu khai_thác lỗi Windows trong bản vá tháng 1.
+Theo hãng bảo_mật Phần_Lan F-Secure 7 sâu Dasher 7 B 7 sau_khi thâm_nhập vào máy_tính Windows 1 và Windows XP chưa cài bàn vá 4 7 sẽ tự_động tải một rootkit có khả_năng dò ký_tự bàn_phím 6 keylogger 6 nằm trên một máy chủ_từ_xa 7 . Trước_khi Dasher 7 B ra_mắt một_ngày 7 hôm 4 7 sâu Dasher 7 A 7 được tạo dựa_trên đoạn mã khai_thác được tung_lên mạng cách đây 1 tuần 7 cũng xuất_hiện 7 Tuy_nhiên 7 phiên_bản đầu_tiên không_thể tiến xa do lỗi lập_trình và được đặt trên một máy_chủ không còn hoạt_động ở Trung_Quốc 7.
+Hai biến_thể Dasher không_phải là một nguy_cơ lớn nhưng nó cho_thấy những kẻ viết chương_trình nguy_hiểm vẫn đang tiếp_tục sục_sạo xung_quanh các lỗ_hổng của Windows 7.
+Cuối tháng 1 7 Microsoft cũng thừa_nhận mã khai_thác lỗi MSDTC trong 4 đã bắt_đầu được lưu_hành trên mạng nhưng khẳng_định tin_tặc không_thể kiểm_soát hệ_thống từ_xa 7.

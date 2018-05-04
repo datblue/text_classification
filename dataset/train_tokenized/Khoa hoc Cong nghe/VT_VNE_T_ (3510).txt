@@ -1,0 +1,4 @@
+Hỗ_trợ kinh_nghiệm lập_trình.
+Em đang lập_trình ứng_dụng cho công_ty em làm_việc 7 Ứng_dụng viếtbằng ngôn_ngữ Visual_Basic kết_nối với CSDL SQL-Server và report bằng công_cụ Crytal_Report 7 Mọi việc truy_xuất dữ_liệu đều suôn_sẻ 7 đến khi báo_cáo bằng Crystal_report thì gặp lỗi sau 7.
+The library 6 pdssql 7 dll 6 can 6 t not_be found 7 The data in this_report can not refreshed 7 7 7 7 . Lưu_ý là em sử_dụng thư_viện CRAXDDRT 7 dll của Crystal để truy_xuất dữ_liệu vào SQL-Server 7 Em đã_kiểm_tra kỹ trên các máy_tính có cài 1 trở đi thì không có_lỗi xuất_hiện 7 Còn đối_với hệ_điều_hành 1 thì báo lỗi đã nêu trên 7 Hiện_tại 7 em đang phân_vân không_biết có phải thư_viện CRAXDDRT 7 dll hoặc CRAXDRT 7 dll có_lỗi không 7 Xin nhờ chỉ giúp 7.
+Trần_Duy_Chương.

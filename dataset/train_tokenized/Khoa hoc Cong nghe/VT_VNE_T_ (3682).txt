@@ -1,0 +1,6 @@
+Tại_sao khi khách chơi game 7 PC bị lagg 7 6 1 6.
+Tôi có 1 phòng Net 1 máy 7 tôi kéo mạng ngang_hàng tôi cắm tất_cả các máy vào switch 6 switch loại cnet 1 port 6 và roter_drayter 1 7 Tôi dùng Win XP 1 với cấu_hình máy khá mạnh 7 Tại_sao khi chơi game 7 nhất là Võ_Lâm Truyền_Kỳ 7 máy_thường bị lagg 6 trễ hình 6 7 Tôi_qua tiệm khác máy chạy rất bình_thường mặc_dù cấu_hình của họ thấp hơn của tôi 7 Vậy tôi nêu lý_do trên xin được tư_vấn 7 Vấn_đề này tôi nghĩ là do đường truyền nhưng không_biết cách khắc_phục 7.
+Tôi xin chân_thành cảm_ơn và mong thư sớm.
+Vũ Huy_Hoàng.
+Hồi_âm 7.
+Có hai nguyên_nhân khiến máy_tính khi chơi game bi lagg 6 hình bị giật 6 7 Thứ_nhất là bạn chưa cài đúng chuẩn Driver_Graphic_Card của chính hãng 7 Thứ_hai là nếu bạn đã cài đúng chuẩn drive rồi mà vẫn bị lagg thì bạn hãy làm như_sau 7 right_klick chuột vào_khoảng trống màn_hình rồi chọn Properties--Setting--Advanced--Troubleshoot-- rồi kéo thanh gạt về Full rồi OK 7 Máy_tính chơi game sẽ không bị lagg nữa 7 Chúc thành_công 7.

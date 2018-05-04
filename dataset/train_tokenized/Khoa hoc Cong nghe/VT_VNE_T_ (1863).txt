@@ -1,0 +1,9 @@
+Format lại toàn_bộ laptop 6 1 6.
+Xin chao 7 Hien nay toi dang co mot may tinh xach tay IPM 1 7 tui muon format lai toan bo may va cai lai he dieu hanh 7 Toi co mot lan cai lai he dieu hanh XP nhung he dieu hanh cu van con trong o cung 7 vi vay tui muon duoc_chi dan cach format lai toan bo may 7 Khi format lai toan bo may thi co anh huong gi den cac bo phan cua may hay khong 7 Rat mong nhan duoc tra loi cua cac ban 7 Thanh_that biet on 7.
+Nguyen_Hung_Dung.
+Hồi_âm 7.
+Cái đây thì rất đơn_giản nhưng một_số điều cần chú_ý lúc cài lại hệ_điều_hành của bạn nhưng_mà IBM thì không sợ mấy đâu 7.
+Điều_quan cần chú_ý nhất là bạn fải copy các thư_mục như_là Drivers_IBMtools của máy 7 nhưng nếu không_có thì lên IBM 7 com dl cũng được.
+Bạn_chia ổ_cứng ra rồi install hệ_điều_hành mới vào ổ mới chia 6 Dùng Partition_Magic cho tiện và nhanh 6 7.
+Sau đấy bạn format ổ C 6 là ổ hiện_thời bạn đang_dùng với hệ_điều_hành cũ 6 là xong 7 hoặc_là có một_cách phức_tạp hơn nhưng_mà cũng được là bạn mở cái hard_disk 6 Ổ_cứng 6 ra 7 IBM thì nó thương nằm ở bên phai của máy_tính 6 Dưới dòng chữ IBM Thinkpad đấy 6 7 Say đấy cắm vào máy_bàn format toàn_bổ ổ của Laptop va install hệ_điều_hành mỡi vào thôi 7.
+Chúc bạn thành_công 7 . PS 7 Nếu có gặp trở_ngại gì thì bạn_cứ email cho tôi 7 tôi cố_gắng tra_lời những câu_hỏi của bạn 7 email 3 hoặc_là 3.

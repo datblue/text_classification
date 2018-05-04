@@ -1,0 +1,5 @@
+Bỏ chức_năng chống cài phần_mềm 6 1 6.
+Tôi có một thắc_mắc nhỏ kính nhờ các anh_chị giúp_đỡ 7 Máy_tính tôi trước_đây một người_bạn giúp tôi cài_dặt bảo_vệ không cho cài bất_cứ phần_mềm nào mới vào máy 7 Nay cứ mỗi_khi tôi cài phần_mềm mới vào máy khi tắt máy thì cũng tự_động xoá phần_mềm đã cài_đặt 7 Kính mong các anh_chị giúp tôi gỡ bỏ chức_năng trên 7 Xin chân_thành cảm_ơn 7 6 Xin hướng_dẫn kỹ chút nhé 6 7.
+Vu Duy.
+Hồi_âm 7.
+Chào người anh_em cùng họ 6 Vũ 6 7 Có_lẽ bạn đã kích_hoạt chế_độ 6 Dont_save_setting at exit 6 7 Để giải_quyết 7 hãy làm như_sau 7 Chọn StartRun 7 gõ vào gpedit 7 msc và nhấn Enter để mở Group_Policy 7 Vào khung bên_trái 7 chọn User_Configuration_Adminisrtative_Templates_Desktop 7 Nhấn phím phải chuột vào 6 Dont_save_setting at exit 6 ở khung bên_phải rồi chọn Properties 7 Sau_đó chọn Disabled và nhấn OK hay Apply để tùy chọn này được thực_thi 7 6 Nếu dùng WinXP 7 bạn phải có_quyền 6 Admin 6 đấy nhé 6 7 Khởi_động lại máy_tính 7 Xong 7.

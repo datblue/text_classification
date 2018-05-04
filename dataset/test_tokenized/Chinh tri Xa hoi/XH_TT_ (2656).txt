@@ -1,0 +1,2 @@
+Hà_Nội 7 lắp_đặt thiết_bị đếm xe tự_động.
+Thiết_bị này sẽ được lắp_đặt tại các nút giao_thông Trần_Hưng_Đạo-Trần_Khánh_Dư 7 Bạch_Mai-Đại_Cồ_Việt 7 Giải_Phóng-Pháp_Vân 7 Giải_Phóng-Trương_Định 7 Giải_Phóng-Phương_Mai và Nguyễn_Trãi-Triều_Khúc 7 . Thiết_bị này sẽ đọc và truyền tín_hiệu khi các phương_tiện giao_thông đi qua nút về trung_tâm điều_khiển giao_thông 7 Tại_đây 7 máy_chủ nhận tín_hiệu và sẽ tự_động điều_chỉnh quy_trình hoạt_động của đèn tín_hiệu giao_thông nhằm giải_quyết nạn ùn_tắc 7.

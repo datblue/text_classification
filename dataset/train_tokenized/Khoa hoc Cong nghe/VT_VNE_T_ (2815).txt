@@ -1,0 +1,18 @@
+Cắm thẳng Modem vào Hub không qua máy_chủ 6 1 6.
+Co_quan em dung ADSL modem ZOOM 1 7 Cai qua 1 may chu 7 dung Wingate de share cho 1 may khac dung 7 May chu_cai WINNT 7 may tram cai 1 7 Winxp 7 Hoi neu muon cam thang Modem vao Hub khong qua may chu lam the nao de_cac may_tram cung vao Internet duoc 7 Em da_cam thang vao hub nhung den LAN tren modem khong sang 7 Cac anh chi_chi giup 7 Xin cam_on 7.
+Hong_Phung_Thanh.
+Hồi_âm 7.
+Thong_thuong 7 . - ADSL Modem / Router noi voi Hub bang cap thang.
+- PC noi voi Hub bang cap thang.
+- PC noi voi ADSL Modem / Router bang cap cheo.
+Truong hop cua ban 7 co le ban_dung cap dang noi PC voi Modem / Router 6 cap cheo 6 de noi Modem / Router voi Hub 7 Do do 7 den LAN tren Modem / Router khong sang 6 vi phai dung cap thang moi_dung 6 7.
+Ban_lay cap thang 6 cap noi PC voi Hub 6 de noi Modem / Router voi Hub 6 den LAN tren Modem / Router se sang 6 7 Sau_do cau_hinh cac may_tram cung_lop mang voi Modem / Router va gateway la dia chi cong LAN cua Modem / Router 7.
+Lu_Cam_Thanh.
+Gửi bạn Hong_Phung_Thanh 7.
+Việc sử_dụng modem ADSL gắn trực_tiếp vào Switch lại dễ hơn cái mà bạn đã làm được là sử_dụng 1 máy phục_vụ 6 server 6 có cấu_hình proxy rất_nhiều 7 . Tuy_nhiên 7 có_lẻ bạn quên mất là khi cắm modem ADSL trực_tiếp bằng port 1 vào Switch 7 đòi_hỏi phải sử_dụng cross_over_cable 6 thường gọi_là cáp chéo 6 7.
+Đó mới chỉ_là bước khắc_phục tình_trạng hiện_thời mà bạn đang gặp 7 đèn LAN của modem ADSL không sáng 7 . Kế_tiếp 7 bạn phải hướng cái máy muốn ra internet đến default_gateway là IP của modem ADSL 6 thường Zoom chọn IP là 1 7 1 cho modem ADSL 6.
+Đó mới chỉ_là cách xử_lý cho nhu_cầu của bạn 7 gắn trực_tiếp modem ADSL vào Switch để các máy trong mạng LAN_ra Internet 7.
+Nhưng bạn sẽ phải đối_mặt với hàng_loạt các vấn_đề có liên_quan như 7 . - Sử_dụng DHCP nào để cung_cấp_cho máy clients trong mạng 6 DCHP của modem hay của server 7 bỏ_qua điều_này nếu bạn cài_đặt IP tĩnh cho clients 6 . - Loại_bỏ proxy_server nếu_không sử_dụng nữa 7 . - Và quan_trọng nhất 7 bạn sẽ thật khó để kiểm_soát các máy trong mạng LAN truy_cập / không_được truy_cập cái_gì 7 firewall 7 diệt virus ra sao 7 . Tóm_lại 7 cần_phải cân_nhắc thật kỹ để chọn giải_pháp phù_hợp với khả_năng quản_lý mạng của mình 7 với qui_mô hiện_tại và mở_rộng trong vài năm tiếp_theo 7 và nhất_là về tài_chính của công_ty bạn 7 Không nên mỗi_lần quyết_định chọn giải_pháp nào 7 chúng_ta lại xóa hết 7 làm_lại 7.
+Chúc bạn đạt_được kết_quả tốt_nhất 7.
+Hoang Tri_Dung.
+Bạn dùng 1 dây_cáp chéo nối từ modem ra HUB 6 chú_ý cắm vào cổng Up 7 ink nếu modem đó có cổng Uplink 6 Nếu ko có thì cắm vào đâu cũng được 7 Đặt IP của Modem cùng dải với các máy_tính trong mạng LAN 7 Các_máy trạm có cùng dải IP và Gateway là địa_chỉ của Modem 7 Chúc thành_công 7.

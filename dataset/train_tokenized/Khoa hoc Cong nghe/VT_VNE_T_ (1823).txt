@@ -1,0 +1,5 @@
+Tắt 6 Window_file_protection 6 trong Window XP 6 1 6.
+Xin chi giup cho toi cach giai quyet_tinh_huong 7 Lam sao de tat canh_bao 6 window_file_protection 6 trong window XP 7 Xin cam_on 7.
+Ly Duc_Minh.
+Hồi_âm 7.
+Neu toi khong lam thi moi khi ban logon deu_gap dong chu_dai khai nhu the nay 7 6 Warnig 7 windows_file_protection_is not active on this_system 7 would_you_like to enable_windows_file_protection 7 7 v 7 v 7 6 Neu dung nhu vay phai sua lai_phan 6 registry 6 truoc khi sua ban hay lam mot back up nhe ban hay can than trong viec edit_registry 7 ban hay vao startrun go lenh regedit_ok 7 tim key_HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows_NTCurrentVersionWinlogon 7 mac dinh 6 default 6 cua windows la 1 = enable 1 = disable 7 nhap_phai chuot key_SFCDisablemodifydanh so o trong khung value_dataok_click_fileexit 7 7 7 Khoi dong lai xem co con xuat hien_dong_chu do hay khong 7 neu van khong duoc thi can phai co tool_hex_editor de_lam cong_viec do 7.

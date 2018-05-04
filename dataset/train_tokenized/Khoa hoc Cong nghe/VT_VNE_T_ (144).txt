@@ -1,0 +1,27 @@
+Danh_mục các định_dạng file 6 vần A 6.
+Đây là những phần mở_rộng ở cuối một tên file 6 đuôi file 6 7 biểu_thị file đó thuộc định_dạng nào 7 Thông_tin đuôi file được hệ_điều_hành sử_dụng để mở_ra chương_trình phù_hợp khi bạn click vào tên file 7 Ví_dụ 7 7 txt là loại file chữ_viết và được xử_lý bằng một chương_trình văn_bản tương_ứng 7 . 7 1.
+Một loại file cho_phép Windows hiển_thị text và hình họa trong chế_độ chuẩn trên các máy_tính 1 và 1 trước_đây 7 . 7 1.
+File trao_đổi 7 cho_phép máy_tính chạy trong chế_độ tăng_cường 6 enhanced 6 nhằm_sử_dụng_được Windows với bộ_nhớ ảo 7 . 7 1.
+Một loại file cho_phép Windows hiển_thị text và hình họa trong chế_độ tăng_cường trên các máy_tính 1 7 1 7 hoặc Pentium 7 . 7 1 . Định_dạng cho máy vẽ Calcomp 7 . 7 1.
+Loại file dành_cho ứng_dụng MacroMedia_Authorware của Windows 1 7 . 7 ABK. Dành_cho sao_lưu tự_động AutoBackup và trình thiết_kế Corel_Draw 7 . 7 ABR. Dành_cho tính_năng Brush trong Adobe_Photoshop 7 . 7 ACL. Công_cụ tăng tốc_độ bàn_phím Keyboard_Accelerator và Corel_Draw 1 7 . 7 ACM.
+File thư_mục hệ_thống Windows 7 . 7 ACV.
+Drivers cho việc nén và giải nén file tiếng trên hệ_điều_hành OS / 1 7 . 7 AD.
+After_Dark 7 một chương_trình lưu màn_hình screensaver có_thể đặt cho hiển_thị ngẫu_nhiên nhiều dạng khác_nhau hết cái_này sang cái khác 7 . 7 ADB. 1 7 Cơ_sở_dữ_liệu thiết_bị Appointment_DataBase của máy HP 1 7 1 7 File kiểu chữ chính dùng ngôn_ngữ Ada 7 . 7 ADD.
+Driver cho bộ điều_hợp trên OS / 1 7 . 7 ADM.
+Module đa lớp của AfterDark 7 . 7 ADR.
+Loại file thuộc trình sắp_xếp ngẫu_nhiên AfterDark_Randomizer 7 . 7 ADS.
+Loại file thông_số kỹ_thuật 7 dùng ngôn_ngữ Ada 7 . 7 AFM. Hệ_thống font_Metrics của Adobe 7 thuộc nhóm 1 7 . 7 1.
+Thuộc chương_trình Access 1 7 . 7 AI.
+Thuộc chương_trình Adobe_Illustrator 7 . 7 AIF. Định_dạng file trao_đổi tiếng Audio_Interchange 7 còn gọi_là AIFF 7 Định_dạng này do Apple phát_triển để lưu_trữ những dữ_liệu nhạc và nhạc_cụ chất_lượng cao 7 chạy trên cả PC và Mac 7 . 7 aiff . Định_dạng file trao_đổi tiếng Audio_Interchange không nén 7 cũng do Apple phát_triển để lưu_trữ những dữ_liệu nhạc và nhạc_cụ chất_lượng cao 7 chạy trên cả PC và Mac 7 sử_dụng QuickTime hoặc Sound_Player 7 . 7 ALL.
+File thư_viện chữ_viết và nghệ_thuật Arts_and_Letters_Library 7 . 7 ANI.
+File dùng cho con_trỏ sinh_động 6 animated 6 7 . 7 ANS. Định_dạng text ANSI 7 . 7 API. Giao_diện ứng_dụng - giữa hệ_điều_hành và các chương_trình ứng_dụng trong hệ_thống 7 . 7 APP. Ứng_dụng cả_gói của MacroMedia_Authorware 7 . 7 ARC.
+Dạng file ARC hay ARC + nén 7 . 7 arj.
+Một định_dạng nén xuất_hiện ở châu_Âu và được giải_mã bằng unArjMac 7 DeArj và 1 7 EXE 6 win 6 7 . 7 ART.
+Một loại file nghệ_thuật có trong các chương_trình vẽ hình 7 . 7 ASC.
+Dạng file_text ASCII 6 American_Standard_Code 6 biểu_thị bằng các con_số từ 1 đến 1 và được dịch sang mã nhị_phân 1 bit 7 . 7 ASF.
+Dạng file hoạt_động suốt Active_Streaming của chương_trình xử_lý web_HoTMetaL_Pro 7 . 7 ASM.
+Dạng file cho mã nguồn kết_hợp Assembly_Source_Code 7 . 7 ASP.
+Dạng văn_bản có các script nhúng thuộc ứng_dụng chủ 6 Active_Server_Page 6 của Microsoft 7 . 7 AST.
+File hỗ_trợ 6 Assistant_file 6 của chương_trình Claris_Works 6 Apple cung_cấp 6 7 File này dẫn_dắt người sử_dụng đi qua từng thao_tác bằng cách đặt_ra một loạt câu_hỏi và rồi sử_dụng câu_trả_lời để thực_hiện nhiệm_vụ 7 File_Assistants trong Claris_Works có_thể được dùng để tạo ra những thứ hữu_ích như lịch 7 bản_tin 7 văn_phòng_phẩm 7 nhãn_mác và sổ địa_chỉ 7 để ghi_chú cuối trang_trong một file và để tìm_kiếm văn_bản 7 7 7 . 7 ATT. Định_dạng do tập_đoàn điện_tín Mỹ ATT sử_dụng 7 . 7 AU.
+Dạng file tiếng dùng trên máy_tính chạy hệ_điều_hành của Sun Microsystems hoặc UNIX 7 . 7 AVI. Định_dạng này 6 Audio_Video_Interleaved 6 là loại file nghe_nhìn của Microsoft 7 tương_tự như MPEG và QuickTime 7 Trong AVI 7 các yếu_tố hình và tiếng được xen_lẫn 7 . 7 AVS.
+Loại file sao_chép hình video của Intel 7 . Còn_tiếp.

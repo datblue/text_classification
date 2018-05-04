@@ -1,0 +1,6 @@
+Mozilla tiếp_tục thử_nghiệm trình_duyệt độc_lập mới.
+Tổ_chức phần_mềm mã mở này vừa ra_mắt bản Alpha 1 cho trình_duyệt độc_lập sau Firefox 7 Phiên_bản mang_tên Deer_Park 7 tích_hợp hệ_thống tự_động cập_nhật 7 có khả_năng vá lỗi trình_duyệt chỉ với những file nâng_cấp nhỏ 7.
+Với tính_năng này 7 người_dùng sẽ không_phải tải và cài_đặt lại toàn_bộ phiên_bản khi xuất_hiện lỗi trình_duyệt 7 Tuy_nhiên 7 hệ_thống hiện_nay chưa hoạt_động 7 Theo Chris_Hofmann 7 Giám_đốc kỹ_thuật của Mozilla 7 đó là do họ muốn hạn_chế số người_dùng định thử dịch_vụ cập_nhật mới vì cần đảm_bảo trình_duyệt chạy hoàn_hảo trước_khi chính_thức ra_mắt 7.
+Alpha 1 còn có thêm tính_năng Fastback 7 cho_phép lưu 6 cache 6 những trang đã xem trước_đây vào trong một bộ_nhớ đệm để nhanh_chóng mở_ra khi bấm_nút định_hướng Back 6 trở_lại trang_trước 6 hay Forward 6 trở_lại trang_sau 6 7.
+Deer_Park_Alpha 1 cũng có một_số cải_tiến về công_cụ chặn pop-up 7 hỗ_trợ tốt_hơn cho hệ_điều_hành Mac_OS X 7 thêm một_vài bản vá lỗi bảo_mật và tính_năng kéo / thả để sắp_xếp lại các phím tab 7.
+Alpha 1 có_thể hoạt_động trên các phiên_bản hệ_điều_hành của Windows 7 Mac và Linux 7 Tải bản Alpha 1 tại_đây 7.

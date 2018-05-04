@@ -1,0 +1,11 @@
+PC tiệm Net không vào được máy khác trong mạng 6 1 6.
+Tôi có một tiệm Net và công_việc thường_xuyên phải làm là cài_đặt lại hệ_điều_hành 7 Nhưng gần_đây tôi gặp trường_hợp là khi cài dặt xong thì tôi muốn dùng mạng nội_bộ để coppy một_số chương_trình từ máy khác sang thì PC của tôi báo lỗi không vào được máy khác 7 Tôi không hiểu là tại đĩa Win không chuẩn hay tại tôi cài_đặt không_đúng 7 Xin chỉ giùm tôi với 7 Tôi xin cảm_ơn 7.
+Nguyễn_Trọng_Thuỷ.
+Hồi_âm 7.
+Ban Nguyen_Trong_Thuy_Than men 7 Ban_can_xem_lai 1 so van de nhu sau 7 truoc khi cai lai he dieu hanh may ban van_vao_duoc mang noi bo phai khong 7 va sau_khi cai lai thi khong the vao_duoc mang LAN 7 Đieu do cung that de hieu_vi khi ban cai lai he dieu hanh_thi cac thong so nhu 6 computer_description 6 va 6 work_group 6 cua ban la bo trong 7.
+Vi_the ban can phai khai_bao lai nhu sau 7 ban_chon properties o bieu tuong 6 my computer 6 chon the 6 computer_name 6 vao 6 change 6 sau do dat ten cho may ban can dat va dat 6 work_group 6 theo he thong may cua quan net ban dang dung sau do 6 OK 6 la xong 7 De tim work_group mang noi bo cua ban thi ban_vao mot may cu chua cai dat lai he dieu hanh tai_quan ban va lam lan luot theo cac buoc tren thi ban se doc duoc thong so do 7 Sau_khi dat lai thong so ban_nen khoi dong lai may 7.
+Chuc ban thanh_cong 7.
+Nguyen_Le_Minh.
+Bạn không cho tôi biết là khi copy có báo lỗi gì không 7 hay trước_khi vào Win có báo lỗi gì không 7 đầu_tiên việc cần giải_quyết là bạn xem_lại tên Computer của bạn có bị trùng hay_không 7 IP đặt có đúng không Workgroup đặt giống_nhau không 7 Nếu các điều_kiện trên đều đúng bạn mới tiến_hành kiểm_tra tiếp đến phần_cứng 6 card mạng của mình 6 7 Bạn hãy thử đem card mạng từ máy khác xem có vào mạng và copy được hay_không 7.
+Chúc bạn thành_công 7 . alexhien.
+Bạn Nguyễn_Trọng_Thuỷ thân_mến 7 Trường_hợp của bạn hỏi tôi cũng có ý_kiến đồng_nhất với 1 người đã trả_lời cho bạn 7 nhưng tôi cũng đóng_góp thêm cho bạn một vấn_đề này nữa 7 bạn cần kiểm_tra lại tình_trạng máy_tính của bạn 6 cái mà bạn không vào được nó đó 6 7 Xem nó có ở tình_trạng bật Fire_Wall hay_không 7 Nếu có thì bạn phải Tunn_off nó đi thì bạn mới vào máy đó được 7 Vì nếu_như bạn cài bản Win 1 thì bức_tường lửa sẽ ngăn bạn lại 7 Chúc bạn thành_công 7.

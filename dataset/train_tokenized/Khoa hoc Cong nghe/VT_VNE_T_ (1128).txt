@@ -1,0 +1,5 @@
+Xuất_hiện Trojan đầu_tiên trên PDA. Hôm_qua 7 một_số hãng sản_xuất phần_mềm chống virus tuyên_bố đã phát_hiện loại Trojan mở cổng_sau đầu_tiên được lập_trình để tấn_công các máy_tính bỏ_túi chạy hệ_điều_hành Windows CE 7.
+Hãng bảo_mật Symantec đặt_tên loại Trojan mới này là Backdoor 7 Bardor 7 A 7 còn Kasperky gọi nó là Backdoor 7 WinCE 7 Brador 7 a 7 Khi được cài_đặt trên Pocket PC 7 nó sẽ cho_phép kẻ tấn_công điều_khiển thiết_bị thông_qua kết_nối với Internet 7.
+Theo Symantec 7 thiết_bị cầm_tay bị lây_nhiễm sẽ truyền địa_chỉ IP tới hacker qua một cổng_sau hoặc lỗ_hổng bảo_mật 7 Sau_đó 7 nó sẽ mở một kênh liên_lạc tại cổng 1 và chờ lệnh tiếp_theo của kẻ tấn_công 7.
+Symantec cho_biết 7 Backdoor 7 Bardor 7 A được một mạng trao_đổi mẫu virus của hãng gửi đến để phân_tích chứ chưa thấy xuất_hiện trên Internet 7 Vì_thế 7 hãng xếp Trojan mới ở cấp 1 7 bậc thấp_nhất trong bảng mức_độ nguy_hiểm gồm 1 mức 7.
+Symantec và Kaspersky đều đã cập_nhật phần_mềm diệt virus để bảo_vệ người_dùng 7.

@@ -1,0 +1,6 @@
+Microsoft điều_tra 1 lỗi ở XP Service_Pack 1.
+Hãng phần_mềm khổng_lồ đang tìm_hiểu những thông_tin của hãng bảo_mật Finjan_Software 6 Mỹ 6 cung_cấp hôm 4 7 theo đó bản nâng_cấp an_ninh cho hệ_điều_hành Windows XP 6 1 6 có rất_nhiều lỗi nghiêm_trọng 7.
+Theo Gil_Arditi 7 Giám_đốc bảo_mật của Finjan 7 một_số khiếm_khuyết ở nhóm nói trên có_thể bị hacker lợi_dụng để giành quyền khống_chế hoàn_toàn một hệ_thống hoặc tải mã tấn_công vào máy_tính nạn_nhân 7.
+Finjan đã thông_báo chi_tiết cho Microsoft về những lỗi này 7 đồng_thời còn thiết_kế hẳn một mẫu chứng_minh khả_năng lỗ_hổng bị khai_thác để Microsoft tham_khảo 7.
+Finjan tuyên_bố họ không công_bố chi_tiết những khiếm_khuyết này ra đại_chúng cho tới khi_nào Microsoft phát_hành bản vá lỗi cho tất_cả 7 Tuy_nhiên 7 trong một báo_cáo liên_quan tới những lỗ_hổng này 7 công_ty ứng_dụng bảo_mật vẫn trình_bày sơ_bộ phương_thức mà hacker có_thể lợi_dụng lỗ_hổng 1 để truy_nhập file từ_xa 7 tăng quyền ưu_tiên điều_khiển hệ_thống 7 chạy mã phá_hoại mà không cần sự tương_tác của chủ máy 7 hoặc thậm_chí có_thể khống_chế PC mục_tiêu khi máy_tính duyệt một trang_web 7.
+Microsoft chưa khẳng_định bất_cứ_điều_gì liên_quan đến 1 lỗ_hổng nói trên 7.

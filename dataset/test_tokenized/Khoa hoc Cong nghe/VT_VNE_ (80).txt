@@ -1,0 +1,5 @@
+Trục_trặc với các menu trong máy nối_mạng 6 1 6.
+Tôi có một thắc_mắc nhỏ như_sau mong các_bạn giúp tôi hiểu sâu hơn về mạng_máy_tính 7 Tôi đang sử_dụng mạng của công_ty 7 khi tôi truy_cập_Internet 7 tôi muốn thiết_lập trang Start bằng cách vào ToolsInternet_Options 7 nhưng máy không cho vào khi tôi_kích Internet_Options 7 Tôi nghĩ là do regedit nhưng tôi cũng không thấy lệnh RUN ở nút Start nữa 7 Tôi vào ổ C chứa thư_mục Windows cũng không_được 7 máy luôn đưa_ra những thông_báo lỗi 7 Mặt_khác ở trong Windows_Explorer ổ_đĩa A và C không tìm_thấy 7 Một_số MENU bị khoá cứng 7 Lệnh RUN cũng biến_mất luôn 7 Vậy xin cho tôi hỏi muốn máy_tính trở_lại bình_thường thì_phải làm thế_nào 7 Nguyên_nhân là gì 7 Tôi xin cảm_ơn 7.
+Nguyễn_Ngọc_Dũng.
+Hồi_âm 7 . Quản_trị mạng sử_dụng group_policy khoá các yếu_tố này để người khác không_thể 6 nghịch 6 và gây lỗi cho máy trạm 7 Đây là một biện_pháp giúp giảm chi_phí hỗ_trợ 7 Bạn không_có cách nào để máy của bạn trở_lại bình_thường ngoài việc hỏi quản_trị mạng 7 Nếu là máy của bạn ở nhà thì bạn có_thể format lại ổ_cứng rồi cài lại hệ_điều_hành từ_đầu 7.
+Dong_Ngo.

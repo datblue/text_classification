@@ -1,0 +1,6 @@
+Lỗi font chữ 6 1 6 . Thời_gian gần_đây 7 khi gõ văn_bản bằng Microsoft_Word 6 Office XP 6 7 dùng vietkey hoặc unikey 7 kiểu 1 hay Unicode 7 tôi đều gặp một hiện_tượng như_sau 7 Khi_định gõ chữ 6 ý 6 tức_là hai kí_tự y + s 7 thì màn_hình xóa trắng kí_tự 6 ý 6 và phần hiển_thị Language hiển_thị ngôn_ngữ là Hebrew 7 chứ không_phải là English 6 U 7 S 6 như bình_thường 7 Kiểm_tra lại style của văn_bản thì ghi là 6 Arial 7 Latin 1 7 6 Complex 6 1 7 kèm_theo một kí_tự kiểu chữ ả rập 6 6 ví_dụ khi tôi đang gõ Unicode 6 7 Các_dấu 7 các chữ khác đều gõ bình_thường 7 chỉ gặp khó_khăn khi gõ chữ 6 ý 6 Tôi đã thử đủ mọi_cách mà không làm_sao thoát được tình_trạng này 7 bỏ script 7 bỏ auto_detect_language 7 quét virus bằng BKAV và NAV đều không đưa_lại kết_quả gì cả 7 Rất mong các_bạn cho lời_khuyên để tôi có_thể giải_quyết tình_trạng này 7 Xin chân_thành cảm_ơn 7.
+Phương_Minh.
+Hồi_âm 7.
+Bạn_tắt phần AutoCorrect đi 7 Tools - AutoCorrect_Options - bỏ dấu chọn khỏi Replace_text_as_you_type - OK 7.
+Dong_Ngo.
+Chào bạn 7 Bạn vào địa_chỉ 7 2 tham_khảo cách khắc_phục chữ_ý trong Microsoft_Word 6 Office XP 6 7 Chúc bạn thành_công 7.

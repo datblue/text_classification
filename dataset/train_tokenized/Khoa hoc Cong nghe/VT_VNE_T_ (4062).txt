@@ -1,0 +1,7 @@
+Làm thế_nào để chạy System_file_checker 6 1 6.
+Tôi dùng máy cài WinXP 6 ổ C 6 7 đã copy đĩa cài_đặt vào ổ_cứng 6 ổ D 6 7 Xin được chỉ_dẫn làm cách nào để khi chạy System_file_checker không cần thêm_đĩa CD gốc vào nữa 7.
+Xin chân_thành cám_ơn 7.
+Cao_Văn_Thuỳ.
+Hồi_âm 7.
+Để tránh tình_trạng phải bỏ CD gốc vào khi bạn_chạy chức_năng SFC / SCANNOW vì thư_mục 6 folder 6 1 không_được Wins cài vào ổ_đĩa_cứng cho bạn 7 trước_khi chạy system_file_checker bạn hãy copy thư_mục 1 6 khoảng 1 MB đối_với xp 1 6 từ CD vào ổ_đĩa trước và nên lưu ở C 7 6 sẽ trở_thành c 7 1 6 7 Giờ bạn_tạo một đường_dẫn 6 path 6 bằng cách edit_registry 7 khi thay_đổi các thông_số trong thư_mục registry bạn nhớ làm một back up trước 7 startrungõ lệnh regedittìm xuống các nhánh sau_đây HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindowsCurrentVersionSetup 7 7 nhấp chuột setup nhìn vào_phía_bên_phải tìm xuống SourcePath có_thể ở đây đã có chỉ_định cho CD ROM drive 6 nếu có hay_không cũng_vậy 6 7 7 7 nhấp chuột sourcepath ở khung value_data bạn hãy đổi lại thành C 7 bạn cũng có_thể làm điều như_trên ở nhánh kế_tiếp HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows_NTCurrentVersionSourcePath 7 7 7 . TOM.
+Để chạy file_System_file_checker có vào đây 7 . 2 mến.

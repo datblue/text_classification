@@ -1,0 +1,8 @@
+Lỗi AGP 1 6 1 6 . Máy_tính_xách_tay IBM 1 7 AGP 1 Graphics_Savage / IX 1 7 1 RAM 7 HDD 1 7 CPU Intel_Pentium III 1 7 Hệ_điều_hành đang sử_dụng 7 Windows XP Pro 1 7 Khi dùng con_chuột kéo thanh_trượt trong Internet_Explorer thì xảy_ra lỗi làm treo máy 7 Thông_báo là lỗi do file 7 1 7 DLL 6 DriverFileVersion 7 1 7 4 7 1 6 7 Hiện_tượng này thường_xuyên xảy_ra 7 Xin cho_biết chi_tiết cách_giải_quyết 7.
+Huỳnh_Việt_Dũng.
+Hồi_âm 7.
+Chào bạn Dũng 7 Lỗi này có_thể do graphic_card_driver của bạn không thích_hợp 7 7 7 Bạn làm thử hai bước sau_đây coi có giúp_ích gì được không 7.
+Install lại Internet_Explorer 1 Service_Pack 1 từ Microsoft theo linkdưới đây 7 nếu máy của bạn chưa có IE 1 7 Nếu bạn chỉ dùng dial up 7 thì tốt_hơn_hết_là install_service_pack 1 cho Windows XP 7 6 nếu không_có CD service_pack 1 7 bạn có_thể yêu_cầu gửi CD trực_tiếp tư website của Microsoft 7 hoàn_toàn miễn_phí 6 7 Tham_khảo thêm ở link thứ_nhì dưói đây 7 2 tiếp 7 bạn download_driver cho graphic_card của bạn theo link này 7 2 6 khoảng 1 MB 6 7 . Liên_lạc với Tuệ_Anh qua địa_chỉ 3 nếu có thắc_mắc gì khác 7 Hy_vọng giúp_ích được cho bạn 7 và chúc bạn thành_công 7.
+Tuệ Anh_Trần.
+Loi cua ban co the do 1 nguyen_nhan 7 1 7 Loi Driver 7 1 7 Loi RAM 7.
+Cach test 7 1 7 Thay thu driver khac 7 kem theo dia main 7 neu vga_card on board 7 con co the download tren mang 7 vao google 7 va search 7 1 7 Loi_Ram 7 thi thay ram moi_vao test va cai lai driver 7 1 7 Con truong hop khong khac_phuc duoc co the goi den_so 1 7 1 7 gap anh Liem - Xuong_Dien tu - Tin hoc BTL 7.

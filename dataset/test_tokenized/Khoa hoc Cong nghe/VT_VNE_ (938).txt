@@ -1,0 +1,6 @@
+IBM tặng cơ_sở_dữ_liệu cho cộng_đồng mã mở.
+Đây là thông_báo mà Big_Blue đưa_ra hôm_qua nhằm mục_đích phát_triển các ứng_dụng được viết bằng_ngôn_ngữ_lập_trình Java 7 Món quà này trị_giá 1 triệu USD. IBM tặng Hiệp_hội phi lợi_nhuận Apache hơn 1 dòng mã phần_mềm cơ_sở_dữ_liệu Cloudscape của mình 7 viết bằng ngôn_ngữ Java 7 Phần_mềm này sẽ được dự_án mã mở đặt_tên là Derby 7 được lập_trình nhằm mục_đích sử_dụng trong các ứng_dụng như website nhỏ 7 ứng_dụng văn_phòng và các hệ_thống bán_hàng 7.
+Đây là một_trong_những món quà lớn_nhất trong sáng_kiến mã mở và nó cũng là sản_phẩm thương_mại đầu_tiên của IBM dành tặng_cho cộng_đồng mã nguồn mở 7.
+Janet_Perna 7 Tổng_giám_đốc bộ_phận quản_lý dữ_liệu của IBM 7 cho_biết 7 Bằng phần_mềm mã mở Derby 7 chúng_tôi hy_vọng sẽ thúc_đẩy phát_triển các ứng_dụng dựa_vào Java và nâng_cao quá_trình đổi_mới của cộng_đồng Linux và Java 7 Theo ông 7 IBM cũng hy_vọng động_thái này sẽ tạo ra nhiều cơ_hội kinh_doanh mới 7.
+Derby được khai_thác trong hơn 1 sản_phẩm của IBM 7 trong_đó có dòng WebSphere 7 Nó có_thể được thay_đổi và phát_hành miễn_phí với mục_tiêu làm phần_mềm thay_thế các sản_phẩm trước_đây của các công_ty khác 7 trong_đó có cả Microsoft 7.
+Theo đại_diện IBM 7 hãng và Apache có kế_hoạch hợp_tác phát_triển Derby như một đợt chào_hàng 6 cơ_sở_dữ_liệu mã mở hàng_đầu 7.

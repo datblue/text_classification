@@ -1,0 +1,5 @@
+Bảo_vệ máy_chủ bằng AnalogX_PortBlocker.
+Khi bạn_chạy một server trên PC của mình 7 nó sử_dụng các cổng để cho_phép máy khác có_thể kết_nối 7 Vì_thế 7 nếu bạn dùng một server vốn chỉ dành_cho liên_lạc nội_bộ 7 thì việc ngăn_cản người_ngoài truy_cập máy_chủ là điều không đơn_giản 7.
+Với AnalogX_PortBlocker 7 bạn có_thể phong_tỏa cổng Internet của hầu_hết các loại máy_chủ 7 khiến chúng trở_nên không_thể tiếp_cận đối_với những máy_tính khác trên Internet 7 Bên_cạnh việc khóa các port này 7 bạn còn có_thể xác_định được tất_cả những mưu_toan truy_cập được thực_hiện từ các máy khác 7 . Phần_mềm được lập_trình để bảo_vệ những loại máy_chủ phổ_biến nhất cho_nên nó không đòi_hỏi bất_cứ sự_điều_chỉnh nào đối_với hầu_hết người sử_dụng 7 Tuy_nhiên 7 nếu loại server mà bạn đang_dùng không_có trong danh_mục sẵn có_của chương_trình thì bạn vẫn có_thể điều_chỉnh để thực_hiện việc khóa cổng 7.
+Người viết AnalogX_PortBlocker lưu_ý chương_trình này chưa_đủ mạnh để đóng cả vai_trò của một tường lửa phòng_vệ toàn_diện 7 Nhưng chắc_chắn nó sẽ cho_phép bạn yên_tâm chạy một server được truy_cập duy_nhất trên mạng nội_bộ 7.
+Để_tải miễn_phí AnalogX_PortBlocker 7 bấm vào đây 7.

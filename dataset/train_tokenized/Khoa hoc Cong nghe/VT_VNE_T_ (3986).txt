@@ -1,0 +1,5 @@
+Máy_chủ gặp lỗi sau bão 6 1 6.
+Chào ban biên_tập VnExpress 7 . Công_ty tôi đang_dùng máy_chủ IBM Xseries 1 7 Sau hôm bão ở Quảng_Ninh 7 máy_chủ của chúng_tôi khởi_động lên thấy xuất_hiện lỗi như_sau 7 NTLDR file_is_missing_press_ctrl + alt + del to restart 7.
+Mong giải_đáp giúp tôi 7 Chân_thành cám_ơn 7.
+Hoàng_Đức_Huy.
+Hồi_âm 7 . Chắc_chắn không_phải tại bão vì chỉ_có một_mình server của bạn bị trục_trặc 7 Tôi đã gặp trường_hợp tương_tự 7 Có một_số khả_năng và cách xử_lý sau 7 . 1 7 Ai_đó đã xóa mất file hệ_thống hoặc file hệ_thống tự_hỏng 7 Bạn phải_biết chính_xác file bị thiếu là file nào 7 nằm ở đâu sau_đó tìm file bổ_sung 7 Tuy_nhiên 7 nếu là file hệ_thống liên_quan đến các thiết_lập cấu_hình thì rất khó có_thể tìm_được file bổ xung 7 không cẩn_thận có_thể làm hệ_thống hỏng nặng thêm 7 Bạn có_thể xử_dụng tính_năng phục_hồi 6 về tình_trạng hoạt_động tốt gần nhất 6 của Win_server 1 hoặc cài đè 7 . 1 7 Vẫn là mất file hệ_thống nhưng do bị virus phá 7 quét_sạch virus rồi thử khắc_phục như_trên 7 . Tuy_nhiên 7 tốt_nhất và có_thể nhanh nhất là bạn format rồi cài lại HĐH 7.

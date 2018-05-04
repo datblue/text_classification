@@ -1,0 +1,7 @@
+Cách config 1 card mạng trên Win_Server 1 6 1 6.
+Xin cho hỏi về cách config 1 card mạng trên Win_server 1 như_thế_nào vậy 7 Phòng_máy của mình có 1 máy client thôi 7 nhưng mình_muốn gắn thêm 1 card mạng nữa để cho mạng chạy nhanh hơn 1 chút 7 Mong các_bạn chỉ giúp mình nhé 7 Xin cảm_ơn nhiều 7.
+Duy_Nam.
+Hồi_âm 7.
+Toi khong nghi la neu ban co 1 card mang tren Win_Server 1 thi se lam cho mang chay nhanh hon_nhieu lam dau 7 Truong hop su dung 1 NIC la chi de cho multi-home_network 7 Trong truong hop nay ta dat cho moi NIC mot dia_chi IP rieng re va tat ca_ca may noi mang se thay nhau_nhung khong the chia xe files tu 6 home 6 nay sang 6 home 6 khac duoc 7.
+Bui_Hung.
+Ban muon gan 1 card mang de muon lam cho mang nhanh hon 7 7 7 7 ban co nghe noi la 7 co 1 bat nuoc day 7 Sau do de them 1 bat nuoc nua o ben canh thi co the_bien cai bat nuoc kia co ngon khong 7 7 7 7 Neu ban muon mac them 1 card mang nua de chia_se mang cho may khac thi duoc 7 Neu chi de cho mang nhanh hon thi cai nay khong can lap them_vao 7 Chuc vui 7.

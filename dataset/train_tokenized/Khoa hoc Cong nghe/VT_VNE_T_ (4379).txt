@@ -1,0 +1,7 @@
+Cách_dùng Yahoo với Outlook_Express 1 6 1 6.
+Em dùng hòm_thư Yahoo nhưng bây_giờ muốn dùng Outlook_Exprsess 1 để check_mail thi phải thao_tác như_thế_nào 7 Em đã lập new_account nhưng không_biết chọn cái_nào 7 HTTP 7 1 7 IMAP và làm tiếp như_thế_nào.
+Nguyễn_Hoàng_Vinh.
+Hồi_âm 7.
+Ban khong biet thi_vao google hoac vao day tim.
+Nghiem_Tuan.
+Bạn dùng hòm_thư Yahoo khi bạn đăng_ký loại Free thì yahoo không cung_cấp POP và SMTP 7 vì_vậy bạn không_thể nào dùng Outlook_Express gửi và nhận thư được 7 Ngược_lại nếu bạn đăng_ký hòm_thư yahoo với loại có trả phí hàng_năm thì Yahoo sẽ cung_cấp_cho_bạn POP và SMTP 7 khi_đó bạn có_thể dùng Outlook_Express gửi và nhận thư 7 Mình xin giới_thiệu bạn có_thể dùng GMAIL để gửi nhận thư 7 nó vừa FREE và vừa cung_cấp POP và SMTP 7 dung_lượng còn lớn_hơn yahoo có_thể dùng Outlook_Express gửi và nhận thư 7.

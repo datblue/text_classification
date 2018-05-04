@@ -1,0 +1,7 @@
+Những nguyên_tắc bố_trí cầu_thang nhà phố 6 1 6 Một loại_thang 1 đợt 7 đợt_ít 7 đợt nhiều 7 JRArchitect 6 Có_thể phân_biệt cầu_thang theo hai loại 7 thang thẳng và thang tròn 7 Thang thẳng có_thể là loại một đợt 7 hai đợt hay ba đợt 7.
+Thang tròn là kiểu cầu_thang mà các bậc xoay_quanh một trục 7 Lựa_chọn kiểu_thang nào phụ_thuộc vào vị_trí và thế đất 7.
+Thang một đợt làm rộng diện_tích sử_dụng cho tầng trệt nhưng lại tốn diện_tích cho các tầng trên vì phải tạo hành_lang đi bên_cạnh 7 Thang hai đợt diện_tích chiếm đất ít_nhất 7 nhưng các đợt dưới thường tối và bí 7.
+Thang tròn 7 6 Duvinage 6.
+Thang ba đợt thông_thoáng 7 giao_thông tốt 7 kết_hợp chiếu_sáng nếu tum_thang làm mái kính 7 mái nhựa trong 7 tốn diện_tích nhất 7.
+Trong điều_kiện đất rộng_rãi 7 nên bố_trí thang 1 đợt kết_hợp làm khoảng không_gian thông_thoáng chung của cả ngôi_nhà 7 Các bậc_thang có_thể bố_trí chia_đều cho mỗi đợt để tạo sự_cân_bằng 7 nhưng cũng có_thể bố_trí kiểu đợt nhiều đợt ít để tạo những chiếu_nghỉ ở các vị_trí đẹp 7.
+Thang tròn tiết_kiệm không_gian hơn thang thẳng 7 thích_hợp với những ngôi_nhà 6 căn_phòng 6 có diện_tích hẹp 7 Thang tròn còn là một điểm nhấn_tạo dáng đẹp cho công_trình 7 thường hay sử_dụng ngoài_trời làm thang phụ_dẫn lên tầng hai hoặc tầng_thượng 7 Nhưng bất_lợi của loại thang này là khó đi và khó mang vác đồ_đạc 7 Thang tròn không nên sử_dụng cho những trần_nhà quá cao 7 thường chỉ thích_hợp với độ_cao dưới 1 m 7 để đỡ có cảm_giác chóng_mặt khi đi_lại 7.

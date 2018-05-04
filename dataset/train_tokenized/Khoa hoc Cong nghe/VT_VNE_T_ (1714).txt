@@ -1,0 +1,7 @@
+Hỏi về HDD 6 1 6 . Máy_tính tôi đang_dùng là 1 cho_nên không_thể cài Wind XP được 7 Tôi muốn format ổ_cứng và cài lại win me 7 Nhưng khi tôi format thì máy báo là ổ_cứng không hỗ_trợ format 7 Vậy làm thế_nào để tôi có_thể định_dạng lại ổ_đĩa và cài tiếp win me được 7 Tôi có nghe_nói là dùng lệnh fdisk 7 vậy xin hỏi nếu dùng lệnh này thì_có phải thiết_lập trong BIOS thế_nào 7 khởi_động từ ổ_đĩa nào 7 và cú_pháp của lệnh này ra sao 7 Xin chân_thành cám_ơn 7.
+Hoang_Yen.
+Hồi_âm 7 . Trước_khi gửi thắc_mắc 7 bạn nên đọc_lại các bài đã được trả_lời cùng một vấn_đề 7 bạn hãy vào đây để xem câu_trả_lời 1 7 1 7 1 7 v 7 7 7 v 7 7 7.
+Nguyễn_Vũ_Hiến.
+Bạn không cần_phải vào BIOS đểđó đểđổi lại thứ_tự khởi độđộng theo thứ_tự sau đâđỉa A 7 7 1 = ổ đỉđổi_ổ đỉđỉa cứng 7 đểđỉa_mềm 4 đảđuợc format sẳn bỏ_vào ổ đỉ.
+khi xong bạn khởi độđỉa_mềm 4 đểđiều nầy nếu trên đỉđỉa_nhé đôđiểu_đó.
+1- startrungỏ_lệnh regeditok nhấp chuột editfind gỏ chử product_keyfind bạn sẻ nhìn_thấy bên tay_phải nhớ lấy viết ghi lại đô . cách_thức format 7 7 bỏ đỉđỉa A 7 khởi độđỉa cd_drive 7 ở tại A 7 gỏ lệnh format C 7 nhấn enter 7 khi đuợY enter 7 khi xong format ở phần volume nên bỏ_trống bằng cách nhấn enter 7 ví_dụ nhu cd_drive là E tại A 7 gỏ lệnh E 7 setup nhấn enter_win sẻ test thử truớc khi bỏ cd vào đểđỉa vào cd_drive_win sẻ tự độđây download đỉđộng cho winme nhớ chọn winme_custom 7 link_download 2.

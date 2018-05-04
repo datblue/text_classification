@@ -1,0 +1,5 @@
+Lỗi Windows nghiêm_trọng đang bị khai_thác.
+Microsoft vừa đưa_ra cảnh_báo về một lỗ_hổng chưa được vá_trong hệ_điều_hành và đang bị tội_phạm trực_tuyến lợi_dụng để tấn_công máy_tính của người sử_dụng 7.
+Hacker khai_thác lỗ_hổng trong cách Windows quản_lý định_dạng file đồ_họa có đuôi 7 wmf 7 Một ảnh 7 wmf chứa mã nguy_hiểm được cài bị phát_tán qua qua thư rác sẽ cho_phép hacker xử_lý mã ngay trên hệ_thống của nạn_nhân 7 Sau_đó 7 chúng có_thể cài phần_mềm gián_điệp hoặc thu_nạp máy_tính vào mạng PC bị khống_chế 6 zombie 6 để tấn_công từ_chối dịch_vụ về_sau 7.
+Microsoft vẫn đang nghiên_cứu vấn_đề và miếng vá có_thể sẽ chỉ ra_mắt trong bản_tin an_ninh tháng 1 tới 7.
+Hãng bảo_mật Đan_Mạch Secunia đã đánh_giá lỗi này ở mức 6 vô_cùng nguy_hiểm 6 7 Công_ty diệt virus_F-Secure cũng khẳng_định họ đã chứng_kiến ít_nhất 1 sâu máy_tính khác_nhau mà hãng đặt_tên là PFV 7 Exploit 7 A 7 7 B và 7 C đang cố khai_thác lỗ_hổng 7 . Tổ_chức bảo_mật máy_tính Mỹ US-CERT đã công_bố một_số biện_pháp phòng_ngừa nhưng khuyến_cáo rằng nguy_cơ sẽ không_thể bị dẹp_bỏ cho_đến_khi Microsoft phát_hành bản_vá 7.

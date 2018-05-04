@@ -1,0 +1,39 @@
+Tuyển_sinh 1 7 Có_thể hoãn thi_trắc_nghiệm.
+Trước sựphản_đối của dư_luận 7 tối 4 7 một thành_viên Ban chỉ_đạo tuyển_sinh cho VnExpress biết 7 nhiều khả_năng sẽ không tiến_hành thi_trắc_nghiệm trong kỳ_thi ĐH 7 CĐ 1 7 Quyết_định chính_thức sẽ được Bộ_trưởng Nguyễn_Minh_Hiển đưa_ra tại Hội_nghị tuyển_sinh ngày 4 7 . Lý_do hoãn thi_trắc_nghiệm 7 theo vị quan_chức này 7 là có nhiều ý_kiến cho_rằng 7 nếu áp_dụng ngay trong năm_nay sẽ quá vội_vàng 7 Công_tác tập_huấn thi 7 chấm_thi cũng_như các điều_kiện về cơ_sở vật_chất của các trường chưa đảm_bảo 7 Về phía học_sinh 7 các em chưa được quen với phương_pháp thi mới 7 có_thể tạo tâm_lý không_tốt trong phòng_thi 7.
+Cũng theo nguồn_tin trên 7 kết_luận cuối_cùng về việc hoãn thi_trắc_nghiệm sẽ được Bộ_trưởng Nguyễn_Minh_Hiển công_bố chính_thức tại Hội_nghị thi và tuyển_sinh toàn_quốc diễn_ra ngày 4 7 Dự_kiến 7 phương_pháp thi_trắc_nghiệm ở cả_hai kỳ_thi tốt_nghiệp THPT và tuyển_sinh ĐH 7 CĐ sẽ bắt_đầu áp_dụng từ năm 1 7 khi đã chuẩn_bị chu_đáo 7.
+Tháng 4 7 Bộ GDĐT chính_thức quyết_định sử_dụng phương_pháp thi_trắc_nghiệm Ngoại_ngữ trong hai kỳ_thi tốt_nghiệp và tuyển_sinh ĐH 7 CĐ 1 7 Tháng 4 7 Bộ đã có văn_bản hướng_dẫn thi_trắc_nghiệm gửi các địa_phương 7 Cục_trưởng Khảo_thí và kiểm_định Nguyễn_An_Ninh từng khẳng_định 7 đơn_vị này đã chuẩn_bị một ngân_hàng đề_thi đủ mạnh 7 Các loại máy_móc kỹ_thuật 7 phần_mềm 7 7 7 phục_vụ chấm thi_trắc_nghiệm cũng đã được trang_bị 7.
+Theo quan_điểm của ông Ninh 7 đối_với môn Ngoại_ngữ 7 thi_trắc_nghiệm không_phải là điều mới_mẻ bởi đề Ngoại_ngữ những năm_qua cũng có 4 % câu_hỏi dạng trắc_nghiệm 7 Học_sinh nếu nắm_chắc kiến_thức thì sẽ làm được bài 7 Thế_nhưng tại Hội_nghị tuyển_sinh 6 ảo 6 7 nhiều thầy_cô 7 học_sinh lại không nghĩ vậy 7.
+Thi ngay trắc_nghiệm 7 Bộ GDĐT quá vội_vàng 6 4 6.
+Mở phòng_họp 6 ảo 6 7 Bộ GDĐT tiết_kiệm hàng tỷ đồng 6 4 6.
+Đề tốt_nghiệp THPT môn Ngoại_ngữ gồm 1 câu 6 4 6 . Tuyển_sinh 1 7 Đề_thi Ngoại_ngữ ít_nhất 1 câu 6 4 6.
+Năm 1 mức sàn đại_học dự_kiến 1 điểm 6 4 6.
+Xem tiếp.
+Độc_giả có_thể gửi ý_kiến tại_đây 7 . function_CheckSubmit 6 6 . 6 document 7 ContactUs 7 fName 7 value = Trim 6 document 7 ContactUs 7 fName 7 value 6 7 . if 6 document 7 ContactUs 7 fName 7 value = = 6 6 6 . 6 alert 6 6 Xin hay nhap Ho ten 7 6 6 7 . document 7 ContactUs 7 fName 7 focus 6 6 7 . return 7 . 6 if 6 6 SEmail = CheckEmailAddress 6 document 7 ContactUs 7 fEmail 7 value 6 6 = = 6 6 6 . 6 alert 6 6 Dia_chi Email khong hop le 7 6 6 7 . document 7 ContactUs 7 fEmail 7 focus 6 6 7 . return 7 . 6 document 7 ContactUs 7 fEmail 7 value = SEmail 7 . document 7 ContactUs 7 fTitle 7 value = Trim 6 document 7 ContactUs 7 fTitle 7 value 6 7 . if 6 document 7 ContactUs 7 fTitle 7 value = = 6 6 6 . 6 alert 6 6 Xin hay nhap Tieu de 7 6 6 7 . document 7 ContactUs 7 fTitle 7 focus 6 6 7 . return 7 . 6 document 7 ContactUs 7 fContent 7 value = Trim 6 document 7 ContactUs 7 fContent 7 value 6 7 . if 6 document 7 ContactUs 7 fContent 7 value = = 6 6 6 . 6 alert 6 6 Xin hay Noi_dung 7 6 6 7 . document 7 ContactUs 7 fContent 7 focus 6 6 7 . return 7 . 6 document 7 ContactUs 7 fCateDesc 7 value = document 7 ContactUs 7 fCategory 7 options 6 document 7 ContactUs 7 fCategory 7 selectedIndex 6 7 text 7 . if 6 7 confirm 6 6 Gui_y_kien toi Ban bien_tap 7 6 6 6 . return 7 . vWH = 1 7 . vWW = 1 7 . vWN = 6 ContactUs 6 7 . winDef = 6 status = no 7 resizable = no 7 scrollbars = no 7 toolbar = no 7 location = no 7 fullscreen = no 7 titlebar = yes 7 height = 6 7 concat 6 vWH 6 7 concat 6 6 7 6 6 7 concat 6 6 width = 6 6 7 concat 6 vWW 6 7 concat 6 6 7 6 6 7 . winDef = winDef 7 concat 6 6 top = 6 6 7 concat 6 6 screen 7 height - vWH 6 / 1 6 7 concat 6 6 7 6 6 7 . winDef = winDef 7 concat 6 6 left = 6 6 7 concat 6 6 screen 7 width - vWW 6 / 1 6 7 . newwin = open 6 6 6 7 vWN 7 winDef 6 7 . document 7 ContactUs 7 action = 6 / ContactUs / AddSubmit 7 asp 6 7 . document 7 ContactUs 7 target = vWN 7 . document 7 ContactUs 7 submit 6 6 7 . 6 Họ tên.
+Email.
+Gửi tới.
+Ban Biên_tập.
+Ban Khoa_học.
+Ban Kinh_doanh.
+Ban Pháp_luật.
+Góp_ý_Luật Cạnh_tranh.
+Góp_ý_Luật_Chính_quyền địa_phương.
+Góp_ý_Luật_Chống bán_phá_giá.
+Góp_ý_Luật Đất_đai.
+Góp_ý_Bộ luật_Tố_tụng_hình_sự.
+Ban Sức_khoẻ.
+Ban Thế_giới.
+Ban Thể_thao.
+Ban Văn_hoá.
+Ban Vi_tính.
+Ban Xã_hội.
+Ban Ôtô Xe_máy.
+Ban Bạn_đọc.
+Tìm người_quen.
+Mục Tâm_sự.
+Mục Vui_cười.
+Tiêu_đề.
+Nội_dung.
+Gõ tiếng_Việt 7.
+Off.
+Telex . VNI. VIQR.
+Với Internet_Explorer 1 trở_lên 7 bạn có_thể nhập tiếng_Việt theo kiểu Telexmà không cần bộ_gõ 7 . if 6 6 d = GetPostVariable 6 6 d 6 7 6 6 6 6 7 = 6 6 6 . 6 SetSelectValue 6 document 7 ContactUs 7 fCategory 7 d 7 toLowerCase 6 6 6 7 . 6 document 7 ContactUs 7 fName 7 value = UnicodeGet 6 getCookie 6 6 Visitor 7 Name 6 7 6 6 6 6 7 . document 7 ContactUs 7 fEmail 7 value = getCookie 6 6 Visitor 7 Email 6 7 6 6 6 7 . if 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / van-hoa 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / kinh-doanh 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / the-thao 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / euro 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / vi-tinh 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / xa-hoi 6 6 6 = 1 6 3 . switch 6 getCookie 6 6 Unikonv 6 7 6 1 6 6 6 . 6 case 6 1 6 7 . kmode = 1 7 . kfont = 6 tcvn 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 vni 6 7 . break 7 . case 6 1 6 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 1 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 viqr 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 1 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 vps 6 7 . break 7 . default 7 . kmode = 1 7 . kfont = 6 1 6 7 . break 7 . 6 initVietTyper 6 kmode 7 kfont 6 7.

@@ -1,0 +1,8 @@
+- Mở file ảnh muốn tạo sự chuyển_động 6 hình 1 6 . - Chọn công_cụ Polygonal_Lasso_Tool vẽ chọn xung_quanh đối_tượng.
+- Chọn Layer - New - Layer Via Copy để tạo ra bản_sao của đối_tượng.
+- Nhấn Ctrl + T 7 kéo handle ở góc cho nhỏ một_chút và quay đối_tượng một góc nhỏ để tạo_sự_thay_đổi trong_lúc chuyển_động 6 hình 1 6 . - Tương_tự 7 trong bảng Layers tạo tiếp ba bản_sao mới và lần_lượt làm_theo bước trên 6 kéo nhỏ và quay đối_tượng một_chút 6 để sắp_xếp thành một chuỗi chuyển_động liên_tục 6 hình 1 7 1 6 . - Trong bảng Layers 7 chọn Layer 1 copy rồi giảm_giá trị Opacity của layer này còn 1 %.
+- Tương_tự 7 các Layer 1 copy 1 7 Layer 1 copy 1 7 Layer 1 copy 1 giảm Opacity xuống 1 % 7 1 % 7 1 % 6 hình 1 6 . - Trong bảng Layers 7 chọn Layer 1 copy.
+- Chọn Filter - Blur - Radial_Blur 7 với thông_số 7.
+Amount 7 1.
+Chọn Blur_Method 7 Spin.
+Chọn Quality 7 Good 6 hình 1 7 1 6 . - Tương_tự 7 lặp_lại bước trên với các Layer 1 copy 1 7 Layer 1 copy 1 7 Layer 1 copy 1 . - Ta được kết_quả như hình 1 7.

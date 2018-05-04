@@ -1,0 +1,11 @@
+Màn_hình không hoạt_động 6 1 6.
+Tôi dùng máy_tính chưa lâu 7 vừa_rồi khi bật máy lên thì thấy trên màn_hình hiện lên mầu đen giữa màn_hình hiện lên ô có dòng chữ 7 bên_trên 7 out of_frequency_range 7 Ở giữa có 1 ô mầu 7 đỏ 7 xanh 7 xanh_đậm 7 Bên_dưới 7 set resolution_lowre_or_see_monitor_users_guide 7.
+Tôi làm cách nào màn_hình cũng không_đổi sau khoảng 4 giây thì màn_hình tắt nhưng cpu vẫn làm_việc 7 Xin cho tôi hỏi cách khắc_phục tình_trạng này như thế_nào 7 Xin cảm_ơn rất_nhiều 7.
+Lê_Văn_Sơn.
+Hồi_âm 7.
+Chào bạn 7 7 Hiện_tượng của bạn như_thế có nghĩa_là độ_phân_giải màn_hình của bạn đã chỉnh lên độ_phân_giải_cao mà màn_hình không chịu được 7 Bạn hãy khởi_động lại máy_tính 7 Sau_đó vào ấn 1 vào chế_độ safemode 7 Bạn chỉnh_lại độ_phân_giải thấp xuống 7 có_thể phải chỉnh cả 6 Screen_refresh_rate 6 thấp hơn_nữa thì màn_hình của bạn có_thể hiện_thị được 7 Chữ trên màn_hình của bạn báo rằng màn_hình không thể_hiện thị do độ_phân_giải lớn dẫn đến tình_trạng out of_frequency_range 7 Thân 7.
+Tuấn_Anh.
+Theo_minh biet thi bat man hinh len 7 ban nhan nut phai chuot 7 chon Properties 7 Chon Setting 7 ngay cho Screen_resolution ban_chon 1 by 1 neu la man hinh 1 inch 7 chon 1 by 1 neu la 1 inch 7.
+Chuc_Ban_Thanh_Cong 7.
+Tat Vi_Cuong.
+Bạn bật máy lên vào Safe_Mode 6 nhấn_phím 1 khi máy bắt_đầu khởi_động vào Windows rồi sử_dụng phím mũi_tên lên xuống để chọn Safe_Mode trên danh_sách 7 nhấn Enter sau_khi chọn xong 6 7 Trong Safe_Mode 7 1 7 Bấm chuột phải vào một chỗ_trống trên màn_hình 7 chọn 6 Properties 6 1 7 tab 6 Settings 6 chọn nút 6 Advanced 6 1 7 Tab 6 Monitor 6 bạn chuyển giá_trị của 6 Screen_refresh_rate 6 xuống 1 hertz 1 7 Nhấn OK rồi khởi_động lại máy 7.

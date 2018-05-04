@@ -1,0 +1,4 @@
+Có_thể nâng_cấp từ Celeron lên Pentium 1 7 6 1 6 . Hiện_tại tôi đang_dùng một máy PC của Compaq_presario 1 7 model 1 7 chạy_chip celeron 1 GHZ 7 Tôi đã nâng_cấp nhiều chức_năng cho máy song còn phần quan_trọng nhất_thì không_biết có_thể không 7 Theo tôi biết thì cần có socket loại 1 thì có_thể tương_thích cho pen 1 7 ngoài_ra lobo phải hỗ_trợ tốc_độ cao_hơn 7 Vậy có_thể xem chi_tiết những thông_tin đó ở đâu 7 Xin cảm_ơn mọi_người 7.
+Võ_Hoài_Nam.
+Hồi_âm 7.
+Celeron 1 thì sẽ có lõi là Pen 1 rồi 7 Tuy_nhiên 7 vì máy của bạn là máy 6 xịn 6 việc nâng_cấp sẽ khó hơn một_chút vì ngay_cả khi nếu main của bạn sử_dụng socket 1 thì vẫn có khả_năng bộ nguồn 6 power_supply 6 không hỗ_trợ tốt Pentium 1 7 Nhìn_chung 7 cụ_thể với truờng_hợp của bạn thì an_toàn nhất là không_được nâng_cấp lên Pen 1 có tốc_độ quá 1 6 tốt_nhất là thấp hơn 6 và chỉ nên mua loại Pentium 1 có tốc_độ bus 6 FBS 6 1 hoặc 1 thôi 6 tốt_nhất là 1 6 7 nhìn_chung là chip không sử_dụng Hyper_Threading 7.

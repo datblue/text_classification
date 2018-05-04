@@ -1,0 +1,5 @@
+Biến tài_liệu Word và trang_web thành cơ_sở_dữ_liệu.
+AskSam là một trong số rất_ít cơ_sở_dữ_liệu quản_lý cả_hai loại dữ_liệu có cấu_trúc và không_được cấu_trúc 7 giúp bạn dễ_dàng tìm_kiếm 7 Đặc_biệt 7 chương_trình cho_phép bạn lưu_trữ trọn_vẹn các tài_liệu theo dạng gốc 7 thay_vì yêu_cầu bạn chia_nhỏ các tập_tin và đặt vào những trường riêng_rẽ 7.
+Ngoài khả_năng chỉnh_sửa 7 biên_tập các bản ghi dữ_liệu như khi làm_việc với một chương_trình xử_lý_văn_bản 7 người_dùng còn được AskSam hỗ_trợ đắc_lực với những công_cụ tìm_kiếm và phục_hồi rất mạnh 7 cùng khả_năng kết_nối thông_tin trong các tài_liệu khác_nhau bằng cách tạo ra các siêu_liên_kết 7.
+Với AskSam 1 7 bạn có_thể tạo_mối_quan_hệ giữa các thông_tin bằng cách gắn một tài_liệu vào một bản ghi 7 giống_như gắn bản_đính kèm trong e-mail 7 Phiên_bản này cũng tăng_cường tính_năng import 7 cho_phép bạn nhập tập_tin PDF và thư_từ các chương_trình e-mail 7 Mỗi tin được nhập sẽ trở_thành một bản ghi của cơ_sở_dữ_liệu 7.
+Để download bản dùng thử có dung_lượng 1 MB và thời_hạn 1 ngày 7 bạn phải đăng_ký với trang_web của AskSam theo đường_dẫn này 7.

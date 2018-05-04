@@ -1,0 +1,4 @@
+Làm thế_nào để tổ_chức họp trực_tuyến 6 1 6 . Hiện_nay 7 công_ty tôi sử_dụng đường truyền ADSL 7 các máy dùng hệ_điều_hành WinXP 7 Tôi muốn tổ_chức họp trực_tuyến 6 các thành_viên trong mạng LAN 6 7 tôi phải làm như thế_nào 7 Xin các_bạn cho chúng_tôi giải_pháp và hướng_dẫn chúng_tôi các bước thực_hiện cụ_thể 7 . Trân_trọng 7.
+Nguyễn_Dũng.
+Hồi_âm 7.
+Bạn vào website dưới_đây để tải về phần_mềm cho mỗi máy trong mạng 7 2 Bạn cài_đặt phần_mềm và tạo tên_riêng cho mỗi máy 7 Mỗi_khi bạn muốn tổ_chức họp trực_tuyến bạn chỉ_cần khởi_động phần_mềm skype và gọi những thành_viên mà bạn muốn họp bằng cách nhấn vào tools--Create_Conference và lần_lược cho 6 Add 6 tên những thành_viên mà bạn đã có trong danh_sách 7 Sau_cùng nhấn Start 7 Chúc bạn bố_trí buổi_họp trực_tuyến thành_công 7.

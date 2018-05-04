@@ -1,0 +1,6 @@
+Firefox được tích_hợp thanh công_cụ chống phishing.
+Hãng bảo_mật Netcraft 6 Anh 6 mới phát_hành một toolbar giúp bảo_vệ người_dùng Firefox khỏi các site lừa_đảo trực_tuyến 7 Công_cụ được cài_đặt như một_phần mở_rộng hoặc plug-in này sẽ tự_động phong_tỏa các trang_web đáng_ngờ 7.
+Một cơ_sở_dữ_liệu về các website do Netcraft và người sử_dụng đóng_góp thông_tin sẽ được dùng để hiển_thị tất_cả những đặc_điểm của bất_kỳ trang_web nào mà PC chạy Firefox truy_cập 7 trong_đó có địa_điểm quốc_gia 7 thâm_niên cũng_như độ phổ_biến của website 7.
+Những thông_tin này sẽ giúp đánh_giá các website có khả_năng là lừa_đảo bởi hầu_hết những địa_chỉ này đều tồn_tại trong thời_gian rất ngắn và thường được đặt host ở một_số nước như Trung_Quốc và Nga 7.
+Netcraft khẳng_định thanh công_cụ của họ đã phong_tỏa được hơn 1 website_phishing kể từ_khi phát_hành 7 Toolbar này đã được thiết_kế cho Internet_Explorer của Microsoft từ tháng 1 năm_ngoái 7.
+Tải bản toolbar miễn_phí cho Firefox tại_đây 7.

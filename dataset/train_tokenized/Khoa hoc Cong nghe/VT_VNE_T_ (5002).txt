@@ -1,0 +1,9 @@
+Modem không kết_nối được với PC 6 1 6.
+Toi su dung WinXP 7 khi ket noi Internet voi modem o may nha thi van chay binh_thuong 7 Toi co dem modem cua minh cho ban muon 7 khi ket noi thi khoang chung 4 phut la_bi disconnect 7 Con khi gan modem khac vao thi van chay binh_thuong 6 tren may cua ban toi 7 Vay su co tren la gi 7 Cach khach_phuc lam sao 7 Va phan mem tang_toc cho modem nao la hieu qua nhat 7 Xin cam_on 7.
+Nguyen_Gia_Thuy.
+Hồi_âm 7.
+Tôi không_biết modem bạn nói_là ADSL hay dial-up 7.
+Có nhiều nguyên_nhân 7 bạn không nói_rõ nên tôi cũng chẳng biết phải trả_lời thế_nào 7 Tuy_nhiên 7 tôi có vài cách có_thể giúp cho tình_trạng hay disconncect củabạn 7 . 1 7 đối_với modem ADSL 7 thử reset lại cấu_hình mặc_định và config lại từ_đầu xem sao 7 . 1 7 đối_với dial-up 7 thường_xuyên bị ngắt kết_nối 7 . run regeditchọn nhánh thư_mục HKEY_MACHINESystemCurrent_ControlsetServiceslanmanserverparameters 7.
+Nơi khung bên_phải 7 bạn nhấp đúp vào dòng autodisconnect và nhậpvào giá_trị 1 trong hộp_thoại edit DWORD Value 7 6 sưu_tầm 6.
+Nếu lỗi ngắt kết_nối Internet đột_ngột.
+win XP 7 star_settings_control_panel_phone_and_modem_options_tag_modem nhấn phím phải chọn loại modem đang sử_dụng 7 chọn properties trong hộp_thoại vừa mở 7 chọn thẻ advanced và gõ vào khung extra 7 7 7 7 giá_trị như_sau 7 1 = 1 6 sưu_tầm 6.

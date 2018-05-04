@@ -1,0 +1,5 @@
+Nguy_cơ lớn trên cổng TCP 1.
+Hãng khảo_sát Gartner vừa cho_biết có sự_gia_tăng mạnh các hoạt_động dò_la liên_quan đến khiếm_khuyết trong giao_thức Windows_Server_Message_Block 6 SMB 6 của Microsoft và cảnh_báo doanh_nghiệp cần có biện_pháp ngay để bịt lỗ_hổng 7.
+Cổng 1 có_thể được dùng vào việc khai_thác một lỗi nghiêm_trọng tên làIncoming SMB Packet_Validation_Remote_Buffer_Overflow_Vulnerability 6 đã được vá_trong bản_tin an_ninh 4 phát_hành ngày 4 của Microsoft 6 7 John_Pescatore 7 Phó_chủ_tịch Gartner 7 phát_biểu 7 Sự_gia_tăng các hoạt_động xâm_nhập qua con_đường này tiềm_ẩn một nguy_cơ lớn mà các nhà quản_trị hệ_thống ở doanh_nghiệp cần để_ý bởi_vì nó báo_trước nhiều_cuộc_tấn_công có_thể xảy_ra 7.
+Theo Gartner 7 mối đe_dọa nói trên cho_thấy 7 kể từ_khi Microsoft tung ra bản sửa_lỗi định_kỳ tháng 1 7 giới hacker cũng đã phát_triển mã khai_thác mà chúng có_thể dùng để tiến_hành những vụ_tấn_công quy_mô qua giao_thức SMB 7 vốn được sử_dụng rất rộng_rãi 7.
+Hãng khảo_sát khuyến_cáo các doanh_nghiệp nên kiểm_tra ngay việc cập_nhật bản sửa_lỗi và hệ_thống tường lửa để đảm_bẳo rằng việc truy_nhập qua cổng 1 được ngăn_chặn từ mọi hướng 7.

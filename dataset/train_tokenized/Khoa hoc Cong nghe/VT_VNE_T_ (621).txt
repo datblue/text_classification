@@ -1,0 +1,5 @@
+Không đánh được tiếng_Việt 6 1 6.
+May_vi_tinh cua toi truoc day danh_tieng Viet trong Internet binh_thuong 6 Google chang han 6 - font_unicode - Unikey 1 7 Nhung gan day bong tu_nhien_danh_tieng Viet trong web_khog duoc nua 7 mac_du danh_tieng Viet trong Word van binh_thuong 7 May van hien_thi trang_web tieng Viet binh_thuong 7 font_times_newromans / Latin_base 7 Toi khong biet rac_roi 7 truc trac o_dau 7 Xin cac ban lam on chi giup 7 Chan thanh cam_on 7.
+Minh_Duc.
+Hồi_âm 7.
+Bạn chuyển chế_độ View của trình_duyệt 6 Internet_Explorer 6 sang Unicode UTF-1 7 trước ghĩ bắt_đầu đánh_tiếng Việt 7 Nếu vẫn không_được 7 bạn đã cài_đặt một phần_mềm nào đó và phần này đã thay_đổi font hệ_thống của máy 7 Lúc_nào tốt_nhất là bạn cài lại hệ_điều_hành hoặc hoàn_trả hệ_thống về thời_điểm mà mọi_thứ vẫn hoạt_động tốt 7.

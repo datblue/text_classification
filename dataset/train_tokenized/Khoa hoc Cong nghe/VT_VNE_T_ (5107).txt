@@ -1,0 +1,3 @@
+Khởi_động PC chỉ xuất_hiện màn_hình đen.
+Tôi mốn hỏi tại_sao sau_khi tôi khởi_động máy_tính của tôi lên thì chỉ_có màn_hình đen_ngòm và có một con_trỏ nháp nháy ở đầu màn_hình 7 Nếu_mà tháo Pin ra thì lại khởi_động được nhưng_mà cũng không vào được trong Win 7 Hãy chỉ giúp tôi_càng_sớm_càng_tốt nhé 7 Cảm_ơn nhiều 7.
+Nguyễn_Quang_Hải.

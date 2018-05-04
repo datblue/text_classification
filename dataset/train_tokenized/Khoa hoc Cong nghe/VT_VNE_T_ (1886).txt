@@ -1,0 +1,5 @@
+Cách quản_lý domain 6 1 6.
+Tôi được bàn_giao một Website nhưng vì tôi chưa_biết cách quản_lý thế_nào 7 cụ_thể các công_việc như_sau 7 + Thay_đổi mật_khẩu Domain + Tạo hòm_thư trong domain đó + Thay_đổi server_hostingVà một_số công_việc quản_trị Web đó- Hiện_nay tôi đang giữ mật_khẩu của Web đó 6 xin được không nêu_ra 6 Vây tôi phải làm thế_nào 7 vào đâu để thực_hiện những việc đó 7 7 Xin chỉ giúp và cho thêm ví_dụ cụ_thể 7 Xin chân_thành cảm_ơn 7 Mong sớm nhật được hồi_âm 7.
+Bạch Hồng_Hiếu.
+Hồi_âm 7.
+Chào bạn Hồng_Hiếu 7 Quản_lý 1 domain không đơn_giản chút_nào đâu 7 nhất là khi domain là hosting cho các website đang hoạt_động 7 Nếu bạn chưa phải là một Administrator thì lời_khuyên duy_nhất là phải học để trở_thành 1 Administrator 7 những việc_làm không chắc_chắn 6 guậy 6 trên server có_thể sẽ làm die server của bạn đấy 7.

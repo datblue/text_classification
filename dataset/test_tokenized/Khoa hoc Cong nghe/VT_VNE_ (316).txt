@@ -1,0 +1,3 @@
+HalfLife không chạy trong mạng.
+Hiện em đang có phòng_máy Internet và games sử_dụng 1 Pro và sử_dụng FAT NTFS 7 Em tạo một User cho nó và em dùng chức_năng security của FAT NTFS để ngăn không cho người_dùng sử_dụng cài_đặt chương_trình mà khách download xuống 7 Sau_khi em setup toàn_bộ rồi chuyển_sang chế_độ User và cấp quyền User xong_rồi thì những chương_trình đều chạy tốt 7 riêng game_HalfLife nó không chịu chạy 7 nhưng nếu để sang chế_độ Administrator thì nó chạy tốt 7 Em không_biết làm cách nào 7 Xin các anh_chị chỉ giúp 7 Chân_thành cảm_ơn 7.
+Huy_Vũ.

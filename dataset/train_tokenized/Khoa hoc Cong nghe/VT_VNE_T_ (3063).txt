@@ -1,0 +1,7 @@
+Cài lại Internet_Explorer 6 1 6.
+Mình đang xài Internet_Exployer 1 nhưng bị 1 số lỗi về popup nay muốn cài mới lại 6 chỉ cài mới Internet_Exployer không cần_phải boot lại máy 6 nhưng mình không_biết phương_pháp 7 Có ai biết xin hướng_dẫn dùm 7 Cảm_ơn nhiều 7.
+Ricky.
+Hồi_âm 7.
+Ricky men 7 Muon cai lai Internet_Explorer 1 hay 1 thi vao Web_site nay download_www 7 microsoft 7 com / windows / ie / default 7 asp 7.
+Thien An . POPUP ở đây có 1 vấn_đề 7 nếu popup do các spy-ware gây_nên hay trinh duyệt IE bị khống_chế bởi 1 browser khác thì bạn nên dùng adware 1 hay spy-bot để xóa những spy-ware đó nên dùng những phần_mềm để hổ_trợ cho IE 7 đối_với IE 1 bạn nên có 1 sẻ cho_phép bạn block những popup theo như_ý bạn vì mặc_định của pop-up blocker chỉ để ở trung_bình 6 medium 6 bạn vào toolpopup_blocker đổi lại thành 6 High 6 7 muốn chận popup đạt hiệu_quả nên dùng google_tool_bar 7 nếu muốn download 1 link 2 Nếu sử_dụng xp bạn cho cd vào chọn repair sau_khi khởi_động win sẻ sửa_lại IE cho bạn 7 . TOM.
+Reinstall IE 1 from_your XP CD 7 Cho_dĩa WinXP vào ổ CD 7 Open_Start / Run 7 6 copy hàng chữ dưới_đây và paste 6 7 1 7 exe_setupapi 7 InstallHinfSection_DefaultInstall 1 c 7 windowsinfie 7 inf Nhấn ENTER hoặc bấm OK Đổi_qua Ổ Win_Xp CD / 1 / IEXPLORE / Tiếp_tục theo hướng_dẫn 7.

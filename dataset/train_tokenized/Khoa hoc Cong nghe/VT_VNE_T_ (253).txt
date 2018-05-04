@@ -1,0 +1,38 @@
+Danh_mục các định_dạng file 6 vần M - N 6.
+Đây là những phần mở_rộng ở cuối một tên file 6 đuôi file 6 7 biểu_thị file đó thuộc định_dạng nào 7 Thông_tin đuôi file được hệ_điều_hành sử_dụng để mở_ra chương_trình phù_hợp khi bạn click vào tên file 7 Ví_dụ 7 7 txt là loại file chữ_viết và được xử_lý bằng một chương_trình văn_bản tương_ứng 7 . 7 1.
+Dạng file 1 chiều Motion 1 trong Corel 7 . 7 MAC.
+Trình vẽ trong máy Mac 7 . 7 MAF.
+File biểu bảng Microsoft_Access 7 . 7 MAK.
+File_Make 7 công_cụ lập_trình của Unix 7 . 7 MAM.
+File_Macro của Microsoft_Access 7 . 7 MAP.
+Trình biên_tập liên_kết Map 7 . 7 MAQ.
+Dạng file truy_vấn 6 query 6 của Microsoft_Access 7 . 7 MAR.
+Dạng báo_cáo 6 report 6 trong Microsoft_Access_Report 7 . 7 MAT.
+Bảng 6 table 6 trong Microsoft_Access_Table 7 . 7 MCS. Định_dạng MathCAD 7 . 7 MCW.
+File_Microsoft_Word cho Macintosh 7 . 7 MDB. Cơ_sở_dữ_liệu Access 7 . 7 MDX. Mục_lục nhiều lớp 6 multi-index 6 . 7 MET.
+Dạng Metafile trong OS / 1 7 . 7 MEU. Danh_mục lựa_chọn 6 Menu 6 7 . 7 MFF. Định_dạng file MIDI 7 . 7 MGF.
+File_font chữ trong Micrografx_Draw 7 . 7 MI.
+File chứa những thứ linh_tinh 6 miscellaneous 6 7 . 7 MIC.
+File chương_trình soạn_ảnh Microsoft_Image_Composer 7 . 7 MID. MIDI 7 . 7 MIFF.
+Một dạng file hình_ảnh ImageMagick 7 . 7 MIL. Giao_thức nén Group 1 6 1 6 7 . 7 mime.
+1 7 Dạng file MIME 7 . 1 7 Định_dạng mã_hóa được sử_dụng trong Multipurpose_Internet_Mail_Extension 7 . 7 MME. 1 7 File_Mime được mã_hóa 7 . 1 7 Định_dạng mã_hóa được sử_dụng trong Multipurpose_Internet_Mail_Extension 7 . 7 MMF.
+File_Microsoft_Mail 7 . 7 MMM.
+Hoạt ảnh Macromind 7 . 7 MOD. 6 Biểu_thị module 6 7 Một định_dạng file nhạc có chứa các mẫu âm_thanh số hóa 7 Một file 7 MOD chiếm nhiều bộ_nhớ hơn file MIDI vì file MIDI chứa những chỉ_lệnh tạo tiếng nhưng không chứa những mẫu âm_thanh thực_sự 7 Có một_số loại công_cụ chạy file 7 MOD cho các máy Amiga 7 PC và Macintosh 7 . 7 moov.
+Hình phim trong QuickTime 7 File này có_thể xem trên QuickTime_Player 7 . 7 MOV. Biểu_thị Movie trong QuickTime 7 . 7 movie.
+Phim trong QuickTime 7 File này có_thể xem trên QuickTime_Player 7 . 7 MOZ. Trình_duyệt web_Mozilla 7 Một dạng file nhớ đệm 6 cache 6 Netscape 7 . 7 1.
+Dạng tiếng 6 audio 6 nén trong MPEG Layer II 7 File này có_thể chạy bằng QuickTime_Player và một_số công_cụ âm_thanh khác 7 . 7 1.
+Dạng nén âm_thanh MPEG Layer III 7 File này có_thể chạy bằng QuickTime_Player 7 Real_Player và một_số công_cụ âm_thanh khác 7 . 7 MPE. Định_dạng file MPEG 7 . 7 MPEG.
+File hoạt ảnh và phim MPEG 7 File này có_thể chạy bằng QuickTime_Player 7 . 7 MPG.
+File MPEG mã_hóa 7 File này là một dạng phim MPEG và có_thể chạy bằng QuickTime_Player 7 . 7 MPNT.
+Trình vẽ trong Macintosh 6 MacPaint 6 7 . 7 MPP.
+Dạng file_Microsoft_Project 7 . 7 MPT.
+File mẫu 6 template 6 trong Microsoft_Project 7 . 7 MPX.
+File_export trong Microsoft_Project 7 . 7 MRK. Biểu_thị công_cụ Markup trong đồ_họa Informative_Graphics 7 . 7 MSG.
+File thông_điệp 6 message 6 7 . 7 MSN.
+File văn_bản Microsoft_Network 7 . 7 MSP.
+Trình vẽ hình Microsoft_Paint.
+7 MUS. Định_dạng file nhạc 6 music 6 7 . 7 MVB.
+Dạng file xem hình trong Microsoft_Multimedia_Viewer 7 . 7 MYS.
+File trò_chơi lưu trong trình Myst của IBM 7 . 7 NDX. Mục_lục trong dBASE 7 . 7 NET.
+Dạng file mạng 6 network 6 7 . 7 NG. Chỉ_dẫn trong Norton_Guides 7 . 7 NLM. Chương_trình NLM 6 Netware_Loadable_Module 6 trong NetWare của Novell 7 . 7 NTF.
+Dạng file mẫu chú_thích 6 Notes_Template 6 trong cơ_sở_dữ_liệu Lotus_Notes 7 . Còn_tiếp.

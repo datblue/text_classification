@@ -1,0 +1,5 @@
+Hỏi về Web 6 1 6.
+Em co 1 trang_web 6 đã mua Hosting 6 7 Nay em có 1 số form đưa_lên mạng 7 em muốn mọi_người sau_khi điền đầy_đủ và gửi thẳng đến hộp mail của em 7 giống_như gửi e -card vậy 7 Hiện em đang học ở Ấn_Độ 7 nên không_biết hỏi ai 7 cũng_như tìm tài_liệu hướng_dẫn 7 Vậy xin các anh_chị cố_gắng giải_quyết_vấn_đề cho em 7 Thành_thật cám_ơn 7.
+Dong_Thuan.
+Hồi_âm 7.
+Khi anh tạo được trang_web tôi đoán anh cũng biết ít_nhiều về ngôn_ngữ hiển_thị siêu văn_bản 6 HTML 6 7 Vậy anh làm như sauAnh viết_đoạn code này vào phần form của anhform_method = 6 post 6 3 có hai phương_thức post và get 7 do anh muốn form gửi về địa_chỉ email cho_nên ta dùng post 6 action 6 quyết_định cho hành_động của form khi nút send được nhấn 7 và trong trường_hợp này email sẽ đưọc gửi tới địa_chỉ 7 3 anh muốn học thêm về thiết_kế website hoặc có những thắc_mắc anh có_thể tham_gia một_vài diễn_đàn tin_học 7 Hoặc anh ghé thăm 1 địa_chỉ website này ở đó họ chỉ_dẫn khá kỹ_càng và có cả ebook nữawww 7 manguon 7 con và www 7 tridung 7 deChúc anh thành_công.

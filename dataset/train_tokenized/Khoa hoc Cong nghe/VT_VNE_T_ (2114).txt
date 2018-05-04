@@ -1,0 +1,5 @@
+Lỗi không lên màn_hình khi khởi_động 6 1 6.
+Tôi muốn hỏi một_chút về cách sửa_lỗi khi máy_tính khởi_động 7 Máy của tôi khi khởi_động 7 ban_đầu không lên màn_hình 7 Sau_khi khởi_động lại mấy lần thì mới lên 7 Mặc_dù không lên hình nhưng tôi biết máy vẫn khởi_động vào win được vì loa có nhạc khởi_động 7 Vậy máy của tôi bị lỗi gì 7 Và phải khắc_phục như thế_nào 7 Xin giải_đáp hộ tôi 7 Tôi xin chân_thành cảm_ơn 7.
+Quang_Dung.
+Hồi_âm 7.
+Lỗi không lên màn_hình khi khởi_động Bạn kiểm_tra xem có đang_dùng 1 thanh RAM cùng_loại không 7 - Nếu có 7 Lấy bớt 1 thanh 6 thanh còn_lại nhớ đặt ở slot 1 6 - Nếu_không 6 chỉ_có 1 thanh RAM trong PC của bạn 6 7 Bạn chỉ_cần giật thanh RAM ra và gắn nó vào lại 7.

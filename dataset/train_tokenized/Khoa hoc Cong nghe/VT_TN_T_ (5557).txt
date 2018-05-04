@@ -1,0 +1,12 @@
+- Mở một file mới 7 ở chế_độ màu RGB
+- Chọn màu Foreground là xanh_đậm 7 với thông_số màu 7
+R 7 1 7 1 7 1 6 hình 1 6 . - Click vào layer_Background và đặt_tên là 6 May 6 . - Chọn Filter - Render - Clouds 6 hình 1 6 . - Tạo một layer mới bằng cách nhấn tổ_hợp phím Ctrl + Shift + N và đặt_tên layer là 6 Song 6 . - Chọn công_cụ Rectangular_Marquee_Tool 7 vẽ chọn hết nửa phần phía dưới 6 hình 1 6 . - Trong bảng layer 7 chọn layer 6 Song 6 6 hình 1 6 . - Chọn màu Foreground là xanh_dương 7 với thông_số màu 7
+R 7 1
+G 7 1
+B 7 1 . - Bấm G để chọn công_cụ Gradient_Tool.
+- Click và kéo con_trỏ từ trến xuống_dưới trong vùng chọn để tô chuyển_sắc từ trắng xuống xanh 6 hình 1 6 . - Bấm Ctrl + D. - Chọn Filter - Distort - Ripple 7 với thông_số 7.
+Amount 7 1 %.
+Size 7 Large 6 hình 1 7 1 6 . - Chọn Filter - Distort - Ripple 7 với thông_số 7.
+Amount 7 1 %.
+Size 7 Medium 6 hình 1 6 . - Chọn Filter - Distort - Twirl 7 với thông_số 7.
+Angle 7 1 6 hình 1 6 . - Bấm OK ta được kết_quả như hình 1 7 . 1 . 1.

@@ -1,0 +1,20 @@
+Bảo_mật trong mạng LAN doanh_nghiệp 6 1 6 . Công_ty tôi có 1 máy_tính 7 Hiện_tại 1 máy phòng Kế_toán nối_mạng riêng và 1 máy phòng Kinh_doanh nối_mạng riêng 6 1 mạng không_được connect với nhau vì vấn_đề bảo_mật 6 7.
+Nay tôi muốn kết_nối 1 line ADSL cho cả_hai mạng thì_phải làm thế_nào 7 Nếu nối 1 mạng lại với nhau thì xài được nhưng khi Share thì tất_cả các máy của 1 phòng đều thấy dữ_liệu của nhau 7 Vậy xin hỏi có cách nào 1 phòng cùng vào được Internet nhưng phòng kinh_doanh không thấy được dữ_liệu của phòng Kế_toán 7.
+Duy_Minh.
+Hồi_âm 7.
+Một_cách đơn_giản nhất để cho hai mạng kế_toán và kinh_doanh đều truy_cập được Internet qua ADSL mà vẫn cách_ly với nhau là sử_dụng một thiết_bị định_tuyến có 1 giao_tiếp ethernet 7 một giao_tiếp nối với ADSL modem 7 hai giao_tiếp còn_lại lần_lượt nối với hai mạng kế_toán và kinh_doanh 7 Trên thiết_bị định_tuyến đó chỉ_cần cấu_hình cho hai mạng kế_toán và kinh_doanh chỉ truy_cập được Internet mà không 6 thấy 6 lẫn_nhau 7.
+Bạn có_thể dùng một PC có 1 giao_tiếp ethernet 6 Network_InterfaceCard 6 và cài Linux để làm thiết_bị định_tuyến cho đỡ tốn_kém 7.
+Hoàng_Long.
+Ban Duy_Minh_than men 7.
+De lam duoc theo_yeu_cau cua ban 7 Don_gian_ban chi_dung workgroup 6 cach nay thi it bao mat hon neu nhan vien cua cong_ty ban am_hieu nhieu ve may tinh 6 7 De bao mat hon thi ban lay ra 1 may voi cau hinh_manh de lam Server va len domain 7 Cach lam o dang workgroup ban phan ra thanh 1 nhom Ke_Toan va Kinh_Doanh va tao user cho nhom Ke_Toan va nhom Kinh_Doanh 7 Va han che_quyen_cua moi nhom 6 tuc la nhom Kinh_te khong vao duoc nhom Kinh_Doanh 6 va set password_admin cho moi user 7 Sau_do ban co the cho toan bo may tinh_vao Internet thoi 7 Con len domain thi ban phai am_hieu nhieu ve may tinh 7 o day toi khong huong dan duoc 7.
+Chuc ban thanh_cong 7
+T 7 T 7.
+De lam duoc dieu nay 7 ban thuc hien_nhu sau 7.
+Ban se cho se ket noi ADSL vao mot may chu de ban share_Internet cho hai hethong mang 7 Tren may chu nay 7 ban gan 1 card mang 7 mot card mang de su dung cho duong ADSL vao va hai card mang de su dung cho duong ADSL ra cho hai he thong mang cu ban 7 Sau do 7 ban cau_hinh cac may con theo cac thong so cua tuong lop mang la he thong chay tot 7.
+Chuc ban thanh_cong 7
+B 7 Đ 7.
+Tạo_ra 1 nhóm có Domain_name khác_nhau 7 Nhóm nào theo domain nhóm nấy 7 Tạo users riêng cho từng domain 7 1 users riêng cho domain Kinh_Doanh 7 1 users cho domain Kế_Toán 7.
+Bay Nguyen.
+De ban lam duoc dieu nay ban lam nhu sau 7.
+Ban se cho se ket noi ADSL vao mot may chu de ban share_Internet cho hai he thong mang 7 Tren may chu nay ban gan 1 card mang 7 mot card mang de su dung cho duong ADSL vao va hai card mang de su dung cho duong ADSL ra cho hai he thong mang cu ban 7 Sau_do ban cau_hinh cac may con theo cac thong so cua tuong lop mang la he thong chay tot 7.
+Chuc ban thanh_cong 7.

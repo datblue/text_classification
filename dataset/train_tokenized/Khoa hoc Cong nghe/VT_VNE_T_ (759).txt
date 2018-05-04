@@ -1,0 +1,6 @@
+Không mở file đươc trong Autocad 6 1 6.
+Khi tôi khởi_động máy_tính thì máy báo là 7.
+Error_Staring_programexport MSVC 3 @ ZNhưng tất_cả các chương_trình phần_mềm khác đều chạy tốt nhưng chỉ riêng Autocad là không hoat_động được 7 Khi mở AUTOCAD lên thì máy Hiện_ra 1 bảng thông_báo là 7 Bảng 1 Staring_programexport MSVC 3 @ ZBảng 1 7 Program_FilesAutocad 1 Acad 7 exeA_device_attached to_the system_is not funtioningTôi đã tìm File thiếu và chép đè lên mà không_được 7 Tôi tiếp_tục cài lại Autocad 7 khi cài xong Autocad và mở chạy Autocad thì vẩn hiện lên 1 bảng như_trên 7 Tôi tiếp_tục diệt Virus và cài lại WINDOWS 7 cài lại Auto_cad nhưng khi mở_ra thì vẫn như_vậy 7 Máy của tôi dùng Win 1 7 Vậy kính mong Anh_Chị nhiều kinh_nghiệm chỉ giúp 7 Tôi cảm_ơn nhiều 7.
+Truong_Van_Dung.
+Hồi_âm 7.
+File_Autocad đó của bạn có_thể được tạo ra từ 1 7 nhưng bạn lại mở 1 7 Do_vậy không mở được file_cad này 7 Bạn hãy thử mở bằng 1 xem 7 Bạn cũng có_thể mở 1 7 sau_đó save về 1 rồi đưa file_Cad đó mở trên 1 bình_thường 7 Chúc thành_công 7.

@@ -1,0 +1,51 @@
+Danh_mục các định_dạng file 6 vần Q - S 6.
+Đây là những phần mở_rộng ở cuối một tên file 6 đuôi file 6 7 biểu_thị file đó thuộc định_dạng nào 7 Thông_tin đuôi file được hệ_điều_hành sử_dụng để mở_ra chương_trình phù_hợp khi bạn click vào tên file 7 Ví_dụ 7 7 txt là loại file chữ_viết và được xử_lý bằng một chương_trình văn_bản tương_ứng 7 . 7 QBW. QuickBooks cho Windows 7 . 7 QDK. Chương_trình Quarterdeck_Qemm 7 . 7 QLB. Thư_viện Quick_Library 7 . 7 QLC. Thông_tin về font ATM 7 . 7 QRY.
+File truy_vấn Microsoft_Query 7 . 7 qt.
+Dạng file nhị_phân QuickTime_Movie 7 . 7 QTM.
+File_QuickTime_Movie 7 . 7 1.
+Font in theo kiểu ngang 6 landscape 6 trong máy LaserJet 7 . 7 1.
+Font in theo kiểu dọc 6 portrait 6 trong máy LaserJet 7 . 7 RA. RealAudio 7 . 7 RAM.
+Real_Audio 7 . 7 RAS. Đồ_họa Raster của Sun 7 . 7 RAW.
+Dạng file_bitmap theo kiểu Raw 7 . 7 rc.
+Một định_dạng xuất_hiện trong nhiều file_Unix 7 có nghĩa_là chạy lệnh 6 run commands 6 7 . 7 REC.
+File_macro trong Windows_Recorder 7 . 7 REG.
+File đăng_ký Registration 7 . 7 REP.
+File báo_cáo Report 7 . 7 RFT.
+Địng dạng RFT-DCA 7 . 7 RGB.
+File hình_ảnh SGI RGB 7 . 7 RIA. Đồ_họa raster trong Alpharel_Group IV 7 . 7 RIB. Đồ_họa Renderman 7 . 7 RIC. Chương_trình Roch FaxNet 7 . 7 RIF.
+Dạng file_bitmap trong trình vẽ Fractal_Painter 7 . 7 RIFF. Định_dạng file trao_đổi nguồn Resource_Interchange 7 Đây là một định_dạng file_multimadia của Microsoft 7 tương_đương với IFF của Amiga 7 . 7 RIX. Màn_hình ảo RIX 7 . 7 RLA. Hình_ảnh raster trong Wavefront 7 . 7 RLC. Hệ_thống hình_ảnh trong CAD Overlay ESP 7 . 7 RLE. Độ_dài hoạt_động của chương_trình được mã_hóa 6 Run Length 6 7 . 7 RM.
+Real_Media 7 . 7 RMI.
+File RIFF MIDI 7 . 7 RND. Định_dạng AutoShade 7 . 7 RNL. Đồ_họa ratser trong GTX Runlength 7 . 7 RPT.
+File_Report 7 . 7 RTF. Đồ_họa và text của Microsoft 7 . 7 S.
+File ngôn_ngữ bậc thấp Assembly_language trong Unix 7 . 7 1.
+File nhạc MOD 7 . 7 SAM.
+Trình AmiPro 7 . 7 SAV.
+File trò_chơi đã lưu 7 . 7 SBP. Đồ_họa Storyboard và text_Superbase của IBM 7 . 7 SC.
+Mã nguồn của Paradox 7 . 7 SCM.
+File_ScreenCam_movie 7 . 7 SCP.
+Dạng file_script trong kết_nối quay_số 7 . 7 SCR. 1 7 Trình lưu màn_hình của Windows 7 . 1 7 Trình_bày màn_hình 6 layout 6 trong dBASE 7 . 1 7 Script cho tiện_ích Disk_Copy của Apple 7 . 7 SCT.
+Dạng text chụp màn_hình 6 Screen_Capture_Text 6 trong Lotus 7 . 7 SDL.
+File thư_viện SmartDraw 7 . 7 SEA.
+Kho tư_liệu 6 archive 6 tự trích 6 Self-Extracting 6 trong Stuffit hay Compact_Pro 7 . 7 SEG.
+Đoạn 6 segment 6 của một file nén 7 lưu trong Stuffit hay Compact_Pro 7 . 7 SEP. Định_dạng bitmap TIFF 7 . 7 SET. Tham_số cài_đặt 7 . 7 SFL.
+Font in theo kiểu landscape trong máy LaserJet 7 . 7 SFP.
+Font in theo kiểu portrait trong máy LaserJet 7 . 7 SFS.
+Font chữ thay_đổi tỷ_lệ PCL 1 7 . 7 shar.
+Dạng kho tư_liệu UNIX shell 7 có_thể giải_mã bằng trình Unshar 7 . 7 SHTML.
+File HTML file với các bộ_phận nhúng SSI 6 server-side_includes 6 7 . 7 SI.
+File hình_ảnh SoftImage 7 . 7 sig.
+Chữ_ký 6 Signature 6 7 Một file 7 sig có_thể được cài_đặt và tự_động đính kèm vào e-mail gửi đi hay các bản_tin & Nó bao_gồm tên và thông_tin liên_hệ của người_gửi và có_thể là cả các chi_tiết như kiểu trình_bày ASCII art hoặc những câu trích ưa_thích 7 7 7 . 7 SIT.
+File nén Stuffit 7 . 7 SLD.
+Slide trình_chiếu trong AutoCAD 7 . 7 SLK.
+Dạng file bảng tính Symbolic_Link 6 SYLK 6 7 . 7 SMI. Hình_ảnh tự thiết_lập 6 Self-Mounting 6 7 Dạng file này thuộc trình Disk_Image của Macintosh 7 tương_tự như file 7 img 7 nhưng không yêu_cầu sử_dụng Disk_Copy 7 Khi file được tải 7 một hình_ảnh đĩa sẽ xuất_hiện trên màn_hình chủ desktop 7 Hình_ảnh đĩa_này sẽ phản_ứng theo kiểu giống_như đĩa read-only 7 . 7 SND.
+File âm_thanh 7 . 7 SNM.
+Dạng file_mail trong Netscape 7 . 7 SPD.
+Font thay_đổi tỷ_lệ Speedo 7 . 7 spx.
+Dạng file_Screen_Peace 7 . 7 SQB.
+File trong công_cụ sao lưu SyQuest_Backup 7 . 7 SRC.
+Một định_dạng sử_dụng trong quá_trình tạo ra các file 7 INI 7 phục_vụ cho việc thiết_lập cấu_hình 7 . 7 STY.
+Biểu bảng Style của Ventura 7 . 7 SVX.
+Dạng file âm_thanh Amiga 1 7 . 7 SWP.
+File lưu tạm_thời Swap 7 . 7 SYD.
+File sao lưu Sysedit 7 . 7 SYL. Định_dạng bảng tính SYLK 7 . 7 SYNU. Hình_ảnh trong SDSC Synu 7 . 7 SYS.
+File hệ_thống 7 . Còn_tiếp.

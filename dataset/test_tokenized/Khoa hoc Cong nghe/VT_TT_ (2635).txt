@@ -1,0 +1,5 @@
+LimeWire bổ_sung bộ lọc cho ứng_dụng của mình.
+Có hơn 1 triệu khách_hàng sử_dụng dịch_vụ của mình 7 LimeWire quyết_định giữ_vững vị_trí hiện_tại và tránh những vi_phạm dẫn đến kiện_tụng 7.
+Các lập_trình_viên của LimeWire dự_định sẽ bổ_sung hai bộ lọc chính vào trình ứng_dụng LimeWire dành_cho người_dùng 7 cc_reverify_interval-branch và cc-publish-branch 7 Bộ lọc thứ_nhất có công_dụng xác_định những tập_tin được chia_sẻ 7 Nếu chúng không_có bản_quyền 7 người_dùng sẽ không_được cho_phép đưa các tập_tin này vào danh_sách chia_sẻ 7.
+Bộ lọc thứ_hai được thiết_kế dành_cho các tập_tin được tạo ra từ người_dùng và họ muốn chia_sẻ những tập_tin này 7 Các tập_tin đó sẽ được cấp Creative_Commons_License 7 chứng_thực sáng_tạo của cá_nhân để có_thể chia_sẻ 7 . Hiện_tại cả 1 bộ lọc vẫn chưa được chính_thức bổ_sung vào ứng_dụng của LimeWire nhưng sẽ được tích_hợp vào trong thời_gian sớm nhất 7 Slyck 7 com cho_biết 7.
+Sau lời cảnh_cáo từ RIAA 7 đây là động_thái tích_cực đầu_tiên cho_thấy LimeWire muốn tiếp_tục hoạt_động hợp_pháp 7 cung_cấp dịch_vụ chia_sẻ mạng ngang_hàng 7.

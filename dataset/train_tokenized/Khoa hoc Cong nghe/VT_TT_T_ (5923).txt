@@ -1,0 +1,4 @@
+Biết thông_tin dinh_dưỡng thực_phẩm nhờ camera_phone.
+Người_dùng sẽ_biết được thông_tin dinh_dưỡng của một loại thực_phẩm như lượng calori trong_đó 7 bằng cách_dùng chiếc camera_phone của mình để đọc các mã_vạch trên bao_bì sản_phẩm 7.
+Người sử_dụng có_thể kết_nối với Internet và gửi các mã_vạch trên đến nhà_cung_cấp dịch_vụ để nhận_được các thông_tin dinh_dưỡng của sản_phẩm đó 7.
+Với khả_năng này 7 người_dùng có_thể biết được thành_phần các chất_dinh_dưỡng hoặc nguồn năng_lượng trong các loại thực_phẩm 7 Nhờ vậy người_dùng có_thể kiểm_soát được nguồn năng_lượng_cung_cấp_cho cơ_thể mình cũng_như có chế_độ ăn_uống hợp_lý để giảm cân 7 Dịch_vụ hỗ_trợ thông_tin dinh_dưỡng của hơn 1 loại thực_phẩm khác_nhau để cung_cấp_cho người_dùng 7.

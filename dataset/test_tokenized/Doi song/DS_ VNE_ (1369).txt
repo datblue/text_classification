@@ -1,0 +1,40 @@
+Hãy giúp tôi lý_giải tình_cảm của em.
+Tôi biết em không thuộc_về người_đàn_ông nào 7 tôi cũng biết ngoài tôi ra em không nhiệt_tình quan_tâm lo_lắng tin_cậy sẻ chia với ai đến như_vậy 7 Em cũng biết tôi yêu em và thương con_gái em 6 tôi coi nó như con 6 7 Vậy_mà tại_sao em vẫn cứ nói rằng chỉ có_thể là bạn_bè thôi 7.
+From 7 L 7 M 7 To 7 3 Sent 7 Saturday 7 January 1 7 1 1 7 1 PM Subject 7 Tôi không hieu tinh cam cua co ay.
+Chào các anh_chị 7.
+Em 1 tuổi 7 cá_tính 7 rất nữ_tính nhưng cũng rất độc_lập 7 đã một_lần dang_dở 7 có một bé gái xinh_xắn dễ_thương 7.
+Là người quảng_giao nên em có nhiều bạn_bè 7 nhiều_mối_quan_hệ 7 nhiều người_yêu mến 7 nhiều người theo_đuổi 6 trong_đó có cả người chồng cũ của em 6 7 và em luôn tươi_cười chu_đáo với tất_cả mọi_người một_cách đúng_mực 7 Tôi và em quen_biết nhau từ trước_khi em lên xe_hoa lần_đầu 7 Tôi cũng đã trải_qua hai mối_tình 7 nhưng với em lần_đầu_tiên tôi hình_dung được thế_nào là một_người vợ hiền 7 tôi chưa bao_giờ biết yêu ai đến vậy 7.
+Em đã rất nhiệt_tình giúp khi tôi mở công_ty riêng 7 dù thời_gian đó em cũng đang rất bận với trung_tâm ngoại_ngữ do em thành_lập và lại đang là trưởng đại_diện của một công_ty nước_ngoài 7 con_em lại còn quá_nhỏ 7 Thời_gian đó gần_như em bỏ_bê xao_lãng gần hết những_mối_quan_hệ bạn_bè 7 thức trắng nhiều đêm để lo cho cái trung_tâm của em và để giúp cái công_ty của tôi 6 dù hai mảng chẳng liên_quan gì đến nhau 6 7.
+Cùng theo học một lớp buổi_tối nên chúng_tôi có rất_nhiều thời_gian cơ_hội để quan_tâm lo_lắng cho nhau 7 Bên em tôi luôn cảm_thấy không còn hạnh_phúc nào hơn 7 bên tôi em cũng từng như một con chim nhỏ lúc_nào cũng muốn hát lên được 7 Người nọ hiểu người kia tới_mức nếu một trong hai người đi công_tác thì có_thể yên_tâm giao công_ty riêng cho người kia quản_lý 7.
+Có lúc tôi tưởng như đã có được em 7 Vậy_mà khi tôi chính_thức ngỏ_lời thì em chỉ nhất_mực 7 6 Em không_thể yêu và lấy anh được 6 7 Từ hôm đó tôi có cảm_giác em luôn ưu_tư 7 không còn vui_vẻ tươi_tắn như trước nữa 7 gặp tôi em chỉ trầm_ngâm hàng giờ hoặc rất gượng_gạo 7 Và em có_ý né_tránh tôi dù vẫn luôn quan_tâm lo_lắng từ những cái rất_nhỏ cho tôi 7 Chiều_qua đến công_ty em tôi tình_cờ bắt_gặp em đã từ_chối cuộc hẹn với tôi để ngồi chuyện_phiếm trên mạng với một_người 6 mà em nói_là bạn cũ lâu_ngày không gặp 6 7 Có_lẽ họ đã chuyện_trò với nhau khá lâu vì tin_nhắn đã khá dài 7 vậy_mà em nói bận quá không về sớm được 7.
+Em đã nài_nỉ 7 6 Đừng_có như mất sổ gạo vậy 7 đau_lòng người khác lắm 6 7 nhưng rồi vẫn 6 7 7 7 em không_thể yêu anh 6 7 7 7 Tôi biết em không thuộc_về người_đàn_ông nào 7 tôi cũng biết ngoài tôi ra em không nhiệt_tình quan_tâm lo_lắng tin_cậy sẻ chia với ai đến như_vậy 7 Em cũng biết tôi yêu em và thương con_gái em đến như thế_nào 6 chơi_đùa với con_bé 7 tôi đã gọi nó là 6 con 6 tự_nhiên như_thể đó chính là con của mình 6 7 Vậy_mà tại_sao em vẫn cứ nói rằng chỉ có_thể là bạn_bè thôi 7.
+Tôi không_thể hiểu nổi tình_cảm của em 7 Hy_vọng ai_đó có_thể giúp tôi tìm_ra câu_trả_lời được không 7 Rất mong hồi_âm của các anh_chị 7.
+Mạnh . Ý_kiến chia_sẻ với anh Mạnh xin gửi vào đây 7 . function_CheckSubmit 6 6 . 6 document 7 ContactUs 7 fName 7 value = Trim 6 document 7 ContactUs 7 fName 7 value 6 7 . if 6 document 7 ContactUs 7 fName 7 value = = 6 6 6 . 6 alert 6 6 Xin hay nhap Ho ten 7 6 6 7 . document 7 ContactUs 7 fName 7 focus 6 6 7 . return 7 . 6 if 6 6 SEmail = CheckEmailAddress 6 document 7 ContactUs 7 fEmail 7 value 6 6 = = 6 6 6 . 6 alert 6 6 Dia_chi Email khong hop le 7 6 6 7 . document 7 ContactUs 7 fEmail 7 focus 6 6 7 . return 7 . 6 document 7 ContactUs 7 fEmail 7 value = SEmail 7 . document 7 ContactUs 7 fTitle 7 value = Trim 6 document 7 ContactUs 7 fTitle 7 value 6 7 . if 6 document 7 ContactUs 7 fTitle 7 value = = 6 6 6 . 6 alert 6 6 Xin hay nhap Tieu de 7 6 6 7 . document 7 ContactUs 7 fTitle 7 focus 6 6 7 . return 7 . 6 document 7 ContactUs 7 fContent 7 value = Trim 6 document 7 ContactUs 7 fContent 7 value 6 7 . if 6 document 7 ContactUs 7 fContent 7 value = = 6 6 6 . 6 alert 6 6 Xin hay Noi_dung 7 6 6 7 . document 7 ContactUs 7 fContent 7 focus 6 6 7 . return 7 . 6 document 7 ContactUs 7 fCateDesc 7 value = document 7 ContactUs 7 fCategory 7 options 6 document 7 ContactUs 7 fCategory 7 selectedIndex 6 7 text 7 . if 6 7 confirm 6 6 Gui_y_kien toi Ban bien_tap 7 6 6 6 . return 7 . vWH = 1 7 . vWW = 1 7 . vWN = 6 ContactUs 6 7 . winDef = 6 status = no 7 resizable = no 7 scrollbars = no 7 toolbar = no 7 location = no 7 fullscreen = no 7 titlebar = yes 7 height = 6 7 concat 6 vWH 6 7 concat 6 6 7 6 6 7 concat 6 6 width = 6 6 7 concat 6 vWW 6 7 concat 6 6 7 6 6 7 . winDef = winDef 7 concat 6 6 top = 6 6 7 concat 6 6 screen 7 height - vWH 6 / 1 6 7 concat 6 6 7 6 6 7 . winDef = winDef 7 concat 6 6 left = 6 6 7 concat 6 6 screen 7 width - vWW 6 / 1 6 7 . newwin = open 6 6 6 7 vWN 7 winDef 6 7 . document 7 ContactUs 7 action = 6 / ContactUs / AddSubmit 7 asp 6 7 . document 7 ContactUs 7 target = vWN 7 . document 7 ContactUs 7 submit 6 6 7 . 6 Họ tên.
+Email.
+Gửi tới.
+Ban Biên_tập.
+Ban Khoa_học.
+Ban Kinh_doanh.
+Ban Pháp_luật.
+Góp_ý_Luật Cạnh_tranh.
+Góp_ý_Luật_Chính_quyền địa_phương.
+Góp_ý_Luật_Chống bán_phá_giá.
+Góp_ý_Luật Đất_đai.
+Góp_ý_Bộ luật_Tố_tụng_hình_sự.
+Ban Sức_khoẻ.
+Ban Thế_giới.
+Ban Thể_thao.
+Ban Văn_hoá.
+Ban Vi_tính.
+Ban Xã_hội.
+Ban Ôtô Xe_máy.
+Ban Bạn_đọc.
+Tìm người_quen.
+Mục Tâm_sự.
+Mục Vui_cười.
+Tiêu_đề.
+Nội_dung.
+Gõ tiếng_Việt 7.
+Off.
+Telex . VNI. VIQR.
+Với Internet_Explorer 1 trở_lên 7 bạn có_thể nhập tiếng_Việt theo kiểu Telexmà không cần bộ_gõ 7 . if 6 6 d = GetPostVariable 6 6 d 6 7 6 6 6 6 7 = 6 6 6 . 6 SetSelectValue 6 document 7 ContactUs 7 fCategory 7 d 7 toLowerCase 6 6 6 7 . 6 document 7 ContactUs 7 fName 7 value = UnicodeGet 6 getCookie 6 6 Visitor 7 Name 6 7 6 6 6 6 7 . document 7 ContactUs 7 fEmail 7 value = getCookie 6 6 Visitor 7 Email 6 7 6 6 6 7 . if 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / van-hoa 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / kinh-doanh 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / the-thao 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / euro 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / vi-tinh 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / xa-hoi 6 6 6 = 1 6 3 . switch 6 getCookie 6 6 Unikonv 6 7 6 1 6 6 6 . 6 case 6 1 6 7 . kmode = 1 7 . kfont = 6 tcvn 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 vni 6 7 . break 7 . case 6 1 6 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 1 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 viqr 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 1 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 vps 6 7 . break 7 . default 7 . kmode = 1 7 . kfont = 6 1 6 7 . break 7 . 6 initVietTyper 6 kmode 7 kfont 6 7.

@@ -1,0 +1,2 @@
+VNPT phát_hành thẻ_điện_thoại đa_năng.
+Loại thẻ này tương_tự như 1 nhưng có_thể gọi di_động 7 đường_dài và quốc_tế với mức cước dự_kiến ngang_bằng dịch_vụ VoIP và PSTN 6 mạng điện_thoại công_cộng 6 trả_trước 7 Mức cước dự_kiến áp_dụng cho thẻ 1 sẽ được chia thành hai loại 7 . Đối_với các cuộc_gọi sử_dụng dịch_vụ VoIP 7 sẽ tính cước ngang_bằng với dịch_vụ VoIP trả_trước 7 Đối_với các cuộc_gọi quốc_tế sử_dụng dịch_vụ IDD chất_lượng cao 7 mức cước sẽ ngang_bằng với dịch_vụ PSTN trả_trước 7.

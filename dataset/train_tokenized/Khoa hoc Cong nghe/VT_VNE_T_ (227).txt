@@ -1,0 +1,38 @@
+Tìm_hiểu các định_dạng DVD.
+Sự khác_biệt giữa DVD + RW và DVD-RW là gì 7 Có_thể đọc đĩa DVD-RAM trên ổ DVD-ROM hay_không 7 Định_dạng nào là phù_hợp nhất cho mỗi mục_đích công_việc và giải_trí 7.
+Trong lĩnh_vực DVD 7 số định_dạng phục_vụ các mục_đích thương_mại hiện tăng_lên rất_nhiều 7 Những thông_tin dưới_đây có_thể giúp bạn có một cái_nhìn cơ_bản về hình_thức lưu_trữ dữ_liệu quang_học có tên đầy_đủ là Digital_Versatile_Disc hay Digital_Video_Disc 7 . 1 7 DVD-ROM 6 Digital_Versatile_Disc - Read_Only_Memory 6.
+Một dạng_đĩa có kích_thước giống_như CD-ROM hay Compact_Disc nhưng có_thể lưu thông_tin với mật_độ cao_hơn nhiều và do_đó đem_lại công_suất lớn_hơn 7 DVD-ROM hiện được sản_xuất với 1 định_dạng DVD-1 7 DVD-1 7 DVD-1 và DVD-1 7 Dạng DVD-1 có công_suất lưu_trữ 1 6 CD-ROM chuẩn chỉ_có 1 MB 6 và lưu dữ_liệu một lớp đơn trên một_mặt đĩa 7 Dữ_liệu này có_thể là ở dạng phần_mềm 7 hình_ảnh video 6 DVD-Video 6 hay âm_thanh 6 DVD-Audio 6 7 Dạng DVD-1 lưu dữ_liệu 1 lớp trên một_mặt đĩa còn dạng DVD-1 và DVD-1 sử_dụng cả 1 mặt đĩa 6 DVD-1 lưu 1 lớp và DVD-1 lưu 1 lớp 6 7 Đĩa DVD-ROM có_thể dùng trên các đầu_máy DVD hoặc máy_tính có trang_bị ổ_đọc DVD-ROM 7 Người sử_dụng không_thể ghi dữ_liệu mới đè lên nội_dung đã có_sẵn 7 . 1 7 DVD-R 6 Digital_Versatile_Disc - Recordable 6.
+Đây là dạng_đĩa tương_tự như DVD-ROM nhưng có_thể ghi dữ_liệu mới 7 Ổ Pioneer DVR-1 hiện_nay có_thể ghi 1 GB trên một_mặt đĩa và 1 GB hai_mặt ở loại_đĩa theo định_dạng này 7 Đĩa DVD-R có_thể chạy trên đầu DVD gia_dụng và máy_tính có ổ DVD-ROM 7 Người sử_dụng chỉ có_thể ghi thêm dữ_liệu được 1 lần 7 Có hai loại ổ và công_cụ media theo định_dạng DVD-R 7 Một là DVD-R for_Authoring 6 phục_vụ quyền_tác_giả 6 7 được hỗ_trợ bằng loại ổ DVR-1 và phù_hợp với người muốn tạo ra đĩa_chủ 6 master 6 cho một nhà in_sao đĩa nào đó 7 Đây được gọi_là Định_dạng chủ biên_tập 6 Cutting_Master_Format - CMF 6 7 Nó hỗ_trợ cài_đặt mã_vùng và sử_dụng công_cụ chống copy 7 Loại thứ_hai là DVD-R for_General 7 phục_vụ đại_chúng 7 được hỗ_trợ bằng loại đầu DVR-1 và thích_hợp cho việc tạo ra một_vài bản_sao khác_nhau mà không cần_phải gửi đĩa tới một dịch_vụ in_sao hay cài_đặt mã_vùng 7 Chuẩn media thích_hợp phải được sử_dụng với ổ tương_ứng 7 ví_dụ đĩa DVD-R for_Authoring phải đi với một ổ DVD-R for_Authoring tương_thích 7 . 1 7 DVD-RAM 6 Digital_Versatile_Disc - Random_Access_Memory 6.
+Khác với DVD-R 7 DVD-RAM có_thể được ghi đi ghi lại nhiều_lần 7 Định_dạng này cho_phép lưu_trữ 1 GB hoặc 1 GB đối_với đĩa 1 mặt và 1 GB hoặc 1 GB đối_với đĩa 1 mặt 7 Ổ Panasonic LF-1 7 chẳng_hạn 7 có_thể ghi và đọc từ những công_cụ media này 7 Đĩa DVD-RAM chỉ có_thể chạy trên ổ DVD-RAM chứ không_thể sử_dụng bằng_đầu DVD gia_dụng hay máy_tính có ổ DVD-ROM 7 Đây là loại đĩa cho_phép đọc / ghi ngẫu_nhiên 6 Random 6 chứ không_phải theo lần_lượt từ_đầu đến cuối 6 sequential 6 7 Random_Access rất quan_trọng 7 đặc_biệt là cho việc biên_tập phim 7 Vì_vậy 7 dùng DVD-RAM có_lợi là tiết_kiệm hơn nhiều so_với dùng DVD-R vì không cần_phải thay đĩa mỗi_khi muốn thay_đổi nội_dung phim 7 . 1 7 DVD-RW 6 Digital_Versatile_Disc - Re-recordable 6.
+Là loại_đĩa tương_tự như DVD-R nhưng cho_phép ghi đi ghi lại khoảng 1 lần 7 Pioneer DVR-1 7 có_thể ghi lên đĩa 1 GB DVD-RW 1 mặt 7 Những chiếc đĩa DVD-RW có_thể chạy cả trong đầu DVD thông_thường và PC có ổ DVD-ROM 7 . 1 7 DVD + RW 6 Digital_Versatile_Disc + Rewritable 6.
+Đây là phiên_bản cho_phép ghi nhiều_lần của DVD + R 6 xem bên_dưới 6 7 được tạo ra trước DVD + R 7 Nó được thiết_kế cho phù_hợp hơn với cả_hai hình_thức ghi_hình video thời_gian_thực 6 real-time 6 và ghi dữ_liệu bất_kỳ 6 random 6 7 Đĩa DVD + RW có dung_lượng lưu_trữ 1 GB và dùng trên cả đầu DVD thông_thường lẫn PC có ổ DVD-ROM 7 . 1 7 DVD + R 6 Digital_Versatile_Disc + Recordable 6 . DVD 6 DVD Alliance 6 đề_xuất và phát_triển nhằm hỗ_trợ định_dạng DVD + RW 7 phục_vụ nhu_cầu bảo bật và bảo_toàn dữ_liệu 7 sau_khi ghi lên DVD + R 7 thông_tin sẽ không_thể bị sửa / xoá được nữa 7 Tóm_lại 7 DVD + R là phiên_bản chỉ ghi được một_lần của DVD + RW 7 Đĩa DVD + R có_thể ghi dữ_liệu với dung_lượng 1 GB và DVD + R dùng trên cả đầu DVD thông_thường lẫn PC có ổ DVD-ROM 7.
+Bốn ổ DVD phổ_biến nhất và các định_dạng mà chúng hỗ_trợ 7.
+Tên ổ.
+DVD- ROM. DVD-R. DVD- RAM. DVD-RW. DVD + R. DVD + RW.
+Iomega_Super DVD Writer.
+đọc.
+đọc / ghi.
+đọc / ghi.
+đọc / ghi.
+đọc / ghi.
+đọc / ghi.
+Panasonic_LF-1.
+đọc.
+đọc / ghi.
+đọc / ghi.
+đọc / ghi.
+đọc.
+đọc.
+Pioneer_DVR-1.
+đọc.
+đọc / ghi.
+-đọc / ghi.
+đọc / ghi.
+đọc / ghi.
+Sony_DRU-1.
+đọc.
+đọc / ghi.
+-đọc / ghi.
+đọc / ghi.
+đọc / ghi.
+6 7 Khả_năng tương_thích đọc DVD-RW và / hoặc DVD + RW của loại ổ này không_được nhà_sản_xuất nêu cụ_thể 6 7.

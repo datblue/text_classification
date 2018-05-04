@@ -1,0 +1,5 @@
+Sẽ có định_dạng XML trong Office 1.
+Microsoft vừa tuyên_bố sẽ xây_dựng XML - định_dạng dữ_liệu đang được sử_dụng rộng_rãi trong doanh_nghiệp - thành tính_năng chuẩn trong gói ứng_dụng văn_phòng mới phát_hành vào năm sau 7 . Ngôn_ngữ XML 7 được dùng để chuyển dữ_liệu giữa các chương_trình và máy_tính 7 sẽ được coi_là một định_dạng file mặc_định 6 default 6 trong quá_trình xử_lý_văn_bản Word 7 bảng tính Excel và PowerPoint 7.
+Những định_dạng mặc_định mới cho Word 7 Excel và PowerPoint sẽ thay_đổi từ 6 7 doc 6 7 6 7 xls 6 và 6 7 ppt 6 sang 6 7 docx 7 6 6 7 xlsx 6 và 6 7 pptx 6 7.
+Tháng trước 7 Bill_Gates cũng đã tiết_lộ rằng Office 1 sẽ giúp người_dùng 6 dễ_dàng hơn trong việc tập_trung và xử_lý chuyên_môn 7 hiểu dữ_liệu khoá 7 giảm_thiểu thời_gian vào việc giải_quyết sự_phức_tạp trong môi_trường quá_nhiều thông_tin 6 7.
+Hãng cũng cho_biết sẽ thảo_luận thêm về định_dạng file XML mới tại TechEd 7 hội_thảo thường_niên cho các nhà_quản_lý và phát_triển công_nghệ_thông_tin của Microsoft 7 tổ_chức tại Orlando 7 Florida 6 Mỹ 6 vào tuần tới 7 . Phiên_bản Office hiện_tại của Microsoft được bán ra với giá từ 1 đến 1 USD 7.

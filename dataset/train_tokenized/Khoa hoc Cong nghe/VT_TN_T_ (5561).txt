@@ -1,0 +1,11 @@
+Chỉ 1 KB 7 miễn_phí 7 khi chạy là một biểu_tượng nằm trên khay hệ_thống 7 Tiện_ích này giúp chúng_ta nhanh_chóng và dễ_dàng thực_hiện các việc 7 Tắt máy 7 tái khởi_động máy 7 ngắt kết_nối internet 7 kết_thúc phiên làm_việc 7 7 7 một_cách trực_tiếp hoặc điều_khiển_từ_xa thông_qua một trình_duyệt internet 7 Chưa hết 7 bạn lại còn có_thể sử_dụng thiết_bị di_động như điện_thoại để ra_lệnh cho máy thực_hiện những điều_đó 7 Tải về từ địa_chỉ 2 . Sử_dụng Switch_Off từ khay hệ_thống.
+Switch_Off tương_thích với mọi môi_trường Windows 7 Trong bài này dùng WindowsXP để minh_họa 7.
+Khi ra_lệnh chạy chương_trình 7 một hộp_thoại xuất_hiện để người sử_dụng quy_định các tùy chọn 7 Nếu_không quy_định gì 7 có_thể tắt hộp_thoại đi nhưng chương_trình vẫn hiển_thị trong khay hệ_thống với biểu_tượng là phích cắm điện có_dấu chéo màu_đỏ 7 Bấm_nút phải chuột vào biểu_tượng này sẽ có một menu lệnh gồm 7 . - Start 7 Khởi_động chương_trình 7 Swith_Off sẽ hoạt_động theo các tùy chọn đã được người_dùng thiết_lập 6 xem trong phần quy_định tùy chọn 6 . - Shutdown 7 Tắt máy.
+- Restart 7 Tái khởi_động máy.
+- Logoff 7 Thoát_khỏi hệ_thống.
+- Lock 7 Khóa hệ_thống.
+- Hangup 7 Ngắt kết_nối với Internet.
+- Standby 7 Đưa hệ_thống vào trạng_thái chờ để tiết_kiệm điện_năng.
+- Hibernate 7 Tắt máy theo chế_độ 6 đông_miên 6 7.
+Các tùy chọn.
+Ngay từ lúc chạy chương_trình 7 trong hộp Switch_Off chúng_ta có_thể bấm_nút Options để quy_định hoặc sau_này gọi_hộp Options từ menu khi bấm vào biểu_tượng trên khay hệ_thống 7 Hộp Options gồm 1 thẻ 7 . 1- General 7 . - Khung Warning_message 7 Đưa_ra cảnh_báo trước_khi Switch_Off hoạt_động theo quy_định 7 Trong_đó Times to display là thời_gian tính bằng giây dòng cảnh_báo xuất_hiện 7 Message_Text là nội_dung cảnh_báo người_dùng gõ vào đây 7 Muốn cảnh_báo thêm bằng âm_thanh thì đánh_dấu vào ô Play_sound rồi chỉ đường_dẫn đến file_wav trong đĩa_cứng 7 Với file_wav này nếu thích tạo dấu_ấn cá_nhân 7 bạn dùng một chương_trình ghi_âm 7 ghi lại chính giọng_nói của bạn để cảnh_báo thì còn hay hơn_nữa 7 . - Khung Startup 7 Là các tùy chọn cho chương_trình chạy cùng hệ_thống 7 . 1- Thẻ Appearance 7 Các tùy chọn cho việc hiển_thị của giao_diện chương_trình như 7 Ngôn_ngữ 7 màu_sắc 7 màu nền 7 7 7 . 1- Remote_Control 7 Điều_khiển_từ_xa 7.

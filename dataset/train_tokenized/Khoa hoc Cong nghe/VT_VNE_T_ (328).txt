@@ -1,0 +1,26 @@
+Danh_mục các định_dạng file 6 vần T - V 6.
+Đây là những phần mở_rộng ở cuối một tên file 6 đuôi file 6 7 biểu_thị file đó thuộc định_dạng nào 7 Thông_tin đuôi file được hệ_điều_hành sử_dụng để mở_ra chương_trình phù_hợp khi bạn click vào tên file 7 Ví_dụ 7 7 txt là loại file chữ_viết và được xử_lý bằng một chương_trình văn_bản tương_ứng 7 . 7 TAL. Công_cụ sắp_hàng Type_Align của Adobe 7 . 7 TAR.
+Viết tắt của Tape_Archive 7 Tar là một phương_pháp cất_giữ file của Unix mà có_thể dùng trên PC 7 Tar lưu dữ_liệu nhưng không nén chúng vì_thế đôi_khi file 7 tar được nén bằng những tiện_ích khác vào tạo ra những đuôi file như 7 tar 7 gz 7 7 tar 7 Z 7 và 7 tgz 7 Những file_archive có đuôi 7 tar có_thể được giải nén trong Unix bằng trình tar hoặc trên máy PC dùng WinZip 7 hay trên máy Mac có trình tar 7 . 7 tar 7 gz . Định_dạng kết_hợp của một file được lưu bằng tar và rồi nén lại 7 . 7 tar 7 z_or 7 tar 7 Z. Định_dạng kết_hợp của một file được lưu bằng tar và rồi nén lại 7 . 7 taz.
+Một_cách viết khác của 7 tar 7 Z 7 . 7 TBK.
+Dạng file_Asymetrix_Toolbook 7 . 7 TDF. Định_nghĩa Typeface trong trình Speedo 7 . 7 TEX. Văn_bản Tex hay LaTex 7 . 7 TFM.
+Font_metrics trong Intellifont 7 . 7 TGA. Đồ_họa TARGA 7 . 7 tgz.
+Một tên khác của 7 tar 7 z và 7 tar 7 gz 7 . 7 THEME.
+Dạng file chủ_đề màn_hình chủ 6 Desktop 6 của Windows 1 7 . 7 THN. Trình_bày file theo kiểu Thumbnail 7 . 7 TIF.
+File đồ_họa TIFF 7 . 7 TIFF. Định_dạng file đồ_họa TIFF 7 . 7 TLB.
+Dạng thư_viện OLE Type 7 . 7 TMP.
+File tạm_thời 7 . 7 TOC. Định_dạng bảng chứa nội_dung 6 Table_Of_Contents 6 7 . 7 TRM. Cài_đặt thiết_bị_đầu_cuối trong Windows 7 . 7 TTC.
+Font nén TrueType 7 . 7 TTF.
+Font_TrueType 7 . 7 TWF.
+Dạng file_TabWorks 7 . 7 1.
+Text trong MS-DOS 7 . 7 TXT.
+File_text ASCII 7 . 7 USL.
+Font in ngang của máy LaserJet 7 . 7 USP.
+Font in dọc của máy LaserJet 7 . 7 uu.
+File nén Uuencode 7 . 7 uue.
+File_Uuencode 7 . 7 VBP.
+File_Visual_Basic_Project 7 . 7 VBX. Định_dạng Visual_Basic 7 . 7 VDA.
+Dạng file_bitmap_Targa 7 . 7 VGR.
+Trình Ventura 7 . 7 VIFF.
+File hình_ảnh Khoros_Visualization 7 . 7 VLB. Định_dạng thư_viện Ventura_Library 7 . 7 VOC. Công_cụ hỗ_trợ tiếng Sound_Blaster 7 . 7 VP. Định_dạng chế_bản Ventura_Publisher 7 . 7 VST.
+File_bitmap_Targa 7 . 7 VUE. Công_cụ Relational_View trong dBASE 7 . 7 VXD.
+Dạng file ổ thiết_bị ảo 6 Virtual_Device_Driver 6 7 . Còn_tiếp.

@@ -1,0 +1,3 @@
+Epson giới_thiệu Chip đọc đa_ngôn ngữ.
+Loại chip 1 đời_đầu này có_thể đọc được 1 ngôn_ngữ thông_dụng hiện_nay là Anh 7 Pháp 7 Đức 7 Tây_Ban_Nha Castilian và Tây_Ban_Nha Latin_American 7 Đồng_hành với chip 1 là phần_mềm chuyên_dùng để đọc ngôn_ngữ là Fonix_DECtalk 1 7 1 7 . Bất_kỳ thiết_bị di_động nào được trang_bị chip 1 và công_cụ Fonix_DECtalk 1 7 1 đều có_thể đọc được các từ_ngữ hiển_thị thuộc các ngôn_ngữ này trên màn_hình di_động 7 Ngoài_ra 7 chip này cũng hỗ_trợ rất_tốt cho chuẩn nhạc số 1 và AAC 7.
+Epson đang tiếp_tục nghiên_cứu thế_hệ chip 1 đời_mới có_thể đọc được 1 ngôn_ngữ tượng_hình là tiếng Hoa 7 Hàn_Quốc và Nhật_Bản 7.

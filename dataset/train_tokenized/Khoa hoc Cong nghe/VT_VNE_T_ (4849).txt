@@ -1,0 +1,4 @@
+Máy_tính_xách_tay kêu_píp khi khởi_động 6 1 6.
+Máy laptop của tôi đang hoạt_động bình_thường với WinXP 7 cách đây khoảng 1 ngày tự_dưng khởi_động phát_ra tiếng bíp dài khoảng 1 phút rồi vào màn_hình chọn các chế_độ boot 7 Tôi chọn normall_boot thì mới vào hệ_điều_hành 7 Vào kiểm_tra device_manager thì thấy không nhận card màn_hình 6 mặc_dù vẫn thấy màn_hình bình_thường 6 7 tôi đã install lại 7 nhưng khi restart vẫn bị tình_trạng kêu bíp như_cũ 7 Xin các anh_chị giúp tôi về vấn_đề này 7 rất cám_ơn 7 . binbin.
+Hồi_âm 7.
+Khi khởi_động có_tiếng bip dài như_vậy là lổi của Graphic_card 7 tuy là màn_hình vẩn thấy bình_thường nhưng có_thể do lổi Driver 7 bạn_thử tìm_lại CD driver cho card màn_hình trong laptop đó coi thế_nào 7 nếu sau_khi cài lại driver mà vẫn còn bip thì nên mang_ra tiệm cho thợ coi lại 7 Vì Laptop là card màn_hình dính_liền với mainboard nên bạn không_thể tự tháo_ra và thay cái khác mà phải nhờ tới thợ chuyên_môn 7.

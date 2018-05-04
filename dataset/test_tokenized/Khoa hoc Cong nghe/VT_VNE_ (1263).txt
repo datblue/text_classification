@@ -1,0 +1,5 @@
+Khắc_phục lỗi trong Windows 1 6 1 6.
+Máy mình dùng windows 1 se 7 Gần_đây khi khởi_động cứ hiện lên một cửa_sổ nhỏ thông_báo thiếu một file nào đó 6 cụ_thể là file 7 1 7 dll 6 mà mình không thấy ảnh_hưởng gì đến quá_trình làm_việc của máy 6 Khi nhấn vào OK để xác_nhận thì máy lại khởi_động vào hoạt_động bình_thường 6 7 Vì_vậy mong các_bạn chỉ giúp cách nào có_thể xoá đi được cái thông_báo khó_chịu đó 7 Xin cám_ơn nhiều 7.
+Hạnh.
+Hồi_âm 7.
+Ban da uninstall / hoac la xoa di 1 phan cung nao do 7 nhung qua trinh uninstall chua hoan tat ma ban da tat ngang 6 closed the uninstall_window_when it was in the process 6 hoac la do computer bi treo roi ban tat may 7 Co 1 cach de khac_phuc 7 1 7 Ban install / uninstall lai cai hardware do 7 1 7 Dieu_chinh 6 edit 6 la config / service 7 khong cho khoi dong 6 startup 6 cai dich vu 6 service 6 ma hay bao loi nua 7 1 7 Cai lai Window 1 SE 6 nho 6 upgrade 6 - khi chon nang cap thi tat ca_cac du lieu 7 chuong trinh tren may khong bi xoa 7 tru file_windows he thong_thoi 6 7.

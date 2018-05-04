@@ -1,0 +1,5 @@
+Không sử_dụng_được IE 1 6 1 6.
+Tôi đang sử_dụng laptop_Dell 1 7 win_xp_pro 1 7 mấy hôm_nay khi vào IE 1 thì bị báo lỗi shutdown 7 nên không_thể duyệt web được 7 dùng các chương_trình khác vẫn bình_thường 7 đã quét virus 7 nhưng không kết_quả 7 Xin_vui_lòng hướng_dẫn giúp 7 Chân_thành cám_ơn 7.
+Pham_Xuan_Huong.
+Hồi_âm 7.
+Chao ban Xuan_Huong 7 Có phải khi bạn vào Internet khoảng vài phút thì internet báo lỗi 7 tự_động disconnect và tự_động shutdown_power 7 Nếu xảy_ra hiện_tượng này 7 bạn cần update_winxp hot fix 1 Bạn nên nhờ một máy khác vào được Internet để download vào 2 và search 6 WindowsXP-4ENU 7 EXE 6 Click 6 Download_detail 7 7 7 7 6 de download_file nói trên 7 Nhớ đọc kỹ chỉ_dẫn cách update hot fix Sau_đó copy_file này vào CD đem_về máy của bạn và làm_theo chỉ_dẫn 7.

@@ -1,0 +1,6 @@
+Không thấy Task_Manager 6 1 6.
+Mình đang_dùng Windows XP 7 gần_đây khi mình bấm 6 Ctrl + Alt + Delete 6 thì không_thể nhấn 6 Task_Manager 6 được nữa 7 cái nút thì vẫn còn đó nhưng nó không cho bấm vào 7 Xin các anh_chị giúp giùm 7.
+Trường.
+Hồi_âm 7.
+Bạn Vào Start / Run / Trong hộp_thoại Run_Gõ 7 Regedit 7 rồi Enter 7 Hộp_thoại regedit_propertise xuất_hiện 7 Bạn vào các khoá sau 7 HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionPoliciesExplorer 7 Bạn sẽ thấy một khoá ở bên_phải cửa_sổ tên là 1 7 Bạn click đúp vào đó và chọn số 1 nhấn 1 cho làm tươi màn_hình 7 Thoát_khỏi cửa_sổ regedit 7 Bạn sẽ tìm_thấy Task_manager của HĐH 7 Chúc bạn thành_công 7 . tuanntbkit.
+Để khắc_phục bạn thực_hiện những bước sau 7 1 6 Run1 6 6 HKEY_CURRENT_USERSoftwareMicrosoftWindowsCurrentVersionPoliciesSystem 6 7 bạn tìm và xóa Key 7 DisableTaskmgr hoặc thay giá_trị 1 thành 1 7 Chúc vui 7.

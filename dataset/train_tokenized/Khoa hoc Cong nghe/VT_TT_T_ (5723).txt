@@ -1,0 +1,4 @@
+Lỗi lớn trong bản nâng_cấp Internet_Explorer.
+Lỗ_hổng này phép tin_tặc chạy các đoạn mã nguy_hiểm trên máy_tính của nạn_nhân khi họ vào trang_web độc_hại 7.
+Đây là lần_thứ_ba trong_vòng gần một tháng qua Microsoft đã phải hành_động để đối_phó với những vấn_đề yếu_kém trong an_ninh của Internet_Explorer 7.
+Cả lỗi cũ lẫn những lỗ_hổng vừa phát_hiện đều nằm_trong một thư_viện chứa nhiều bộ_phận và tính_năng scripting có tên ActiveX 7 Lỗi trước_đây là ADODB 7 Stream trong_khi khiếm_khuyết mà Kuperus vừa phát_hiện thì nằm ở Application 7 Shell 7 . Hiện_nay 7 Microsoft đã cung_cấp thông_tin mới_nhất về những trục_trặc này 7 người_dùng có_thể vào đây để biết chi_tiết 7.

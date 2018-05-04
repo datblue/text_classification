@@ -1,0 +1,6 @@
+Modem trục_trặc sau_khi đổi hệ_điều_hành 6 1 6.
+Chao cac ban 7 PC cua toi luc truoc chay Win 1 va toi_vao Internet qua modem duoc 7 Nhung_toi vua cai dat he dieu hanh Windows 1 Server thay cho Win 1 thi lai o the vao Internet duoc nua 7 Anh chi vui_long chi giup 7.
+Hoang_Hiep.
+Hồi_âm 7 . Trước_khi cài server 1 7 bạn hãy xem_lại cấu_hình của chiếc máy có phù_hợp không 7 7 nhất là modem_cart hay modem 7 link tham_khảo 2 xuống phần networking_and_modem xem ở phần ISDL modems và modem_cart 7 . TOM.
+Modem cua ban van binh_thuong 7 loi do phan mem hay sai_sot trong thao ra thao vao ma thoi 7 Cu the la do cac nguyen_nhan sau 7 . 1 7 Cai khong dung driver 7 . 1 7 Loi windows 7 . 1 7 Hoac do sai_sot trong qua trinh lap dat 7 chua lap dat_chac_chan cable dien 7 hay la dau noi cong COM cua modem 7.
+Cac buoc khac_phuc 7 . 1 7 An lai cong COM noi voi Modem o ca_hai dau 7 bat chat cac vit co dinh_vao 7 . 1 7 Cai lai driver 7 . 1 7 Xem ban windows co bi loi khong 7 bang cach su dung ban windows sach_se 7 va cai dat lai 7.

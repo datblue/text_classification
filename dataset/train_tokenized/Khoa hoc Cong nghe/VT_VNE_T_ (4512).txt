@@ -1,0 +1,17 @@
+Phần_mềm thay_thế công_cụ của Macromedia và Adobe.
+Adobe thâu_tóm Macromedia để bảo_vệ khả_năng độc_quyền 7 mà độc_quyền thì vốn không có_lợi cho người_dùng 7 Do_đó 7 đã đến lúc bạn cần chuẩn_bị một danh sách_công_cụ miễn_phí thay cho các chương_trình mà 1 công_ty đang sở_hữu 7.
+Bluefish 1 7.
+Để chỉnh_sửa trang_web 7 bạn có_thể chọn Bluefish 1 7 bộ biên_tập webpage đầy triển_vọng 7 thay cho Macromedia_Dreamweaver và Adobes_GoLive 7.
+Bạn sẽ khó có_thể tìm_được chương_trình thay_thế Macromedia_Flash 7 nhưng chắc_chắn cũng sẽ cảm_thấy hài_lòng vớiFlash 1 Linux 7 được nhiều người_đánh_giá là công_cụ thay_thế 6 trên cả mong_đợi 6 7.
+Flash 1 Linux 7.
+Riêng trong việc tạo font 7 FontForge có_thể sánh ngang_ngửa với Macromedias_Fontographer 7 đặc_biệt chương_trình còn đính kèm một 6 khóa_học phụ_đạo 6 hữu_ích 7 . Thị_trường đồ_họa vector hiện_nay do Adobe_Illustrator thống_lĩnh 7 bỏ_xa Macromedias_Freehand và Corels_Draw 7 Tuy_nhiên 7 bạn vẫn có_thể xem_xét việc chuyển qua Inkscape với định_dạng file SVG 7 Tuy không bằng nhưng công_cụ này đang dần lấn_sân Adobe 7.
+Inkscape 7.
+Photoshop vẫn luôn là một đối_thủ khó_nhằn 7 The Gimp đang nỗ_lực lôi_kéo người sử_dụng dù nó vẫn cần thêm thời_gian cải_tiến 7 Nhưng nếu bạn không_phải một chuyên_gia thiết_kế đồ_họa hay nhiếp_ảnh gia_chuyên_nghiệp 7 The Gimp sẽ là một lựa_chọn không tồi 7.
+The Gimp 7.
+Macromedia_Fireworks được nhiều người coi_là một công_cụ độc_nhất do gần như_không_có bất_cứ sản_phẩm nào khác kết_hợp cả đồ_họa vector và pixel theo cách của Fireworks 7 Dù_vậy 7 bạn có_thể dùng song_song cả Inkscape và The Gimp 7.
+Scribus 7.
+Adobe_InDesign là phần_mềm trình_bày và sắp_xếp trang 7 Chương_trình cạnh_tranh với nó là Scribus 7 hoạt_động hài_hòa cùng Inkscape và The Gimp 7 cũng_như được trang_bị nhiều tính_năng xuất_hiện trong InDesign 7 Công_cụ cũng hỗ_trợ quá_trình tạo file PDF hiệu_quả 7.
+Cinelerra 7.
+Kino 7 . Ngoài_ra 7 bạn sẽ tìm_thấy khá nhiều lựa_chọn trong việc biên_tập video như Kino 7 Cinelerra và Kdenlive thay cho Adobe_Premiere 7.
+Blender 1 7.
+Cả Adobe và Macromedia đều chưa có một ứng_dụng 1 hoàn_chỉnh 7 Lúc_này 7 bạn sẽ cần đến Blender 1 dù chương_trình hoạt_động không thực_sự thân_thiện với người_dùng 7 Tuy_vậy 7 khi bạn đã thuần_thục thì đây không còn là vấn_đề thực_sự_quan_trọng 7 . Tham_khảo thêm những phần_mềm thay_thế miễn_phí khác tại_đây 7.

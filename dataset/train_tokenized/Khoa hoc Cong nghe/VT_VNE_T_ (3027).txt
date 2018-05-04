@@ -1,0 +1,5 @@
+Chip tiết_kiệm nhiên_liệu dành_cho thiết_bị di_động.
+AMD vừa ra_mắt vi_xử_lý mang mã_hiệu Geode LX 3 tiêu_thụ không quá 1 điện 7 Nhà_sản_xuất tuyên_bố loại chip này sẽ tạo cơ_hội phát_triển lớn đối_với các thiết_bị di_động thế_hệ sau với đầy_đủ tính_năng như cho một desktop 7.
+Chip được thiết_kế để cung_cấp thêm bộ_nhớ băng_thông với giao_diện DDR 6 double_data_rate 6 và tăng_cường truy_xuất qua cổng USB 1 7 AMD cho_biết chip có_thể được tích_hợp với những máy_tính_xách_tay không dùng quạt_gió 6 trong_đó có các thiết_bị đa_phương_tiện 6 7 máy_tính bo_mạch đơn 7 các thiết_bị truy_cập và những ứng_dụng tổng_hợp khác 7 Vi_xử_lý Geode dành_cho các máy thế_hệ 1 cũng hỗ_trợ hệ_điều_hành Windows XP 7.
+Tiến_sỹ James_Jo 7 Phó_chủ_tịch phụ_trách trung_tâm truyền_thông kỹ_thuật_số của hãng điện_tử Samsung 7 cho_biết vi_xử_lý này của AMD vừa tiết_kiệm điện_năng vừa có khả_năng hoạt_động cao và sẽ cho_phép các nhà_thiết_kế tạo ra nhiều ứng_dụng mới dựa_trên kiến_trúc 1 7.
+Geode LX 3 và chipset_Geode 1 kèm_theo đang được bán với giá 1 USD theo đơn_hàng 1 sản_phẩm 7 AMD cũng cung_cấp các bộ_vi_xử_lý cùng kiểu với tốc_độ thấp hơn 7.

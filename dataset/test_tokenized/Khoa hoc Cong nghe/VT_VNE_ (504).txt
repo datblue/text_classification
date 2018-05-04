@@ -1,0 +1,9 @@
+Hỏi về lỗi trên Win 1 6 1 6.
+Máy tôi sử_dụng HĐH 1 7 sau một_lần sửa vì nhiễm virus bây_giờ khi khởi_động xong máy hiện hai thông_báo 7 6 Cannot_find the file 6 sys 7 exe 6 6 or_one_of_its_components 6 7 Make_sure the path_and_filename_are_correct_and that all_required_libraries_are_available 6 và 6 Could not load_or run 6 sys 7 exe 6 specified in the WIN 7 INI file 7 Make_sure the file_exists on your_computer_or_remove the reference to it in the WIN 7 INI file 6 7 1 7 Xin hỏi ý_nghĩa của những thông_báo trên và cách sửa chữ1 7 Tôi đổi sang Win XP nhưng lúc bắt_đầu install máy chỉ đọc một_lúc là bị đứng 7 Xin hỏi có phải là do những lỗi đã thông_báo ở trên_không 7 Xin chân_thành cảm_ơn 7.
+Phan_Hong_Anh.
+Hồi_âm 7.
+Toi nghi khi diet Virus 7 file 6 sys 7 exe 6 bi nhiem qua nang nen da bi xoa roi 7 Cach_sua 7 toi nghi ban_nen thu + 7 copy lai file 6 sys 7 exe 6 tu mot may Windows 1 khac 7 Neu ban muon Install_Windows XP 7 nen cho may khoi dong lai tu CD Windows XP 6 boot_from CD 6 7 Ban phai vao BIOS de sua lai cho may boot tu CD thay_vi Hard-disk 7 Ban_chi co the install_Windows XP tu windows 1 neu win 1 dang chay binh_thuong 7.
+Locson.
+May cua ban da bi nhiem virut va sua thi file nhiem bi erro roi 7 theo minh thi ban_nen xoa 1 roi cai 1 truoc roi cai winxp sau 7 ban co the setup 1 bang cach reinstall lai nhung theo minh thi ban_nen cai lai toan bo 7 chuc ban thanh_cong nhe.
+Minh_Phuoc_Tran.
+May cua ban da bi nhiem virut va sua thi file nhiem bi erro roi 7 theo minh thi ban_nen xoa 1 roi cai 1 truoc roi cai winxp sau 7 ban co the setup 1 bang cach reinstall lai nhung theo minh thi ban_nen cai lai toan bo 7 chuc ban thanh_cong nhe.

@@ -1,0 +1,5 @@
+DVD-Rom trục_trặc 6 1 6.
+Máy của tôi là Emachine 6 Laptop 6 không hiểu sao ổ TOSHIBA DVDCD-Room SD-1 nó không đọc được bất_kì DVD or CD nào 7 cái icon của nó ở trong My Computer cũng biến_mất luôn 7 khi tôi check nó trong Device_Manager thì thấy nó nói_là 7 6 Windows_successfully_loaded the device_driver_for_this_hardware but cannot_find the hardware_device 6 7 Tôi đã thử_lại nó bằng cách đưa CD restore_system và CD Windows XP pro vào 7 nhưng nó vẫn không đọc được 7 nhưng khi đưa_vào và reboot_comp thì nó lại đọc được 7 Mong được sự quan_tâm của các_bạn 7 cám_ơn các_bạn 7.
+Pham.
+Hồi_âm 7.
+Bạn hãy thử bằng cách này 7 control_panel_switch to classic_viewsystem_hardware_device_manager nhấp chuột VIEW 7 chọn show_hidden_devices nhấp chuột cd rom / dvdnhấp phải trên DVD và cd ROM chọn uninstall 7 Khởi_động lại 7 win sẽ cài lại cho bạn 7.

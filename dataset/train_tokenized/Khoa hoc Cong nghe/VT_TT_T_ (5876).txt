@@ -1,0 +1,4 @@
+IBM thiết_kế thành_công chip đời_mới cho Xbox 1.
+Con chip đời_mới dành_cho Xbox 1 này được chế_tạo bằng công_nghệ điện_ly silicon 1 nanometer của IBM 7 Nó gồm_có đến 1 lõi xử_lý PowerPC 1 bit 7 mỗi_một lõi đều có khả_năng xử_lý 1 dòng dữ_liệu đồng_thời và vận_hành ở tốc_độ đạt đến 1 GHz 7 tức ở dạng rất cao so_với các PC hiện_nay 7 Tổng_số transistor tích_hợp trên chip đạt đến 1 triệu 7.
+Chip này được trang_bị đến 1 MB cache nhớ mở_rộng và tốc_độ bus đạt đến 1 Gbit / giây và hiện loại chip hiện_đại này chưa được đặt_tên 7.
+Ilan_Spillinger 7 giám_đốc trung_tâm thiết_kế sản_phẩm chuyên_dùng cho Xbox 1 cho_biết rằng Microsoft đã tích_cực yêu_cầu IBM hoàn_chỉnh loại chip dành riêng cho Xbox 1 này chỉ trong_vòng 1 tháng kể từ_ngày ký_kết 7 Đến nay quá_trình thiết_kế và thử_nghiệm ban_đầu đã thành_công 7 nhưng vậy các máy Xbox 1 trong tương_lai sẽ có khả_năng xử_lý mạnh_hơn nhiều so_với các Xbox 1 mà Microsoft chuẩn_bị bán ra ngày vào 4 tới 7.

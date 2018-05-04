@@ -1,0 +1,6 @@
+Cách nào để biết người_nhận đã_đọc mail 6 1 6 . Làm_ơn chỉ giúp em làm thế_nào để biết người_bạn của mình đã_đọc mail mình gửi 7 . levanthong.
+Hồi_âm 7.
+Bạn có_thể sử_dụng tính_năng 6 Notify me when_recipient_gets_this_card 6 trong các website gửi thiệp 7 . Mỗi_lần bạn gửi thư hãy check vào mục đó 7 thì khi người_bạn của bạn_đọc thư 7 bạn sẽ nhận_được thông_báo từ trang_web mà bạn gửi thư 7 Bạn có_thể tham_khảo thêm cách_làm và các website gởi thiệp có tính_năng này tại trang_web 2.
+Hoặc www 7 hoxi 7 1 7 com.
+Hồ_Xị.
+Để biết được người_nhận có đọc mail của mình hay_không thì bạn làm như_sau 7 Đối_với Outlook_Express 7 Bạn vào ToolsOptions 7 chọn tab_Receipts 7 sau_đó nhấn chọn hộp kiểm 6 check_box 6 6 Request a read_receipt_for_all_send_messages 6 7 rồi nhấn OK 7 . Đối_với Microsoft_Outlook 7 Bạn vào ToolsOptions 7 Tại tab_Preferences 7 bạn nhấn nút 6 E-Mail_Options 6 7 kế_tiếp bạn nhấn nút 6 Tracking_Options 6 7 sau_đó bạn nhấn vào hộp kiểm 6 Read_receipt 6 - Rồi nhấn OK nhiều_lần 7 = = Khi_đó các mail của bạn gởi đi sẽ được hồi_âm báo_cáo rằng người_nhận đã_đọc chúng 7 Chúc bạn thành_công 7.

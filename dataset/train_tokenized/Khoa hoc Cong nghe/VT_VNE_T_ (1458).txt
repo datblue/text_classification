@@ -1,0 +1,5 @@
+Đặt password cho folder trên LAN 6 1 6.
+Tôi muốn hỏi về cách cài_đặt Password cho một folder được share trên mạng LAN 7 Tôi cần tiến_hành những bước nào 7 Xin cảm_ơn 7.
+Huyen_Nguyen.
+Hồi_âm 7.
+Chao ban 7 khi share_folder thuong admin cho permission toi nhung nguoi duoc xem folder do 7 vi vay neu ban khong muon cho nguoi nao xem thi chi can_lay permit cua user do la xong 7 Hy_vong tra loi duoc cau hoi cua ban 7.

@@ -1,0 +1,5 @@
+Không dùng được Yahoo_Messenger trên Linux 6 1 6.
+Tôi đang_dùng hệ_điều_hành Linux và tôi muốn hỏi tại_sao khi tải Yahoo_Messenger về thì lại không thấy hiên ra cửa_sổ Chat 7 Các_bạn có cách nào giúp tôi khắc_phục được không 7 Và điều_này nữa 7 tại_sao tôi không xem phim được khi đã vào www 7 itv 7 com 7 vn và đã download WINDOWMEDIA Player 7 Xin cảm_ơn các_bạn nhiều 7.
+Nguyen_Dang_Phong.
+Hồi_âm 7.
+Có đúng bạn_cài YIM trên Linux không 7 YIM chỉ_có cho REDHAT và DEBIAN 7 2 hỏi thứ 1 nếu bạn đã có 1 7 khởi_động wmptooloptionfile_typesselect_allapplyok 7.

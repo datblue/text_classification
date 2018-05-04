@@ -1,0 +1,4 @@
+Lỗi trong Winamp.
+Khi cháu_mở Winamp ra và muốn nghe 1 bài_hát thì hiện_ra thế_này 7 Bad_DirectSound_driver 7 Please_install_proper_drivers_or_select_another_device in configuration 7 Error_code 7 1.
+Cháu phải làm gì bây_giờ 7 giúp cháu nhanh nhanh 7 Cám_ơn 7.
+Giang_Le.

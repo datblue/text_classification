@@ -1,0 +1,3 @@
+Mỗi HS được đăng_ký hai nguyện_vọng phân_ban.
+Dự_kiến mỗi HS có_thể đăng_ký hai nguyện_vọng theo thứ_tự ưu_tiên vào các ban 6 khoa_học_tự_nhiên 7 khoa_học_xã_hội - nhân_văn và cơ_bản 6 7 Nhà_trường căn_cứ kết_quả tuyển_sinh để xếp ban 7 HS nếu_không đạt nguyện_vọng 1 sẽ được xếp ban theo nguyện_vọng 1 và tiếp_tục điều_chỉnh nếu cần_thiết 7.
+Riêng với ban cơ_bản 7 HS sẽ phải đăng_ký nguyện_vọng lựa_chọn nâng_cao loại_hình phân_hóa 7 học từ 4 môn_học tự chọn nâng_cao hoặc chỉ học các chủ_đề tự chọn nâng_cao 7 bám_sát để nhà_trường sắp_xếp lớp phù_hợp 7.

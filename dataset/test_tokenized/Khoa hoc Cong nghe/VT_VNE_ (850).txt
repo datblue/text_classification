@@ -1,0 +1,5 @@
+Cấu_hình Win_Server 1 làm router 7 6 1 6 . Máy_chủ cài 1 Server 7 mạng LAN của tôi có một modem ADSL cắm thẳng vào hub để chia_sẻ đường truyền Internet 7 Hiện_nay mạng của tôi có nhu_cầu kết_nối với một mạng LAN khác_lớp IP 7 tôi dự_định gắn thêm 1 card mạng vào Server để làm router 7 hoặc dùng một máy riêng cài 1 Server để làm router có được không 7 Xin chỉ giúp cách cấu_hình hoặc giải_pháp khác 7 tôi không_có điều_kiện để mua router chuyên_dụng 7.
+Xin chân_thành cảm_ơn 7 . Hồi_âm 7.
+Hai cach ban_de_cap_deu co the thuc hien duoc 7 Tuy_nhien ban_de_cap_chua ro_ve mo_hinh mang ma ban dang su dung 7 Theo nhu nhung gi ban trinh_bay 7 toi hieu la server_Win 1 cua ban khong truc tiep dieu kien modem 7 Do do ban_nen gan card mang moi vao server nay khi do ban se chia_se file tren server nay de_dang hon 7.
+Nguyen_Kim_Trung.
+Thân chào 7 Ý_tưởng của bạn được đó 7 Cắm thêm 1 NIC 7 và NIC đó nối với LAN khác lớp 7 Sau_đó có_thể sử_dụng 1 trong hai cách 7 1 7 Config_Router_and_Remote_Acces_servise 7 1 7 Dùng ICS 7 Chúc bạn thành_công 7.

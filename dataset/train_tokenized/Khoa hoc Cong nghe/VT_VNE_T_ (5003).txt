@@ -1,0 +1,4 @@
+Mỗi_lần khởi_động PC lại check_disk 6 1 6 . Máy_tính của tôi không hiểu sao gần_đây khởi_động đều check ổ D 6 tôi cài WinXP ở ổ C 6 7 Mặc_dù đã để máy thực_hiện quá_trình check_disk xong thì lần_sau nó vẫn check tiếp 7 Xin giúp tôi bỏ quá_trình này với 7 6 Đã_kiểm_tra ổ_cứng và không thấy bad_sector nào 6 7 Lúc_trước cũng bị một_lần phải format ổ D thì mới hết 6 cài lại Win vẫn không hết 6 7.
+Nguyễn_Nam_Du . Hồi_âm 7.
+Bạn có_thể xem thông_tin về vấn_đề này ở website của Microsoft - 1 7 2.
+Tuan_Nguyen . Không_biết ổ D cuả bạn phân_vùng theo định_dạng nào 7 Nếu là 1 bạn_thử convert sang NTFS xem sao 7 Máy tôi trước_đây cũng thường_xuyên bị trường_hợp này 7 nhưng là ở ổ C và nó check_disk tất_cả các ổ_đĩa chứ không riêng gì 1 ổ nào đó 7.

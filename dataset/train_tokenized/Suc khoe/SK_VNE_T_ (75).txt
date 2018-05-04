@@ -1,0 +1,5 @@
+Thêm một bệnh_nhân nhập_viện vì nghi nhiễm virus 1.
+Lúc 1 7 ngày 4 7 một bệnh_nhân nữ 7 1 tuổi 7 ở Bình_Dương đã nhập_viện bệnh_viện Chợ_Rẫy vì nghi nhiễm cúm A 1 7 Hiện bệnh_nhân này đang phải thở oxy 7.
+Các bệnh_viện tại thành_phố vẫn đang theo_dõi và điều_trị cho 1 bệnh_nhân 6 trong số này có 1 người từ các tỉnh khác 6 7.
+Theo ông Nguyễn_Thế_Dũng 7 Giám_đốc Sở_Y_tế thành_phố 7 ngoại_trừ trường_hợp mới nhập_viện và bệnh_nhân nam nhập_viện từ_ngày 4 6 đã xác_định nhiễm cúm A 1 6 7 tất_cả những ca bệnh còn_lại đang điều_trị tại các bệnh_viện trong thành_phố đều có tiến_triển tốt 7.
+Tính đến nay 7 đã có 1 người nghi nhiễm cúm_gà và nhập_viện trong các bệnh_viện thành_phố 6 trong_đó có 1 bệnh_nhi 6 7.

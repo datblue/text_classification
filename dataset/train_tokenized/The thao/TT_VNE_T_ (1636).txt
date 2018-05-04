@@ -1,0 +1,34 @@
+LĐBĐVN sẽ chỉ chọn HLV Riedl hoặc Calisto.
+Trong cuộc_họp chiều 4 7 LĐBĐ Việt_Nam 6 VFF 6 đã quyết_định chỉ chọn ông Riedl hoặc Calisto vào vị_trí HLV trưởng đội_tuyển quốc_gia 7 VFF sẽ gửi ngay thư mời tới hai nhà cầm_quân này để bàn chuyện thương_thảo hợp_đồng 7.
+Cả ông Calisto và Riedl đều đã gắn_bó trong một thời_gian với đội_tuyển bóng_đá Việt_Nam 7 và thể_hiện được trình_độ chuyên_môn của mình 7 Một ứng_cử_viên khác được Hội_đồng HLV quốc_gia giới_thiệu là cựu HLV trưởng Indonesia 7 Bernhard_Schum 6 người_Đức 6 đã bị loại khỏi danh_sách 7 . HLV Alfred_Riedl đang nghỉ_ngơi sau_khi thôi dẫn_dắt đội_tuyển Palestine 7 Cựu HLV trưởng 1 và đội_tuyển quốc_gia luôn tỏ ý_muốn trở_lại dẫn_dắt đội_tuyển Việt_Nam 7 nơi ông đã xây_dựng được_mối_quan_hệ tốt_đẹp 7 Mới_đây 7 ông Riedl đã dẫn_dắt đội 1 giành HC bạc môn bóng_đá SEA Games 1 7.
+Trong khi_đó 7 ông Calisto vừa tái ký hợp_đồng với Gạch_Đồng_Tâm_Long_An trên cương_vị Giám_đốc kỹ_thuật 7 Chiến_lược_gia người Bồ_Đào_Nha này cũng từng giúp đội_tuyển Việt_Nam giành HC đồng tại Tiger Cup 1 7 Tuy_nhiên 7 ngay sau thành_công hồi đó 7 ông Calisto và VFF đã có mâu_thuẫn 7 khi Liên_đoàn bất_ngờ từ_chối không mời HLV này dẫn_dắt đội 1 thông_qua fax - cách_thức mà ông Calisto cho_là bất_lịch_sự 7 Tuy_nhiên 7 HLV người Bồ_Đào_Nha vẫn luôn dành sự quan_tâm cho bóng_đá Việt_Nam 7 và nhiều_lần tỏ ý sẵn_sàng dẫn_dắt đội_tuyển quốc_gia 7 . Vị_tân HLV trưởng của đội_tuyển sẽ phải chịu trách_nhiệm cả với đội_tuyển quốc_gia 7 đội Olympic chuẩn_bị dự SEA Games 1 7 và đội 1 quốc_gia 7 Ngoài_ra 7 LĐBĐ Việt_Nam sẽ đề_nghị hai ứng_viên xây_dựng đề_án cho 1 đội_tuyển 7 hướng tới mục_tiêu Asian Cup 1 7 Nếu hai ứng_viên này không quá chênh_lệch trong các yêu_cầu trên 7 LĐBĐ Việt_Nam sẽ ưu_tiên HLV yêu_cầu mức_lương thấp hơn 7 . Liên_đoàn cũng đã bàn tới chuyện mời các HLV người_Việt_Nam tham_gia ban_huấn_luyện 7 Tuy_nhiên 7 Liên_đoàn lại đang gặp khó_khăn khi tìm một trợ_lý có năng_lực trợ_giúp cho HLV trưởng 7 . 1 tiêu_chí tuyển_chọn HLV ngoại của LĐBĐ Việt_Nam.
+1 / Có trình_độ chuyên_môn cao 7 1 / Mức_lương phù_hợp với tình_hình 7 1 / Am_hiểu về bóng_đá châu_Á 7 ĐNÁ để có_thể nhận_diện được đối_thủ 7 1 / Có_thể đảm_đương cùng_một_lúc đội_tuyển quốc_gia 7 1 7 1 quốc_gia 7 1 / Thành_lập_ban_huấn_luyện người Việt đủ năng_lực để phối_hợp với HLV ngoại 7
+H 7 Liên . Độc_giả có_thể gửi ý_kiến tại_đây 7 . function_CheckSubmit 6 6 . 6 document 7 ContactUs 7 fName 7 value = Trim 6 document 7 ContactUs 7 fName 7 value 6 7 . if 6 document 7 ContactUs 7 fName 7 value = = 6 6 6 . 6 alert 6 6 Xin hay nhap Ho ten 7 6 6 7 . document 7 ContactUs 7 fName 7 focus 6 6 7 . return 7 . 6 if 6 6 SEmail = CheckEmailAddress 6 document 7 ContactUs 7 fEmail 7 value 6 6 = = 6 6 6 . 6 alert 6 6 Dia_chi Email khong hop le 7 6 6 7 . document 7 ContactUs 7 fEmail 7 focus 6 6 7 . return 7 . 6 document 7 ContactUs 7 fEmail 7 value = SEmail 7 . document 7 ContactUs 7 fTitle 7 value = Trim 6 document 7 ContactUs 7 fTitle 7 value 6 7 . if 6 document 7 ContactUs 7 fTitle 7 value = = 6 6 6 . 6 alert 6 6 Xin hay nhap Tieu de 7 6 6 7 . document 7 ContactUs 7 fTitle 7 focus 6 6 7 . return 7 . 6 document 7 ContactUs 7 fContent 7 value = Trim 6 document 7 ContactUs 7 fContent 7 value 6 7 . if 6 document 7 ContactUs 7 fContent 7 value = = 6 6 6 . 6 alert 6 6 Xin hay Noi_dung 7 6 6 7 . document 7 ContactUs 7 fContent 7 focus 6 6 7 . return 7 . 6 document 7 ContactUs 7 fCateDesc 7 value = document 7 ContactUs 7 fCategory 7 options 6 document 7 ContactUs 7 fCategory 7 selectedIndex 6 7 text 7 . if 6 7 confirm 6 6 Gui_y_kien toi Ban bien_tap 7 6 6 6 . return 7 . vWH = 1 7 . vWW = 1 7 . vWN = 6 ContactUs 6 7 . winDef = 6 status = no 7 resizable = no 7 scrollbars = no 7 toolbar = no 7 location = no 7 fullscreen = no 7 titlebar = yes 7 height = 6 7 concat 6 vWH 6 7 concat 6 6 7 6 6 7 concat 6 6 width = 6 6 7 concat 6 vWW 6 7 concat 6 6 7 6 6 7 . winDef = winDef 7 concat 6 6 top = 6 6 7 concat 6 6 screen 7 height - vWH 6 / 1 6 7 concat 6 6 7 6 6 7 . winDef = winDef 7 concat 6 6 left = 6 6 7 concat 6 6 screen 7 width - vWW 6 / 1 6 7 . newwin = open 6 6 6 7 vWN 7 winDef 6 7 . document 7 ContactUs 7 action = 6 / ContactUs / AddSubmit 7 asp 6 7 . document 7 ContactUs 7 target = vWN 7 . document 7 ContactUs 7 submit 6 6 7 . 6 Họ tên.
+Email.
+Gửi tới.
+Ban Biên_tập.
+Ban Khoa_học.
+Ban Kinh_doanh.
+Ban Pháp_luật.
+Góp_ý_Luật Cạnh_tranh.
+Góp_ý_Luật_Chính_quyền địa_phương.
+Góp_ý_Luật_Chống bán_phá_giá.
+Góp_ý_Luật Đất_đai.
+Góp_ý_Bộ luật_Tố_tụng_hình_sự.
+Ban Sức_khoẻ.
+Ban Thế_giới.
+Ban Thể_thao.
+Ban Văn_hoá.
+Ban Vi_tính.
+Ban Xã_hội.
+Ban Ôtô Xe_máy.
+Ban Bạn_đọc.
+Tìm người_quen.
+Mục Tâm_sự.
+Mục Vui_cười.
+Tiêu_đề.
+Nội_dung.
+Gõ tiếng_Việt 7.
+Off.
+Telex . VNI. VIQR.
+Với Internet_Explorer 1 trở_lên 7 bạn có_thể nhập tiếng_Việt theo kiểu Telexmà không cần bộ_gõ 7 . if 6 6 d = GetPostVariable 6 6 d 6 7 6 6 6 6 7 = 6 6 6 . 6 SetSelectValue 6 document 7 ContactUs 7 fCategory 7 d 7 toLowerCase 6 6 6 7 . 6 document 7 ContactUs 7 fName 7 value = UnicodeGet 6 getCookie 6 6 Visitor 7 Name 6 7 6 6 6 6 7 . document 7 ContactUs 7 fEmail 7 value = getCookie 6 6 Visitor 7 Email 6 7 6 6 6 7 . if 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / van-hoa 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / kinh-doanh 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / the-thao 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / euro 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / vi-tinh 6 6 6 = 1 6 3 . if 6 CurrentFolder 7 indexOf 6 6 / vietnam / xa-hoi 6 6 6 = 1 6 3 . switch 6 getCookie 6 6 Unikonv 6 7 6 1 6 6 6 . 6 case 6 1 6 7 . kmode = 1 7 . kfont = 6 tcvn 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 vni 6 7 . break 7 . case 6 1 6 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 1 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 viqr 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 1 6 7 . break 7 . case 6 1 6 7 . kmode = 1 7 . kfont = 6 vps 6 7 . break 7 . default 7 . kmode = 1 7 . kfont = 6 1 6 7 . break 7 . 6 initVietTyper 6 kmode 7 kfont 6 7.

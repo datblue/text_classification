@@ -1,0 +1,7 @@
+Quét virus máy_tính tự_động restart 6 1 6 . Máy_tính của tôi khi đang tiến_hành quét virus hoặc copy thì tự_nhiên máy tắt và tự khởi_động lại 7 Xin cho_biết nguyên_nhân và cách khắc_phục 7.
+Phan_Manh_Hung.
+Hồi_âm 7.
+Bạn nên nói_rõ hơn bạn đang_dùng phần_mềm quét virus nào và bạn copy cái_gì thì nó khởi_động lại máy 7 Nó có thông_báo lỗi gì không 7 bạn đã thử cài lại Win chưa nếu chưa 7 Nếu chưa thì hãy thử đi 7 tôi nghĩ sẽ được giải_quyết_vấn_đề của bạn 7.
+Thân 7.
+Thanh_Chung.
+Hãy disable 6 ngưng 6 Automatic_restart lại 7 Right_Click My computer ---Device_manager 6 load_System_manager 6 -- Advancetrong_Startup_and_Recovery nhấp Settings 7 đừng Check_mark_Automatically_restart 7 OK để thoát ra_ngoài 7 . Về_sau máy bạn khi bị lỗi sẽ không tự khởi_động và sẽ nói cho bạn biết là bị lỗi gì 7 Như_vậy bạn mới biết may mình bị lỗi gì mà sửa hay cầu_cứu 7 . Cứ_việc quét virus lại nếu bi lỗi máy sẽ không restart mà sẽ báo cho bạn biết lỗi gì 7 Tùy_theo đó mà chữa_bệnh 7.

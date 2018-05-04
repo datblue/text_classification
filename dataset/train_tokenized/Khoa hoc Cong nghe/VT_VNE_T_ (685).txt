@@ -1,0 +1,3 @@
+Dùng NIC Express trong LAN ADSL.
+Mình đang có 1 LAN khoản 1 máy và sử_dụng đường truyền ADSL của VNN 7 Mình không kết_nối bằng Router mà bằng Modem ADSL CNet 7 Khi cài_đặt thì nó hiểu Modem là 1ổng kết_nối mạng WAN 7 Server mình sử_dụng 1 NIC và share_Internet bằng ISA server 7 Bây_giờ mình_muốn sử_dụng NIC Express để cài thêm 1 NIC 7 Nhưng khi cài_đặt xong không_thể kết_nối Internet được mặc_dù làm đủ mọi_cách 6 Group 1 NIC và ADSL là 1 group riêng / cả 1 vào 1 Group 6 7 Tất_cả đều không_thể kết_nối được 7 Chỉ có_thể Group 1 NIC khi dùng Router 7 Có cách nào không sử_dụng Router mà bằng Modem ADSL để kết_nối được không 7 Rất cảm_ơn_sự_giúp_đỡ của mọi_người 7.
+Bùi Anh_Phương.

@@ -1,0 +1,5 @@
+Window_Media_Player 1 bị lỗi 1 6 1 6.
+Máy của tôi là window_xp 7 không_biết tại_sao mỗi_lần bấm vào window_media_player để nghe nhạc và coi phim thì nó không play đựơc 7 Hiện_nay tôi sử_dụng window_media_player 1 7 tôi có thử vào ở ADD OR REMOVE PROGRAMS để remove_window_media_player 1 và install lại window_media_player 1 7 mà tìm không thấy window_media_player 1 có lần tôi mở window_media_player 1 thì nó nói_là bị CRROR MESSAGE 1 7 tôi có thử install vài lần window_media 1 nó nói_là không install được 7 Làm_ơn chỉ cho mình 7 Cảm_ơn nhiều 7.
+Nguyễn_Đăng_Tiến.
+Hồi_âm 7.
+Bạn hãy dùng chương_trình khác để nghe_thử xem chẳng_hạn như RealOne_Player để biết chắc âm_thanh của win còn tốt 6 sound_card 6 7 Trước_khi cài wmp 1 bạn hãy_xóa wmp 1 trước đã 7 Bạn vào startrun gõ lệnh 1 advpack 7 dll 7 LaunchINFSection % windir % INFwmp 7 inf 7 Uninstallok 7 7 hay cách thứ 1 startrun gõ lệnh 1 advpack 7 dll 7 LaunchINFSection C 7 WINDOWSINFwmp 7 inf 7 Uninstall 7 7 7 7 7.

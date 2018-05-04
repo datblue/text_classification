@@ -1,0 +1,4 @@
+Robot phá mìn dùng công_nghệ không dây.
+Một loại robot do các nhà_nghiên_cứu Australia sáng_chế có_thể được dùng vào việc kiểm_soát quá_trình phá bom và kiểm_tra các phương_tiện an_ninh 7 . Tiến_sĩ Jun_Jo 7 giảng_viên cao_cấp tại Đại_học Griffith 7 đã tạo ra nguyên_mẫu một chiếc 6 xe phá bom 6 với sự_giúp_đỡ của các sinh_viên sau_đại_học 7 Chiếc xe robot được điều_khiển_từ_xa bằng công_nghệ mạng không dây Bluetooth 7 cho_phép người vận_hành đứng ở khoảng_cách an_toàn trong_khi robot tiến vào vùng nguy_hiểm 7.
+Camera gắn phía đầu robot gửi hình_ảnh liên_tiếp về cho người điều_khiển 7 Người điều_khiển sau_đó sẽ hướng xe chạy đến một vị_trí đặc_biệt 7 xác_định các khối nghi_ngờ và bứng lên bằng một cái xẻng gài trên xe 7 6 Thông_qua camera 7 tôi có_thể nhìn_thấy những gì robot thấy 7 và có_thể điều_khiển nó ở khoảng_cách 1 mét 6 7 Jo nói 7.
+Với chiều_dài 1 cm 7 chiếc xe robot này chỉ nhỏ như một món đồ_chơi 7 Song tác_giả cho_biết sẽ thiết_kế một cái lớn_hơn 7.

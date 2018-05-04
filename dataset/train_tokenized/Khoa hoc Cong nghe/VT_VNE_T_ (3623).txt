@@ -1,0 +1,8 @@
+Lỗi lưu văn_bản trong Word của Office 1 6 1 6.
+Tôi dùng Office 1 7 nhưng khi mở 1 văn_bản mới để đánh thì lại thấy xuất_hiện 1 văn_bản cũ 7 Tôi thường phải xoá trắng đi mới đánh được văn_bản mới 7 Có cách nào để sửa_lỗi không 7.
+Tôi xin chân_thành cảm_ơn 7.
+Van Ly . Hồi_âm 7.
+Chọn File_New & Hoặc 6 nhấn nút Ctrl rồi nhấn nút N 6 7 _ 6 shortcut 7 Ctrl + N 6 7.
+Trong word văn_bản mới luôn_luôn được mở tự_động 7 Đây là trường_hợp bị corrupt_files khi install_program vào máy 7 cần_phải uninstall 6 tháo_gỡ hoàn_toàn 6 Word 1 và cho máy chạy_lại trước_khi install 7 . Nếu_như không tháo_gỡ mà install lại thì cũng bị tình_trạng như_cũ 7.
+Trần_Đắc_Yên.
+Bạn hãy tìm và xóa file_Nomal 7 dot trong thư_mục Documents_and_setting 7 thư_mục nằm_trong ổ_đĩa chứa hệ_điều_hành 7.

@@ -1,0 +1,8 @@
+InterVideo_WinDVD 1 không đọc được đĩa 6 1 6.
+Kính gửi các anh_chị_em gần_xa 7 Tôi có 1 máy_tính có cài InterVideo_WinDVD 1 7 xin nói_rõ là máy tôi là máy mới 7 nhưng vì trong nhà_có trẻ_nhỏ nên không_biết có bị chúng nghịch phá gì không mà bây_giờ mỗi_khi tôi cho đĩa DVD vào thì máy đều báo là không đọc được mặc_dù trước_đây những đĩa đó vẫn chạy rất_tốt 7 Bây_giờ tôi cần_phải điều_chỉnh như thế_nào thì mới có_thể đọc được DVD 7 Mong các anh_chị nào có kinh_nghiệm thì chỉ dùm tôi cách khắc_phục 7 Cám_ơn nhiều 7 6 Vì_máy của tôi được cài_đặt chương_trình bằng tiếng_Đức 7 vậy nếu có_thể thì xin hướng_dẫn những từ chuyên_môn bằng tiếng_Đức dùm 7 bởi_vì tôi không_biết tiếng_Anh 6 7 Một_lần_nữa xin chân_thành cám_ơn_sự_giúp_đỡ của quý_vị 7.
+Ngọc Huỳnh.
+Hồi_âm 7.
+Ban thu_kiem_tra lai xem co phai region da bi thay doi roi khong 7 Ban da thu cai lai chuong trinh chua 7 Co the mot so file bi loi 7 Toi khong biet tieng Duc 7 nhung co mot tu dien nho 6 khong nhieu tu_lam 6 Anh - Duc 7 Neu ban can thi lien he 3 toi se bao_dia chi de_ban tai ve 7 . nlc.
+Tot nhat la ban_nen xoa di va nap lai chuong trinh 7 Ban bam_vao Start 7 Einstellungen 7 Systemsteurung 7 Software 7 Installieren / Deinstallieren de xoa chuong trinh 7 Sau_do chay qua chuong trinh Scandisk roi nap lai sau 7 Minh hien o Duc 7 ban co the lien_lac voi dia chi sau 7 3.
+Nhat_Minh_Khoa.
+Co le la may cua ban da xoa phan men cua WinDVD roi 7 Hay vao my computer 7 double_click C tim xem folder 1 7 mo ra va setup tro lai thi Windvd se doc duoc dia dvd ngay 7 Luc truoc_minh cung da bi roi va cung lam theo cach do la nhanh_nhat 7 Than ai chao_ban 7.

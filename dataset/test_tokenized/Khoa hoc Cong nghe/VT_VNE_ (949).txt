@@ -1,0 +1,5 @@
+Làm_sao cài_đặt Pro / Engineer 6 1 6 . Người_ta nói muốn cài_đặt Pro / Engineer phải có card mạng 7 có đúng không 7 Nếu đúng 7 tại_sao như như_vậy 7 Hầu_hết các phần_mềm ứng_dụng khác đâu cần như_vậy 7 Nhờ các anh_chị chỉ_bảo 7.
+Thanh_Hai.
+Hồi_âm 7.
+Dear_questioner 7.
+To use_ProE 7 a user_must not only_have a key_which_is_also_called_hardware_lock that is_connected to_the paralle_port_or USB but also_must_have an authorization_codes that is_issued_by the vendor 7 Why_does the software_maker do it 7 Because the maker_wants to protect the software_being_copied 7 that is_mainly_reason_why 7 Does the hardware_lock_help_with_preventing_from_being_copied 7 Yes 7 it does 7 however 7 there_is_still_some TSR programs that have a capabity to bypass the hardware_lock_code_and_get_ProE_loaded_as_normal 7 Anyway 7 the process_is not just_simple_step_and I don 6 t want to expose_any_further_detail_because it is not good_idea to share_this_type_of_information in public 7 I hope_this_will_answer_your_question 7 Take_care 7.

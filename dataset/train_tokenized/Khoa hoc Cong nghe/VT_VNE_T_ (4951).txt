@@ -1,0 +1,5 @@
+Panasonic giới_thiệu chipset đầu_tiên cho Blu-ray.
+Hãng điện_tử Nhật tháng tới sẽ phát_hành mẫu chipset điều_khiển ổ quang đầu_tiên 7 cho_phép ghi mọi loại_đĩa sử_dụng các công_nghệ rewritable khác_nhau 7 trừ HD DVD 7 Thông_báo này không gây nhiều bất_ngờ vì từ_lâu Panasonic đã khẳng_định sẽ hỗ_trợ định_dạng do Sony dẫn_đầu 7.
+Chipset của Panasonic bao_gồm một chip điều_chỉnh cơ_chế mô_phỏng 6 analogue 6 và chip còn_lại có nhiệm_vụ xử_lý tín_hiệu kỹ_thuật_số phù_hợp 7 Một_trong_những tính_năng của thiết_bị xử thứ_hai là hỗ_trợ những định_dạng mà Panasonic liệt_kê 7 BD-ROM 7 BD-R / RE 7 DVDR / RW 7 DVD-RAM 7 DVD-ROM 7 CD-R / RW và CD-ROM 7.
+Bộ chipset được trang_bị cả_hai phương_pháp sửa_lỗi PR 6 Partial_Response - Phản_ứng cục_bộ 6 và ML 6 Maximum_Likelihood - Khả_năng tối_đa 6 nhằm giảm_thiểu những ảnh_hưởng về tiếng_ồn trong hệ_thống chuyển_động nhanh 7.
+Chipset 7 xuất_hiện trong các phiên_bản ATAPI và Serial ATA 7 sẽ có_mặt dưới dạng_bản mẫu trong tháng 1 và được sản_xuất hàng_loạt vào tháng 4 7.

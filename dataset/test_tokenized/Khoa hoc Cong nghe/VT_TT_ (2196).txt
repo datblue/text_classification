@@ -1,0 +1,4 @@
+Dùng flash làm wallpaper.
+Cách sử_dụng Flash_Wallpaper rất đơn_giản 7 Sau_khi chạy chương_trình 7 tại thẻ Wallpaper 7 bạn bắt_buộc phải thực_hiện các thao_tác chọn file_flash muốn làm wallpaper 6 trong ô Flash_Movie_file_path 6 7 đặt_tên cho wallpaper này 6 trong ô Wallpaper_name 6 7 Các tùy chọn còn_lại 7 bạn có_thể thiết_lập theo ý mình 7 . Sau_đó 7 bạn chuyển qua thẻ Installer 7 khai_báo thư_mục chứa file cài_đặt wallpaper tại ô Specify a file_path_for_your_wallpaper 7 Sau_đó 7 bạn nhấn nút Build_Now 7 để tiến_hành tạo file cài_đặt 7 Thực_hiện file cài_đặt này sẽ thiết_lập wallpaper là file_flash đã chọn 7.
+Trong quá_trình sử_dụng máy_tính 7 bạn có_thể điều_khiển file_flash như ngưng chơi file_flash 7 ngưng phát nhạc 7 7 7 bằng cách nhấn chuột phải trên vùng flash làm wallpaper và thao_tác với menu ngữ_cảnh 7.
+Flash_Wallpaper có dung_lượng 1 KB 7 hoàn_toàn miễn_phí 7 tương_thích với mọi Windows 7 tải tại 2 7.

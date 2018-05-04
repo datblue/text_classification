@@ -1,0 +1,5 @@
+Dell phát_hiện lỗi trong máy_chủ.
+Hãng chế_tạo_máy tính hàng_đầu thế_giới cho_biết loạt server_PowerEdge 1 7 sản_xuất trong thời_gian từ 4 đến 4 7 bị một khuyết_tật ở phần cảm_điện trên công_cụ chuyển_đổi 6 converter 6 DC-DC của mainboard 7.
+Lỗi này có_thể khiến hệ_thống bị hun nóng 7 phát_ra khói và ngừng hoạt_động 7 . Phát_ngôn_viên của Dell tại Australia cho_biết họ đã khuyến_cáo tất_cả khách_hàng có thiết_bị này hãy liên_hệ với hãng để thay_thế mainboard sau_đó mới có_thể tiếp_tục sử_dụng hệ_thống như_thường 7.
+Trong khi_đó 7 một thông_báo trên mạng tin Full-Disclosure 7 khẳng_định rằng khuyết_điểm này còn xuất_hiện cả ở_loạt máy_chủ 1 7.
+Dell_PowerEdge 1 là một loại máy_chủ cài trên giá 7 phục_vụ trong các trung_tâm dữ_liệu 7 Nó được tung ra thị_trường lần_đầu_tiên vào tháng 4 với một bảng mạch chủ cũng do Dell sản_xuất 7.

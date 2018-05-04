@@ -1,0 +1,6 @@
+Cách_dùng PC điều_khiển máy_fax 6 1 6.
+Hiện tôi có 1 máy_tính_để_bàn + modem + 1 máy_fax_panasonic 7 Làm thế_nào để có_thể gửi fax bằng PC hoặc điều_khiển máy_fax tự_động quay_số mà không_phải đứng bên_cạnh máy để tiết_kiệm sức_lao_động 7 Xin cảm_ơn 7.
+Nguyễn_Trường_Thịnh.
+Hồi_âm 7.
+Bạn không_thể dùng PC để điều_khiển máy_Fax đó được 7 Tuy_nhiên bạn có_thể dùng PC để nhận và gửi Fax thông_qua modem 7 Hạn_chế là PC không_thể gửi fax của các văn_bản in sẵn 7 trừ_khi bạn có máy_quét 7.
+Để thiết_lập Fax trong PC bạn làm như_sau 7 Vào Control_Panel - mở 6 Printer_and_Faxes 6 - File - Set up Faxing 7 Rồi làm làm_theo các hướng dẫ để tạo_lập Fax 7 Lúc_này bạn có_thể bắt_đầu Fax trực_tiếp từ Word hoặc các ứng đụng khác 7 Bạn cũng có_thể thiết_lập để máy_tự_động nhận fax 7.

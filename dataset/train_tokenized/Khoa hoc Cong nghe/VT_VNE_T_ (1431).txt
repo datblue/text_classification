@@ -1,0 +1,5 @@
+Kết_nối hai máy_tính bằng cáp Ethernet 6 1 6.
+Em muốn hỏi làm cách nào để kết_nối trực_tiếp hai máy_tính bằng Ethanet_Cable 7 Phòng em co hai máy_tính 6 cua em va một đứa bạn 6 đều không kết_nối Internet 7 nên bọn em muốn kết_nối voi nhau trực_tiếp qua cônng_Ethanet_Cable 7 Kính mong được giúp_đỡ 7 Em xin chân_thành cảm_ơn 7.
+Trung.
+Hồi_âm 7.
+Mua 1 NIC và một sợi cáp đấu chéo la xong 7.

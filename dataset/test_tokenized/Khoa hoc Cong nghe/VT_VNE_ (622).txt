@@ -1,0 +1,7 @@
+Korgo tiếp_tục là virus rất nguy_hiểm.
+Nhiều tuần sau_khi hãng phần_mềm an_ninh Anh Sophos khuyến_cáo khách_hàng áp_dụng các biện_pháp chống_lại loại sâu này 7 những thông_báo mới vẫn liên_tiếp gửi về từ nhiều doanh_nghiệp bị lây_nhiễm bởi đủ loại biến_thể của họ Korgo 7.
+Trên 1 phiên_bản khác_nhau của Korgo đã được các chuyên_gia virus xác_định trong 1 tuần qua 7 trong_đó một_số đã gây rất_nhiều rắc_rối cho những doanh_nghiệp kém phòng_vệ 7.
+Korgo là loại virus có cách phát_tán tương_tự như sâu Sasser bằng cách lợi_dụng lỗ_hổng LSASS trong phần_mềm của Microsoft 7 Lỗi này được phát_hiện ngày 4 và trình_bày trong bản_tin an_ninh 4 của Microsoft 7.
+Điều_đáng_chú_ý ở đây chính là việc những phiên_bản Korgo mới vẫn có_thể tiếp_tục gây rắc_rối vì tất_cả số virus này đều khai_thác khiếm_khuyết nói trên 7 Graham_Cluley 7 Giám_đốc_công_nghệ của Sophos 7 cho_biết 7 Điều_đó cho_thấy rõ_ràng là các doanh_nghiệp và người sử_dụng gia_đình vẫn không áp_dụng nghiêm_túc bản nâng_cấp của Microsoft 7 mặc_dù phần_mềm này đã được cung_cấp từ cách đây 1 tháng 7.
+Người sử_dụng_được khuyến_cáo nên cài_đặt ngay bản vá lỗi nói trên hoặc vào trang WindowsUpdate để kiểm_tra hệ_thống của mình 7.
+Bấm vào tên hệ_điều_hành mà bạn đang_dùng để tải bản sửa_lỗi 7 Windows 1 7 Windows XP 7 Windows_Server 1 7 Nếu bạn_dùng Windows NT thì vào đây để chọn bản vá lỗi phù_hợp 7.

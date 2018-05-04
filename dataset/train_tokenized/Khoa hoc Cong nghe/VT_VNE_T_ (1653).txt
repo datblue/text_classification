@@ -1,0 +1,22 @@
+Lỗi font chữ_i thành I 6 1 6.
+Nhờ các Anh_Chị chỉ dùm cách để sửa_lỗi trong_khi đánh chữ_i_thường trong UNICODE 7 gõ kiểu VNI sau_khi gõ sang chữ khác_thường kết_thúc 1 câu 7 Ví_dụ khi tôi gõ 7 chữ 6 Phải 6 7 Sau_khi cách khoảng 7 gõ chữ khác thì chữ i_thường_biến thành chữ I hoa 7 Nhờ_Anh_Chị có cách nào chỉnh_sửa chỉ dùm tôi 7.
+Ho Trung_Hai.
+Hồi_âm 7.
+Bạn vào Microsotf_Word 7 nhấp vào Tool 7 tiếp đến nhấp vào Autocorrect_Options 7 Bạn tiếp_tục nhấp vào thẻ Autocorrect 7 tại chổ Replace bạn gõ vào chữ_i 7 rồi nhấp vào Delete 7 Chúc bạn vui 7.
+Nguyen_Hien.
+Vao menu_Tools_AutoCorrect Bo viec chon tat ca cac checkbox OK 7 Chuc thanh_cong 7.
+Lu Anh_Hoa_Ban_vao Tool_AutoCorrect_Options 7 7 7 Trong the AutoCorrect Ban go 6 type 6 chu_i vao o Replace se thay_phan 6 replace i with I 6 7 ban co the sua lai thanh 6 replace i vith i 6 hay delete no di 7.
+Van_Hoang.
+Bạn hãy thử làm sau_đây 7.
+Mở 6 Word 6 7 xong bấm 6 Tools 6 ở menu_bar 7 rồi bấm 6 autocorect 6 7 sau_đó untick cái_ô 6 replace_as_you_type 6 7 rồi bấm ok 7 Hy_vọng bạn sẽ toại_nguyện 7.
+Cao_Thân.
+Bạn vào menu_Tools - AutoCorrect 7 Khi_đó 7 bạn sẽ nhìn_thấy một bảng những ký_tự được_chỉ_định tự_động sửa_lỗi 7 trong_đó có chữ_i bị sửa thành I 7 Bạn đơn_giản chỉ_cần Delete dòng có chứa chỉ_định đó 7 sẽ không gặp lại lỗi này nữa 7.
+Huan D 7 Tran.
+Bạn chọn Tool / AutoCorect sau_đó gõ chữ_i rồi chọn Delete để xóa chế_độ tự_động biến i thành I là được.
+Ngoài_ra nếu bạn gõ dấu ba_chấm mà bị biến thành_hình vuông thì cũng xử_lý tương_tự 7 Chúc thành_công 7.
+Vũ Đinh_Nghiêm_Hùng . Thực_ra đấy không_phải là lỗi mà do mặc_định của Word là trong tiếng_Anh chữ i sẽ tự chuyển thành I 6 vì từ tôi - chữ I luôn viết_hoa mà 6 7 Để bỏ nó 7 hãy vào Tools- Autocorrect 7 và delete mục replace i with I đi 7.
+Bui Tien_Dat.
+Bạn mở Microsoft_Word rồi chọn thẻ Toolsautocorrect_option Sau_đó bạn_điền chữ I vaò ô Replace rồi OK 7 Tiếp_theo bạn chọn Delete 7 Bạn tiếp_tục cho_đến hết chữ I là xong 7 Chúc bạn thành_công.
+Ngoc_Duong.
+Neu anh dang_xai Microsoft_Word ma bi_truong hop nay thi anh hay lam theo_nhung boc sau day 7 . - Trong Microsoft_word 7 7 7 Nhin len phie tren 7 bam_vao chu TOOL 7 keo xung chu AUTOCORRECT OPTION 7 . - Keo SCROLL BAR xuong 7 anh se thay chu i va I 7 7 7 7 7 bam_vao chu DELETE.
+Cong_viec chi co nhu vay thoi la anh het bi tro ngai trong_khi danh bai 7 Chuc anh thanh_cong 7.

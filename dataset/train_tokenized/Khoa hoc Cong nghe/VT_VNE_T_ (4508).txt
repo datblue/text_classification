@@ -1,0 +1,5 @@
+Bản thử_nghiệm cuối_cùng của Thunderbird và Firefox 1.
+Tuần qua 7 Tổ_chức phần_mềm mã mở Mozilla đã phát_hành hai bản Beta 1 cho cả trình_duyệt 6 Cáo lửa 6 và công_cụ e-mailmiễn phí 7 Hai chương_trình này không_có thêm tính_năng mới nhưng hoạt_động được cải_thiện đáng_kể so_với Beta 1 7.
+Trong Thunderbird 1 Beta 1 7 Mozilla đã tăng_cường độ ổn_định của nhiều tính_năng như hệ_thống dò phishing 7 hỗ_trợ RSS 7 podcast 7 tự_động hoàn_chỉnh địa_chỉ e-mail người_nhận 7 phần_mềm lọc spam 7 7 7 Công_cụ e-mail này hoạt_động trên Windows 7 Linux 7 và Mac_OS X 1 trở_lên 7.
+Trong khi_đó 7 Firefox 1 Beta 1 được hỗ_trợ khả_năng dàn trang và sửa_lỗi tất_cả những lỗ_hổng bảo_mật xuất_hiện trong thời_gian qua 7 . Phiên_bản chính_thức của Thunderbird 1 sẽ ra_mắt vào cuối năm_nay cùng_với trình_duyệt Firefox 7.
+Người sử_dụng có_thể tải Firefox và Thunderbird tại website của Mozilla hoặc ở đây 7.

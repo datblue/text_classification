@@ -1,0 +1,15 @@
+- Mở một file ảnh mới ở chế_độ màu RGB- Tô đen layer_Background bằng cách nhấn phím D- Chọn Edit - Fill - Foreground_Color- Nhấn phím X để chọn foreground là màu trắng.
+- Nhấn phím T để chọn công_cụ Type_Tool và nhập văn_bản 6 hình 1 6 . - Trong bảng Layer 7 nhấn giữ phím Ctrl và Click vào layer văn_bản để tạo vùng chọn xung_quanh văn_bản.
+- Chọn Select - Save_Selection và đặt_tên cho kênh là Black 6 hình 1 6 . - Trong bảng Channel 7 click vào channel_Black và kéo thả xuống ô New_Channel để tạo ra bản_sao của kênh này 7 Double_click vào kênh này và đặt_tên White 6 hình 1 6 . - Chọn Select - Modify - Expand 7 với thông_số là 1 pixel.
+- Nhấn Ctrl + D. - Chọn Filter - Blur - Gaussian_Blur 7 với thông_số 7 Radius 7 1 pixel 6 hình 1 7 1 6 . - Trong bảng Channel 7 click vào channel_White và kéo thả xuống ô New_Channel để tạo ra bản_sao của kênh này 7 Double_click vào kênh này và đặt_tên Yellow.
+- Chọn Select - Modify - Expand 7 với thông_số là 1 pixel.
+- Tô trắng vào vùng chọn từ kênh này.
+- Nhấn Ctrl + D. - Chọn Filter - Blur - Gaussian_Blur 7 với thông_số 7 Radius 7 1 pixel.
+- Trong bảng Channel 7 click vào channel_Yellow và kéo thả xuống ô New_Channel để tạo ra bản_sao của kênh này 7 Double_click vào kênh này và đặt_tên Green.
+- Chọn Select - Modify - Expand 7 với thông_số là 1 pixel.
+- Tô trắng vào vùng chọn từ kênh này.
+- Nhấn Ctrl + D. - Chọn Filter - Blur - Gaussian_Blur 7 với thông_số 7 Radius 7 1 pixel.
+- Trong bảng Layer 7 xóa layer chứa văn_bản.
+- Chọn Select - Load_Selection 7 trong hộp_thoại ở ô Channel chọn green và tô vùng chọn này với màu xanh_lá_cây_sáng 6 hình 1 6 . - Tương_tự lệnh trên 7 ở ô Channel chọn yellow và tô vùng chọn này với màu_vàng sáng.
+- Tiếp_tục 7 chọn white và tô vùng chọn này với màu trắng 7 chọn black và tô vùng chọn này với màu_đen.
+- Ta được kết_quả như hình 1 7.

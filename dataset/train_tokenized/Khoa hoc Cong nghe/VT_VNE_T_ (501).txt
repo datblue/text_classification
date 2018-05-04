@@ -1,0 +1,3 @@
+Bỏ thông_báo Fix và Ignor trong Word 6 1 6.
+Kính gửi các bạn_đọc 7 Tôi có một rắc_rối khi sử_dụng Word như_sau 7 khi tôi đặt lại lề cho văn_bản page_setup thì thường có cảnh_báo là Fix và Ignor 7 Tôi đã thử mọi_cách để bỏ_đi thông_báo này mà không_được 7 Kính mong các bạn_đọc chỉ giúp 7 Xin chân_thành cảm_ơn 7 . VD. Hồi_âm 7.
+Đó là do bạn đặt lề quá_nhỏ 7 Thường thì lề trái nên đặt khoảng 1 Inch hay 1 cm 6 1 6 7 lề phải khoảng 1 Inch hay 1 cm 7 Đặt lề nhỏ_hơn 1 Inch thì se có thông_báo_xuất hiên ngay 7.

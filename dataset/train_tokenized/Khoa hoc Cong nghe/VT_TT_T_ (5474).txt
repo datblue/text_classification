@@ -1,0 +1,3 @@
+Máy_chủ cho doanh_nghiệp vừa và nhỏ.
+Elead 1 tích_hợp bộ_vi_xử_lý tốc_độ cao Intel_Pentium IV 1 hỗ_trợ Công_nghệ siêu phân_luồng 6 cho_phép chạy song_song nhiều ứng_dụng trên 1 bộ_vi_xử_lý 6 7 board mạch chủ Intel_Server 1-E Bus 1 7 bộ_nhớ DDRam 1 bus 1 có_thể nâng_cấp tối_đa đến 1 7 ổ_cứng thế_hệ mới SATA 1 Ultra 1 7 ổ_đĩa đọc và ghi tốc_độ 1 / 1 / 1 7 màn_hình 1 6 7 Elead 1 hỗ_trợ hệ_điều_hành Microsoft_Windows 4 Server 7 Redhat_Linux 7.
+Dòng server 1 còn hỗ_trợ một_số chức_năng đặc_biệt như 7 1 khe cắm tốc_độ cao PCI – X 6 1 1 / 1 PCI – X 6 7 RAID Controller 4 7 NIC Card 4 + & amp 7 4 7 Intel_Server_Management 1 7 1 7 . Giá_bán server 1 là 1 6 đã bao_gồm VAT 6 7.

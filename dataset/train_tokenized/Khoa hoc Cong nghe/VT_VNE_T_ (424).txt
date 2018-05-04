@@ -1,0 +1,4 @@
+Bổ_sung thêm chương_trình vào VKLinux 6 1 6.
+Toi co chuong trinh VietkeyLinux 1 cua Viet_Khang 7 Tuy_nhien co 1 so chuong trinh can_thiet_de phat_trien them he thong nhu C + + hay cac Kerel ma trong Viet Key_Linux khong co 7 Vi vay toi muon bo sung them cac package cua mot so cac Linux khac_nhu Redhat_LInux 1 VN nhung_toi khong cho_vao duoc 7 Mong cac ban chi giup 7 Cam_on rat nhieu 7 . hanhhd.
+Hồi_âm 7.
+Do Vietkey 1 su dung cac Kernel va cac thu_vien co Version cao hon Linux 1 Vi the viec ban cai_mot so goi RPM tu linux 1 vao Vietkey 1 tat_nhien la khong duoc 7 Dieu_nay la do Linux khong co tinh_tuong thich nguoc 7 Toi co de nghi_nhu sau 7 neu ban can Package nao de_cai dat thi ban co de download ma nguon phien ban moi nhat tu Internet tien hanh_dich roi cai dat_vao may 7 Neu ban khong quen voi cach cai dat nay 7 Ban_hay thu RPM cua cac phien_ban khac_nhu Redhat 1 Redhat 1 7 Chuc ban thanh_cong 7.

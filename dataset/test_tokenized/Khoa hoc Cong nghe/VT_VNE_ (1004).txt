@@ -1,0 +1,5 @@
+Microsoft trình_làng Windows siêu điện_toán.
+Hôm_qua 7 hãng phần_mềm số_một thế_giới đã giới_thiệu phiên_bản mới của hệ_điều_hành máy_chủ Windows_Server 7 được thiết_kế nhằm giúp các chính_phủ và doanh_nghiệp xây_dựng những siêu máy_tính bằng cách kết_nối các cụm PC với nhau 7.
+Microsoft trình_diễn phần_mềm này tại hội_thảo về siêu điện_toán tại Pittsburgh 7 Hãng đã đặt_tên mới cho sản_phẩm là Windows_Server 1 Compute_Cluster_Edition 7 thay_thế tên cũ Windows_Server HPC Edition 7 Microsoft chưa đưa_ra quyết_định cuối_cùng về mức giá của phần_mềm cũng_như những sản_phẩm đi kèm trong gói 7.
+Theo Microsoft 7 hệ_điều_hành mới dựa_trên nền_tảng của bản hiện_hành Windows_Server 1 7 Tuy_nhiên 7 nó tích_hợp thêm chức_năng quản_lý tài_nguyên kết nhóm cũng_như hỗ_trợ các chuẩn khác_nhau về mạng hệ_thống và kết nhóm 7.
+Microsoft cho_biết sẽ cung_cấp bộ công_cụ phát_triển phần_mềm cho một_số đối_tác vào cuối tháng để các công_ty này có_thể bắt_đầu quy_trình xây_dựng các ứng_dụng phục_vụ cho hệ_điều_hành mới 7.

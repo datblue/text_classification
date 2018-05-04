@@ -1,0 +1,13 @@
+Download các file_film trên mạng 6 1 6.
+Tôi có xem một_số phim online dùng Real_Player 7 Nhưng thỉnh_thoảng đường_dẫn bị trục_trặc không_thể xem được 7 Có cách nào để download các file_film trên online về máy_tính của mình để có_thể xem bất_cứ khi_nào mình thích được không 7 Nhờ các_bạn chỉ giúp 7 . tiểu ngọc.
+Hồi_âm 7.
+Dieu_nay con tuy vao loai file ma ban dang coi 7 neu file do la file_real_media 6 7 rm 7 7 ram 6 thi khong the down_load duoc vi no chi luu vao bo nho tam thoi 7 sau do se bi xoa mat 7 con neu file 1 7 wmv thi co the vao c 7 documents_and_settingsUserLocal_SettingsTemporary_Internet_files de tim 6 truong hop nay cho Win XP 7 voi User la ten cua username ban dang_xai tren may_tinh 7 con_voi 1 thi C 7 Temp de tim 7.
+Sinh_Chu.
+Bạn dùng Idman_download nhé 7 download từ 7 2 Sau_khi cài_đặt IDMan 7 bạn chỉ_cần config lại cho nó nhận_được loại file cần download thì khi bạn mở_trang nào có file loại nầy nó đều_tự downb về cho bạn 7 đây là trình hỗ_trợ download mà theo mình là 1 trình hay nhất để download 7 Chúc bạn thành_công 7 nếu có thắc_mắc có_thể liên_lạc với Minh_Phong 7 YM 7 phongtrh 7.
+Minh_Phong.
+Ban_co the_dung chuong trinh 6 CoCsoft_StreamDown 6 de download cac file nay ve 7.
+Thanh Trung.
+Neu ban can_xem film 7 thi thu tim trang_web cua www 7 divx 7 com ma download 7 hy_vong xe_coi duoc tat ca 7 Chuc_ban thanh_cong 7.
+Tuan_Le.
+Để xem phim trực_tuyến 7 thông_thường bạn click chuột trực_tiếp lên link mà bạn muốn xem 7 Thay_vì như_vậy 7 bạn nhấn chuột phải vào link đó rồi chọn Save_Target_As & là có_thể lưu tập_tin phim đó lại vào máy 7 Tuy_nhiên 7 không_phải lúc_nào cũng thành_công 7 đôi_khi bạn phải thao_tác thêm một_tí 7 Nếu tập_tin được save lại có kích_thước nhỏ_xíu 6 7 ram 7 7 pls & 6 thì trong phần_lớn các trường_hợp 7 đó chính là tập_tin chứa đường_dẫn thực_sự của tập_tin phim 7 bạn dùng một chương_trình sọan_thảo văn_bản 6 VD 7 Notepad 6 để mở_ra xem và copy đường_dẫn trong_đó 7 sau_đó dùng chương_trình download thích_hợp chép phim về 6 VD như dùng Flashget 6 7.
+Trong trường_hợp khác 7 nếu phim xem trực_tuyến tự_động gọi chương_trình Windows_Media_Player 7 thì có_thể dùng tính_năng xem Properties để biết đường_dẫn thực_sự tới tập_tin phim 7 dựa_vào đó để dùng chương_trình download thích_hợp chép phim về 6 VD như dùng Flashget 6 7 Nếu cái link này không download được trực_tiếp thì bạn phải chịu_khó xem xong tòan bộ_phim rồi mới dùng chức_năng Save_Media_As & để lưu lại tập_tin 7 Chúc bạn thành_công 7.

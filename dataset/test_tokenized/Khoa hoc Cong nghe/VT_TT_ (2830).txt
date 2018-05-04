@@ -1,0 +1,4 @@
+Mã_số 6 bí_mật 6 của Samsung.
+# 1 # . Hiển_thị số IMEI của máy 7 . # 1 # . Hiển_thị số phiên_bản phần_mềm 7 . # 1 # . Hiển_thị các thông_số dùng để kết_nối với máy_tính qua giao_tiếp RS-1 7 . 1 s f t # . Thay_đổi các thông_số dùng để kết_nối với máy_tính qua giao_tiếp RS-1 7 . 1 1 # . Khôi_phục toàn_bộ thông_tin trong bộ_nhớ EEPROM về trạng_thái ban_đầu 7 . # 1 1 # . Hiển_thị trạng_thái chương_trình 7 . # 1 1 # . Thay_đổi tần_số âm_thanh cảnh_báo 7 . # 1 1 # . Hiển_thị màn_hình sửa_lỗi 7 . # 1 1 # . Hiển_thị các lỗi của EEPROM 7 . # 1 1 # . Thay_đổi độ tương_phản của màn_hình tinh_thể_lỏng 7 . # 1 1 # . Hiển_thị trạng_thái của bộ_nhớ 7 . # 1 1 # . Hiển_thị bảng các dịch_vụ của SIM 7 . # 1 1 #.
+Thử chế_độ rung của máy 7 . # 1 1 # . Màn_hình gỡ_lỗi.
+# 1 1 # . Phiên_bản phần_mềm 7.

@@ -1,0 +1,7 @@
+Cách nối 1 Switch CNET 6 1 6.
+Chào các_anh 7 Xin cho em hỏi chút_đỉnh 7 Em có 1 cái Switch 1 Port hiệu Cnet 7 Xin chỉ giùm cách nối 1 Switch này để có_thể chơi cùng mạng LAN 7.
+Trọng Hiếu.
+Hồi_âm 7.
+Chao Trong_Hieu 7 Ban bam cable thanh cable cheo la xong thoi 7 Neu ban khong biet bam cable thi ra cho ban cable mua mot soi va hai dau noi va bao ho bam cable cheo dum ve cam_vao la chay thoi 7 Nhung ban_dung quen ve dia chi IP va subnet cua chung va phai chung_mot nhom hoac Domain nghe 7 Chuc_ban thanh_cong 7.
+Nghi_Luu.
+Bạn quên không cho_biết model cụ_thể của từng switch 7 tuy_nhiên 7 bạn có_thể sử_dụng một cáp mạng 6 1 6 cắm từ một cổng của switch thứ_nhất sang cổng uplink 6 nếu có 6 của switch thứ 1 7 Nếu không_có cổng uplink thì cắm vào cổng nào cũng được 7 Lưu_ý là một_số switch đời cũ không cho_phép việc kết_nối kiểu này 7.

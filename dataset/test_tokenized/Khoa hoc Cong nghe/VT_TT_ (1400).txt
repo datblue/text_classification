@@ -1,0 +1,3 @@
+Chipset mới hỗ_trợ công_nghệ Mediacasting_FLO.
+Chipset 1 của Qualcomm với bộ_thu vô_tuyến 1 hoạt_động trên băng tần 1 MHz là một giải_pháp đồng_hành giao_diện êm_xuôi với chipset 1 và WCDMA trong nền multimedia nâng_cao của Qualcomm 7 . Tiến_sĩ Sanjay K 7 Jha 7 chủ_tịch của Qualcomm CDMA Technologies nói 7 6 Chipset 1 giao_diện trực_tiếp với những giải_pháp băng gốc của chúng_tôi để nâng_cao phạm_vi các tính_năng multimedia tiên_tiến đã được tích_hợp vào chipset 7 đưa_đến một giải_pháp hệ_thống hữu_hiệu để thu chương_trình mediacast di_động 6 7.
+Chipset của Qualcomm cũng tương_thích với môi_trường Java 7 1 có_thể hoàn_toàn xây_dựng trên chipset như_là một_phần mở_rộng cho giải_pháp BREW 7.

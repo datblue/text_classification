@@ -1,0 +1,6 @@
+Sử_dụng VB 7 Net 6 1 6.
+Chao cac anh chi 7 Em co su dung chuong trinh visualstudio 7 net va muon thiet lap trang_web bang ung_dung ASP 7 net trên VB 7 netEm khong the tao duoc 7 2 mac_du em da_cai IIS 1 7 Xin chi em cach lam 7 Cam_on cac anh chi nhieu 7 . trần thiện phương.
+Hồi_âm 7.
+The nay nhe 7 de_lam duoc em phai thuc_hien may buoc sau 7.
+May_phai cai IIS Cai bo 7 Net 6 with SDK 6 Roi_vao mo VB 7 Net chang han 7 chon File-New-NewProject &.
+Noi thi kho hieu 7 Neu thuc su_quan tam thi phone cho anh theo so 1 7.

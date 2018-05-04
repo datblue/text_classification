@@ -1,0 +1,10 @@
+No_To All . Mỗi_khi hộp_thoại lựa_chọn xuất_hiện 7 bạn thường chỉ được_chọn 1 trong 1 6 Yes 7 No 7 Yes to All 6 7 Trong một_số trường_hợp 7 bạn ước_ao có thêm lựa_chọn thứ_tư 6 No to all 6 7 Muốn vậy 7 chỉ_cần nhấn giữ phím Shift trong_lúc click chọn No 7.
+System_Information.
+Windows 1 / XP có trang_bị cho PC một công_cụ có tên là 1 để giúp người_dùng có_thể tìm_thấy thông_tin đầy_đủ về PC của mình 7 Để khởi_động 1 7 bạn vào Start - & gt 7 Run 7 nhập 1 vào hộp_thoại 7 Với công_cụ này 7 bạn sẽ nắm rõ mọi thông_tin về phần_cứng 7 các thiết_bị_ngoại_vi 7 IE và bộ Office 7 1 là công_cụ rất hữu_ích trong việc quản_lý máy_tính 6 ảnh 6 7.
+Bỏ thông_báo lỗi.
+Trong quá_trình duyệt web hay chạy ứng_dụng 7 nếu thấy 6 ngứa_mắt 6 với hàng_loạt các thông_báo lỗi hiện trên màn_hình 7 hãy vào Start - & gt 7 Control_Panel - & gt 7 System - & gt 7 Advanced và click chọn Error_Reporting - & gt 7 Disable_Error_Reporting trước_khi nhấn OK 7.
+Shutdown nhanh hơn.
+Nếu sử_dụng 1 7 Vào Start - & gt 7 Run 7 nhập regedit và mở HKEY_LOCAL_MACHINESystem_CurrentControlSetControlShutdown 7 Tạo string mới bằng cách vào Edit - & gt 7 New - & gt 7 String 7 đặt_tên là FastReboot và khai_báo giá_trị là 1 7 Lần_sau 7 PC của bạn sẽ shutdown nhanh như_gió 7.
+Còn nếu dùng WinXP 7 vào Start - & gt 7 Run và nhập 1 7 thay_đổi giá_trị trong 6 WaitToKillAppTimeout 6 tại HKEY_CURRENT_USERControl_PanelDesktop thành 1 ms 7 cuối_cùng là OK 7 . Biến_hóa với phím Ctrl.
+Khi bạn vừa nhấn giữ phím Ctrl và double-click lên một đường_dẫn trong IE 7 một cửa_sổ mới dẫn đến link đó sẽ mở_ra 7 Tương_tự 7 nếu giữ Ctrl và double-click lên một thư_mục 7 cửa_sổ mới dẫn đến thư_mục đó ngay_lập_tức xuất_hiện 7 Và khi bạn giữ Ctrl và kéo một file đến vị_trí mới 7 Windows sẽ copy_file chứ không chỉ_là di_chuyển file 7 Rất tuyệt 7 đúng không 7 . Sắp_xếp nhanh các paragraph.
+Để nhanh_chóng di_chuyển các đoạn paragraph trong Word 7 thay_vì vất_vả bôi_đen 7 kéo và thả từng đoạn 7 bạn hãy thử đặt trỏ chuột trước paragraph cần di_chuyển 7 và nhấn giữ Shift + Alt + 6 phím mũi_tên lên-xuống 6 để nhanh_chóng di_chuyển paragraph đến đúng nơi 7.

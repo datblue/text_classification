@@ -1,0 +1,5 @@
+Bản nâng_cấp quý II của Oracle sửa 1 lỗi.
+Được phát_hành hôm_qua trên hệ_thống Oracle_Technology 7 gói phần_mềm cập_nhật này xử_lý những phiên_bản cũ và hiện_hành của tất_cả các dòng sản_phẩm chính mà Oracle đang cung_cấp 7 bên_cạnh những công_cụ như Enterprise_Manager 7.
+Trong số chương_trình vá lỗi nói trên 6 tham_khảo tại_đây 6 7 1 bản dành_cho gói ứng_dụng E-Business_Suite 7 1 dành_cho cơ_sở_dữ_liệu và server ứng_dụng 7 1 cho gói phần_mềm cộng_tác Oracle_Collaboration_Suite và 1 cho công_cụ Enterprise_Manager 7 Các bản update này được cung_cấp_cho những khách_hàng đã ký hợp_đồng hỗ_trợ mở_rộng Extended_Maintenance_Support với Oracle 7.
+Đợt nâng_cấp tiếp_theo của Oracle sẽ được phát_hành vào ngày 4 7.
+Oracle chuyển_sang cơ_chế phát_hành bản nâng_cấp theo định_kỳ hàng_quý từ_đầu năm_nay 7 Trước_đó 7 họ chỉ tung ra phần_mềm sửa_lỗi mỗi_khi làm xong và điều_này khiến nhiều khách_hàng cảm_thấy không_có tính liên_tục và khó biết_trước để cập_nhật 7 Việc phát_hành các gói phần_mềm nâng_cấp cùng_lúc theo định_kỳ như hiện_nay giúp các nhà_quản_lý hệ_thống dễ_dàng hơn trong việc theo_dõi 7 kiểm_tra và cài_đặt một_cách đồng_bộ 7.

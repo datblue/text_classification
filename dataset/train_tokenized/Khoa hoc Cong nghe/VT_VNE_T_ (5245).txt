@@ -1,0 +1,3 @@
+Không xem được file trong thư_mục được mã_hoá.
+Mình có 1 thư_mục lưu trong ổ D có hệ_thống file là NTFS và mình đã mã_hoá 6 Encrypt 6 thư_mục_này 7 Khi máy mình bị lỗi mình phải cài lại hệ_điều_hành 6 cũng là Win XP 6 7 nhưng sau_khi cài xong thì bản_thân mình cũng không thể_nào truy_cập vào các file trong thư_mục đó nữa 7 Bây_giờ mình phải làm_sao 7 Giúp mình với 7 Bây_giờ mình rất cần các file đó 7.
+Hà Anh_Dũng.

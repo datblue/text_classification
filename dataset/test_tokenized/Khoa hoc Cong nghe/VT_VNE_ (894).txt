@@ -1,0 +1,20 @@
+Nửa_năm 7 thế_giới đối_mặt gần 1 virus mới.
+Chỉ trong 1 tháng đầu năm 1 7 có tới 1 virus mới được tạo ra 7 tăng 1 % so_với cùng kỳ năm_ngoái 7 Số_liệu được hãng sản_xuất phần_mềm chống virus_Sophos 6 Anh 6 công_bố 7 hôm_qua 7.
+Nhà phân_tích Graham_Cluley của Sophos cho_biết 7 những virus chính là Sasser - chiếm 1 % tổng_số - và các biến_thể của Netsky 7 cả_hai đều là tác_phẩm của một sinh_viên Đức 1 tuổi 7 đã bị bắt_giữ và đang chờ xét_xử 7 Cluley nhận_xét 7 Sinh_viên này đã gieo_rắc virus cho 1 % số máy_tính bị lây_nhiễm 7 Trong_khi Sasser gây_ra hầu_hết các vụ xâm_nhập của virus 7 những biến_thể của Netsky bổ_sung thêm khoảng 1 % 6 lực_lượng 6 cho đại_dịch virus này 7 Thiệt_hại do 1 chương_trình phá_hoại này gây_ra ước_tính lên_tới hàng tỷ USD 7.
+Cluley nhận_định 7 việc viết virus không còn giới_hạn trong giới sinh_viên 7 học_sinh trẻ_tuổi hay nghịch phá nữa vì ngày_càng nhiều kẻ lừa_đảo có động_cơ phạm_tội tham_gia 7 Nửa năm_qua cũng đánh_dấu một bước chuyển lớn khi những hacker nữ chuyên lập_trình virus xuất_hiện 7 Hồi tháng_hai 7 nhà_chức_trách Bỉ đã bắt_giữ Kim Vanvaeck 7 nữ công_dân Bỉ bị_cáo_buộc là tác_giả của các virus_Coconut-A 7 Sahay-A 7 và Sharp-A 7 Kim bị_cáo buộc phá_hoại máy_tính - một tội_danh có_thể khiến cô_ta phải trả_giá bằng 1 năm tù_và 1 euro tiền_phạt 7.
+Sophos cho_rằng 7 những bản_án nghiêm_khắc sẽ răn_đe được các đối_tượng chuyên viết virus và là biện_pháp phòng_ngừa tốt 7 Tuy_nhiên 7 tác_giả của Sasser có_thể sẽ chỉ phải chịu một_mức án rất nhẹ vì khi phạm_tội cậu vẫn còn ở tuổi vị_thành_niên 7.
+Trong 1 tháng qua 7 1 virus hàng_đầu được xếp_hạng như_sau 7 6 theo số_liệu do các trạm theo_dõi của Sophos ghi_nhận và báo_cáo 6 7 . Xếp_hạng.
+Virus.
+Số % báo_cáo.
+1 / Sasser.
+1 %.
+1 / Netsky 7 P. 1 %.
+1 / Netsky 7 B. 1 %.
+1 / Netsky 7 D. 1 %.
+1 / MyDoom 7 A. 1 %.
+1 / Zafi 7 B. 1 %.
+1 / Netsky 7 Z. 1 %.
+1 / Netsky 7 C. 1 %.
+1 / Sober 7 C. 1 % . 1 . 1 / Baggle 7 A. 1 %.
+Những loại khác.
+1 %.

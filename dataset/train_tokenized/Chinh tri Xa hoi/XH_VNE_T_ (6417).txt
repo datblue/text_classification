@@ -1,0 +1,100 @@
+Thêm nhiều trường thông_báo điểm tuyển nguyện_vọng 1.
+Chiều 4 7 ĐH Hàng_hải 7 dân_lập Đông_Đô 7 Phân_viện Báo_chí tuyên_truyền đã thông_báo điểm trúng_tuyển nguyện_vọng 1 7 Tại TP_HCM 7 ĐH Sư_phạm kỹ_thuật 7 Khoa_học_tự_nhiên 7 Nông_lâm 7 dân_lập Kỹ_thuật công_nghệ cũng vừa lên danh_sách những tân sinh_viên năm_học mới 7 . Dưới_đây là điểm trúng_tuyển nguyện_vọng 1 dành_cho học_sinh phổ_thông khu_vực 1 7 Khu_vực ưu_tiên cách nhau 1 điểm 7 đối_tượng ưu_tiên cách nhau 1 điểm 7 . Trường_Đại_học Dân_lập Đông_Đô.
+Khối.
+Điểm tuyển.
+Các ngành đào_tạo đại_học 7 . - Công_nghệ_thông_tin.
+1 . - Điện_tử viễn_thông.
+1 . - Xây_dựng dân_dụng và công_nghiệp.
+1 . - Công_nghệ và môi_trường.
+A 7 B. 1 6 A 6 7 1 6 B 6 . - Quản_trị kinh_doanh.
+A 7 1 7 1 7 1 . 1 6 A 6 7 1 6 1 6 7 1 6 1 6 . - Quản_trị du_lịch.
+A 7 1 7 1 . 1 6 A 6 7 1 6 1 6 7 1 6 1 6 . - Tài_chính - Tín_dụng.
+1 . - Thông_tin_học.
+C 7 D. 1 6 C 6 7 1 6 D 6 . - Quan_hệ quốc_tế.
+C 7 D. 1 6 C 6 7 1 6 D 6 . - Văn_hoá du_lịch.
+C 7 D. 1 6 C 6 7 1 6 D 6 . - Tiếng_Anh.
+1 . 1 . - Tiếng_Pháp.
+1 . 1 . - Tiếng_Trung.
+1 7 1 . 1 . Ghi_chú 7 Đối_với ngành kiến_trúc 7 trường chỉ nhận hồ_sơ của thí_sinh có kết_quả thi thấp hơn không quá 1 điểm so_với điểm_chuẩn của trường mà thí_sinh dự_thi và điểm môn vẽ 6 chưa nhân hệ_số 6 phải bằng hoặc lớn_hơn 1 điểm . Phân_viện Báo_chí - Tuyên_truyền.
+Khối.
+Điểm_tuyển . Xã_hội_học.
+1 . 1 . Triết_học.
+1 . 1 . Chủ_nghĩa_xã_hội_khoa_học.
+1 7 1 . Xây_dựng Đảng_Chính_quyền nhà_nước.
+1 . ĐH Hùng_Vương.
+Khối.
+Điểm tuyển.
+Hê Đại_học.
+Tin_học.
+1 . SP Kỹ_thuật NN - KTCN -KTGD. 1 . Quản_trị kinh_doanh.
+1 . Kế_toán doanh_nghiệp.
+1 7 1 . Trồng_trọt.
+1 . Nông_lâm kết_hợp.
+1 . SP Tiếng_Anh.
+1 . 1 . ĐH Hàng_Hải.
+Khối.
+Điểm tuyển.
+Hệ đại_học.
+Điều_khiển tàu_biển.
+1 . Khai_thác Máy tàu_biển.
+1 7 1.
+Hệ Cao_đẳng.
+Điều_khiển tàu_biển.
+1 7 1 . Khai_thác Máy tàu_biển.
+1 7 1 . Tin_học.
+1 . Kinh_tế Vận_tải biển.
+1 . Quản_trị Tài_chính - Kế toàn.
+1 . Ghi_chú 7 Điều_kiện về thể_lực của các ngành 1 7 1 7 1 7 1 xem trong cuốn Những điều cần biết về tuyển_sinh năm 1 7 Các ngành 1 7 1 7 1 7 1 không tuyển nữ 7.
+Hệ.
+Tên trường.
+Mức điểm.
+Số_lượng trúng_tuyển.
+ĐH_Sư_phạm Kỹ_thuật TP_HCM. ĐH. Kỹ_thuật Công_nghiệp.
+1 . 1 . Cơ tin kỹ_thuật.
+1 . 1 . Thiết_kế máy.
+1 . 1 . Kỹ_thuật in.
+1 . 1 . Công_nghệ Môi_trường.
+1 . 1 . Kỹ_thuật nữ_công.
+1 . 1 . CĐ. Kỹ_thuật Điện - Điện_tử.
+1 . 1 . Điện_khí_hoá Cung_cấp điện.
+1 . 1 . Cơ_khí chế_tạo_máy.
+1 . 1 . Cơ_khí động_lực 6 Cơ_khí ô_tô 6 . 1 . 1 . Công_nghệ cắt_may.
+1 . 1 . ĐH Nông_lâm TP_HCM. ĐH. Cơ_khí bảo_quản chế_biến nông_sản thực_phẩm.
+1 . Cơ_khí Nông_lâm.
+1 . Chế_biến lâm_sản.
+1 . Công_nghệ giấy và bột_giấy.
+1 . Công_nghệ_thông_tin.
+1 . Công_nghệ điện_lạnh.
+1 . Điểu_khiển tự_động.
+1 . Phát_triển nông_thôn và khuyến_nông.
+1 . Kinh_tế Nông_lâm.
+1 . Tài_nguyên Môi_trường.
+1 . Chăn_nuôi.
+1 . Lâm_nghiệp.
+1 . Nuôi_trồng thuỷ_sản.
+1 . Quản_lý tài_nguyên rừng 6 khối A 6 . 1 . Quản_lý tài_nguyên rừng 6 khối B 6 . 1 . Sư_phạm kỹ_thuật nông_nghiệp.
+1 . Cảnh_quan và kỹ_thuật hoa_viên.
+1 . CĐ. Công_nghệ_thông_tin.
+1 . Quản_lý đất_đai.
+1 . Cơ_khí.
+1 . Cơ_khí bảo_quản chế_biến nông_sản thực_phẩm.
+1 . Nuôi_trồng thuỷ_sản.
+1 . ĐH Khoa_học_Tự_nhiên.
+ĐH.
+Toán Tin_học.
+1 . Vật_lý.
+1 . Hải_dương_học.
+1 . Địa_chất.
+1 . Khoa_học vật_liệu.
+1 . Sinh_học.
+1 . CĐ. Tin_học.
+1 . ĐH Công_nghiệp TP_HCM. Công_nghệ Kỹ_thuật Điện . 1 . Công_nghệ Kỹ_thuật Cơ_khí.
+1 . Công_nghệ nhiệt_lạnh.
+1 . Khoa_học_máy_tính.
+1 . Công_nghệ may.
+1 . Công_nghệ hoá_học.
+1 . Quản_trị kinh_doanh.
+1 . Kế_toán.
+1 . Anh_văn.
+1 . ĐH Dân_lập kỹ_thuật Công_nghệ.
+Các ngành khối A 7 B. 1 . Các ngành khối C 7 D. 1.

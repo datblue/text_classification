@@ -1,0 +1,9 @@
+Nâng_cấp GoogleTalk.
+Trong phiên_bản 1 7 1 mới này 7 GoogleTalk được nâng_cấp các tính_năng mới như 7 . Bổ_sung avatar cho người_dùng 7 cho_phép sử_dụng một_vài avatar có_sẵn hoặc chọn_lựa avatar riêng cho mình bằng cách hình_ảnh trên máy 7.
+Khi rê chuột trên danh_sách nick chat 7 sẽ có hộp_thoại hiển_thị thông_tin về tài_khoản đó 7 Nút Add / View cũng được bổ_sung vào giúp người_dùng có_thể thêm hay xem các_bạn chat khác.
+1 dạng theme cho người_dùng chọn_lựa tuỳ_thích khi chat.
+Phần hiển_thị thông_báo đã có_thể được đóng_lại bằng việc nhấn vào nút Close.
+Các liên_kết trong_khi chat sẽ không_có gạch_dưới cho_đến_khi bạn rê chuột lên chúng.
+Nếu người_dùng thay_đổi 6 status 6 6 trạng_thái 6 trong_khi chat thì 6 status 6 cũng sẽ được hiển_thị nhanh_chóng.
+Theo nhận_định hiện_nay thì GoogleTalk có chất_lượng thoại Internet tuy_tốt nhưng vẫn chưa so_bì được với Skype 7 Ngoài_ra 7 nhược_điểm của GoogleTalk là chưa mã_hoá nội_dung hội_thoại và cuộc_gọi 7 Nên phần hội_thoại nếu được_chọn sao lưu lại thì sẽ dễ bị người khác sử_dụng 7 Xem_ra GoogleTalk còn phải đi một đoạn_đường khá dài thì mới có_thể bắt_kịp Yahoo_Messenger 7 MSN Messenger hay AIM Triton mới 7.
+Một tin khác đáng_chú_ý là trình tin_nhắn trực_tuyến Windows_Messenger_Live của Microsoft vừa được phát_hành bản chính_thức 6 Final 6 với giao_diện khá đẹp cùng nhiều chức_năng cải_tiến từ bản thử_nghiệm 7 giúp cho gia_đình 6 Live 6 của Microsoft trở_thành tâm_điểm thu_hút khá đông người_dùng 7.

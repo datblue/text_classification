@@ -1,0 +1,5 @@
+Những khiếm_khuyết lớn trong PHP.
+Nhóm phát_triển ngôn_ngữ scripting phổ_biến này vừa tung ra bản nâng_cấp cho một_số lỗi có nguy_cơ cao 7 Người sử_dụng_được khuyến_cáo nên cập_nhật lên bản PHP 1 7 1 ngay_lập_tức vì những lỗ_hổng nói trên rất dễ khai_thác 7.
+Stefan_Esser 7 chuyên_gia của Dự_án tăng_cường PHP 7 nơi phát_hiện ra khiếm_khuyết trong quá_trình phát_triển một_số bổ_sung an_ninh cho PHP 7 cho_biết những lỗi mà họ công_bố thuộc nhiều dạng 7 từ gây tràn bộ_nhớ đệm 7 rò_rỉ thông_tin 7 cắt_cụt đường_dẫn 6 path_truncation 6 7 cho_đến lẩn_tránh sự_hạn_chế ở safe_mode &.
+Những kẻ tấn_công có_thể sử_dụng một_số khiếm_khuyết để truy hồi dữ_liệu bí_mật từ hoạt_động ở quy_trình máy_chủ web 6 apache 6 7 tránh được những hạn_chế an_ninh và giành quyền ưu_tiên ngày_càng cao_hơn 7.
+Hãng phần_mềm bảo_mật Đan_Mạch Secunia đánh_giá những khiếm_khuyết trên thuộc dạng rất nghiêm_trọng 7 Bản nâng_cấp mà nhóm phát_triển PHP vừa đưa_ra còn vá hơn 1 lỗi không nguy_hiểm khác 7 Danh_sánh cụ_thể được liệt_kê ở đây 7 . PHP là_một_trong_những ngôn_ngữ_lập_trình scripting được sử_dụng rộng_rãi nhất trên Internet và thường được nhúng trong các trang HTML 7.

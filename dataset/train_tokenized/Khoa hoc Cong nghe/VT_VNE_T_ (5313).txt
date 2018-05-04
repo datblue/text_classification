@@ -1,0 +1,4 @@
+Nén nhiều file 6 1 6.
+Thân gởi các_bạn 7 Tôi biết rằng mình có_thể dùng unzip 7 exe để mở các zipfile 7 zip hay extract 7 exe để mở các cabfile 7 cab 7 Nhưng xin hỏi nếu mình_muốn làm ngược_lại nghĩa_là bỏ nhiều files hay folders vào một zipfile 7 zip hay vào một cabfile 7 cab nào đó thì_phải cần file gì để làm được như_vậy 7 Nếu_cần thì download_file đó ở đâu 7 Xin các_bạn cho một ví_dụ cách_dùng của file đó 7 Cám_ơn nhiều 7 . TienNguyen.
+Hồi_âm 7.
+Copy tất_cả những gì bạn muốn làm cho vào chung một folder và dùng winrar mà nén thành file_rar 7.

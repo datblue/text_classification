@@ -1,0 +1,5 @@
+Làm thế_nào để nén các file ảnh 6 1 6.
+Chào các_bạn 7 mình_muốn nén các file ảnh để cùng_một_lúc có_thể gửi nhiều_ảnh thì_phải làm thế_nào 7 và cách muốn xem được ảnh nén đó 7.
+Công_Quỳnh.
+Hồi_âm 7.
+Bạn không nén các file ảnh được 6 vì bản_thân ảnh đã_là dạng nén rồi 6 mà chỉ có_thể làm nhỏ chúng đi thôi 7 Nếu là các file dạng bitmap 6 7 bmp 6 là dạng chưa nén thì bạn có_thể chuyển sạng định_dạng 7 jpg hoặc gif là các định_dạng có yêu_cầu về dung_lượng thập hơn bitmap cả chục_lần 7.

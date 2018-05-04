@@ -1,0 +1,14 @@
+Liên_kết 1 phòng_máy dùng ADSL 6 1 6.
+Tôi hiện đang thử việc cho một Công_ty Tin_học và gặp vấn_đề như_sau 7 Một Dịch_vụ Internet có hai phòng_máy riêng_biệt 6 cách nhau một căn_nhà 6 7 mỗi phòng đều có 1 máy 7 HĐH XP 7 sử_dụng modem ADSL ring 6 họ đăng_ký 1 line ADSL 6 7 Hub ring 7 Nay 7 họ yêu_cầu phải làm_sao để các máy trong 1 phòng có_thể 6 nhìn_thấy 6 nhau 7 chia_sẻ dữ_liệu và dùng chung máy_in với điều_kiện không mua_sắm thêm hay loại bớt modem 7.
+Do tôi mới vào nghề 7 thiếu kiến_thức và kinh_nghiệm 7 Kính mong các anh_chị hướng_dẫn kỹ sớm nhất có_thể 7 Mong lắm thay 7 Xin chân_thành cảm_ơn trước 7 Trân_trọng 7.
+Huỳnh_Thanh_Liêm.
+Hồi_âm 7.
+Bạn Huỳnh_Thanh_Liêm thân_mến 7 Bạn chưa cho_biết mỗi phòng_máy có sử_dụng server gì không 7 hay chỉ đơn_giản là cắm modem ADSL thẳng vào HUB 7 Trong trường đơn_giản 7 modem ADSL cắm thẳng vào Switch 7 bạn cần tiến_hành như_sau 7 . Liên_kết 1 phòng_máy 7 . Kiểm_tra khoảng_cách kéo cáp từ phòng_máy 1 6 1 6 sang phòng_máy 1 6 1 6 xem có vượt_quá chiều_dài tối_ưu cho loại cáp UTP-1 hay_không 7 Nên dưới 1 7 . Kiểm_tra switch hiệu gì 7 có các port_uplink hay_không 7.
+Nếu có port_uplink 7 bạn_bấm đầu 1 cho sợi cáp link 1 switch với nhau theo kiểu straight 7 rồi cắm 1 đầu_vào port_uplink của switch ở 1 7 đầu kia cắm vào 1 port bất_kỳ 6 bỏ port_uplink ra 6 của switch ở 1 7.
+Nếu không_có port_uplink 7 bạn phải bấm cáp link này theo kiểu cross_over 7 rồi cắm 1 đầu_vào 1 port bất_kỳ của 1 switch 7 . Đối_với các switch mấy năm gần_đây đều cho_phép uplink hết 7 . Cấu_hình cho máy giữa 1 phòng nhìn_thấy nhau và chia_sẻ máy_in 7 files 7 & 7.
+Để 1 phòng_máy đều nhìn_thấy nhau 7 nhất_thiết phải có cùng tên WORKGROUP và IP Address phải cùng subnet 7.
+Nếu cả 1 modem ADSL cùng đăng_ký dịch_vụ của FPT chẳng_hạn 7 thì 1 modem sẽ có IP là 1 7 1 7 như_vậy sẽ phải đổi 1 IP sang_số khác 7 chẳng_hạn 7 1 7 1 6 cho modem ADSL ở 1 6 . Tất_cả các máy trong 1 phòng_máy nên đặt IP tĩnh 1 7 1 7 x 6 trừ 7 1 và 7 1 6 7 . Như_vậy thì 1 phòng_máy sẽ nhìn_thấy nhau như 1 WorkGroup và bạn muốn share máy_in hay gì cũng được 7.
+Để dễ_dàng kiểm_tra 7 bạn nên tắt 1 modem ADSL đi 7 Dùng lệnh ping để kiểm_tra xem các máy có đúng là đã có_thể nhìn_thấy nhau hay_chưa 7 . Thiết_lập thông_số để mỗi phòng dùng đường ADSL như_cũ 7.
+Với các máy ở 1 7 bạn đặt default_gateway là 1 7 1 7 các máy ở 1 có default_gateway là 1 7 1 . Như_vậy 7 khi truy_cập_Internet 7 các máy nào có default_gateway gì sẽ đi theo modem ADSL đó ra Internet 7.
+Chúc bạn thử và kiểm_tra thành_công 7 . Vui_lòng báo lại kết_quả 7.
+Thân chào 7.

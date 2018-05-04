@@ -1,0 +1,8 @@
+CPU loại gì 7 6 1 6 . Gần_đây 7 tôi có mua một Main Intel 1 và Intel 6 R 6 Processor 6 R 6 1 CPU 1 GHz 7 Nhưng khi khởi_động máy 7 ở màn_hình đầu_tiên 6 Từ màn_hình này ta có_thể vào Bios 6 7 Thì tôi thấy có hai điều đặc_biệt 7.
+1-Main Processor 7 intel_processor 1 cpu 1 GHz.
+1-cpu_branch_name 7 Intel 6 R 6 Processor 6 R 6 1 CPU 1 GHz.
+Và khi vào mục properties của My computer thì ở mục general tôi thấy xuất_hiện thông_số 7 Intel 6 R 6 Processor 6 R 6 1 CPU 1 1 7 1 GHz 7 Hơn_nữa 7 khi khởi_động thì tôi thấy máy này nhanh nhưng khi vào dùng các ứng_dụng khi tối thấy không nhanh hơn máy cũ 1 GHz của tôi 7.
+Vậy xin hỏi loại CPU này của tôi là loại gì vậy 7 Và liệu có vấn_đề gì với nó không 7.
+Duong_Son_Tung.
+Hồi_âm 7.
+Gửi bạn Duong_Son_Tung 7 Processor 1 1 của bạn có FSB 1 Mhz 7 trong khi_đó Mainboard của bạn chỉ_có FSB tối_đa là 1 Mhz nên tạo ra hiện_tượng trên 7 Do ó CPU của bạn không_thể hoạt_động với công_suất thiết_kế 7 Để khắc_phục nó bạn chỉ có_thể thay_thế Main hoặc CPU để cả_hai có FSB tương_thích với nhau 7.

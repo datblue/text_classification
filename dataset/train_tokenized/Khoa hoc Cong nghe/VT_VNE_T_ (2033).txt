@@ -1,0 +1,4 @@
+Tuần sau Microsoft vá 1 lỗi.
+Số chương_trình nâng_cấp này sẽ được phát_hành vào ngày 4 7 trong_đó 1 bản_dành để khắc_phục những vấn_đề ở Windows và một_số lỗi nghiêm_trọng khác 7.
+Hai lỗ_hổng lớn 7 một ở Windows 7 Windows_Media_Player và MSN Messenger 7 một ở Office và Visual_Studio cũng đã được ghi_nhận 7 Hai khiếm_khuyết khác 7 được đánh_giá ở mức_ít nguy_hiểm hơn 7 liên_quan đến 7 NET framework 7 Microsoft_SharePoint_Services và Office 7.
+Một lỗ_hổng nguy_hiểm sắp được khắc_phục lần này đã tồn_tại suốt 1 ngày qua trong Windows kể từ_khi được hãng eEye_Digital_Security phát_hiện đầu tháng 4 7 Lỗi khai_thác hệ_thống từ_xa này cho_phép những kẻ tấn_công vô_hiệu_hóa cài_đặt mặc_định của phần_mềm khiếm_khuyết mà không cần sự tương_tác của người sử_dụng 7 đồng_thời chúng cũng có_thể giành quyền khống_chế toàn_bộ máy mục_tiêu 7 . Hầu_hết các chương_trình cập_nhật này đều đòi_hỏi phải khởi_động lại hệ_thống sau_khi cài_đặt 7.

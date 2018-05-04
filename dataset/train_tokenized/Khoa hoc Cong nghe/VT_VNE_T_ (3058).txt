@@ -1,0 +1,7 @@
+Không dùng được Voice_Chat 6 1 6.
+Chào các_anh 7 Trước_đây em vẫn_dùng voice_chat bình_thường nhưng không hiểu sao bây_giờ em không_thể nào chat voice ở yahoo_messenger và paltalk được 7 Em đa thử mọi_cách mà em biết nhưng không giải_quyết được 7 Mong các_anh_giúp em 7 Có_thể em dã_cài nhầm chương_trình lock mic nhưng em không_biết nó nằm ở dâu và giải_quyết thế_nào 7 Em đã_kiểm_tra mic thi vẫn tốt 7 Khi chat voice thi bên_kia noi gì em vẫn nghe_được nhưng khi em nói thì người_ta lại không nghe_được 7 Các_anh làm_ơn giúp em nhé 7 Cảm_ơn các_anh 7.
+Nguyễn_Thanh_Tùng.
+Hồi_âm 7.
+Chao ban 7 Ve van de_ban khog chat voice duoc nua 7 thu nhat ban xoa_het messenger cua Paltalk va yahoo 7 roi lam moi lai 7 thu 1 ban coi chinh lai nhung_phan cot am_thanh coi sao 7 co the ban khoa nham vao cot micro roi 7 Ban bam hinh cai_loa tren man_hinh 1 cai 7 no se hien ra nhung cot dieu_chinh cho am_thanh 7 tu day ban co the tu_tu tim thay cach_chinh 7 neu khog duoc ban mail cho toi 3 7 Ban co the cho nick va hen toi chat voi ban va truc tiep chi ban cach mo lai voice_chat 7 Chuc ban vui_ve 7 . 3 . Thử vào Volume_Control 6 Click cuối màn_hình góc dưới tay_mặt hình cái Speaker hoặc vô Control_Panel_click_Sounds_and_Audio_Devices 6 Options- Properties_check_mark_enable_Microphone_display 6 coi Microphone có bị check_Mute không 7
+T 7 O 7 M 7 1 7.
+Xem ky lai_dau cam_mic 7 va day cam_vao sound_card xem sao 7 co the xem luon ca microphone cho_chac an xem sao 7 Chac la khong co tin_hieu_tu microphone vao card_sound 7 Nen remove va cai lai Yahoo_Messenger va PalTalk 7.

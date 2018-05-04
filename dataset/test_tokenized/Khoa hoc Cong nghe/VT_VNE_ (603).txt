@@ -1,0 +1,9 @@
+PC không khởi_động được 6 1 6.
+Chào các_bạn 7 Máy_tính của tôi khi khởi_động thì màn_hình xuất_hiện cửa_sổ thông_báo 6 out of_Frequency 6 và hiện các thông_số tần_số 7 sau_đó khoảng 1 giây thì tắt hẳn luôn 7 Các_bạn chỉ cách khôi_phục lại như_cũ cho tôi với 7 Xin cảm_ơn nhiều 7.
+Lê Trung_Đình.
+Hồi_âm 7.
+Chào bạn 7 Vậy là bạn đã chỉnh một cái_gì liên_quan đến Refresh_Rate của màn_hình rồi 7 Bạn thử làm như_sau 7 Khởi_động máy rồi bấm 1 để vào Safe_Mode 6 bởi_vì bạn không vào Windows bình_thường được 6 7 Tiếp_theo làm như_sau Start-Settings-Control_Panel-Display-Settings-Advanced-Monitor-Monitor_Setting 7 Ở đây bạn chỉnh_lại 6 Screen_refresh_rate 6 ở mức_độ 1 hay la 1 7 sau_đó khỏi_động máy lại 7 Nếu_cần thì chỉnh_lại 6 screen_resolution 6 ở 6 1 by 1 pixels 6 7 Chúc bạn thành_công 7.
+Ryan 7 C.
+Vay_la video_card PC cua ban_bi defect roi do 7 chi can thay video_card khac thoi 7.
+Thien Huong_Nguyen.
+PC của bạn vẫn khởi_động được bình_thường 7 vấn_đề là ở chỗ màn_hình của bạn không chịu được độ_phân_giải hiện_thời 7 Bây_giờ bạn làm như_sau 7 Boot máy vào chế_độ Safe_Mode 6 nhấn 1 khi máy khởi_động 6 7 khi đang ở trong chế_độ Safe_mode 7 bạn vào Control_Panel - Display rồi giảm mức_độ quét hiện_thời xống 6 tốt_nhất là để ở chế_độ 1 6 nếu là màn_hình thông_thường CRT 6 hoặc 1 6 nếu là màn_hình tinh_thể_lỏng LCD 6 7 Sau_khi làm xong 7 khởi_động lại máy 7 Lần_sau 7 bạn cần cho_biết hệ_điều_hành bạn dùng là gì 7.

@@ -1,0 +1,5 @@
+Nhận_biết webserver nào sử_dụng IIS 6 1 6.
+Xin cho tôi hỏi là phải làm thế_nào để nhận_biết đưọc webserver nào là sử_dụng IIS 7 Tôi xin cảm_ơn 7.
+Ngọc_Dũng.
+Hồi_âm 7.
+Don_gian_ban chi can_dung mot chuong trinh Scan binh_thuong la co the nhan biet_duoc 7 VD 7 Esstential_Network_Tool 1 hoac Net-tools 7 Neu biet_dung NAMP hoac Netcat thi cang tot 7.

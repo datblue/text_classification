@@ -1,0 +1,4 @@
+IIS gặp lỗi không khởi_động được 6 1 6.
+Tôi đang sử_dụng 1 Pro 7 Thời_gian đầu tôi cài và sử_dụng IIS 1 7 IIS chạy rất_tốt 7 nhưng không hiểu vì lý_do gì mà tôi không_thể vào được địa_chỉ 2 như mọi_ngày 7 Tôi kiểm_tra trong IIS thì phát_hiện ra nó đã bị Stop 7 Nhưng tôi bấm Start lại thì không_được 7 Tôi thử gỡ bỏ chương_trình IIS đó đi và cài lại IIS mới 7 Nhưng lần này thì nó cũng không_thể chạy được 7 Vậy ai có kinh_nghiệm hay cách gì giúp tôi với 7 Xin chân_thành cám_ơn 7.
+Mai_Thanh.
+Hồi_âm 7 . Theo_như kinh_nghiệm của tôi 7 IIS không Start được rất_có_thể là do cổng 1 6 cổng mặc_định của IIS 6 đã bị chiếm_dụng 7 Bạn nên kiểm_tra lại và có_thể chuyển cổng hoạt_động của IIS sang ngõ khác hoặc tắt ứng_dụng đang chiếm_dụng cổng này 6 có_thể là Apache hoặc một ứng_dụng tương_tự 6 7.

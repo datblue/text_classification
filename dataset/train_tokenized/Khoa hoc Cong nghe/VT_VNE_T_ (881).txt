@@ -1,0 +1,6 @@
+Tối_ưu_hóa ảnh web bằng Image_Optimizer.
+Ảnh nhẹ hơn đồng_nghĩa với thời_gian tải trang ngắn_hơn 7 yêu_cầu về băng_thông thấp hơn 7 tăng được lượng banner quảng_cáo 7 7 7 Image_Optimizer giúp bạn thực_hiện điều_đó bằng công_nghệ nén đặc_biệt 7 cho_phép giảm hơn 1 % kích_thước file 7 trong_khi chất_lượng giảm rất_ít 7.
+Image_Optimizer cung_cấp chế_độ nén đặc_biệt MagiCompression 7 hàn lại các điểm_ảnh bị rạn khi nén bằng cách_hòa nó với các pixel xung_quanh 7 Vì_thế 7 nếu không_phải dân chuyên_nghiệp 7 bạn sẽ khó_lòng nhận_ra sự khác_biệt giữa file ảnh gốc nặng 1 K và file đã được nén có dung_lượng chỉ chừng 1 K 7.
+Với Image_Optimizer 7 bạn có tất_cả điều_khiển tương_tác của toàn_bộ quy_trình tối_ưu_hóa các định_dạng ảnh GIF 7 JPEG và PNG 7 từ thay_đổi thiết_lập nén tới áp_dụng những thông_số đó tại những vùng nhất_định trong ảnh 7.
+Một tính_năng hữu_ích khác là Batch 7 cho_phép bạn nén đồng_thời nhiều file ảnh 7 với độ nén được bạn thiết_lập từ trước 7 Ngoài_ra 7 hàng_loạt công_cụ khác sẽ cho_phép bạn chỉnh_sửa một_cách cơ_bản các file ảnh như cắt 7 điều_chỉnh tương_phản 7 độ sáng 7 loại_bỏ tạp nhiễu 7 7 7.
+Với khả_năng nén cao 7 nhiều tính_năng linh_hoạt 7 Image_Optimizer là công_cụ rất hữu_ích với những nhà phát_triển web 7 . Chương_trình nặng 1 MB 7 bạn có_thể tải bản dùng thử tại_đây 7.
