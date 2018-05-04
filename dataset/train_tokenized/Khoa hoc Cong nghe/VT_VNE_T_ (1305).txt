@@ -1,7 +1,0 @@
-Cách in ngược số trang_trong Office 6 1 6.
-Chào các_anh các chị 7 Xin các anh_chị chỉ cho cách in trong Word và Excel 7 cụ_thể 7 in theo_số_thứ_tự ngược 1 7 1 7 1 7 1 1 thay_vì cách in xuôi như bình_thường 7 1 7 1 7 1 7 1 7 1 7 Xin cảm_ơn 7.
-Nguyễn_Thế_Hưng.
-Hồi_âm 7.
-Chao ban 7 Ban thu cach nay 7 Click_File then Print 7 At the lower_left_corner 7 from_Print_list_box 7 choose_either_Odd_pages / Even_pages_or_All_pages in range 7 Then Click_Options_command_button_and_check_marked_right_behind_Reverse_printing_order in Printing_Options_section 7 It will_works 7 Good_luck 7 . 1 . Trong Word thì bạn chỉ_cần bấmControl + P 7 kế_tiếp click vào Options 7 7 7 7 check vào ô Reverse_Print_Oder 7 Tuệ_Anh không thấy chức_năng này trong Excel 7 nhưng bạn có_thể 6 mánh_khóe 6 một_chút bằng cách copy tất_cả những trang mà bạn muốn in rồi paste vào Word 7 7 7 7 Hoặc_là nếu máy bạn có phần_mềm Acrobat_Writer thì chuyển_sang dạng 7 pdf_file 7 kế_tiếp là check vào ôReverse_Pages trong Acrobat trước_khi in 7 7 7 7 Bạn nào có cách hay hơn làm_ơn xin chỉ_giáo 7 7 7.
-Tuệ Anh_Trần.
-Trong Word hoặc Excel bạn nhấn File 7 Print 7 Properties 7 Basics và Back to Front 6 ở mục Page_Order 6 7.

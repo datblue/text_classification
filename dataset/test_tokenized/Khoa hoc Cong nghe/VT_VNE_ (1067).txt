@@ -1,4 +1,0 @@
-Ổ_khoá màu_vàng dưới góc phải màn_hình 6 1 6.
-Tôi truy_cập các trang_web có những trang game không cho vào chơi 7 Qua tìm_hiểu tôi thấy là tại cái ổ_khoá ở góc phải màn_hình không cho xem hết trang 6 kế quả địa_cầu và chữ Internet 6 7 Khi ra dịch_vụ Internet thì vào chơi game vẫn bình_thường 7 Tôi bấm vào thì thấy nó để là cái certificate bị khoá 7 Xin cho hỏi nó là cái_gì 7 Xin chỉ cách để đăng_ký 1 cái certificate 7 Cám_ơn 7.
-Trần_Thanh_Điền.
-Hồi_âm 7 . Dấu_hiệu đó thông_báo rằng trang_web bạn đang vào chạy trong chế_độ bảo_mật 7 Mọi thông_tin của bạn khi tương_tác với web sẽ được giữ kín với 1 đối_tượng thu 1 7 Certificate chỉ_là do hãng phần_mềm bảo_mật cấp_cho trang_web đó 7 Bạn vào bất_kì trang mua_bán trực_tuyến nào cũng gặp dấu_hiệu này 7.

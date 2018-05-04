@@ -1,4 +1,0 @@
-Máy hay bị treo và báo lỗi 6 1 6.
-Dàn máy của tôi trước_kia sử_dụng chơi game rất ổn_định nhưng từ_khi chuyển_sang truy_cập_Internet và chat thì hiện_nay xuất_hiện lỗi sau 7 thường_xuyên treo máy hoặc chạy một_số chương_trình mà trước_kia vẫn chạy thì máy báo lại lỗi 6 not egnough_memory 7 7 7 7 6 hoặc có lúc máy báo 6 An error_database 7 7 7 7 7 7 6 7 Dàn máy của tôi có cấu_hình là Pen III 1 và Celeron 1 MHz Ram 1 7 Tôi rất lúng_túng trong vấn_đề này không_biết nguyên_nhân vì đâu 7 Vậy tôi rất mong được hướng_dẫn cách chữa_trị 7 Chân_thành cảm_ơn 7.
-Vũ Hường.
-Hồi_âm 7 . Có_lẽ bạn phải thay_thanh RAM đấy 7 Nếu dùng WinXP thì tốt_nhất là mua thanh 1 7.

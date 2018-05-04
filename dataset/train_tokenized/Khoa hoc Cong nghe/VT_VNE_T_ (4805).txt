@@ -1,5 +1,0 @@
-Macromedia vá lỗi nghiêm_trọng trong công_cụ Flash.
-Theo Macromedia 7 lỗ_hổng bảo_mật trong Flash_Player 1 7 1 và các phiên_bản trở về_trước 7 hoạt_động trên nền Windows 7 có_thể khiến hàng triệu máy_tính sử_dụng Internet gặp nguy_hiểm 7.
-Lỗi được xếp vào hàng 6 nghiêm_trọng 6 6 hãng bảo_mật Mỹ eEye đã báo riêng cho Macromedia từ 1 tháng trước_đây 6 và nằm_trong mã nguồn của tệp Flash 7 ocx 6 thành_phần có nhiệm_vụ phát các file 7 swf 6 7 mở_cửa cho hacker chạy đoạn mã giả và điều hướng dữ_liệu trên máy_tính nạn_nhân 7.
-Stephen_Toulouse 7 Giám_đốc trung_tâm bảo_mật của Microsoft 7 đã cảnh_báo trên trang_web cá_nhân của ông này và yêu_cầu người sử_dụng Internet_Explorer nhanh_chóng cập_nhật Flash_Player lên bản 1 7 Macromedia_Flash_Player là sản_phẩm bên thứ 1 7 được phát_hành cùng_với Windows XP Service_Pack 1 và 1 7 6 Nếu bạn không sử_dụng công_cụ này 7 hoặc thấy không cần_thiết 7 bạn có_thể vô_hiệu_hóa trong Internet_Explorer qua lựa_chọn Tool - Manage_Add-ons 6 7 Toulouse hướng_dẫn 7.
-Macromedia đã phát_hành bản vá lỗi tại Download_Center 7 Người sử_dụng Windows có_thể chọn cài các phiên_bản Flash_Player tại_đây 7.

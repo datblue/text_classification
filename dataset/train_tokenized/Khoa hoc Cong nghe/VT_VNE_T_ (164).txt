@@ -1,5 +1,0 @@
-Hỏi cách nối_mạng 1 máy_tính dùng 1 hub 6 1 6.
-Lam on chi giup cho em cach noi mang 1 may_tinh_tro len 7 dung mot hub 7 - cach setup phan cung- cach cai dat phan men 6 may cai 1 6 7 tung buoc lam nhu the_nao 7 Em xin chan thanh cam_on 7.
-Le_Thi_Trang.
-Hồi_âm 7.
-De noi mang 1 may vao 1 hub rat don gian 7 Ban se theo cac buoc sau day 7 . 1 7 Cap mang 6 thong dung la cap 1 6 7 Neu_dung cho 1 may thi can den 1 soi_day 6 luu_y day khong dai qua 1 6 . 1 7 Connector UTP 7 1 cai cho 1 may 6 dau bam cap 6 7 . 1 7 Bam_cap theo chuan 1 6 hay goi la chuan B 6 7 . 1 7 Cam card mang vao moi may va cai driver cho Card mang 7 Cai xong Boot may lai 7 . 1 7 Day la phan nghi_thuc mang hay con goi la Protocol 7 . 1 7 Sau_khi ban Boot may lai thi tren Desktop co bieu tuong NetworkNieghborhood va bam chuot phai vao bieu tuong nay va chon Properties 7 Chon lop Identification 7 chon o workgroup 7 Ban go vao ten workgroup 6 ten nay do ban tu dat va bat_buoc ten_nay 1 may phai giong nhau 7 nghia_la co cung ten workgroup 6 7 . 1 7 Chon_vao lop configuration de Add them TCP / IP va NetBui 6 neu 1 trong 1 chua co trong lop nay 6 7 Chuc ban thanh_cong 7.

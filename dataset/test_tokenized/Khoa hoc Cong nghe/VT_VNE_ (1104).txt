@@ -1,3 +1,0 @@
-Lỗi sound_card.
-Main cua minh da bi chet cong PCI nen_minh_phai dung_cong ISA de cam sound_card 7 hieu YAMAHA 1-SAx 6 doi cu 6 7 Binh_thuong van nghe duoc 7 nhung khi nghe nhac Online thi am_thanh bi leo_nheo 7 kho nghe lam 7 nhu bang tu bi roi 7 Va xem cac file dinh_dang AVI thi am_thanh cung bi_nhu vay 7 Mong cac ban giup minh voi 7 Keo da kho lam roi 7 Cam_on 7.
-Quoc.

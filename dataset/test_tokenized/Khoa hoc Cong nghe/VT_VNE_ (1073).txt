@@ -1,4 +1,0 @@
-Chip Intel 1 GHz đã xuất_hiện.
-Bộ_xử_lý Pentium IV 1 chưa chính_thức được liệt_kê trong bảng_giá của hãng chế_tạo chip hàng_đầu thế_giới nhưng đã bắt_đầu có_mặt ở nhiều cửa_hàng máy_tính tại Nhật trong những chiếc PC Vaio Type R của Sony 7.
-Với việc Intel quyết_định ngừng xúc_tiến dòng Pentium IV 1 7 bộ_xử_lý 1 được coi_là chip Pentium IV có tốc_độ nhanh nhất dựa_trên nền công_nghệ Prescott với công_nghệ tăng_cường khả_năng hoạt_động thông_qua những bộ_nhớ truy_cập nhanh 6 cache 6 bổ_sung và tốc_độ frontside_bus mạnh_hơn 7.
-Pentium 1 còn được sử_dụng trong máy_tính chơi game_Compaq X 1 của HP 7 công_bố vào ngày_mai 7 Hãng Dell cũng có kế_hoạch dùng bộ_xử_lý này cho PC chơi game_Dimension XPS 7.

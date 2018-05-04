@@ -1,2 +1,0 @@
-Điện_thoại bàn biết nhắn_tin.
-Tổng_đài điện_thoại này còn có nhiều tính_năng 7 kết_nối 1 hệ_thống tổng_đài theo giao_thức SIP bên_cạnh giao_thức kết_nối PSTN truyền_thống - SIP Trunking 7 đàm_thọai và truy_cập dữ_liệu từ_xa bằng máy_tính thông_qua Wireless - Vowlan 7 Điện_thoại_di_động IP - Mobile IP Touch 7 Cho_phép cài_đặt 7 quản_lý và giám_sát nhiều site tổng_đài chỉ tại một vị_trí - PC Attendant 7 7 7.

@@ -1,3 +1,0 @@
-Nhật_Bản làm siêu máy_tính mạnh nhất thế_giới.
-Theo kế_hoạch mà chính_phủ nước này vừa công_bố 7 dự_án xây_dựng một supercomputer có sức_mạnh cao_hơn 1 lần so_với cỗ_máy nhanh nhất hiện_nay sẽ bắt_đầu được triển_khai vào năm tới 7 . Danh_hiệu siêu máy_tính số 1 thế_giới hiện_thời đang thuộc_về hệ_thống Blue_Gene / L của IBM 7 đặt tại Trung_tâm nghiên_cứu quốc_gia Livermore 6 Mỹ 6 7 Máy_này có tốc_độ 1 teraflop 6 1 nghìn_tỷ phép_tính 7 giây 6 7 . Giờ_đây 7 chính_phủ Nhật muốn phát_triển một hệ_thống có khả_năng chạy 1 petaflop 7 tức_là 1 phép_tính / giây 7 Tổng_số tiền chi cho dự_án này ước_tính khoảng 4 tỷ_yen 7.
-Năm 1 7 siêu máy_tính Earth_Simulator 6 1 teraflop 6 của Nhật_ra_đời và duy_trì được vị_trí số 1 cho_đến 1 khi IBM tung ra Blue_Gene 7.

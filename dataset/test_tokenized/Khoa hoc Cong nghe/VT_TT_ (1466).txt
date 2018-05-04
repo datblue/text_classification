@@ -1,4 +1,0 @@
-Driver_Magician 1 7 sao_lưu 7 phục_hồi driver cho các thiết_bị.
-Cách sử_dụng chương_trình rất đơn_giản 7 Sau_khi bạn_chạy Driver_Magician 7 chương_trình sẽ dò_tìm các driver đã cài trên máy và hiển_thị trong một danh_sách 7 Bạn đánh_dấu chọn trước tên driver cần sao lưu 7 hay nhấn Select_All để chọn tất_cả 7 Nhấn nút Start_Backup 7 Chương_trình sẽ hỏi bạn muốn lưu_thông tin_vào thư_mục_nào 7 sau_khi chọn xong nhấn OK 7.
-Vậy là xong phần sao lưu 7 Để phục_hồi driver 7 bạn vào menu_Driver_Restoration 7 chọn Restore_from_folder 7 sau_đó chọn thư_mục chứa tập_tin đã sao lưu trước_đó 7 Đánh_dấu check trước tên driver cần phục_hồi và nhấn nút Start_Restore để bắt_đầu phục_hồi 7.
-Driver_Magician 1 là phần_mềm thương_mại của GoldSolution 7 tương_thích với Windows 1 7 ME 7 1 7 XP 7 1 7 Bạn có_thể tải tại 2 6 dung_lượng 1 MB 6 hay tìm trên các CD phần_mềm tổng_hợp 7 có bán ngoài thị_trường 7.

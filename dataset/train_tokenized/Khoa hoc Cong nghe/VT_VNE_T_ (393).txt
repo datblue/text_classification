@@ -1,3 +1,0 @@
-Cách cấu_hình ISA Server 1 1.
-Em rat mong duoc qui anh chi huong dan cho em cach cau hinh ISA 1 1 7 Truoc day em da tung cau hinh ISA 1 tren Windows 1 roi va chay rat tot 7 sau do cung da_cau_hinh ISA 1 tren Windows 1 Server cung_chay tot luon 7 Hien nay em_dang thu cau hinh ISA 1 tren Windows 1 de_hoc hoi them_nhung khong_thanh_cong 7 Mac du ISA 1 giao_dien dep cac giao_thuc cung co san nhieu hon ISA 1 6 HTTP 7 HTTPS 7 7 7 6 nhung lam hoai khong chay 7 Neu co the xin qui anh goi cho em mot so tai lieu hoac huong dan cach de hoan_thien hon nua 7 Vi vay rat mong duoc qui anh chi them va duoc hoc hoi hon_nhieu tu qui_anh 7 May em_dang chay Windows_Server 1 7 Exchange_Server 1 7 Em dang du dinh cau_hinh lam Mailserver 7 FTPserver 7 NATserver 7.
-Nguyen_Huy_Hoang.

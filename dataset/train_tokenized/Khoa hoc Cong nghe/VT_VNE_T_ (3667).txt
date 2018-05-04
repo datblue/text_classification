@@ -1,5 +1,0 @@
-Sun sẽ cung_cấp miễn_phí toàn_bộ phần_mềm.
-Jonathan_Schwartz 7 Chủ_tịch kiêm Giám_đốc_điều_hành Sun Microsystems 7 khẳng_định kế_hoạch phát_hành miễn_phí tất_cả các phần_mềm nhằm xây_dựng cộng_đồng sử_dụng công_nghệ của hãng 7.
-Sun hiện_nay mới chỉ cho_phép người sử_dụng khai_thác hệ_điều_hành Solaris mã nguồn mở và tải công_nghệ Java miễn_phí 7.
-Janathan không nói_rõ liệu hãng có tiếp_tục kinh_doanh phần_cứng hay_không 7 mà chỉ tuyên_bố 7 6 Chúng_tôi đang cố_gắng để cung_cấp sản_phẩm và công_nghệ miễn_phí 6 7 Cũng có_thể Sun muốn dựa_vào phần_mềm để thúc_đẩy doanh_thu phần_cứng 7.
-Theo kế_hoạch 7 những sản_phẩm như phần_mềm trung_gian Sun Java_Enterprise_System 7 hệ_thống Sun Java_Desktop_System 7 gói ứng_dụng văn_phòng StarOffice 7 công_cụ phát_triển Sun Java_Studio_Creator 7 phần_mềm quản_lý dữ_liệu trung_tâm 1 và phần_mềm lưu_trữ StorEdge sẽ hoàn_toàn miễn_phí trong thời_gian tới 7 . Hiện_nay 1 tập_đoàn lớn là Microsoft 7 Oracle và SAP đang nắm_giữ tới hơn 1 % lợi_nhuận thu về từ phần_mềm toàn_cầu 7.

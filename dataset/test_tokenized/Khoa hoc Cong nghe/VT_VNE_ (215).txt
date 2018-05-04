@@ -1,4 +1,0 @@
-Microsoft chào_hàng WindowsXP 1 bit.
-Website của hãng phần_mềm vừa cung_cấp phiên_bản thử_nghiệm beta_Windows XP 1 bit để giới_nghiền điện_toán xem nó chạy ra sao 7 Phần_mềm này dùng cho chip Opteron hay Athlon của AMD và sẽ hoạt_động trong_vòng 1 năm 7.
-Microsoft đã hứa_hẹn về Windows XP 1-bit từ nhiều tháng trước 7 Song đến nay hãng mới chính_thức công_bố rộng_rãi nó 7 Chương_trình này hé_mở hình_ảnh về thế_hệ Windows XP 1 bit 7 vốn đang trong giai_đoạn phát_triển 7 Đây chỉ_là phiên_bản để kiểm_tra và đánh_giá 7 Bạn không nên dùng nó trong môi_trường sản_xuất 7 Microsoft thông_báo trên website 7 . Phiên_bản chính_thức của hệ_điều_hành sẽ ra_mắt sớm nhất vào quý III năm_nay 7 phát_ngôn_viên của Microsoft nói thêm 7.
-Microsoft hiện đã hỗ_trợ bộ_vi_xử_lý Itanium 1 bit của Intel 7 song chưa tỏ thái_độ gì về kế_hoạch phát_triển chip 1 1 bit mà hãng này sẽ giới_thiệu vào cuối tháng 1 7.

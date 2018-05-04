@@ -1,2 +1,0 @@
-Màn_hình LCD nối_mạng.
-Với các mẫu màn_hình này 7 người_dùng có_thể nối_mạng nó với máy_chủ 7 sau_đó gắn thêm chuột và bàn_phím trực_tiếp lên màn_hình để sử_dụng 7 Hoặc cũng có_thể dùng nhiều màn_hình kết_nối với một server 7 mỗi màn_hình sẽ hiển_thị các hình_ảnh và làm_việc độc_lập rất tiện_lợi 7 . Cả_hai mẫu màn_hình này đều có_sẵn cổng USB 7 thời_gian hiển_thị là 1 mili giây 7 độ sáng 4 7.

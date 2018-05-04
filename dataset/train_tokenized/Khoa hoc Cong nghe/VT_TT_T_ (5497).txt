@@ -1,5 +1,0 @@
-Hai quyển_sách mới của tác_giả Dương_Quang_Thiện.
-TT - Tác_giả nổi_tiếng chuyên về sách công_nghệ_thông_tin Dương_Quang_Thiện vừa giới_thiệu tập thứ_hai và ba của bộ sách 7 NET toàn_tập 7 . & gt 7 & gt 7 Tập 1 7 Lập_trình Visual C # như_thế_nào 7.
-Tập 1 mang_tên 6 C # và 7 NET Framework 6 trình_bày giao_diện lập_trình phong_phú của 6 sàn_diễn 6 7 NET để người_đọc thực_tập xây_dựng ứng_dụng Windows và ứng_dụng web 7.
-Đọc hết tập này người_đọc sẽ hoàn_chỉnh phần kiến_thức nền_tảng về C # và 7 NET 7 vừa có vai_trò như bước_đệm 7 chuẩn_bị cho người_đọc tiến vào từng vấn_đề chuyên_biệt trong các tập tiếp_theo 7.
-Tập 1 mang_tên 6 Lập_trình giao_diện người_dùng theo C # 6 hướng_dẫn người_đọc đi vào ngay vấn_đề quan_trọng của việc phát_triển ứng_dụng 7 thiết_kế và xây_dựng giao_diện người_dùng 7 Trong_đó chú_trọng đến các nguyên_lý thiết_kế 6 khôn_ngoan 6 để tạo ra giao_diện người_dùng dễ thích_nghi với mọi biến_động 7.

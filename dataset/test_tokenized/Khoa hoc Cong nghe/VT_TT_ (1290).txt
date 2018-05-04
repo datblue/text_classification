@@ -1,3 +1,0 @@
-Hình_thức thanh_toán mới trong game_online.
-Khi đăng_ký một tài_khoản và nạp tiền 7 ngoài việc trừ dần tài_khoản của người_chơi theo thời_gian chơi game 7 ở PTV còn có thêm chức_năng giao_dịch và giữ tiền tương_tự như một ngân_hàng 7.
-Với tài_khoản này 7 người_chơi có_thể chuyển_khoản 7 giao_dịch với nhau 7 cho vay 7 7 7 Đặc_biệt 7 người_chơi có_thể rút tiền_mặt từ tài_khoản này tại các điểm rút_tiền đối_tác của FPT 7.

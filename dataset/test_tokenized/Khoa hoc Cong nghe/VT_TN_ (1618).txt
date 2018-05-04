@@ -1,4 +1,0 @@
-Trong một cuộc thử_nghiệm gần_đây đã cho_thấy các phiên_bản hệ_điều_hành của Windows có_thể dễ_dàng bị đột_nhập trong thời_gian tối_thiểu là 1 phút 7.
-Các phiên_bản Windows XP Professional không_được cài_đặt các bản vá bảo_mật có_thể dễ_dàng bị đột_nhập chỉ trong_vòng có 1 giờ và 1 giây 7 Trong_khi kẻ tấn_công phải cần đến 1 giờ 1 phút để đột_nhập phiên_bản Windows 1 Server không cài_đặt đúng_đắn các bản vá 7 Đối_với Windows_Server 1 kẻ tấn_công sẽ mất nhiều thời_gian hơn một_chút 7.
-Trong khi_đó trong_suốt 1 tuần thử_nghiệm 7 các phiên_bản Linux_server - phiên_bản Red Hat và SuSE_servers - không_thể bị bẻ khóa mặc_dù các phiên_bản này thường_xuyên được kết_nối với Internet 7.
-Cũng trong một cuộc thử_nghiệm khác 7 các kẻ tấn_công chỉ mất có 1 phút để bẻ khóa thành_công hệ_điều_hành Mac_OS X của Apple thậm trí đó là phiên_bản đã được cài_đặt các bản vá lỗi 7 6 Đột_nhập Mac_OS X là một việc quá dễ_dàng 6 7 một hacker tham_dự cuộc thử_nghiệm khẳng_định 7.

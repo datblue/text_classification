@@ -1,9 +1,0 @@
-Gỡ bỏ password 6 1 6.
-May cua em la compag 7 Mot_lan em vao cmos va set up password cho power 7 nhung khong biet lam the nao de bo no di 7 Vi_the 7 moi lan boot may em phai go password roi computer moi khoi dong de di vao window XP 7 Phai lam sao de bo password 7 mong duoc giai dap 7.
-Son_Nguyen.
-Hồi_âm 7.
-Ban tim Jump_Clear CMOS tren main de reset lai BIOS hoac_go pin CMOS ra ngoai mot luc roi lap tro lai 7 BIOS se duoc reset lai che do Default 7 Pass da bi xoa 7 Sau_do thiet lap lai BIOS nhu truoc cua ban 7.
-Son Tran_Thai.
-Ban nen doc lai bai viet_cu 7 2.
-Tuyet_Kha.
-Bạn cần tháo pin CMOS ra 7 đợi khoảng 1 phút rồi gắn trở_lại thì Password sẽ được xoá đi 7 Chúc thành_công 7.

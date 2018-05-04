@@ -1,6 +1,0 @@
-Dùng Outlook_Express 1 trong LAN 6 1 6.
-Các anh_chị chỉ dùm cho em biết chương_trình Outlook_Express 1 có_thể nhận thư_từ các máy nối_mạng LAN được không 7 Nếu có chương_trình nào có_thể làm được thao_tác này anh_chị chỉ dùm với ạ 7 Rất mong nhận_được thư phản_hồi 7 Chân_thành cảm_ơn 7.
-Huy.
-Hồi_âm 7 . Điều_này phụ_thuộc vào mạng LAN của bạn 7 Nếu mạng LAN của bạn được kết_nối vào Internet thì hoàn_toàn được 7 Nếu chỉ_là mạng LAN độc_lập thôi 6 không kểt nối vào internet 6 nhưng có một exchange_server thì cũng được 6 trường_hợp này thì tốt_nhất là dùng Outlook 7 chứ không nên dùng Oulook_Express 6 7 Còn_lại thì không 7.
-Dong_Ngo.
-Neu ban muon trao_doi email tu cac may noi mang_qua Outlook_express 1 thi ban phai co a mail_server such as_exchange_server_etc 7 7 etc 7 7 Neu ban chi don thuan muon trao_doi message qua canmay LAN thi trong cac OS deu co feature_send_message chang han nhu Windows NT 1 7 1 and XP 7 Hy_vong da giup ban duoc_phan_nao 7.

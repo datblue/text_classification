@@ -1,5 +1,0 @@
-Wireless_card cho laptop 6 1 6.
-Khong hieu sao thoi_gian_gan day_may tinh xach tay 6 Laptop 6 cua em khong nhan duoc wireless_card nua 7 Khi em cam wireless_card vao may 7 card khong he power up 6 may khong nhan the 6 7 Kinh mong cac anh chi giup do em 7 Thong tin ve may tinh 7 Sony Vaio 7 Pentium 1 7 1 7 WindowXp_Home_Edition_operating_system 7 Local_Ethanet_connection 7 1 modem_connection 7 Em xin chan thanh cam_on 7.
-Trung Nguyen.
-Hồi_âm 7.
-Bạn quên không cho_biết Wireless_card đó là loại gì 7 Tuy_nhiên có những khả_năng sau_đây 7 1 7 Card đó bị hỏng 6 thử cắm sang máy khác xem sao 6 7 1 7 Khe cắm trên máy của bạn bị hỏng 6 điều_này rất hay xảy_ra nếu ai_đó cắm card sai cách nhưng cứ cố 6 nhét 6 vào khiến cho một 6 vài 6 pins bên_trong bị gãy hoặc cong 6 7 bạn thử lấy đèn_pin soi vào xem có thấy gì khác_lạ không 7 hoặc lấy một card khác cắm 6 đúng cách 6 vào xem card này có hoạt_động không 7 1 7 Các khe cắm card này bị 6 disabled 6 6 xem bản_danh_sách phần_cứng trong Control_panel - System 6 nếu đúng thì 6 enable 6 chúng lên 7 1 7 Bo_mạch_chủ của máy_tính bị hỏng phần hỗ_trợ cho các khe cắm card PC này 7.

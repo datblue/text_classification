@@ -1,4 +1,0 @@
-Tạo file LYRICS 6 7 lrc 6 cho 1 từ file_text.
-Hiện tôi có máy_nghe nhạc 1 có chức_năng hiển_thị Lyrics_Show và đã có file lời bài_hát dạng text 7 dùng trong JetAudio thì được nhưng trong máy 1 thì không_được 7.
-Hãy chỉ cho tôi cách tạo file_Lyrics có đuôi là 7 lrc bằng chương_trình miễn_phí nào 7 . Cám_ơn nhiều 7.
-Trần_Mạnh_Tường.

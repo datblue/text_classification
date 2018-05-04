@@ -1,5 +1,0 @@
-Các loa không hoạt_động tốt 6 1 6.
-Tôi có bộ loa Creative 1 7 Mọi cài_đặt của Sound_Effect đều đúng 7 máy_tính của tôi nhận_được phan cứng rồi 7 Nhưng không hiểu sao lúc nghe nhạc 7 chỉ_có 1 loa là hoạt_động 6 mỗi loa phát_ra 1 kiểu âm_thanh 6 7 Xin nhờ chỉ giúp cho tôi 7 Xin chân_thành cảm_ơn 7.
-Lê_Hoàng.
-Hồi_âm 7.
-Đó là do phần Sound của bạn đang định_dạng kiểu 1 loa thay_vì 1 loa Surround 7 Cách khắc_phục rất đơn_giản 7 Vào Start - Control_Panel - Sound_and_Audio_Devices - Advanced của Speaker_Setting - chỉnh_lại thành 6 1 surround_sound_speakers 6 7 Chúc bạn thành_công 7.

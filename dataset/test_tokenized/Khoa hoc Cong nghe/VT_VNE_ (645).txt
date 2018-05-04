@@ -1,7 +1,0 @@
-Intel ra_mắt chip 4 bit.
-Hôm_qua 7 hãng sản_xuất chip lớn_nhất thế_giới Intel giới_thiệu bộ_vi_xử_lý Xeon có phần mở_rộng 1 bit 7 Với mã_hiệu Nocona 7 chip đầu_tiên được thiết_kế cho thị_trường máy trạm 7 Các phiên_bản 4 bit cho máy_chủ sẽ được tung ra trong_vòng 1 tháng tới 7.
-Loại chip mới 7 có tốc_độ lên_tới 1 GHz 7 có khả_năng xử_lý dữ_liệu tốt_hơn chip 1 bit nhưng phần_mềm phải được tối_ưu_hóa_để đạt_được lợi_ích tối_đa mà phần mở_rộng 1 bit bổ_sung 7 Chip_Xeon mới cũng tăng_cường một_số chức_năng như bộ_nhớ 1 7 PCI Express 7 một bus trước 1 MHz cùng công_nghệ Extended_Memory 1 7 Được chế_tạo theo quy_trình 1 nm 7 bộ_vi_xử_lý này cũng sẽ tận_dụng công_nghệ siêu phân_luồng của Intel 7.
-Intel cũng giới_thiệu chipset mới 1 được tối_ưu_hóa cho máy trạm 7 Với mã_hiệu Tumwater 7 1 sẽ tăng khả_năng truyền_dẫn của kênh_truyền hệ_thống lên 1 % so_với các chipset thế_hệ trước 7.
-Nhiều nhà_sản_xuất board và máy_tính đã cam_kết cung_cấp máy trạm dùng chip Xeon mới 7 trong_đó có Dell 7 HP 7 Fujitsu 7 NEC và Optimus 7.
-Nocona ra_mắt gần một_năm sau_khi AMD công_bố bộ_vi_xử_lý 4 bit Opteron được sử_dụng trong máy_tính của những nhà_sản_xuất máy_chủ hàng_đầu Hewlett-Packard 7 IBM và Sun Microsystems 7.
-Trong một tuyên_bố đưa_ra hôm thứ_hai 7 AMD nhận_xét 7 vẫn còn 6 một_số lợi_thế rõ_rệt trên nền 1 mà cấu_trúc của Intel không_có 6 7.

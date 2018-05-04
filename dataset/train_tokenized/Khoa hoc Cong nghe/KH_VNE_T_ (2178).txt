@@ -1,5 +1,0 @@
-Thử rượu qua máy_tính.
-Từ_khi con_người biết thưởng_thức rượu 7 họ cũng luôn tìm_tòi những phương_pháp mới để khiến hương_vị của loại đồ_uống có cồn này ngon hơn 7 điển_hình là qua công_đoạn thử chất_lượng các loại nho tại thời_điểm hái 7.
-Nhưng Lorenz_Biegler 7 nhà_khoa_học thuộc Đại_học Carnegie_Mellon tại Pittsburgh 6 Pennsylvania 7 Mỹ 6 đang nghiên_cứu một công_thức_toán học trên máy_tính 7 có_thể tự_động kiểm_soát quá_trình lên_men 7 điều_chỉnh thành_phần và điều_kiện ủ để đảm_bảo hương_vị rượu_nho ngon nhất 7 . 6 Nghiên_cứu hiện mới chỉ dừng_lại ở loại rượu_trắng bởi vang đỏ chứa nhiều thành_phần phức_tạp hơn và rất khó phân_tích 6 7 Biegler nói 7.
-Ông cùng_với một_số nhà_khoa_học khác đã phối_hợp với các nhà_sản_xuất rượu ở Chile kiểm_nghiệm xem liệu_sự_phát_triển mô_hình trên máy_tính có ảnh_hưởng đến chất_lượng của sản_phẩm cuối_cùng hay_không 7.
-Biegler cho_biết hệ_thống điện_toán tương_tự đang được sử_dụng trong các nhà_máy hóa_chất 7 tinh_lọc dầu và dược_phẩm 7.

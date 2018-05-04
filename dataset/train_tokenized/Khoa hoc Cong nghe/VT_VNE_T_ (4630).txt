@@ -1,6 +1,0 @@
-Flock - trình_duyệt hội_tụ của công_nghệ Web 1.
-Ngày 4 7 Bart_Decrem 7 cựu thành_viên của Mozilla 7 và các đồng_nghiệp đã giới_thiệu browser tích_hợp hầu_như tất_cả những tính_năng ưu_việt của web thế_hệ mới như nhập nội_dung RSS 7 bookmark 7 blog và chia_sẻ ảnh 7.
-Flock cung_cấp công_cụ blogging với khả_năng kéo - thả ảnh tương_tự như Flickr của Yahoo 7 hỗ_trợ podcasting 7 và phần_mềm chia_sẻ file 7 Ngoài_ra 7 không như bookmark 6 lưu lại những trang_web 7 đường link hay 6 trong các trình_duyệt truyền_thống 7 danh_sách trang_web được đánh_dấu của Flock tích_hợp với del 7 icio 7 us 7 dịch_vụ trực_tuyến cho_phép người sử_dụng lưu 7 tạo danh_mục và chia_sẻ với tất_cả mọi_người 7 cũng_như thay_đổi bookmark trên bất_cứ máy_tính nào 7 . Tính_năng RSS reader hỗ_trợ khách_hàng đọc thông_tin trên các blog yêu_thích mà không cần_phải mở lần_lượt từng trang cá_nhân 7 Nhiều website và chương_trình phần_mềm đã cung_cấp tính_năng này 7 nhưng Flock là một_trong_những dịch_vụ đầu_tiên tổng_hợp nó trong một trình_duyệt 7.
-Browser tích_hợp nhiều chương_trình blogging phong_phú và phổ_biến 7 trong_đó có Wordpress 7 Six_Apart và Blogger 7.
-Flock hoạt_động trên Windows 7 Mac_OS X và Linux 7 Decrem đang xây_dựng kế_hoạch hợp_tác cùng Yahoo và Google để đưa hộp tìm_kiếm vào trong trình_duyệt 7.
-Tải và dùng thử Flock tại trang_web của trình_duyệt 7.

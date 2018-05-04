@@ -1,3 +1,0 @@
-Sun hỗ_trợ nhiều chương_trình phát_triển CNTT tại Việt_Nam.
-Dự_định này cũng nằm_trong khuôn_khổ sáng_kiến 6 Chia_sẻ cơ_hội 6 mà Sun giới_thiệu tại buổi họp_báo sáng_ngày 4 7 tại TP 7 HCM 7 Theo đó trong năm 1 7 Sun sẽ tiếp_tục phối_hợp với các đối_tác để thành_lập ít_nhất 1 trung_tâm 7 đào_tạo lập_trình 1 7 phát_triển mã nguồn mở dựa_trên hệ_điều_hành OpenSolaris – ngôn_ngữ Java và Vườn_ươm công_nghệ_thông_tin 7.
-Cũng thuộc chương_trình này 7 năm_ngoái Sun đã tặng Bộ_Giáo_dục Đào_tạo Việt_Nam phần_mềm Star_Office 7 đồng_thời công_bố toàn_bộ mã nguồn của hệ_điều_hành Open_Solaris 7.

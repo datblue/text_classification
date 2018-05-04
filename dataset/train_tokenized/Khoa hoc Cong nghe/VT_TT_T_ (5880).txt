@@ -1,4 +1,0 @@
-Microsoft đổi_tên Windows_AntiSpyware thành Windows_Defender.
-Khi chính_thức được đổi_tên thành Windows_Defender 7 thì công_cụ bảo_mật 6 Made in Microsoft 6 này sẽ được thêm_vào nhiều tính_năng bảo_mật khác như quét các rootkit 6 một dạng phần_mềm gián_điệp có tính_chất của trojan 7 tức cao_cấp hơn_cả các spyware thông_thường 6 7 các trình ghi_nhận hoạt_động bàn_phím và cả virus 7 7 7.
-Microsoft cho_biết rằng Windows_Defender sẽ được tích_hợp trực_tiếp vào Windows_Vista 7 Như_vậy là cho_đến tận cuối năm 1 7 những_ai yêu_thích Windows_Antispyware mới có cơ_hội sử_dụng bản nâng_cấp toàn_diện cho công_cụ bảo_mật yêu_thích của mình 7.
-Microsoft sẽ tiếp_tục nâng_cấp cho Windows_AntiSpyware trong tháng 4 nhưng chưa rõ Microsoft có tung ra một bản Windows_Defender riêng_lẻ dành_cho người_dùng XP sau_khi tung ra Windows_Vista hay_không 7.

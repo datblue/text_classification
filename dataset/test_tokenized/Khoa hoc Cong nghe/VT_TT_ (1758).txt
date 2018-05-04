@@ -1,4 +1,0 @@
-Kết_thúc hỗ_trợ Windows 1 7 1 và ME.
-Microsoft cho_rằng 7 các hệ_điều_hành này đã quá lỗi_thời và đương_nhiên 7 có quá_nhiều sơ_hở về bảo_mật 6 so_với thời_điểm hiện_tại 6 gây nguy_hại cho khách_hàng 7 Đó là lý_do mà Microsoft ngừng hỗ_trợ cho những hệ_điều_hành này và đưa_ra lời_khuyên khách_hàng nên nâng_cấp lên các hệ_điều_hành cao_hơn 7 như Windows XP chẳng_hạn 7.
-Windows 1 và Windows ME là những hệ_điều_hành rất_ít thấy trong môi_trường doanh_nghiệp bởi_vì độ an_toàn thấp của nó 7 Theo những khảo_sát của Jupiter_Research 7 thì chỉ_có 1 % máy_tính của các hệ_thống doanh_nghiệp sử_dụng Windows 1 và 1 SE 7 tỷ_lệ này là 1 % đối_với Windows ME 7.
-Đây cũng là một_trong_những động_thái mà Microsoft chuẩn_bị cho sự ra_đời chính_thức của Windows_Vista 7 Dự_đoán rất_nhiều máy_tính trong hệ doanh_nghiệp hiện đang sử_dụng Windows 1 sẽ đồng_loạt nâng_cấp lên Windows_Vista vì_tính an_toàn và thân_thiện của nó 7.

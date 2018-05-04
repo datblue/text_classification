@@ -1,4 +1,0 @@
-Mở Excel chỉ_có màn_hình xám 6 1 6.
-Mình đang_dùng Excel 1 7 nhưng không biết_thế_nào mà bây_giờ khi mở File_Excel nó chỉ hiện lên màn_hình xám 7 không_có nội_dung gì 7 muốn mở được phải vào ExcelFile_Open chọn fiile mới được 7 Làm như_thế_này lâu 7 thật_là khó_chịu 7 Nhờ các_bạn chỉ giùm 7.
-Thanh_Hung.
-Hồi_âm 7 . Cái_này mình không chắc lắm 7 tuy_nhiên có 1 vài suy_đoán 7 Có_thể máy_tính của bạn_bị virus chăng 7 bạn thử quét virus = chương_trình notorn_antivirus xem sao 6 nhớ cập_nhật virus trước_khi quét nha 6 7 Sau_đó bạn cài_đặt lại chương_trình Excel xem sao 7 biết_đâu lại được 7 Good_luck 7.

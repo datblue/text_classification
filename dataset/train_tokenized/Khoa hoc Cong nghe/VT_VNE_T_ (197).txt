@@ -1,3 +1,0 @@
-Kiểm_tra lỗi đĩa CD bằng CDCheck 1 7 1 . Một_số nhà_sản_xuất khẳng_định rằng_đĩa CD-ROM có_thể 6 thọ 6 tới 1 năm nếu được chăm_sóc tốt 7 Tuy_nhiên 7 trước_khi điều_đó được kiểm_chứng toàn_diện 7 tại_sao bạn lại không thử kiểm_tra định_kỳ để biết chắc dữ_liệu của bạn vẫn 6 khỏe 6 7 . Phần_mềm CDCheck 1 7 1 giúp bạn xác_định và khắc_phục những file bị hỏng 6 corrupted 6 trên_đĩa CD-ROM và cũng có_thể dùng chương_trình để bảo_vệ dữ_liệu 7.
-Ngoài đĩa CD-ROM 7 phần_mềm này còn có_thể được dùng với các công_cụ ngoại_vi hoặc nội_bộ khác như ổ_đĩa 7 đĩa_mềm và các ổ nén ZIP 7.
-Để_tải miễn_phí CDCheck 1 7 1 7 bấmvào_đây 7.

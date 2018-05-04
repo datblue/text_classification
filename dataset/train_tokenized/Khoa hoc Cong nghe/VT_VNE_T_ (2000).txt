@@ -1,6 +1,0 @@
-Khắc_phục lỗi IE và Firefox 6 1 6 . Máy_tính của tôi dùng IE và Fire_fox thời_gian đầu chạy vẫn tốt nhưng không hiểu sao thời_gian gần_đây khi vào Internet bằng_cả hai máy đều báo lỗi 6 HTTP 1 - Internal_server_error_Internet_Explorer 6 hoặc 6 Microsoft_VBScript_compilation_error 6 1 6 Out of_memory 6 cứ phải ấn Enter hoặc Go rất_nhiều lần thì mới vào được link của website 7 rất là mất_thời_gian 7 Có bạn nào biết cách khắc_phục lỗi này xin chỉ giúp 6 tôi đã cài lại IE mà vẫn không khắc_phục được 6 7 máy_hiệu CompaQ_Pen IV 1 1 7 Tôi xin cảm_ơn 7.
-Mai_Thuận.
-Hồi_âm 7.
-Nếu bạn nhìn kỹ dòng thông_báo lỗi_thì bạn sẽ thấy là & Internal_server_error & tức_là cái web_site 7 mà bạn muốn nối vô 7 bị lỗi chứ không_phải máy của bạn 7 Không cần_phải cài_đặt gì cả 7 vô_ích thôi 7 Nhưng muốn chắc_ăn thì bạn_thử nối vô 1 site khác xem sao 7.
-Nguyen HD.
-Đây không_phải là lỗi của IE hay firefox 7 đây là error của phần lập_trình vbscript 7 bạn nên thông_báo cho web_master để họ sửa_lại nếu bạn muốn tham_khảo thêm vbs 7 2 còn đây là link cho access 1 2.

@@ -1,7 +1,0 @@
-Xuống_dòng tự_động viết_hoa trong MS Word 6 1 6.
-Lam on cho toi hoi mot_chut ve phan Microsoft_Word 7 Lam the nao de moi khi xuong dong hoac sau dau cham thi Word tu dong_viet hoa 7 Xin chan thanh cam_on 7.
-Hai_Van_Nguyen.
-Hồi_âm 7.
-Bạn thử mở Word rồi vào Insert 7 Auto_text 7 Auto_correct 7 bấm vào ô_vuông của Capitalize_first_letter_of_sentences 7 OK 7 Chúc bạn thành_công 7.
-Tuan_Hong.
-Bạn chỉ_cần chọnToolAutorrect 7 7 7 Hộp_thoại hiện_ra Trên Tab_Autocorrect bạn chọn Capitalizze_First_letter_of_sentences 7 Như_vậy bạn thể tự_động viết chữ_hoa đầu câu 7 Tuy_nhiên với tiếng_Việt chỉ đúng khi bàn_dùng Font chữ Unicode 7.

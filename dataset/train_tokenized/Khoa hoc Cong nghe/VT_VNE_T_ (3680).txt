@@ -1,6 +1,0 @@
-Không gõ được tiếng_Việt trên Title_Bar 6 1 6.
-Em đang lập_trình với Visual_basic 7 Em không thể_nào gõ tiếng_Việt trên Title_Bar của form 6 thuộc_tính Caption của form 6 7 trong câu thông_báo của Msgbox 7 Menu_Editor 7 7 7 Các anh_chị hãy giúp em với 7 PC của em xài 1 7 7 7 dùng Font_VietKey 1 7.
-Em xin cảm_ơn 7.
-Nguyen_Pham_Dang_Khoa.
-Hồi_âm 7.
-Mình không_biết bạn đang_dùng font chữ gì để nhập nội_dung trong VB 7 vì chọn font chữ và bộ_gõ để nhúng cũng rất quan_trọng 7 Mình khuyên bạn nên dùng font chữ tahoma hoặc arial 7 còn bảng mã là unicode thử xem có được không 7.

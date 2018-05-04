@@ -26,8 +26,8 @@ def load_dataset(dataset):
             print('\r%s' % (file_path)),
             sys.stdout.flush()
             with open(file_path, 'r', encoding='utf-16') as fp:
-                content = r.run(unicodedata.normalize('NFKC', fp.read()))
-                content = tokenizer.predict(content)
+                content = unicodedata.normalize('NFKC', fp.read())
+                content = r.run(tokenizer.predict(content))
                 dir_name = utils.get_dir_name(file_path)
                 list_samples[dir_name].append(content)
     print('')
@@ -37,8 +37,7 @@ def load_dataset(dataset):
 def load_dataset_ex(list_samples):
     result = []
     for sample in list_samples:
-        sample = r.run(sample)
-        sample = tokenizer.predict(sample)
+        sample = r.run(tokenizer.predict(sample))
         result.append(sample)
     return result
 

@@ -1,4 +1,0 @@
-Mã nguồn của Cisco bị đánh_cắp.
-Mã nguồn luôn được các công_ty như Cisco 7 Microsoft bảo_vệ chặt_chẽ bởi đây được coi là_là huyết_mạch trong kinh_doanh của họ 7 Tuy_nhiên 7 phần mã nguồn tình_nghi bị phát_tán thuộc Hệ_điều_hành mạng Internet 6 IOS 6 hiện đang được Cisco phát_triển ở nhiều phiên_bản 7 Chính vì_vậy 7 việc bị đánh_cắp mã nguồn có_thể không ảnh_hưởng tới tất_cả các thiết_bị của Cisco 7.
-Ngay sau thông_báo của Cisco 7 website về bảo_mật của Nga 6 SecurityLab 7 ru 6 đăng_tải thông_tin nhận_định 7 mã nguồn bị đánh_cắp xuất_phát từ một_số mạng có lỗ_hổng của tập_đoàn Cisco 7 Trang_web này cũng ước_tính có khoảng 1 mã nguồn đã bị đánh_cắp 7.
-Năm 1 7 Cisco cũng đã kiện hãng sản_xuất thiết_bị viễn_thông lớn_nhất của Trung_Quốc 6 Huawei_Technologies 6 về việc hãng này sao_chép bất_hợp_pháp các phần_mềm điều_hành của hãng 7.

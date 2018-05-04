@@ -1,5 +1,0 @@
-Virus 6 I love_you 6 trở_lại.
-1 năm sau_khi thế_giới Internet là nạn_nhân của loại sâu mang thông_điệp tình_yêu 7 một hacker khác lại đang cố_gắng khai_thác thủ_đoạn này đối_với những người_dùng máy_tính kém cảnh_giác 7.
-Hãng bảo_mật Anh Sophos phát_hiện ra virus_Assiral 7 A hôm 4 với những đặc_điểm giống_hệt phiên_bản ngày_xưa 7 sử_dụng dòng chủ_đề 6 subject 6 Re 7 LOV YA 7 để dụ người_nhận e-mail mở những phần_đính kèm nguy_hiểm 6 thường có tiêu_đề 6 love-letter-for-you 6 6 7 . Nội_dung thư là Kindly_read_and_reply to my LOVE LETTER in the attachments 7 - 6 và phần_đính kèm mang file LOVE_LETTER 7 TXT 7 exe 7.
-Nếu người_nhận mail mở_phần attachment 7 virus sẽ tự sao_chép sang máy_tính khác và mở_ra một trang_web ở dịch_vụ Geocities 7 đồng_thời thả một file_text vào máy bị lây_nhiễm 7.
-Virus gốc có sức lây_lan rất_lớn nhưng các chuyên_gia Sophos cho_rằng Assiral 7 A khó có_thể đạt_được mức nguy_hiểm tương_tự 7.

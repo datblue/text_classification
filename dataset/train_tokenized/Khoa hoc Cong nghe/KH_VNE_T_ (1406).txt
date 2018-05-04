@@ -1,5 +1,0 @@
-Robot biết đạp xe.
-Các nhà_khoa_học Nhật_Bản vừa cho ra_mắt một chú robot nhỏ_bé biết đi xe_đạp và có_thể dừng_lại mà không bị ngã 7 Robot_Murata_Boy do hãng Murata chế_tạo 7 chỉ nặng 1 kg và cao 1 cm 7 có_thể lái_xe với tốc_độ 1 cm / giây và được điều_khiển bởi một máy_tính không dây 7.
-Chú robot được công_bố tại Triển_lãm kết_hợp công_nghệ tiên_tiến 1 7 tại Makuhari_Messe 7 gần Tokyo 7 hôm 4 7.
-Các kỹ_sư cho_biết 7 khâu khó_khăn nhất khi chế_tạo robot là làm_sao để nó giữ thăng_bằng khi đi xe_đạp 7 Họ đã giải_quyết_vấn_đề này bằng cách gắn các cảm_biến đặc_biệt trên thân robot 7 cho_phép nó nhận_ra tốc_độ và góc_nghiêng 7 từ_đó đưa_ra các điều_khiển thăng_bằng 7.
-Murata_Boy có_giá 1 triệu yên 7 tương_đương 1 USD 7 Hãng Murata đã chế_tạo một phiên_bản robot đi xe_đạp từ năm 1 nhưng đây là phiên_bản mới_nhất có_thể dừng xe lại mà không bị ngã 7.

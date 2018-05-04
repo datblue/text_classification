@@ -1,4 +1,0 @@
-Hỏi về Mainboard_Gigabyte 1 6 1 6.
-Toi nghe noi mainboard 1 co cac jumpers duoc cai dat de tu dong_nhan biet cac thiet_bi phan cung khac 7 Xin cac ban_cho biet dieu nay co dung khong 7 Neu khong 7 co the huong dan cach cai dat jumpers tren main_nay giup toi 7 Xin chan thanh cam_on 7.
-Mai_Thanh_Binh.
-Hồi_âm 7 . Hầu_hết các bo_mạch_chủ mới 6 dành_cho Pentium 1 hoặc Athlon XP 6 đều không còn sử_dụng jumper nữa để nhận_diện thiết_bị_ngoại_vi nữa 7 Main của bạn cũng_vậy thôi 7 Tuy_nhiên 7 bạn cần_phải làm_theo sách hướng_dẫn để lắp_đặt máy 7.

@@ -1,4 +1,0 @@
-Chip nhớ dung_lượng 1 GB.
-Samsung đã bắt_đầu đưa_vào sản_xuất hàng_loạt gói chip nhớ tích_hợp 6 Multi chip package - MCP 6 có dung_lượng lớn nhằm đáp_ứng nhu_cầu sử_dụng đa_dạng cho dòng điện_thoại 1 7.
-Gói MCP này bao_gồm 1 thành_phần 7 1 chip flash NAND dung_lượng 1 GB và 1 chip Mobile DRAM dung_lượng 1 MB 7 Bộ_nhớ nói trên hoạt_động ở điện_áp 1 volt 7 cho_phép lưu_trữ_cùng_một_lúc 1 giờ phim định_dạng QVGA 7 Trước_đó 7 công_ty này cũng đã giới_thiệu chi_tiết về gói MCP có dung_lượng lớn_nhất từ trước đến nay với 1 chip thành_phần 7 dung_lượng 1 GB 7 . MCP có nhiều điểm khác_biệt so_với loại chip nhớ đơn thông_thường 7 Bộ_nhớ này có cấu_tạo từ nhiều thành_phần riêng_lẻ tích_hợp trong 1 gói duy_nhất và được sử_dụng vào rất_nhiều mục_đích khác_nhau 7 Sản_phẩm còn giúp giảm đáng_kể kích_thước của thiết_bị di_động 7.
-Samsung dự_kiến tiếp_tục sản_xuất sản_phẩm MCP có dung_lượng lên đến 1 GB ngay trong năm_nay 7.

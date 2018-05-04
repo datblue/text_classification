@@ -1,7 +1,0 @@
-Không mở được file_Autocad 6 1 6.
-Mình có một file_autocad 7 Khi thực_hiện lệnh Open thì nhìn được file đó trong khung View nhưng khi mở lại thì không_được 7 mặc_dù đã thực_hiện lệnh Recover 7 Xin mọi_người giúp_đỡ 7.
-Hồ_Xuân_Thuần.
-Hồi_âm 7.
-Xin hỏi bạn đã sử_dụng phiên_bản AutoCad bao_nhiêu để mở phai đó 7 Nếu trong trường_hợp bạn sử_dụng 1 để mở file đó thì bạn không_thể sử_dụng AutoCad 1 để mở lại phai đó 7 mà bạn phải sử_dụng lại chính 1 hoặc các phiên_bản mới hơn mới mở được 7 Đây chi là một trong các trường_hợp có_thể xảy_ra đối_với các phai AutoCad mà tôi biết 7 bạn hãy thử xem 7 Chúc_bạn may_mắn 7.
-Nguyễn_Minh_Hải.
-Bạn có_thể tạo một file_AutoCAD mới 6 File / New 7 7 6 rồi Insert cái drawing mà bạn muốn mở vào 7 Như_vậy là có_thể xem được file đó 7 sau_đó nhớ save lại là xong 7.

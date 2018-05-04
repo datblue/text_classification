@@ -1,6 +1,0 @@
-Không cài được ổ Gmail trên PC 6 1 6.
-Tôi được biết nếu có tài_khoản Gmail thì có_thể tạo một ổ ảo trên máy_tính 7 Tôi đã tải phần_mềm hỗ_trợ Gmail_Shell_extension 1 7 1 về cài vào máy 7 thấy hiện_ra ổ Gmail trong My Computer 7 khi mở thì đã hiện_ra cửa_sổ yêu_cầu nhập Username và password 7 Tuy_nhiên 7 khi đã nhập đúng thông_tin và mở thì luôn hiện_ra thông_báo lỗi erro_domain gì đó 7.
-Tôi đã_kiểm_tra trong phần property và đặt chế_độ HTTP đúng như hướng_dẫn cài_đặt nhưng vẫn không vào được 7 Tôi dùng máy trong mạng nội_bộ của cơ_quan 7 có tường lửa 7 Các anh_chị có ai đã dùng ổ Gmail được thì xin chỉ_bảo giúp 7 . Trân_trọng cảm_ơn 7.
-Minh_Tuấn.
-Hồi_âm 7.
-Toi cung da co mot khoang thoi_gian kha dai sau_khi dang_ky_dich vu o Gmail nhung khong the su dung duoc tai_khoan email 7 Khi do toi dang su dung Windows 1 7 Sau_khi duoc mot nguoi ban huong dan 7 toi chuyen sang dung Windows XP thi ket qua la toi co the su dung duoc Gmail binh_thuong 7 Mot dieu khac ban can chu_y la viec setup_Popmail gom ca viec setup trong may_tinh cua ban va ca trong hop thu_nua 7 Vao hop thu - settings -Pop_and_fowarding 7 ban chon che do Pop_for_all_mail 6 toi cung ko nho chinh_xac la nhu the ko 7 nhung_chac ban se de_dang tim ra thoi 6 7 Sau do save_changes roi thoat ra ngoai 7 Hy_vong la toi da giup duoc ban 7.

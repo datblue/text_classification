@@ -1,5 +1,0 @@
-Cài WinXP vào ổ nào 7 6 1 6.
-Trong nội_dung của bài_viết về thủ_thuật WinXP 6 Phần II 6 có nói về file_uattend 7 txt 6 msbatch 7 txt 6 có lệnh 6 Autopartition = 1 6 6 Nếu có 1 ổ C và D thì nó sẽ cho_phép cài win trên ổ C 6 7 Nhưng trong trường_hợp ổ C là phân_vùng NTFS thì ở môi_trường DOS máy_tính sẽ coi ổ D 6 phân_vùng FAT 1 6 là ổ C 7 Vậy_thì câu_lệnh trên sẽ cho_phép cài WinXP vào ổ nào 7 C 6 NTFS 6 hay D 6 1 6 7.
-Quang_Hiệp.
-Hồi_âm 7
-Ổ có định_dạng 1 7 Bạn không_thể cài hệ_điều_hành lên ổ có định_dạng NTFS nếu bạn cài_đặt thông_qua DOS 7.

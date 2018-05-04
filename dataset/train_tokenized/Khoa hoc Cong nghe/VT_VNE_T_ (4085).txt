@@ -1,4 +1,0 @@
-Chip nhớ DDR RAM nhanh nhất thế_giới.
-Hãng sản_xuất thiết_bị nhớ Elpida của Nhật vừa giới_thiệu chip RAM có tốc_độ truyền dữ_liệu 1 Gb / giây 7 vượt_qua kỷ_lục 1 Gb / giây của Samsung 7.
-Elpida 1 1 MB 7 . Bộ_nhớ 1 1 MB hoạt_động nhanh gấp 1 lần thiết_bị 1 hiện_nay nhưng lại tiêu_thụ ít năng_lượng hơn 7 chỉ 1 volt so_với 1 volt của 1 7 . 6 Mục_tiêu của chúng_tôi khi phát_triển bộ_nhớ 1 thế_hệ mới là để duy_trì những điểm_mạnh sẵn có_của 1 7 như khả_năng hoạt_động với nguồn_điện thấp 7 trong_khi vẫn tăng tốc_độ truyền dữ_liệu 6 7 Jun_Kitano 7 Giám_đốc thị_trường của Elpida_Memory 7 cho_biết 7 6 Chúng_tôi sử_dụng các bóng_bán_dẫn 6 hai cổng 6 6 dual_gate 6 đầu_tiên với DRAM 7 cho_phép 1 1 MB đạt_được khả_năng vận_hành cao trong các ứng_dụng điện_toán cải_tiến của tương_lai 6 7.
-Chip 1 1 MB sẽ chính_thức được đưa_vào kinh_doanh cuối năm_nay 7 Elpida chưa công_bố giá_thành sản_phẩm 7.

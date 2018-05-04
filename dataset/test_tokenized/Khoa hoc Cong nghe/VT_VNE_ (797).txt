@@ -1,6 +1,0 @@
-Lỗi win XP 6 1 6.
-Máy tôi cài 1 HĐH 1 va XP 7 - 1 7 shutdown bình_thường 6 NGUỒN BỊ NGẮT 6 - XP 6 1 6 7 Khi turn_off 6 shutdown 6 thì nguồn không ngắt mà_còn xuất_hiện thông_báo câu 7 6 If_you_now_turn_off 7 7 7 6 7 Tôi đã cài lại nhiều_lần và có cài Win 1 server nhưng vẫn gặp trường_hợp này 7 Xin các_bạn giải_đáp giúp 7 6 Cấu_hình 7 CPU Celeron 1 1 7 1 GB 7 MB ECS Chip sis 4 6 7.
-Nam.
-Trả_lời 7.
-Có 1 khả_năng 7 . 1 7 - Trong máy của bạn có chương_trình Driver nào đó không tương_thích với Win XP 6 mở từ đĩa CD Win XP Setup để kiểm_tra 6 . 1 7 - Mainboard quá cũ 7 đối_với các đời MB sau_này không_có hiện_tượng như_vây 7.
-Thân chào 7.

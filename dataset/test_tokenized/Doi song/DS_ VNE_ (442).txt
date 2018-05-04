@@ -1,6 +1,0 @@
-Cắm lan aric với chủ_đề Mê khúc.
-Những bông_hoa luôn mang_lại hương_sắc tươi_thắm 7 Đặc_biệt với lan aric 7 bạn sẽ được thưởng_thức một vẻ_đẹp mới của mùa_xuân 7 Giá mỗi cành lan này khoảng 1 đồng 7.
-Kiểu 1 7 Gọi tình . Nguyên_liệu 7 1 cành lan aric có búp 7 1 nhánh baby 7 lá đinh_lăng 7 lá_kim thuỷ tùng 7 . Thực_hiện 7 Cắm đinh_lăng 7 kim thuỷ_tùng che gốc_cây 7 Cắt_ngắn baby 7 cắm góc trái 7 Nhánh còn_lại cắm góc phải 7 Cắm lan ở giữa 7 Búp còn_lại cắm thấp ở góc phải 7.
-Kiểu 1 7 Mê_khúc . Nguyên_liệu 7 1 cành lan aric 7 1 nhánh baby 7 lá đinh_lăng 7 . Thực_hiện 7 Cắm baby và đinh_lăng che gốc_cây 7 Cắt nhánh 1 cành lan_cao_thấp theo độ cong 7 xoè từ phải sang trái 7 so_le 7.
-Kiểu 1 7 Trầm_mặc.
-Nguyên_liệu 7 1 cành lan aric 7 1 nhánh baby 7 lá đinh_lăng 7 lá_kim thuỷ tùng 7.

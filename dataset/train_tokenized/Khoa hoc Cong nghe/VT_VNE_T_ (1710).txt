@@ -1,5 +1,0 @@
-Cách share VGA 6 1 6.
-Em hiện đang sử_dụng bo_mạch_chủ ASROCK Mainboard 1 1 7 VGA onboard có_thể up to 1 nhưng em chỉ share được có 1 6 DDR 1 7 1 6 7 Mong các anh_chị giúp_đỡ chỉ cho em cách upto 1 7.
-Như_Trang.
-Hồi_âm 7.
-Với cấu_hình của bạn thì 7 Kiểm_tra trong BIOS chỉ share được có 1 là đúng 7 Còn VGA onboard có_thể up to 1 là công_nghệ DVMT của Intel 7 Bạn muốn share được 1 thì bạn phải cài WinXP hoặc 1 thì mới được 7.

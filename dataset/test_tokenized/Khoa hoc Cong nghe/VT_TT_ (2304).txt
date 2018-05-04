@@ -1,3 +1,0 @@
-Kiểm_tra máy_tính cho bạn.
-1 nhỏ gọn nhưng có đầy_đủ tính_năng 6 test 6 máy_tính của bạn 7 Chương_trình sẽ hiển_thị thông_tin chi_tiết về tất_tần_tật những thứ hiện_có trên máy của bạn như CPU 7 bộ_nhớ 7 mainboard 7 ổ_đĩa 7 card mạng 7 7 7.
-Những thông_tin này rất hữu_ích nếu bạn muốn biết_rõ hơn về 6 cục_cưng 6 PC của mình 7 Ngoài_ra 7 nó còn có khả_năng test máy và so_sánh máy của bạn với các bộ_máy khác 6 chức_năng benchmark 6 7 Bạn có_thể_xuất thông_tin ra file LOG 7 CSV hay XML 7 . Phiên_bản mới_nhất của 1 là 1 7 tương_thích với Windows NT / 1 / XP / Server 1 7 bạn có_thể tải bản dùng thử 1 ngày tại website 2 hay tìm mua các đĩa CD phần_mềm tổng_hợp có bán ngoài thị_trường 7.

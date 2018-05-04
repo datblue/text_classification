@@ -1,4 +1,0 @@
-VNPT chuẩn_bị triển_khai diện_rộng mạng NGN.
-Mạng công_nghệ thế_hệ mới NGN có tính_năng tích_hợp các loại dịch_vụ trên giao_thức IP 7 góp_phần giảm_bớt chi_phí và đơn_giản_hóa việc quản_lý và điều_hành các hoạt_động viễn_thông 7 Thay_vì nhiều tổng_đài điều_hành nhiều_loại dịch_vụ 7 sẽ có 1 tổng_đài chung điều_hành tất_cả các loại dịch_vụ viễn_thông 7 . VNPT đã triển_khai công_nghệ NGN trên mạng đường_trục từ năm 1 7 Theo kế_hoạch 7 từ_đầu năm 1 VNPT sẽ triển_khai NGN xuống các tổng_đài và hệ_thống truyền_dẫn nội_hạt và dự_kiến từ năm 1 đến 1 sẽ chuyển_đổi hoàn_toàn sang mạng NGN 7.
-Theo tính_toán bước_đầu của VNPT 7 tuy chi_phí ban_đầu khá tốn_kém nhưng việc chuyển_đổi sang mạng NGN sẽ khiến chi_phí điều_hành khai_thác giảm mạnh và đặc_biệt là giúp hệ_thống hạ_tầng viễn_thông của Việt_Nam phù_hợp với_sự_phát_triển của công_nghệ viễn_thông thế_giới trong tương_lai 7.
-Việt_Nam hiện là một trong số_ít quốc_gia trong khu_vực đã triển_khai mạng công_nghệ mới này 7.

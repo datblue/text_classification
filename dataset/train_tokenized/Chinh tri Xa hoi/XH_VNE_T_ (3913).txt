@@ -1,3 +1,0 @@
-Hệ_thống thư_tín_điện_tử chung cho cơ_quan_hành_chính.
-UBND TP_HCM vừa quyết_định 7 1 quận 7 huyện 7 sở 7 ngành trực_thuộc sẽ sử_dụng hệ_thống thư_điện_tử trên mạng_chung thành_phố 7 Theo đó 7 hộp thư_điện_tử của các đơn_vị này được đặt thống_nhất với cấu_trúc 7 tên đơn_vị hoặc người sử 3 . Hộp_thư trên sẽ sử_dụng dưới dạng hộp_thư đơn_vị hành_chính 7 dành_cho sở 7 ban 7 ngành 7 quận 7 huyện 7 7 7 7 hộp_thư cá_nhân 7 dành_cho cán_bộ 7 công_chức và thư dành_cho các đơn_vị khác 7.
-Những đơn_vị 7 cá_nhân này không_được tổ_chức hệ_thống thư_tín_điện_tử 7 hộp_thư cá_nhân theo dạng khác trên mạng của thành_phố và không_được tự tổ_chức mạng với địa_chỉ IP và tên_miền riêng 7.

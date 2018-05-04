@@ -1,3 +1,0 @@
-Hỗ_trợ đưa ứng_dụng CNTT vào quản_lý nhà_nước.
-Dự_án sẽ triển_khai hệ_thống kết_nối từ các cấp cơ_sở 6 phường-xã 6 lên máy_chủ đặt tại trụ_sở các quận để truy_xuất cơ_sở_dữ_liệu 7.
-Viettel sẽ miễn_phí lắp_đặt ADSL cho tất_cả các đơn_vị hành_chính nhà_nước của các quận 7 huyện có yêu_cầu và bệnh_viện máy_tính quốc_tế Icare sẽ thực_hiện cung_cấp miễn_phí các phần_mềm về quản_lý cho các đơn_vị tham_gia 7 . Chương_trình này sẽ được nhân rộng ra tất_cả các địa_phương khác trong cả_nước 7.

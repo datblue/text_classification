@@ -1,5 +1,0 @@
-Bộ_nhớ dung_lượng 1 GB dành_cho máy_chủ.
-Hãng điện_tử Hàn_Quốc Samsung đã sắp_xếp thành_công 1 chip 1 DRAM 1 Gb 1 nm trên hai lớp và tạo nên một bản_mạch bộ_nhớ 6 memory_module 6 cho máy_chủ có dung_lượng lớn_nhất hiện_nay 7.
-Để xây_dựng module nhớ này 7 hãng sản_xuất DRAM Hàn_Quốc cho_biết họ đã sử_dụng FB-DIMM 7 công_nghệ mới được chấp_thuận rộng_rãi trong ngành_công_nghiệp bộ_nhớ 7 Nó có_thể xử_lý dữ_liệu nhanh gấp_hai lần so_với R-DIMM hiện_nay và cho_phép các hãng sản_xuất kết_hợp chip bộ_nhớ đệm AMB cùng_với những chip nhớ khác 7.
-Bảng mạch mới của Samsung phù_hợp với máy_chủ dạng phiến mỏng 7 Samsung sẽ phát_hành đồng_loạt sản_phẩm 1 MB đến 1 GB nhằm_chiếm_ưu_thế_ngay từ_đầu trên thị_trường FB-DIMM mới nổi 7 . Giá_thành và ngày chính_thức ra_mắt sản_phẩm vẫn chưa được tiết_lộ 7 Tập_đoàn sản_xuất chip Intel cũng tuyên_bố sẽ phát_hành mẫu FB-DIMM cho server trong năm tới 7.
-Hãng nghiên_cứu Gartner dự_đoán thị_trường DRAM cho máy_chủ trên toàn thế_giới sẽ đạt 1 tỷ USD trong 1 7.

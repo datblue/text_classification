@@ -1,4 +1,0 @@
-Máy_in cũng phát_sinh lỗi bảo_mật 7.
-Lỗi bảo_mật nằm_trong phần_mềm công_cụ này sẽ cho_phép kẻ tấn_công đọc được các tài_liệu trong quá_trình chuyển đến máy_in 7 nhất là các máy_in trong mạng 7 ngoài_ra còn cho_phép kẻ tấn_công chui vào các hệ_thống máy chạy Windows 7.
-Lỗi bảo_mật này do chuyên_gia bảo_mật Richard_Horsman phát_hiện và công_bố trên website Sec-1 7 com 7 nhưng may_mắn rằng Horsman vẫn chưa công_bố các chi_tiết về lỗi bảo_mật trên 7.
-Các giới_chức của HP cũng đã thừa_nhận sự_tồn_tại của lỗi bảo_mật này và khuyến_cáo chủ_nhân của các máy Color_LaserJet 1 và Color_LaserJet 1 nên cập_nhật ngay phiên_bản mới_nhất của phần_mềm tiện_tích dành_cho 1 máy_in trên tại website của HP 7.

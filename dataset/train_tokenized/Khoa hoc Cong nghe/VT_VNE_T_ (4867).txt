@@ -1,4 +1,0 @@
-Xóa chức_năng tự_hiện trong search_bar 6 1 6 . Làm_ơn hãy chỉ tôi làm cách nào để xóa chức_năng tự hiển_thị những cái search cũ_mình đã đánh vào 7 Vào trong tools 7 Internet_option 7 content 7 autocomplete 7 xóa hết 7 Nhưng cái_đó chỉ_là tạm_thời 7 Có cách nào khác để disable chức_năng đó hoàn_toàn không 7 Tôi đang xài Window XP Home_Edition 7 Cảm_ơn rất_nhiều 7.
-Viet Nguyen.
-Hồi_âm 7.
-Bạn vào chỗ tương_tự 6 chỗ mà bạn chọn 6 xoá hết 6 ý 6 6 và loại_bỏ dấu chọn 6 uncheck 6 ở hộp 6 Forms 6 rồi nhấn OK 7 Bạn hay tìm những cái_gì mà cần_phải giữ_bí_mật vậy 7.

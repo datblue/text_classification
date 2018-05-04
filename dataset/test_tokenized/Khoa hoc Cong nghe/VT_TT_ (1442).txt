@@ -1,7 +1,0 @@
-Tux_Paint 7 giúp em tập vẽ.
-Một trong số đó là phần_mềm miễn_phí Tux_Paint của tác_giả Bill_Kendrick 7 Dung_lượng 1 7 tải về tại_đây 7.
-Tux_Paint được thiết_kế theo hướng đơn_giản_hóa các thao_tác 7 chỉ_cần vài lần bấm chuột là có_thể tạo các nét_vẽ căn_bản 7 Vì_vậy 7 các_cháu thiếu_nhi có_thể không cần học nhưng vẫn dễ_dàng sử_dụng 7.
-Những công_cụ vẽ chính 7.
-Bấm chuột vào công_cụ vẽ bên_trái cửa_sổ làm_việc 7 phía_bên_phải sẽ xuất_hiện các khuôn_mẫu tương_ứng 7 Phía dưới của sổ làm_việc là bảng_màu để người_dùng lựa_chọn màu_sắc thích_hợp 7 . 1 7 Paintvà Lines 7 Vẽ các đường_nét 7 các chấm tròn 7 vuông căn_bản 7 . 1 7 Stamp 7 Một_vài hình_mẫu biểu_tượng ngộ_nghĩnh của Tux_Paint 7 . 1 7 Sharp 7 Những hình_dạng mẫu như hình_tròn 7 hình_chữ_nhật 7 hình elip 7 tam_giác 7 7 7 . 1 7 ABC Text 7 Đưa thêm ký_tự vào hình_vẽ.
-1 7 Magic 7 Những hiệu_ứng đặc_biệt như pháo_hoa 7 1 sắc_cầu vồng 7 tăng_giảm độ tương_phản 7 ánh_sáng 7 7 7 . 1 7 Nếu nét_vẽ không ưng_ý hãy dùng cục_tẩy Eraser để xóa nó đi 7.
-Mỗi thao_tác với chuột khi vẽ đều phát_ra những âm_thanh nghe rất vui_tai 7.

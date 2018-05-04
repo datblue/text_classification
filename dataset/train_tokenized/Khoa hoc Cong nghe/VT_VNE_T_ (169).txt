@@ -1,5 +1,0 @@
-Hệ_thống e-mail của VDC gặp sự_cố.
-Từ 1 hôm_qua 7 các địa_chỉ e-mail có đuôi @ hn 7 vnn 7 vn 6 khách_hàng tại Hà_Nội 6 và @ dng 7 vnn 7 vn 6 Đà_Nẵng 6 nhận thư rất chập_chờn dù việc gửi đi vẫn hoạt_động tốt 7 Nguyên_nhân là hệ_thống máy_chủ thư_điện_tử 6 Server_Mail 6 của Công_ty VDC bị quá_tải do phải chuyển_đi nhiều thư cùng_với virus và spam 7.
-Nguyễn_Long 7 một khách_hàng của VDC 7 cho_biết 7 6 Từ trưa hôm_qua 7 tôi đã không_thể nhận thư 7 Phải đợi đến hơn 1 giờ chiều tôi mới check_mail lại như bình_thường 7 Tuy_nhiên 7 thời_gian đó tôi không có_công việc_quan_trọng nên cũng không gây ảnh_hưởng gì lớn 6 7.
-Theo ông Long 7 công_việc của ông thường_xuyên phải sử_dụng thư_điện_tử và thỉnh_thoảng cũng có trục_trặc 7 nhưng chưa khi_nào kéo_dài như lần này 7.
-Khi xảy_ra sự_cố 7 các cán_bộ kỹ_thuật của VDC đã xử_lý thư rác và virus để giảm lưu_lượng sau_đó chuyển_sang dùng hệ_thống dự_phòng 7 Toàn_bộ thông_tin nhận và gửi đi của khách_hàng trong thời_gian bị gián_đoạn đều được lưu lại máy_chủ của VDC 7 Khi hệ_thống trở_lại hoạt_động bình_thường lúc 1 cùng ngày 7 e-mail lại được gửi đến các địa_chỉ đã gửi và nhận 7.

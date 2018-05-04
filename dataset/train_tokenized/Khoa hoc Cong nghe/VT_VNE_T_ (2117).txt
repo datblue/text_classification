@@ -1,5 +1,0 @@
-Lỗi Microsoft_Word 6 1 6.
-May toi cai Win 1 va Office 1 7 khong hieu_vi sao khi_toi go Word thi khi xuong hang va go dau cham 6 7 6 thi cac ky_tu dau tien sau no khong hoa 7 Ben canh do khi_toi_dung font_Unicode thi cac ky_tu lai cach ra 7 Vi du 7 Kh ang 7 A nh 7 Mong_Anh 6 Chi 6 chi dum em 7 em thanh_that cam_on 7.
-Duc_Minh.
-Hồi_âm 7.
-Bạn_Minh thân_mến 7 Thực_ra đây có_lẽ không_phải lỗi của Word 7 mà lỗi do bạn chỉ địch chưa đúng 7 . 1 / Với lỗi dùng Unicode mà bị khoảng trắng 7 bạn_thử làm như_sau 7 Tools--Options 7 7 7 ---Edit--- bạn chọn tắt mục 6 Smart Cut And_Paste 6 đi và OK là xong 7 . 1 / Với lỗi không chịu hiển_thị chữ_in 6 caplock 6 cho đầu dòng hoặc sau dấu kết_thúc câu 7 bạn làm như_sau 7 Tools--- Autocorrect_Options 7 7 7 ---Autocorrect Sau_đó 7 bạn đánh_dấu chọn_mục 6 Capitalize_First_Letter_Of_Sentences 6 và mục 6 Capitalize_First_Letter_Of_Table_Cells 6 và OK là xong 7 Chúc bạn thành_công 7.

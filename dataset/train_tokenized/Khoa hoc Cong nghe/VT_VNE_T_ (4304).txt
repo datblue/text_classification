@@ -1,5 +1,0 @@
-Máy_tính chỉ dừng_lại ở chế_độ safe_mode 6 1 6 . Máy_tính của tôi dùng Main Intel 1 7 CPU Pen IV 1 GBHệ điều_hành Win XP pack 1 7 Mọi_thứ đang hoạt_động bình_thường 7 Sau_khi tôi thay CPU Celeron 1 GB thì_có hiện_tượng máy chỉ vào được Windows ở chế_độ Safe_Mode 7 còn nếu khởi_động ở chế_độ bình_thường 7 máy bị treo khi logo_Win XP xuất_hiện 7 Khi máy treo 7 quạt chip vẫn quay 7 Đã fomat ổ_cứng 7 thay đĩa cài_đặt 7 nhưng không_được 7.
-Xin giải_thích giúp hiện_tượng này 7 Nếu_không tôi chỉ còn nước thay_máy khác 7.
-Vương Hiển.
-Hồi_âm 7.
-Bạn thử sử_dụng cách này xem sao 7 Khi bạn vào khởi_động máy vào Windows thì sau_khi trên bàn_phím ba đèn Num Lock 7 Caps_Lock và Scroll_Lock sáng lên đồng_thời thì bạn gõ Enter liên_tục càng nhanh càng tốt 7 Khi_đó bạn sẽ vào được Windows 7 Chúc bạn may_mắn 7.

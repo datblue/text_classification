@@ -1,3 +1,0 @@
-PC không nhận_được Bluetooth từ ĐTDĐ.
-Chào các_anh 7 Em đang sử_dụng laptop_samsung_pen M 1 GHz 7 chạy hệ_điều_hành Windows XP 1 Home_Edition 7 Lúc_trước 7 khi em dùng Windows 1 thì sử_dụng Bluetooth với ĐT Nokia bình_thường 7 nhưng khi cài lên bản 1 thì PC chỉ có_thể chuyển được file sang ĐT 7 còn không nhận_được file từ ĐT gửi sang 7 Em đã tắt hết firewall nhưng tình_trạng vẫn thế 7 đem Bluetooth sang máy khác dùng 1 thì Bluetooth và ĐT hoạt_động tốt 6 ĐT của em là Nokia 1 6 7 Mong hồi_âm của các_anh 7.
-Nguyễn_Hà.

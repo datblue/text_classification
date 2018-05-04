@@ -1,4 +1,0 @@
-Tăng_giá vé tám tuyến xe_buýt các tỉnh liền_kề.
-Tuyến xe_buýt Chợ_Lớn - Bến_Lức 6 Long_An 6 7 Chợ_Lớn - Rạch_Kiến 6 Long_An 6 và tuyến xe_buýt Hóc_Môn - Đức_Hòa 6 Long_An 6 có ba loại giá vé 7 1 đồng / hành_khách đi dưới 4 hành_trình 7 1 đồng / hành_khách đi dưới 4 hành_trình và 1 đồng / hành_khách đi trên 4 hành_trình 7 Tuyến xe_buýt bến_xe An_Sương - bến_xe Hậu_Nghĩa 6 Long_An 6 và tuyến xe_buýt Củ_Chi - Gò_Dầu 6 Tây_Ninh 6 có_giá vé 1 đồng / hành_khách đi dưới 4 hành_trình và 1 đồng / hành_khách đi trên 4 hành_trình 7.
-Tuyến xe_buýt Thủ_Đức - Dĩ_An 6 Bình_Dương 6 có_giá vé 1 đồng / hành_khách đi dưới 4 hành_trình 7 1 đồng / hành_khách đi dưới 4 hành_trình và 1 đồng / hành_khách đi trên 4 hành_trình 7.
-Tuyến xe_buýt Tân_Kiên - Bến_Lức 6 Long_An 6 có_giá vé 1 đồng / hành_khách đi dưới 4 hành_trình và 1 đồng / hành_khách đi trên 4 hành_trình 7 Tuyến xe_buýt Củ_Chi - Hậu_Nghĩa 6 Long_An 6 có_giá vé 1 đồng / hành_khách đi một trạm hoặc đi suốt hành_trình 7.

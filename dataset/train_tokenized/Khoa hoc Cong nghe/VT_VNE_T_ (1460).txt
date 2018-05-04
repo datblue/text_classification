@@ -1,4 +1,0 @@
-Cách in trang chẵn / lẻ trong Excel 6 1 6 . Kính_chào các_anh các chị 7 Xin các_anh các chị chỉ cho cách in trang chẵn / lẻ trong Microsoft_Excel 7 Xin cảm_ơn 7.
-Nguyễn_Thế_Hưng.
-Hồi_âm 7.
-Chao ban 7 Theo toi biet 7 Excel khong the in trang chan le nhungminh co the lam_viec do qua trung_gian MS Word 7 Anh hay mo Word 7 sau do anh su dung chuc nang 6 Insertion - Objet 6 cua Word de chen file_excel cua anh_vao 7 Nhu vay 7 luc in bang Word 7 anh se co the in trang chan le duoc 7.

@@ -1,8 +1,0 @@
-Nối trực_tiếp 1 máy từ cáp USB 6 1 6.
-Nhà cháu có 1 máy_vi_tính 7 cháu có mua 1 cáp USB 6 1 USD 6 7 và cháu chỉ biết sử_dụng 1 chức_năng đó là truyền dữ_liệu giữa 1 máy 7 Còn_về thiết_lập mạng_cục_bộ giữa 1 máy 7 bằng cáp USB để chơi game 7 hay thiết_lập mạng như trong mạng Lan 6 khi co Hub 6 được không 7 Chau co sử_dung_cáp máy_In 6 cổng LPT 6 để nối trực_tiếp 1 máy rồi 7 nhưng tốc_độ khi truyền dữ_liệu 7 chơi game chậm 6 giật 6 7 Giờ_Cháu sử_dụng Cáp USB 7 không_biết thiết_lập cấu_hinh làm_sao 7 ngay_cả khi co đĩa Driver cua cáp USB 7 kính mong quý_báo giúp_đỡ 7.
-Mong các cô_chú chỉ rõ cách cài_đặt trong Win XP 7 và Win 1 7 và làm_sao để biết 1 máy đang kết_nối 7 Và làm_sao nối mang 1 máy bằng cáp USB để chơi game 7 cũng_như nghiên_cứu về_mạng_cục_bộ 7 K.
-Khi kết_nối bằng USB 7 các máy ngang_hàng có hiện lên các tên máy thiết_lập 7 như ngoài quán game hay quán Net 7 Và cuối_cùng là làm thế_nào để chia_sẻ kết_nối internet giữa 1 máy 7 Mong câu_trả_lời rõ_ràng và đầy_đủ của các cô_chú 7 Chân_thành cảm_ơn 7.
-Trần_Đại_Hải.
-Hồi_âm 7.
-Ban_co the ket noi tu 1 may hoac nhieu hon xuyen qua cong USB hay 6 hub 6 ban can them cac mang 6 1 network_adapters 7 the Ethernet_Card 7 the USB Network_Adapter 6 7 Vi ban khong noi ro USB cable cua hang nao ma ban dang su dung nen khong the chi dan ro rang hon duoc vi moi cach cai dat rieng cua ho 7 Ban co the_tham_khao 1 links duoi day co kem theo hinh anh chi dan cach cai dat cho tat ca cac HDH rat de su dung 7 2 . 2
-O link thu 1 co chi ro_phan 6 ping 6 de biet_giua 1 may duoc ket noi hay khong 7 Nen nho them XP cua ban_nen cai o ban FAT 1 chu dung cai o bang NTFS 7 Neu khong thi 1 se khong nhin thay XP va nen tat_chuc nang firewall cua XP 7.

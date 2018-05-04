@@ -1,3 +1,0 @@
-Không nhận_diện được Card LAN.
-Card LAN của tôi tự_nhiên dạo này không nhận_diện được nữa 7 nghĩa_là không nối_kết được Internet 7 mặc_dù đã được cài driver 7 Khi tôi tắt máy 7 tháo card LAN 7 rồi khởi_động lại 7 lại tắt máy một_lần_nữa 7 lần này thì gắn card LAN vào 7 lúc_này thì máy lại nhận_diện được card LAN và vào internet bình_thường 7 Máy tôi đã bị 4 lần như_vậy 7 Vậy xin hỏi lý_do tại_sao mà máy không nhận_được card LAN 6 tôi gắn rất cẩn_thận card LAN 7 vì tôi đang ở Ký_túc_xá nên dùng card LAN 6 7 Xin cảm_ơn quý_vị đã_đọc thông_tin này và mong nhận_được thư trả_lời 7.
-Trần_Nghĩa_Lập.

@@ -1,5 +1,0 @@
-Sửa file IO 7 SYS 6 1 6.
-Tôi muôn sửa file IO 7 SYS nhưng dùng Edit de sửa thì nó không chạy được 7 Xin các_bạn chỉ giúp có chương_trình nào có_thể sửa được hoặc sửa bằng các lệnh trong DOS thì làm thế_nào 7 Xin cảm_ơn 7.
-Anh Trung.
-Hồi_âm 7.
-Chao ban 7 File IO 7 SYS la mot file thuoc tinh an cua DOS 7 chi duoc thuc hien trong pham_vi cac cau lenh cua DOS 6 DOS COMMAND 6 7 Truoc khi edit ban da mo thuoc tinh an do chua 7 O ms-dos_prompt go lenh nhu sau 7 cd 7 7 attrib -s -h -r IO 7 SYS edit io 7 sys 7 Thuc hien cac thay doi sau cho dung voi cac hieu lenh cua DOS 7 Sau_khi xong cac thao_tac 7 nhan ALT + F 7 chon S de_luu_tru lai 7 Nhan ALT + F chon X de ra khoi DOS editor 7 Go_vao lenh attrib + h + s + r io 7 sys 7 go lenh EXIT de ra khoi MS-DOS prompt 7 Ban co the_tham_khao them o day 7 2.

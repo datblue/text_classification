@@ -1,6 +1,0 @@
-Khai_báo Modem 6 1 6.
-Theo tôi được biết thì hai máy_tính có_thể kết_nối và truyền dữ_liệu với nhau thông_qua mạng điện_thoại cố_định nếu hai máy này có gắn modem và line điện_thoại 7 Vậy xin hướng_dẫn tôi cách khai_báo cho các máy trong trường_hợp các PC sử_dụng hệ_điều_hành 1 7 Win XP và Win 1.
-Tôi xin chân_thành cám_ơn 7.
-Nguyễn_Văn_Danh.
-Hồi_âm 7.
-Để có_thể nối hai máy 7 hai máy đó cần có card mạng và nối ngang_hàng với nhau 7 để hai máy có_thể cùng kết_nối Internet dùng ISA 6 hoặc tương_tự 6 để share đường truyền 7 Vấn_đề này không đơn_giản đâu 7 tốt_nhất bạn cần một_người có khả_năng có_thể giúp bạn 7.

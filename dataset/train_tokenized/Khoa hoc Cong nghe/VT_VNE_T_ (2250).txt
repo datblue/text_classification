@@ -1,8 +1,0 @@
-Nói_sai tác_giả MS-DOS phải đền 1 USD.
-Tim Paterson 7 người_bán lại hệ_điều_hành tương_thích Intel 1-DOS 6 còn gọi_là QDOS 6 cho Microsoft năm 1 7 đang thưa_kiện Harold_Evans 7 cựu tổng_biên_tập_tờ Times và hãng xuất_bản Time_Warner với cáo_buộc bôi_nhọ danh_dự 7.
-Tim Paterson 7.
-Harold_Evans 7.
-Gary_Kildall 7.
-Paterson đòi bồi_thường số tiền trên vì cho_rằng mình đã phải hứng_chịu những 6 tổn_thương nghiêm_trọng về tinh_thần 6 7 Trong cuốn_sách They_Made_America 6 Họ đã làm_nên nước_Mỹ 6 phát_hành năm_ngoái 7 Evans đã dành hẳn một chương để nói về Gary_Kildall 7 người_sáng_lập_hãng Digital_Research 7 Evans gọi phần_mềm của Paterson là một_sự_gian_lận và sao_chép bừa_bãi tác_phẩm CP / M của Kildall - vào thời_điểm đó là hệ_điều_hành hàng_đầu đối_với các máy_vi_tính micro 7.
-Trên thực_tế 7 hãng máy_tính Seattle_Computer_Products 6 SCP 6 của Paterson có sản_xuất một card_plug-in 1 cho loại máy_tính S-1 và ông này sau_đó viết một hệ_điều_hành đi kèm 7 Trong đơn_kiện của mình 7 Paterson cho_biết ông muốn giao_diện lập_trình ứng_dụng cho hệ_điều_hành của mình được tương_thích với CP / M đang dẫn_đầu thị_trường 7 Tôi nhận_thấy định_dạng mà CP / M sử_dụng là một cản_trở lớn cho_nên đã chuyển_sang nền Stand-Alone_Disk BASIC của Microsoft và dùng hệ_thống phân_bổ file FAT 6 File_Allocation_Table 6 7 Paterson viết 7 Kết_quả của việc kết_hợp này là MS-DOS ra_đời vào tháng 4 7.
-Paterson khẳng_định Evans đã lầm khi cho_rằng Kildall là nhà phát_minh ra DOS và việc John_Wharton 7 giảng_viên đại_học Standford 7 nói rằng Paterson không_có cải_tiến gì với cơ_chế INT-1 của Kildall cũng là hoàn_toàn sai 7.

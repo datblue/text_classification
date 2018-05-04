@@ -1,3 +1,0 @@
-Viettel thay_đổi cách tính_cước.
-Theo đó 7 thay_vì mỗi block được tính tròn thành 1 giây như hiện_nay 7 phương_án mới cho_phép khách_hàng gọi giây nào tính_tiền giây đấy kể_từ sau 1 giây đầu_tiên 7.
-Đây là động_thái nhằm tăng_cường sức cạnh_tranh với các nhà_cung_cấp viễn_thông khác sau_khi VNPT trình phương_án giảm cước cho mạng Vinaphone 7 MobiFone và mạng S-Fone áp_dụng cách tính cước 1 + 1 từ 4 7.

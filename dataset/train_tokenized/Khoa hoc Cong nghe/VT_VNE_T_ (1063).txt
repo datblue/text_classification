@@ -1,3 +1,0 @@
-Tắt rồi PC vẫn tự khởi_động lại 6 1 6 . Máy_vi_tính tôi có modem 7 Khi turn-off xong thì tắt máy 7 nhưng khi nhấc điện_thoại lên thì tự_nhiên nó khởi_động lại 7 Tôi không_biết làm_sao 7 Mong các_bạn giúp_đỡ 7 Cám_ơn 7 Thân_ái 7.
-Tuấn_Anh.
-Hồi_âm 7 . PC của bạn đang ở chế_độ tự_động bật khi có tín_hiệu của modem 6 điều_này rất có_lợi nếu bạn sử_dụng PC để nhận FAX 6 7 Bây_giờ bạn vào BIOS của máy tìm phần quản_lý về nguồn_điện 6 Power_Management 6 rồi tắt 6 disable 6 chức_năng để modem tự_động bật 6 Auto_turn on 6 hoặc tự_động thức 6 Auto_Wake Up 6 7 Tốt_nhất là bạn nên đọc kỹ hướng_dẫn sử_dụng của máy hoặc / và của bo_mạch_chủ 7.

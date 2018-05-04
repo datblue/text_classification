@@ -1,4 +1,0 @@
-Internet_Explorer 1 cũng có tính_năng duyệt tab.
-Vài tuần sau_khi tuyên_bố sẽ tích_hợp tính_năng này trong phiên_bản trình_duyệt 1 7 Microsoft đã bắt_đầu cung_cấp tab_browsing - một tiện_ích rất được chờ_đợi ở Internet_Explorer 1 6 IE 1 6 - với thanh công_cụ MSN toolbar 7.
-Với phiên_bản MSN Search_Toolbar được phát_hành bắt_đầu từ hôm_qua 7 IE 1 sẽ có khả_năng mở nhiều trang_web trên cùng một cửa_sổ và chuyển_đổi bằng một phím nhỏ phía_trên màn_hình 7.
-Duyệt theo tab từ_lâu đã xuất_hiện trong các đối_thủ cạnh_tranh của IE như Opera 7 Safari hay Firefox và là một trong nhiều tiện_ích trình_duyệt mà người lướt web còn thấy thiếu ở phiên_bản hiện_hành của browser phổ_biến nhất thế_giới 7 IE đã không_có đợt nâng_cấp chức_năng lớn nào trong hơn 1 năm_qua 7 Đến tháng trước 7 Microsoft mới khẳng_định rằng họ sẽ cung_cấp tab trong IE 1 7.

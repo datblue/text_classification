@@ -1,5 +1,0 @@
-Hỏi về lỗi cài_đặt Warcraft III 6 1 6.
-Khi cài War III vào một máy có cấu_hình chip 1 7 1 MB card màn_hình 7 1 MB RAM 7 Direct X 1 7 thì chạy được bình_thường 7 nhưng khi cài vào máy khác có cấu_hình mạnh_hơn 1 7 1 7 1 card màn_hình 7 1 RAm 7 Direct X 1 7 thì không chạy được và thông_báo lỗi 6 Access_Violence 7 can 6 t read_this_memory 6 tại cùng một địa_chỉ 7 sau_đó chương_trình tự_động out 7 Xin cho_biết tại_sao và cách khắc_phục như thế_nào 7 Trân_trọng cám_ơn 7.
-Lý_Quốc_Hùng.
-Hồi_âm 7.
-Thong_thuong ban gap nhung loi tuong tu nhu FATAL ERROR 7 7 7 7 6 this_application_has_encountered a critical_error 7 FATAL ERROR 7 1 7 exe_exeption 7 1 6 ACCESS_VIOLATION 6 at 1 7 1 7 The instruction at 6 1 7 1 6 referenced_memory at 6 1 6 7 The memory_could not be read 6 6 7 7 7 Co 1 su viec xay ra cung luc tai mot dia chi cua bo nho 7 truoc khi cai dat nen chay lenh 6 scandisk 6 va 6 disk_defagmenter 6 7 check lai thanh RAM va cap_nhat drives 7 card am thanh 7 card man hinh 7 Hien thoi da co directX 1 7 Nho tat tuong lua 6 firewall 6 khi choi game 7.

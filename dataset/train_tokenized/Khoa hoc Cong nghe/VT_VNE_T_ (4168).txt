@@ -1,5 +1,0 @@
-Sẽ không_có bản nâng_cấp an_ninh Microsoft tháng 1.
-Ngày 4 7 hãng phần_mềm khổng_lồ Mỹ tuyên_bố sẽ chỉ cung_cấp 1 bản sửa_lỗi cho lỗ_hổng nghiêm_trọng trong hệ_điều_hành Windows 7 Tuy_nhiên 7 hôm_qua họ lại khẳng_định không phát_hành bất_cứ bản update nào cho tháng này nữa 7.
-Microsoft từ_chối giải_thích chi_tiết lý_do họ hủy_bỏ kế_hoạch vào phút chót 7 6 Quyết_định liên_quan đến chất_lượng của bản vá 7 Chúng_tôi phát_hiện ra một trục_trặc và các kỹ_sư bảo_mật sẽ cần thêm thời_gian thử_nghiệm 7 do_đó giải_pháp tốt_nhất là không đưa_ra bản_tin an_ninh tháng 1 6 7 một_phát_ngôn_viên của Microsoft cho_biết 7.
-Đây là lần_thứ_hai tập_đoàn này thay_đổi kế_hoạch về việc cung_cấp bản_vá 7.
-Microsoft dự_định phát_hành bản cập_nhật cho lỗi Windows_Plug-and-Play 7 Hãng đã sửa lỗ_hổng trong bản_tin bảo_mật tháng 1 7 nhưng chỉsau vài ngày 7 hàng_loạt vụ_tấn_công với nhiều biến_thể virus khác_nhau của Zotob 7 Esbot 7 Rbot 7 7 7 đã xảy_ra liên_quan đến lỗi này 7 ảnh_hưởng khoảng 1 máy_tính chủ_yếu chạy trên Windows 1 7.

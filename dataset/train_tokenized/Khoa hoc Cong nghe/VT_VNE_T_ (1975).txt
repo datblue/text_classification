@@ -1,5 +1,0 @@
-Download phần_mềm trên IE 1 6 1 6.
-Máy tôi sử_dụng hệ_điều_hành Win XP SP 1 7 Pen IV 1 GHz 7 IE 1 7 tôi không_thể download phần_mềm trên net được 6 Tôi dùng mạng nội_bộ 7 đường thuê_bao riêng 6 trong_khi các máy trong phòng cùng cấu_hình với máy tôi vẫn download bình_thường 7 Khi download máy báo lỗi 6 Download_was_canceled_by_user 6 7 Rất mong được giúp_đỡ 7.
-Pham_Quoc_Nam.
-Hồi_âm 7.
-Nếu bạn download với quyền Admin nhé 7 đây là một chức_năng đã được đã được kèm_theo cho 1 của XP vì activeX đã bị khóa_lại bởi 1 7 Khi bạn nhấp chuôt download thì phía dưới thanh công_cụ 6 tools_bar 6 hiện lên mẩu tin 6 information_bar 6 đòi_hỏi phần activeX bạn phải nhấp chuột vào đó chọn accept 7 nếu_không_thì bạn không download được 7.

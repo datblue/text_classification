@@ -1,7 +1,0 @@
-Kỷ_lục mới về tốc_độ Internet.
-Mạng nghiên_cứu và giáo_dục quốc_gia Thụy_Điển 6 Sunet 6 phối_hợp với hãng Sprint đã thành_công trong việc truyền 1 GB dữ_liệu trong_vòng 1 phút qua khoảng_cách 1 km 7.
-Không sử_dụng một công_nghệ đặc_biệt nào 7 các nhà_nghiên_cứu đã gửi_lượng dữ_liệu nói trên từ một máy_tính ở_San Jose 6 Mỹ 6 qua gần nửa vòng trái_đất tới Đại_học Lulea ở miền_Bắc_Thụy_Điển 7 Đường truyền sử_dụng trong thử_nghiệm này là 1 mạng SprintLink của Sprint và GigaSunet IP 7 có thông_lượng 1 GB / giây 7.
-Đường truyền kết_hợp 1 bộ định_tuyến 6 IP router 6 7 trong_đó 1 ở mạng SprintLink và 1 ở Sunet 7 Đóng_vai_trò máy host đầu_cuối là các server_Dell 1 7 mỗi chiếc sử_dụng chip Intel Xeon 1 GHz 7 1 MB RAM và phiên_bản 1 hệ_điều_hành NetBSD 7.
-Các PC được nối vào một router chính của GigaSunet tại Đại_học Lulea và một router truy_cập ở San Jose 7 dùng các bộ điều_hợp 6 adapter 6 Ethernet 1 Gigabit PRO / 1 của Intel 7.
-Sunet khẳng_định kết_quả này tốt_hơn gấp 1 lần so_với thành_tích hiện được ghi trong_sách kỷ_lục Guiness 1 7 Theo cơ_quan nghiên_cứu của Thụy_Điển 7 cuộc thử_nghiệm tốc_độ truyền dữ_liệu diễn_ra trong điều_kiện truyền_tải thực_tế và có sự gắn_kết đầy ý_nghĩa đối_với các ứng_dụng lưu_trữ ngoại_tuyến dùng cho khắc_phục sự_cố 7.
-Điều ấn_tượng nhất về kỷ_lục này so_với những thành_tựu từng được xác_lập là chúng_tôi đã thực_hiện nó trên hạ_tầng thông_thường mà GigaSunet và các khách_hàng của Sprint đang sử_dụng chứ không_phải một mạng chuyên_dụng 7 Borje_Josefsson 7 Giám_đốc_công_nghệ của Sunet 7 phát_biểu 7.

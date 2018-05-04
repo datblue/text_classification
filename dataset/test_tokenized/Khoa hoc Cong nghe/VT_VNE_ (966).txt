@@ -1,4 +1,0 @@
-Khám_phá bí_mật của mạng với Angry IP Scanner.
-Hiện_nay 7 hầu_hết máy_tính nối_mạng đều chạy hệ_điều_hành Windows nhưng Microsoft không giúp gì người_dùng trong việc tìm sự_cố và những bí_ẩn trong hệ_thống mạng 7 Tuy_nhiên 7 bạn có_thể thực_hiện điều_đó với phần_mềm miễn_phí Angry IP Scanner 7.
-Angry IP Scanner cho_phép bạn ping một loạt địa_chỉ IP và trả_lại tốc_độ ping 7 tên máy_chủ và các địa_chỉ IP đang hoạt_động - tất_cả được gói_gọn trong một giao_diện Windows hấp_dẫn 7 dễ đọc 7 Đây là một tiện_ích hoàn_hảo khi bạn cần tìm_hiểu xem PC nào đang kết_nối với mạng của bạn 7.
-Để sử_dụngAngry IP Scanner 7 bạn cần tải về file_setup tại_đây 7 giải nén và cài_đặt chương_trình 7.

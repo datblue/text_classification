@@ -1,5 +1,0 @@
-Tìm ổ cài USB 1 6 1 6.
-Tôi có ổ USB 1 6 1 6 cài_đặt bằng driver 6 Intel 6 r 6 1 / DBM USB 1 Enhanced_Host_Controller - 1 6 7 nay bị lỗi máy không tự_nhận được ổ USB 7 Các_bạn giúp tôi tìm Driver để cài lại với 7 Xin chân_thành cám_ơn 7.
-Tiểu_Ngọc.
-Hồi_âm 7.
-Máy báo lỗi 7 Bạn hãy lấy bút ghi lại 7 ổ_đĩa loại nào 7 Seagate hay Maxtor 7 Intel và Microsoft thì bạn không cần tìm drive vì cả 1 như_bóng_với_hình 7 6 USB 1 Enhanced_Host_Controller 6 nếu bạn thấy dòng chữ ấy trong device 7 là máy của bạn đủ sức cho các usb 1 7 1 hay 1 7 nếu ổ_đĩa rời của bạn loại usb_ver 1 7 mà máy bạn chỉ hỗ_trợ usb_ver 1 hay 1 bạn hãy nâng_cấp thành ver 1 bằng cạc PCI usb 1 7 7 khi bạn nối ổ_đĩa_cứng 6 hard_diskdrive 6 nên xài loại sử_dụng nguồn_điện riêng 6 power_hub 6 có cắm sẵn cổng USB 7 Thông_thường ổ_đĩa_cứng cần rất_nhiều điện để hoạt_động 7 7 1 trong khi_đó usb chỉ_có 1 7 7 7 7 7 7 7 7 7 một_cách để nhận_dạng usb trên máy 7 7 ở chỗ cắm usb nếu thấy nhánh xương_rồng kèm thêm dấu + hay_chữ Enhanced là ver 1 7 Nếu chỉ_có mỗi nhánh xương_rồng là ver 1 hay 1 7 7 7 7 7.

@@ -1,5 +1,0 @@
-Lỗi khi cài từ_điển Nga-Việt 6 1 6.
-Tôi dùng Win XP 1 7 khi cài từ_điển Nga_Việt SPbDic thì máy báo lỗi Module C 7 WINDOWS11 7 dll_failed to register 7 HRESULT -1 7 Xin giải_thích và giúp tôi khắc_phục lỗi này 7 Chân_thành cảm_ơn 7.
-Công_Hiếu.
-Hồi_âm 7.
-Ban thu dang nhap vao Windows voi tai_khoan Admin roi cai dat_xem sao 7.

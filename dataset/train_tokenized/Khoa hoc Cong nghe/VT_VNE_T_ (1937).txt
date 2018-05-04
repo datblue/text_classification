@@ -1,5 +1,0 @@
-Tắt chế_độ check_disk 6 1 6.
-Cho em hoi 7 o D cua em khi khoi dong bao gio cung_doi check_disk 7 rat kho_chiu 7 mac_du em da tat het cac che do schedule roi ma van khong duoc 7 Co cach nao khac_phuc duoc khong 7.
-Nguyen_Van_Dung.
-Hồi_âm 7.
-Để tắt Check_disk thì không khó 7 Nhưng theo mặc_định 7 Windows chỉ check khi nghi_ngờ đĩa bị lỗi 7 hoặc có sự thay lớn về các files khởi_động 7 Vì_vậy không nên Disable nó đi 7 thậm_chí còn phải kích_hoạt các chế_độ tự bảo_vệ đĩa khác nữa 7 Tôi nghĩ vấn_đề của bạn khá đơn_giản 7 Ổ_đĩa của bạn_bị lỗi do một nguyên_nhân nào đó 7 ví_dụ như mất điện đột_xuất 7 7 7 Khi khởi_động 7 Win tự check và fix nếu có_lỗi 7 Nhưng có_lẽ bạn quá 6 sốt_ruột 6 7 nên đã nhấn một phím bất_kì để thoát 7 Như_vậy lỗi chưa được sửa 7 và Win lại làm khi khởi_động 7 Vì_thế 7 mỗi_lần nó làm_việc đó 7 bạn cứ kệ cho nó làm 6 nó có bắt bạn phải làm đâu 7 6 7 Sau_khi sửa xong 7 máy tự khởi_động lại là ngon thôi 7 Còn nếu vẫn bị 7 phần_nhiều do HDD của bạn bị hỏng 7 Hãy liên_hệ với nơi bán_hàng để được giải_quyết 7 Chào 7.

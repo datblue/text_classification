@@ -1,6 +1,0 @@
-Bảo_mật trong Win XP 6 1 6.
-Toi_dung Win XP 7 format NTFS 7 xin cho toi cach bao mat o cung va folder 7 chong xoa 7 chong sao_chep 7 Toi xin chan thanh cam_on 7.
-Tran_Anh_Dung.
-Hồi_âm 7.
-Chao ban 7 Ban_dung WinXP hoac Win 1 7 ban lai chon_quan_ly phan vung la NTFS 7 Nhu vay ban co the hoan_toan_yen tam_la PC cua ban co the ho tro toi da_cac che do bao mat 7 Ban muon duoc bao mat Folder 6 hoac o_dia logic 6 hay lam nhu sau 7 - Right_click vao folder 6 hoac o_dia logic 6 7 chon Properties 7 chon security 7 - Bam vào Add de thêm các User mà ban muon han che_quyen 6 Read 7 Write 7 7 7 6 7 - Chon cac quyen 6 cho phep hoac khong cho phep 6 ban muon gan cho user 7.
-Chuc ban thanh_cong 7.

@@ -1,5 +1,0 @@
-Không dịch được bằng phần_mềm AV Tran 1 6 1 6.
-Toi muon dich doan tieng Anh ra tieng Viet sau_khi scanner vao may PC qua phan men AV Tran 1 nhung khong dich duoc 7 Mong cac anh chi giup 7 Xin cam_on 7.
-Mai_Thanh_Lam.
-Hồi_âm 7.
-Khi scan van ban bang may quet 7 ban phai chuyen hinh anh sang dang vecto 7 co the la dinh_dang 7 txt 7 rtf 7 doc 7 7 7 sau do vao EV tran_mo file van ban 7 chon select_all 7 vao Run 7 chon translate 6 hoac dung bieu tuong tren thanh_cong_cu 6 7 Toan bo van ban se duoc_dich sang tieng Viet 7 Ban co the vao tools / options de_lua chon cac xac lap theo y ban 7 Chuc thanh_cong 7.

@@ -1,5 +1,0 @@
-Mất thông_số khi cài lại Windows 6 1 6.
-Khi tôi mua một phần_mềm trên mạng 7 họ cung_cấp_cho_tôi một đường link để download phần_mềm về 7 Sau_khi cài_đặt trên máy thì phần_mềm sẽ tự_động login vào Internet để đăng_ký 7 Phần_mềm sau_khi kiểm_tra xem tôi đã bỏ tiền mua hay_chưa 7 xác_nhận_lại và tự_động tải các thông_số đăng_ký về máy của tôi rồi tự cài_đặt 7 Nhưng có một vấn_đề là cứ mỗi_lần cài lại Windows thì mọi thông_tin về đăng_ký đều bị mất hết và phần_mềm này lại đòi phải đăng_ký lại 7 Tôi đã thử vào Registry để tìm nhưng vẫn không tìm_thấy thông_tin nào về những đăng_ký của tôi 7 Như_vậy có phải các khoá trong Registry đã được ẩn đi không 7 hay phần_mềm đã tự download về những file cần_thiết để đăng_ký 7 Mong_sự_giúp_đỡ của các_bạn để tôi có_thể biết về các thông_tin đăng_ký của mình để lần sau_khi có phải cài lại Windows thì không cần_phải kết_nối vào Internet nữa 7 Cảm_ơn các_bạn 7.
-Đỗ Hoàng_Linh.
-Hồi_âm 7.
-Khong phai bat ky_phan mem nao cung_luu thong so dang_ky cua no trong Registry 7 Cho du_phan mem co luu trong registry thi viec tim ra chung cung rat phuc tap 7 Ban dang co lam nhung cong_viec cua mot Cracker 7.

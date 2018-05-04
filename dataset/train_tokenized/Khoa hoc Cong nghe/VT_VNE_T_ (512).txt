@@ -1,5 +1,0 @@
-Thay_đổi Properties của Printer trong VB 1 6 1 6.
-Khi in một Report trong chương_trình được viết bằng VB 1 6 đã được đóng_gói 6 theo kiểu giấy_in nằm_ngang 6 landscape 6 thì trước_khi in phải chỉnh trực_tiếp Orientation là Landscape từ Properties của Printer 7 như_vậy thì không_được tiện cho_lắm 7 Vậy xin hỏi 7 trong lập_trình VB 1 7 có câu_lệnh nào có_thể chỉnh kiểu giấy_in của máy_in về kiểu giấy nằm_ngang 6 landscape 6 mà không cần_phải chỉnh trực_tiếp từ Properties của Printer không 7 Xin cám_ơn 7.
-Nguyễn_Cao_Thắng.
-Hồi_âm 7.
-In VB 1 there_is a property_called 7 Orientation_you can change_this_easily_using 7 Obj 7 Orientation = Constant_Value_Description_vbPRORPortrait 1 Documents_are_printed_with the top at the narrow_side_of the paper 7 vbPRORLandscape 1 Documents_are_printed_with the top at the wide_side_of the paper 7.

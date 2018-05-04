@@ -1,4 +1,0 @@
-Robot vượt cầu_thang.
-Trước sự chứng_kiến của hội_đồng nghiệm_thu 7 robot leo cầu_thang đã vượt được cầu_thang cao gần 1 một_cách dễ_dàng 7 sau_đó robot lại tự_động leo xuống_dốc 7.
-Th 7 S Đoàn_Thế_Thảo 7 chủ_nhiệm đề_tài 7 cho_biết lần này nhóm nghiên_cứu đã lựa_chọn mô_hình sử_dụng bánh xích do mô_hình này ít phụ_thuộc góc nghiêng và có độ bám tốt 7.
-Robot leo cầu_thang lần này đã được thay_đổi 7 làm mới hoàn_toàn 7 Robot nặng 1 7 được trang_bị camera 7 bộ cảm_biến siêu_âm 7 la_bàn để xác_định hướng di_chuyển 7 có_thể phân_biệt được khi_nào thì leo xuống cầu_thang 7 khi_nào leo xuống vực 7 7 7.

@@ -1,7 +1,0 @@
-Vì_sao dùng mạng LAN không_thể chat 6 1 6 . Hiện_nay tôi đang_dùng net qua LAN của công_ty 7 Nhưng tôi không_thể dùng một_số trang_web như Yahoo 7 Chat 7 Vậy xin chỉ cho tôi cách để dùng yahoo_mail 7 yahoo_messenger 7 Xin chân_thành cảm_ơn 7.
-Trần Xuân_Lộc.
-Hồi_âm 7.
-Dùng Yahoo_Messenger có_thể sẽ phải chọn các lựa_chọn trong Proxy_Setting 7.
-Trong YM 1 chọn Messenger - Connection_Preferences 7 Có_thể thử.
-Firewall_with no proxiesNo_proxiesUse_proxies.
-Nếu dùng lựa_chọn này 7 có_thể phải chọn enable HTTP proxies và điền server_name và server_port 7 No network_detection 7.

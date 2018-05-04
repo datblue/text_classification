@@ -1,4 +1,0 @@
-Biểu_tượng IE sẽ được điều_chỉnh khiêm_tốn hơn.
-Theo yêu_cầu của một ủy_ban giam_sát chống độc_quyền tại Mỹ 7 Microsoft quyết_định sẽ gỡ bỏ biểu_tượng trình_duyệt Internet_Explorer 6 IE 6 trong Windows XP ở những nội_dung liên_quan đến web 7.
-Như hiện_nay 7 một_số file HTML khi được lưu trên PC đều hiển_thị biểu_tượng Internet_Explorer 7 kể_cả khi trình_duyệt này không_được đặt ở chế_độ mặc_định 7 . Ủy_ban chống độc_quyền nói trên trấn_an rằng việc bỏ biểu_tượng Internet_Explorer trong XP sẽ không khiến hệ_điều_hành tự_động xóa các đường liên_kết nhanh 6 shortcut 6 của người sử_dụng vào ứng_dụng duyệt web này 7.
-Microsoft khẳng_định sẽ thực_hiện một_số điều_chỉnh để giải_tỏa những quan_ngại trên 7.

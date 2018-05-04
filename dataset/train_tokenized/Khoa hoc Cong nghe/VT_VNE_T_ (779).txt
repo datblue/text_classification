@@ -1,4 +1,0 @@
-Hỏi về phần_mềm soạn nhạc Encor 6 1 6.
-Ban_nao co the chi cho_minh lam cach nao de co the dan trang don_gian trong Encor khong 7 hay co cach nao de danh hai bai nhac theo chieu ngang cua kho giay da chon khong 7 Ban nao co the xin giup 7 Cam_on rat nhieu 7 . quan lam.
-Hồi_âm 7.
-Neu muon in 1 trang 1 tren 1 trang 1 7 hien_nay chỉ_có 1 cách 7 su_dung FinePrint ma thoi 7 Cach su dung 7 cai FinePrint 7 chon FinePrint lam Default_Printer 7 Page_setup cac file_encore 1 7 In bang FinePrint 7 Khi hien ra hop thoai FinePrint 7 trong tab_Layout 7 chon 1 up 7 Nhan tiep vao Option = Custom_Settings 7 chọn trong tab_Paper 7 1 7 Chuc ban thanh_công 7.

@@ -1,4 +1,0 @@
-AMD sẽ từ_bỏ dòng chip Athlon_XP.
-Nhằm cạnh_tranh với Intel trên thị_trường_vi_xử_lý 7 AMD sẽ cho ra_đời dòng chip mới sử_dụng công_nghệ 1 nm thay_vì 1 nm như hiện_nay 7.
-Theo lộ_trình phát_triển được hãng sản_xuất phần_cứng này đưa_ra 7 dòng chip Athlon XP sẽ chấm_dứt sứ_mệnh của mình vào đầu năm tới để nhường chỗ cho loại chíp sử_dụng công_nghệ 1 nm SOI 6 Silicon-on-ilsulator 6 7 Sản_phẩm mới vẫn tên là Sempron nhưng sẽ thay_đổi cơ_bản về kĩ_thuật chế_tạo 7 được sử_dụng cho cả 1 loại máy 7 để bàn và xách_tay 7 . Công_ty này vẫn tiếp_tục bán ra các vi_xử_lý thuộc dòng 1 bit như Opteron 7 Athlon MP và Athlon XP cho_đến_khi sản_xuất xong_loại chip mới 7 Chip Althlon XP với 1 chân thay_vì 1 chân_như trước_đây 7 sẽ chiếm tỉ_lệ 1 % tổng_số sản_phẩm vi_xử_lý của AMD 7.
-Hãng này sẽ đưa_ra loại chip 1 lõi 6 dual-core 6 dành_cho server có tên là Egypt và một loại tương_tự dành_cho máy để bàn vào_khoảng giữa năm 1 7.

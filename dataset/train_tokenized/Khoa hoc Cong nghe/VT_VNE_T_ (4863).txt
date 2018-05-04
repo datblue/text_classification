@@ -1,9 +1,0 @@
-Sony ngừng bán phần_mềm chống sao CD.
-Đúng như nhận_định của giới chuyên_môn 7 lỗi trong chương_trình chống sao_chép XCP mà Sony cài vào trong đĩa CD đã bị hacker lợi_dụng để tấn_công máy_tính 7 Tình_hình khiến hãng điện_tử Nhật quyết_định ngừng tung mã bản_quyền số DRM này ra thị_trường 7.
-John_McKay 7 phát_ngôn_viên của Sony 7 chính_thức thông_báo họ tạm_thời ngừng sản_xuất các đĩa CD có chứa phần_mềm XCP 6 Extended_Copy_Protection - Cơ_chế chống sao_chép mở_rộng 6 nhưng không cho_biết lúc_nào thì hãng tiếp_tục dùng đến chương_trình này 7.
-Các nhà phát_triển XCP trước_đó đã cho_biết họ đang viết phần_mềm chống copy mới mà không dùng đến kỹ_thuật gây nhiều tranh_cãi của Sony 7 . XCP được Công_ty First 1 Internet 6 Anh 6 phát_triển và ra_mắt từ_đầu năm 1 7 Sản_phẩm đã được áp_dụng cho khoảng 1 tuyển_tập nhạc_phẩm 7 trong_đó có album đồng_quê Get_Right_with the Man của Van Zant 7 Phần_mềm này sẽ hạn_chế số_lượng bản_sao của mỗi đĩa CD 7.
-Mã bản_quyền số này bắt_đầu gây xôn_xao trong giới chuyên_môn khi Mark_Russinovich 7 một chuyên_gia về hệ_điều_hành Windows 7 tiết_lộ cách_dùng kỹ_thuật 6 tấm áo_choàng 6 rootkit để ẩn XCP trên máy_tính 7 Rootkit có_thể đón_nhận nhiều chương_trình khác 7 trong_đó có cả virus khống_chế máy_tính từ_xa 7.
-Sony đã phải tung ra bản vá lỗi cho XCP nhưng vẫn không chấm_dứt được những lời chỉ_trích mạnh_mẽ 7 coi_đây là sự_kiểm_soát người sử_dụng với ý_đồ xấu 7.
-Nhiều công_ty xét_lại chính_sách dùng CD sau sự_kiện Sony 6 4 6.
-Trojan ẩn sau phần_mềm chống sao_chép của Sony 6 4 6.
-Bản vá phần_mềm của Sony gây trục_trặc máy_tính 6 4 6.

@@ -1,3 +1,0 @@
-Hỏi về mạng nội_bộ 6 1 6.
-Tôi dùng mạng nội_bộ ngang_hàng 7 nhưng gần_đây tự_nhiên các máy_tính khác không_thể truy_cập được vào máy_tính của tôi trong_khi tôi vẫn có t hể truy_cập được vào các máy khác 7 rất mong các_bạn giúp_đỡ tôi câu_hỏi này 7 Máy_tính của tôi 7 window_xp_sp-1 7 với bộ_vi_xử_lý intel_celeron 7 . nguyễn trọng hợp.
-Hồi_âm 7 . Vấn_đề của bạn khả_năng rất cao là bạn đã sử_dụng chức_năng Firewall trên Windows XP 7 Để mọi_người có_thể truy_cậo vào máy của bạn 7 bạn cần bỏ chức_năng này đi 7 6 vào Properties của My Network_Places 7 vào Properties của Local_Areas_Network chọn Advance 7 bỏ chọn Enable_Firewall 6 7 Nếu làm như_trên vẫn không_được bạn có_thể email lại 3 tôi sẽ giúp_đỡ 7.

@@ -1,5 +1,0 @@
-Mất Icons trên màn_hình 6 1 6.
-Xin các_bạn giúp dùm 7 không hiểu sau_khi tôi restart máy thi vào màn_hình wellcome nó hiện lên màn_hình nhỏ có phut lui_lại 1 6 6 báo_hieu không tìm_được file gì đó va sau_khi lùi hết hay nhấn ok thì máy vào được Win nhưng lúc_này các ICON trên màn_hình chạy mỗi chỗ khác_nhau và những file trong document va favourite 7 7 7 lúc_trước đều biến_mất hết 7 Các Icon chỉ còn vài cái phần_mềm cơ_bản 7 Xin các_bạn giúp mình 7 Hy_vọng không cần_phải format lại 7 . truongtondinh.
-Hồi_âm 7
-I think_your_computer_performs an unproper_shut_down_because the OS is_missing_some_vital_files 7 This_will_cause the OS start the safe_mode_with a minimum_programs_and_drivers 7 You_need to tell_us_about_your_specific OS such as_Windows 1 7 XP 7 or_something_else_and_also the error_messages so we can tell_you_exactly_how to fix it 7 Hope_you don 6 t need to format the harddrive 7 Good_luck 7.
-Duc Dung_Tran.

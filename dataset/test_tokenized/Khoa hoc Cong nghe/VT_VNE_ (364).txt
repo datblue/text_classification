@@ -1,6 +1,0 @@
-Window 1 Pro bị treo khi truy_cập_Internet 6 1 6.
-Xin hoi sau_khi toi cai Win 1 Pro 7 may tinh rat de_bi treo khi_vao Internet 7 Chuong trinh khong the disconnect khoi Internet ma toi phai reset may 7 Outlook_Express thi khong goi duoc mail ma chi nhan mail goi toi 7 Xin cac ban_cho toi loi tu van de_giai quyet van de tren 7 Thanh_that cam_on 7.
-Khiet.
-Hồi_âm 7.
-Máy của bạn_bị virus xâm_nhập rồi 7 Chỉ còn cách backup những file cần_thiết và quan_trọng trong máy của bạn 7 Format lại harddrive có load_Windows 1 7 Load lại Window 1 sau_khi format 7 Chuyển các file đã backup trở_lại 7.
-Kim_Lai_Dang . Có_thể là máy bạn đã bi nhiễm virus từ đĩa gốc 1 khi bạn set up máy 7 Bạn thử kiểm_tra 6 Status 6 của internet_connection khi máy bạn đang connected với internet 7 khi bạn không upload hay gửi mail mà 6 bytes_send 6 nhiều_hơn và đang hoạt_động trong_khi số 6 bytes_received 6 lại ít_hơn và dường_như không hoạt_động 7 thì rõ_ràng là máy bạn đã bị nhiễm nhiều_loại 6 troyan_virus 6 7 Có_thể dùng McAfee 1 hay Norton 1 scan_virus để bắt những con virus này 6 nhớ kiểm_tra đĩa của những software này bằng máy khác để chắc là chương_trình scan_virus không bị nhiễm virus 7 7 7 7 6 7 . Trường_hợp vẫn không chạy được thì mới format và set up lại Windows 6 nên nhớ là dùng đĩa Windows khác đã_kiểm_tra là 6 virus_free 6 7 Chúc bạn thành_công 7.

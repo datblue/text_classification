@@ -1,5 +1,0 @@
-Hỏi về Redegit 6 1 6.
-Chào các anh_chị 7 Tôi xin hỏi 7 Tại Access muốn Import 1 ttin từ Foxpro sang 7 tôi muốn table đó 6 mới import được 6 hiển_thị dấu tiếng_Việt 7 Vậy run Regedit và sửa thông_tin nào trong_đó 7 Xin cảm_ơn 7.
-Tran_Ngoc_Anh.
-Hồi_âm 7.
-Theo tôi được biết thì trong Foxpro không cho_phép hiển_thị tiếng_Việt 7 Có_thể tôi sai 7 Nhưng nếu_đúng_như_vậy thì không_có cách nào cả 7 Và Regedit không liên_quan gì đến đây cả 7.

@@ -1,7 +1,0 @@
-Xóa sạch ổ_cứng 6 1 6.
-Xin chao cac ban 7 toi co 1 o cung sau_khi da_lam format nhung van khong sach het phan mem 7 Mong cac ban chi gium cach nao de xoa sach o cung 7 Thanh_that cam_on 7.
-Tang_The_Kiet.
-Hồi_âm 7.
-Bạn thử dùng đĩa khởi_động và chạy FDISK 7 syntax 7 Fdisk / mbr Chúc bạn thành_công 7.
-Dinh_Nghia.
-Chào bạn 7 Bạn phải khởi_động lại từ_đĩa khởi_động rồi fdisk lại ổ chứ sau_đó bạn format lại ổ một_lần_nữa 7 Chúc bạn thành_công 7.

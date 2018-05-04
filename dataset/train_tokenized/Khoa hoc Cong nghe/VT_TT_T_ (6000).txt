@@ -1,3 +1,0 @@
-Mozilla vá lỗi bảo_mật của Firefox 7 Thunderbird.
-Chris_Hofmann 7 giám_đốc kỹ_thuật của Mozilla_Foundation cho_biết rằng không_có bất_kỳ lỗi bảo_mật nào trong lần vá lỗi kỳ này được xếp đến_mức 6 nghiêm_trọng 6 nhưng Mozilla cũng khuyến_cáo người_dùng nên cập_nhật ngay các bản sửa_lỗi từ trang_web của Mozilla 7.
-Các lỗi bảo_mật nói trên đã được khắc_phục trong phiên_bản Firefox 1 7 1 7 Thunderbird 1 7 1 và Mozilla_Internet_suite 1 7 1 7 Người_dùng có_thể vào đây để tải Firefox 1 7 1 về dùng 7.

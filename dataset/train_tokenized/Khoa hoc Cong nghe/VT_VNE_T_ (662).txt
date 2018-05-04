@@ -1,5 +1,0 @@
-Sự_cố mạng_máy_tính 6 1 6.
-Xin các anh_chị chỉ giúp 7 tôi có một phòng_máy sử_dụng Win XP được thời_gian chạy vẫn ổn_định nhưng mới_đây tự_nhiên dàn máy của tôi ngưng_hoạt_động đồng_bộ 7 chỉ có_thể truy_cập vào Net khoảng 1 máy bất_kỳ 7 còn các máy còn_lại thì không thể_nào vào Net được 7 Nếu máy nào vào Net thì tức_khắc một_trong_những máy đang vào sẽ không vào được nữa 7 Xin anh_chị ai biết cách khắc_phục chỉ_bảo 7 Tôi đang sử_dụng đường truyền ADSL và mạng tôi dùng mạng ngang_hàng không_có máy_chủ 7 Xin cảm_ơn 7.
-Mai_Huong.
-Hồi_âm 7.
-Chào bạn 7 Mình cũng đang quản_lí một mạng_máy_tính gồm 1 máy 7 sau_đó lắp_đặt 1 máy nữa qua Switch 7 nhưng trong mạng này có 1 máy_bị 6 đá 6 IP 6 có nghĩa IP đã bị thay_đổi 6 7 bạn hãy dung_trình 6 Ping 6 để xem những máy không vào mạng của ban có địa_chỉ IP có đúng không 7 7 Nếu_không bạn phải đặt lại đĩa_chỉ IP bằng tay đó 7 Ví_dụ 7 thông_thường IP của Modem là 7 1 7 1 7 subnet_mark 7 1 7 1 7 những máy_tính còn_lại bạn phải đặt từ 7 1 7 1 -- 1 7 1 7 nếu rơi vào trường_hợp này bạn hãy thử nha 7 Chào thân_ái 7 7 7.

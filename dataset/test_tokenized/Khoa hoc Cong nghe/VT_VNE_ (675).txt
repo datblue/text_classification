@@ -1,5 +1,0 @@
-Hỏi về phần_mềm âm_nhạc 6 1 6.
-Chào các_bạn 7 Mình đang cần tìm 1 phần mền về âm_nhạc 7 1 6 Phần_mềm dùng scanner chuyển một bản_nhạc trên giấy vào máy_tính sau_đó là nhận_dạng bản_nhạc đó 7 Sau_khi nhận_dạng được bản_nhạc đó có_thể chơi bản_nhạc đó 7 1 6 Phần_mềm này không dùng scanner mà có_thể nhập bản_nhạc từ bàn_phím và chuột 7 Sau_đó là có_thể chơi bản_nhạc đó 7 Nếu có bạn nào biết về các phần_mềm này xin chỉ cho mình với 7 Mình xin chân_thành cảm_ơn 7.
-Việt_Phú.
-Hồi_âm 7.
-Bạn có_thể dùng Finale 1 của hãng Coda_Music_Technologies 7 Finale có_thể đáp_ứng được cả_hai yêu_cầu trên của bạn 7 ngoài_ra còn có_thể nhập bản_nhạc trực_tiếp từ đàn organ qua cổng Midi 7 Chúc bạn thành_công 7.

@@ -1,1 +1,0 @@
-Vinaseek thử_nghiệm phiên_bản tìm_kiếm mới . Phiên_bản mới sẽ cải_thiện khả_năng tìm_kiếm của Vinaseek 7 cho_phép loại các kết_quả tìm_kiếm trùng_lặp tốt_hơn 7 cung_cấp khả_năng cache các trang_web đã được Vinaseek đánh index 7 cung_cấp kết_quả tìm_kiếm chính_xác hơn 7.

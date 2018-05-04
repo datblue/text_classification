@@ -1,5 +1,0 @@
-Không dùng được Java cho Vietfun chat 6 1 6.
-Em da download chuong trinh Java tu website_vietfun chat ma van khong_xai duoc 7 Mua dia CD load ve cung_xai khong duoc 7 Va em cung khong biet la phai load ten Java nao thich hop de xai cho vietfun chat 7 Em mong duoc giup va ho tro 7 Em xin chan thanh cam_on 7 . Tieukimmai.
-Hồi_âm 7.
-Bạn không nói_rõ hệ_điều_hành nào đang sử_dụng 7 Java mà bạn cần là của Sun microsystems có ở link này 2 chuột 6 verify_installation 6 tùy_theo IE nào bạn đang sử_dụng 7 Sun sẽ tự_động cài cho bạn 7 . TOM.
-Dùng 1 nào cũng được cả 6 hiện_nay là bản 1 hay còn gọi_là 1 6 nhưng vấn_đề là ở PC của bạn 7 kiểm_tra xem PC của bạn có phải cùng Win XP Service_Pack 1 7 nếu đúng thì bạn phải cài bản_sử lỗi của SP 1 7 sau đấy remove tất_cả các 1 đã được cài_đặt và cài lại 1 7.

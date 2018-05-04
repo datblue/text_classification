@@ -1,3 +1,0 @@
-Opera 1 được vá lỗi bảo_mật và nâng_cấp.
-Trong 1 lỗi bảo_mật được vá lại lần này thì_có 1 lỗi đã được công_ty bảo_mật Secunia phát_hiện trước_đây 7 Lỗi đầu_tiên cho_phép kẻ tấn_công có_thể chèn hoặc tráo một file giả_mạo đầy mã_độc vào file mà người_dùng đang tải về 7 đặc_biệt là các file hình_ảnh 7.
-Lỗi thứ_hai liên_quan đến một lỗi lập_trình tên_miền và lỗi thứ_ba là một lỗi xảy_ra trong quá_trình kết_nối tạo điều_kiện cho kẻ tấn_công xâm_nhập vào trình_duyệt 7 Bản Opera 1 cũng được gia_tăng khả_năng kiểm_tra lỗi chính_tả và nhận_diện các file tải về từ Internet 7 . Người_hâm_mộ trình_duyệt này có_thể vào đây để tải Opera 1 về dùng 7.

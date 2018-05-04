@@ -1,4 +1,0 @@
-Máy phát_hiện tiền_giả làm_việc như_thế_nào 7 . Rất_nhiều kỹ_thuật cụ_thể được áp_dụng để chế_tạo_máy phát_hiện tiền_giả 7 Tuy_nhiên 7 chúng được giữ rất bí_mật bởi nếu lộ_ra 7 kẻ làm tiền_giả sẽ tìm_cách làm máy bị tê_liệt 7 Nhìn_chung 7 có hai cách thường_dùng để phân_biệt là cảm_ứng từ và cảm_ứng quang_học 7.
-Mực dùng để in tiền_giấy có một_số đặc_điểm từ_tính nhất_định 7 vì_thế chúng có_thể được cảm_nhận bằng đầu_từ trong máy đổi_tiền 7 Một máy_tính có_thể nhận_ra dấu xác_nhận điện_tử của những dấu_vết cụ_thể trên tờ tiền và sẽ chấp_nhận hoặc từ_chối tờ tiền đó 7.
-Trong cảm_ứng quang_học 7 ánh_sáng được truyền qua hay bị phản_hồi trở_lại từ một tờ tiền 7 Một_số loại mực hấp_thụ ánh_sáng và một_số loại khác thì phản_hồi 7 Máy_tính có_thể phân_tích các khuôn_mẫu này và quyết_định xem có_thể chấp_nhận tờ tiền được không 7.
-Trong cả_hai trường_hợp 7 việc quét chỉ diễn_ra trong_khoảng 1 giây 7.

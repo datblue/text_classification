@@ -1,2 +1,0 @@
-VDC cung_cấp thông_tin qua tin_nhắn.
-Thời_gian đầu MyMobile cung_cấp dịch_vụ 7 tải nội_dung qua số tin_nhắn 1 và tra_cứu cước Internet 1 7 Trước_mắt chỉ_có các thuê_bao thuộc mạng di_động Vinaphone 6 1 6 và MobiFone 6 1 6 7 không phân_biệt loại máy di_động 7 sử_dụng_được dịch_vụ này với giá cước từ 4 đồng / tin_nhắn 7.

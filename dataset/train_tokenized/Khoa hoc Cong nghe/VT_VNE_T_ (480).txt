@@ -1,7 +1,0 @@
-Intel trình_làng chip Intanium 1 mới.
-Hôm_qua 7 tập_đoàn sản_xuất chip khẳng_định những hệ_thống máy_chủ sử_dụng bộ_vi_xử_lý mới sẽ có_giá rẻ hơn 1 % 7 nhưng hiệu_suất hoạt_động cao_hơn so_với những server dùng chip_kép Itanium 1 trước_đây 7.
-Itanium 1 1 GHz với bộ_nhớ đệm dung_lượng 1 MB sẽ nâng_cao hiệu_suất hoạt_động lên_tới 1 % so_với sản_phẩm cùng tốc_độ có bộ_nhớ đệm 1 MB 7 Hơn_nữa 7 bộ_vi_xử_lý này cũng cải_thiện gấp_đôi chỉ_số giá / hiệu_năng so_với các hệ_thống cạnh_tranh dựa_trên RISC 7 cho_phép thiết_kế sản_phẩm nhanh và mang_lại khả_năng mô_phỏng chính_xác hơn 7.
-Itanium 1 tốc_độ 1 GHz với bộ_nhớ đệm 1 MB tạo ra một hiệu_suất hoạt_động hàng_đầu cho bộ_vi_xử_lý kép dựa_trên các công_cụ tính_toán của Linpack 6 hoặc hiệu_suất tính_toán điểm_động trong một giây 6 7.
-Các hệ_thống sử_dụng bộ_vi_xử_lý kép mới sẽ được một loạt nhà_sản_xuất gồm Bull 7 Dell 7 Fujisu_Siemens 7 HCL 7 IBM 7 Kraftway 7 Lang_Chao 7 Lenovo 7 Maxdata 7 Samsung 7 Transtec AG phát_triển và thương_mại_hóa 7.
-Chip Itanium 1 tốc_độ 1 GHz được tung ra hôm_qua với giá 1 USD khi mua từ 1 đơn_vị trở_lên 7 Loại 1 GHz dự_kiến có_mặt trên thị_trường vào tháng 1 với giá 1 USD cho các đơn đặt_hàng 1 đơn_vị 7.
-Ông Richard_Dracott 7 Tổng_giám_đốc phụ_trách tiếp_thị và hoạch_định doanh_nghiệp của Intel 7 hiện hãng có hai kiến_trúc máy_chủ 7 chiếm xấp_xỉ 1 % thị_phần server 7 Itanium 1 được nhắm vào các máy_chủ doanh_nghiệp dành_cho kinh_doanh và những tổ_hợp máy_tính trong lĩnh_vực kỹ_thuật 7 trong_khi Xeon được sử_dụng rộng_rãi trong ngành công_nghệ_thông_tin nói_chung 7.

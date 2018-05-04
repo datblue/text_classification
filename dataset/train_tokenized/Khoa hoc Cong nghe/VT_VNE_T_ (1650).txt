@@ -1,8 +1,0 @@
-Không còn Windows_Update 6 1 6.
-Vua_qua sau_khi toi lam system_recovery thi may cua toi khong lam windows_update duoc nua 7 Moi khi_toi mo windows_update tu control_panel thi chi hien ra dong chu 6 checking_for_latest_version_of the windows_update_software 7 7 7 7 6 va_ngung o do ma khong tiep_tuc nhu truoc day 7 May toi hien_khong the update_window duoc 7 Con toi mo tab_automatic_updates tu system_properties thi phai doi rat lau 7 Tren day la 1 dieu toi gap phai 7 Mong cac ban biet chi dum de sua chua 7 Cam_on cac ban 7 Truoc khi_toi lam system_recovery thi may toi chay Window XP 1 7 bay gio la Window XP 1 7.
-Thanh_Le . Hồi_âm 7.
-Minh khong biet nhung_minh_nghi ban co the cai lai winXP 1 bang cach cao day de download 7 2 download_winXP 1 tai day 7 2 Chuc vui 7.
-Van_Hoang.
-Bạn thử các cách sau xem 7.
-Bạn thả đĩa 1 vào để nâng_cấp 1 lên 1 rồi thử chạy_lại Windows_Update xem có được không 7 Nếu vẫn không_được thì làm cách thứ 1 7.
-Vào www 7 windows 7 com search các miếng vá 6 các bản update 6 ở dạng file 7 exe về rồi chạy 7 Cách này tôi vẫn làm với máy ở cơ_quan do đường truyền chậm 7 Cách này có_thể áp_dụng được tương_tự đối_với Norton_AntiVirus.

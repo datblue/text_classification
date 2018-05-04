@@ -1,7 +1,0 @@
-Viết chương_trình báo_thức bằng Visual_Basic 6 1 6.
-Xin chỉ giúp dùm_em một_ý như_sau 7 Em dùng Visual_Basic để viết một chương_trình báo_thức nhưng em không_biết dùng Control nào trong Visual_Basic để viết 7 Xin chỉ giúp em 7 Có_thể cho em xin đoạn code đó được không ạ 7 Xin chân_thành cảm_ơn 7.
-Bui Dinh_Hoa.
-Hồi_âm 7 . Chương_trình chỉ để báo_thức thôi_thì khá đơn_giản 7 bạn chỉ_cần sử_dụng control_Timer trong VB 1 là bạn có_thể làm được 7 Khi người sử_dung set giờ báo_thức 7 bạn bắt_đầu bật timer 7 6 interval = 1 6 7.
-Cứ sau mỗi giây 7 bạn kiểm_tra xem đã đến giờ báo_thức hay_chưa 7 nếu đến giờ thì chơi một khúc_nhạc hoặc bất_cứ tiếng_động nào bạn muốn 7.
-Khi người_dùng tắt báo_thức bạn chỉ_việt tắt timer là xong 7.
-Chúc bạn thành_công 7.

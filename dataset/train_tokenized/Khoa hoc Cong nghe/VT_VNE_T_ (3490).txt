@@ -1,9 +1,0 @@
-Nên chọn ngôn_ngữ_lập_trình nào để học 6 1 6 . Xin_chào các_bạn 7 Mình đang có ý_định học một ngôn_ngữ_lập_trình nào đó 7 Các_bạn có_thể phân_biệt cho mình_sự_khác_nhau 7 ưu nhược_điểm giữa các_ngôn_ngữ_lập_trình như VB 7 net 7 VB 7 Visual C 7 C 7 Visual C + + 7 7 và các ngôn_ngữ để tạo web như ASP 7 PHP 7 HTML 7 7 7 được không 7.
-Mình là một_người ngoại_đạo 6 không_phải dân IT chuyên_nghiệp 6 nên các_bạn hãy khuyên mình nên học ngôn_ngữ nào nhanh nhất 7 dễ học nhất mà_lại ứng_dụng tốt_nhất 7 Mình nghe_nói bây_giờ mọi người_học VB 7 net là hay nhất 7 Như_vậy đúng không 7.
-Và để thiết_kế web thì bây_giờ dùng Dreamware và ASP là tiện nhất và mạnh nhất có đúng không 7 . Cảm_ơn các_bạn rất_nhiều 7.
-Đỗ Trung.
-Hồi_âm 7.
-Ngay_nay cung vơi sư phat_triên vê tôc đô cua vi xư_ly thi cung co kha nhiêu ngôn_ngư lâp trinh mơi xuât hiên 7 Viêc chon môt ngôn_ngư trơ_nên kho_khăn vơi ngươi mơi băt_đâu 7.
-Theo tôi 7 ban_nên lam quen vơi ngôn_ngư lâp trinh dươi nhưng môi_trương it hô trơ code nhât 7 Chẳng_hạn như Turbo C + + cho ngôn_ngư C va C + + 7 Netbeans cho Java 7 Con khi đa thông thao ngôn_ngư thi nên chuyên sang môi_trương kiêu như Visual đê tăng_tôc đô code cua ban như Jbuilder cho Java 7.
-Đê thiêt_kê trang_web ngoai kiên_thưc lâp trinh ban_cân co kiên_thưc vê my_thuât 7 tao dưng qua cac chương_trinh đô hoa như Photoshop 7 Corel_Draw 7 Con Dreamweaver thi rât tuyêt 7 Ban co thê kêt hơp Java trong web cua minh 7.
-Chuc thanh_công 7.

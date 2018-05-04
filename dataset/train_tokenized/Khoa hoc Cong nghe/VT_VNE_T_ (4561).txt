@@ -1,4 +1,0 @@
-Bộ_nhớ flash 1 GB đầu_tiên ra_mắt.
-Hãng Spansion 6 liên_doanh ra_đời từ sự_hợp_tác giữa AMD và Fujitsu 6 vừa công_bố kế_hoạch triển_khai đại_trà dòng sản_phẩm mà họ khẳng_định là thiết_bị NOR flash đơn đầu_tiên trên thế_giới đạt mức lưu_trữ cấp_độ gigabyte 7 . Dựa_trên công_nghệ MirrorBit 1 nm 7 loại bộ_nhớ này được coi_là có mật_độ lưu_trữ cao_nhất trên thị_trường hiện_nay 7 Sản_phẩm được thiết_kế để phục_vụ rất_nhiều ứng_dụng nhúng 7 bao_gồm từ các hệ_thống dẫn_hướng tự_động 7 thiết_bị hạ_tầng thông_tin liên_lạc 7 chơi game cho_đến công_cụ điều_khiển máy công_nghiệp 7.
-Ian Williams 7 Phó_chủ_tịch phụ_trách bộ_phận thiết_bị nhớ của Spansion 7 phát_biểu 7 Sản_phẩm này đáp_ứng được nhu_cầu cả về mật_độ lưu_trữ 7 chất_lượng 7 mức chi_phí và tính khả mở trên thị_trường thiết_bị nhúng rất đa_dạng như hiện_nay 7.
-Việc sản_xuất đại_trà dự_kiến sẽ được bắt_đầu từ cuối năm_nay với giá 1 USD / sản_phẩm đối_với các đơn đặt_hàng mua 1 chiếc 7.

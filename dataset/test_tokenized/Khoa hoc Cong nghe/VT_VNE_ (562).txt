@@ -1,5 +1,0 @@
-Không chat được bằng tiếng_Việt 6 1 6.
-Tôi muốn hỏi điều_này ai biết mách hộ cho 7 Khi chat tôi gõ được tiếng_Việt nhưng khi bấm Send thì không gửi đi được tiếng_Việt nữa 7 không_biết phải chỉnh chỗ nào 7.
-Hoàng_Thanh.
-Hồi_âm 7 . Không_biết là anh dùng hệ_điều_hành nào và dùng chat tool nào 7 Nếu anh dùng Windows 1 / XP và chat tool_Yahoo_Messeger thì có_thể_theo các bước sau 7 - Dùng bộ_gõ Unikey 1 7 chọn bảng mã 7 Vietnamese_locale CP 1 7 - Với Windows 1 7 anh phải install chế_độ hỗ_trợ tiếng_Việt trong hệ_thống 7 Mở Control_Panel --- Regional_Options --- Tại tab_General 7 chọn checkbox_Vietnamese trong list 6 Language_settings_for the system 6 7 Sau_đó restart lại máy 7 Anh có_thể gõ tiếng_Việt trong_khi chat với bất_kì bộ font nào 7 Và chế_độ hiển_thị thì rất_tốt 7 Chúc may_mắn 7.
-Tuấn_Hưng.

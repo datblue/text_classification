@@ -1,9 +1,0 @@
-- Mở một file ảnh muốn tạo luồng sáng ở chế_độ màu RGB hoặc graycale 6 hình 1 6 7 - Trong bảng Channel 7 click chọn nút New_Channel để tạo một kênh mới 6 hình 1 6 7 - Trong bảng Channel 7 bật biểu_tượng hình con_mắt để ảnh xuất_hiện 6 hình 1 6 7.
-Hình 1.
-Hình 1.
-Hình 1 . - Bấm phím L 7 để chọn công_cụ Polygonal_Lasso_Tool 7 - Vẽ một luồng sáng chiếu lên đối_tượng 6 hình 1 6 7.
-Hình 1 . - Trong bảng Channel 7 tắt biểu_tượng hình con_mắt chỉ còn nhìn_thấy kênh Alpha 1 7 - Tô trắng vùng chọn 6 hình 1 6 7.
-Hình 1 . - Nhấn Ctrl + D- Chọn Filter - Blur - Gaussian_Blur 7 chọn thông_số 7 Radius 7 1 pixels 6 hình 1 6.
-Hình 1 . - Trong bảng Layers 7 click chọn layer_Background 7 - Chọn Select - Load_Selection 7 chọn Channel là Alpha 1 6 hình 1 6 7.
-Hình 1 . - Bấm tổ_hợp phím Ctrl + Shift + I - Chọn Image - Adjust - Levels 7 chọn thông_số 7 Input_Levels 7 1 7 1 7 1 Output_Levels 7 1 7 1 6 hình 1 6 7.
-Hinh 1- Bấm tổ_hợp phím Ctrl + Shift + I - Chọn Image - Adjust - Levels 7 chọn thông_số 7 Input_Levels 7 1 7 1 7 1 Output_Levels 7 1 7 1- Nhấn Ctrl + D- Ta được kết_quả như hình 1 7.

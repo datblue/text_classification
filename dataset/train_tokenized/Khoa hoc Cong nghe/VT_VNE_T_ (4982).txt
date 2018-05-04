@@ -1,6 +1,0 @@
-Điện_thoại_di_động VoIP hiện_nay không đạt tiêu_chuẩn.
-Một_số nhà_sản_xuất đã bắt_đầu triển_khai công_nghệVoIP trên thiết_bị cầm_tay 7 Tuy_nhiên 7 Nokia cho_rằng tính_năng của sản_phẩm di_động vào thời_điểm này không phù_hợp để thực_hiện cuộc_gọi Internet 7.
-Những đợt thử_nghiệm của hãng điện_thoại Phần_Lan gần_đây cho_thấy chất_lượng cuộc_gọi VoIP trên điện_thoại_di_động rất thấp 7 6 Chúng_tôi đã_kiểm_tra dịch_vụ Skype và thấy khả_năng đàm_thoại kém hơn_hẳn bình_thường 6 7 Olli-Pekka_Lintula 7 Giám_đốc thị_trường nền_tảng công_nghệ của Nokia 7 cho_biết 7 6 Điện_thoại cầm_tay hiện chỉ được tối_ưu_hóa cho đàm_thoại trong mạng di_động 7 Do_vậy 7 sử_dụng VoIP thông_qua những sản_phẩm mobile theo công_nghệ và thiết_kế sẵn_có không_phải là một quyết_định khôn_ngoan 6 7.
-Lintula cũng cảnh_báo rằng mạng không dây trong hầu_hết các văn_phòng chưa_đủ sức để có_thể triển_khai điện_thoại_Internet tầm rộng 7.
-Nokia dự_đoán trong tương_lai 7 khối_lượng đàm_thoại VoIP sẽ rất_lớn và lấy_đi một_phần doanh_thu không nhỏ của nhà_cung_cấp dịch_vụ cố_định 7 Người tiêu_dùng với đường truyền DSL cũng đang bắt_đầu chuyển_sang VoIP 7.
-Về lâu_dài 7 không chỉ các hãng truyền_thông cố_định mà_cả di_động cũng sẽ dao_động mạnh trước điện_thoại_Internet 7 Nokia tiết_lộ họ sẽ bắt_đầu phát_hành điện_thoại_di_động VoIP kiểu mới vào năm 1 7.

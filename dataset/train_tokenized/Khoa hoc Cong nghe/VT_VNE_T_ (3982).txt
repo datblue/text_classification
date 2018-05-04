@@ -1,8 +1,0 @@
-Lỗi trong Excel do virus 7 6 1 6.
-Toi dang su dung OS WIN XP 1 7 OFFICE XP 7 Khi mo Excel len thi hien ra bang bao co 1 button o duoi 7 . 1 7 Disable_macros.
-1 7 Enable_macros.
-1 7 More_Info.
-Phai bam_vao button thu 1 7 sau do hien ra 1 bang thong bao nua 7 Toi bam YES thi du lieu Excel moi xuat hien tren man_hinh 7 Co phai may tinh cua toi bi nhiem virus khong 7 va_do la virus gi 7 Xin giup toi cach khac_phuc hien tuong tren 7 Cam_on rat nhieu 7 . cao_nguyen cong_trieu.
-Hồi_âm 7.
-Bạn nên thận_trọng với những lời cảnh_báo kể_trên của Excel hay Word và cũng có_thể do virus vì tập_tin của excel đã được lồng một_đoạn mã 6 code 6 MACRO do người viết tạo ra điều_này cũng có_thể do virus 7 7 phần security của excel đã được cài ở chế_độ HIGH luôn thông_báo cho bạn mổi khi gặp các đoạn MACRO đã được cài trong các tập_tin 6 documents 6 7 Khi gặp các trường_hợp như_vậy nên chọn số 1 disable_macros để vô_hiệu_hóa chúng trước_khi bạn mở tập_tin trong excel 7 Nnếu bạn biết_rõ người_gửi là ai thì có_thể chọn số 1 enable_macros 7 vì đôi_khi muốn tăng_thêm hiệu_ứng cho tài_liệu trong excel hay word họ phải sử_dụng MACRO 7 Tốt_hơn nên chọn disable_macro 7 7 7 bạn nên download 1 cho ms_office 7 link 2 nhấp chuột trên check_for_update 7 7 7 7 7 7 7 7 . TOM.
-Các file_Excel 7 Word thường có Macros được người lập_trình thiết_kế sẵn 7 Nếu máy của bạn thông_báo như bạn mô_tả có nghĩa_là file_excel của bạn có macro trong_đó 7 Có_thể những macros đó là do virus 7 để an_toàn nếu bạn chắc_chắn file của bạn không_có macro thì bạn nên chọn Disable_Macro trước_khi file được mở 7 Tốt_nhất bạn nên dùng chương_trình chống virus của với phiên_bản mới_nhất 1 Home_Edtion - 1 tại địa_chỉ 7 www 7 bkav 7 com 7 vn để quét xem file của bạn có nhiễm virus_macro hay_không 7.

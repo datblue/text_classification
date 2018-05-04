@@ -1,6 +1,0 @@
-Xử_lý tiếng_Việt trên website 6 1 6.
-Tôi có một vấn_đề khó_khăn về xử_lý tiếng_Việt xin mọi_người giúp_đỡ 7 Hiện_nay tôi đang làm website về gia_phả của dòng_họ 7 Tôi đã sử_dụng một_vài chương_trình để làm như 7 GreatFamily 7 Win Généalogic 7 Géné1 nhưng các chương_trình này không cho_phép gõ tiếng_Việt mặc_dù tôi đã lựa_chọn các loại font để thử 7 như VNI 7 Unicode & 7 Sau_khi chuyển thành các Files HTML 7 muốn đọc được tiếng_Việt tôi phải sửa_lại tag_head từng trang_web một 7 meta_http-equiv = 6 Content-Type 6 content = 6 text / html 7 charset = utf-1 6 7 Và sau_đó dùng Vietkey đánh lại tất_cả các chữ muốn hiển_thị tiếng_Việt 7 do_vậy ra rất mất_thời_gian 7 Xin hỏi các_bạn trên mạng 7 bạn nào biết chương_trình có_thể gõ trực_tiếp tiếng_Việt và sau_đó chuyển thành các Files GEDCOM 7 HTML hoặc PHP-MYSQL mà không cần sửa gì cả 7 Mong các_bạn hồi_âm 7 hướng_dẫn cho 7 Xin chân_thành cảm_ơn 7.
-Diệu_Anh.
-Hồi_âm 7.
-Bạn có_thể theo hướng_dẫn đầy_đủ tại hai trang_sau 7 2 . NQ.
-Neu ma lam web bang HTML thi ban_dung Microsoft_FrontPage de lam 7 vi chuong trinh nay cho phep ban_danh_tieng viet 7 Ban co the_dung Vietkey 6 Vn - Unicode 1 6 de danh_tieng viet tren site cua ban 7 7 7 7 Than 7.

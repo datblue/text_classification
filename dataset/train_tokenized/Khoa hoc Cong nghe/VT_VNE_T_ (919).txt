@@ -1,6 +1,0 @@
-Hạn_chế quyền các máy trạm khi chia_sẻ Internet 6 1 6.
-Tôi đang quản_lý phòng mạng theo kiểu chia workgroup 7 chia_sẻ Internet sử_dụng 1 6 không dùng server 6 7 các máy_tính và modem được mối với nhau qua 1 switch 7 nay tôi muốn các máy chỉ truy_cập được Internet và nhìn_thấy 6 hoặc chỉ truy_cập 6 được các máy khác thuộc cùng nhóm 7 Các_bạn có_thể giúp tôi được không 7 Chân_thành cảm_ơn 7.
-Nguyễn_Việt_Hưng.
-Hồi_âm 7.
-Khong_ro la co duoc hay khong nhung_toi nghi ban khai_bao cac Workgroup khac nhau 7 vi du may 1 - 1 thi_gan cho Group A 7 may 1 - 1 thi_gan cho Group B 7 7 7 Khi do chi cac may cung Workgroup moi thay duoc nhau 7 Khai bao Workgroup trong WinXP 7 Control_Panel / System_Properties / Computer_Name / Change / Workgroup.
-Nguyen_Truong_Son.

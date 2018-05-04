@@ -1,7 +1,0 @@
-Cách truy_cập khi biết địa_chỉ IP 6 1 6.
-Xin chỉ cho mình cách vào một địa_chỉ trên Internet khi biết địa_chỉ IP 7 Ví_dụ như tôi muốn vào đia_chỉ IP 7 1 7 1 7.
-Lê_Minh_Khôi.
-Hồi_âm 7.
-Bạn chỉ_cần gõ địa_chỉ đó vào address của Internet_Explorer rồi nhấn Enter 7 Tuy_nhiên không_phải bất_cứ địa_chỉ IP nào cũng có một tên_miền 7 và không_phải địa_chỉ IP nào bạn cũng truy_cập vào được 7.
-Dong_Ngo.
-Chao ban 7 ban_vao site_www 7 download 7 com va download_software SCANNER 7 tu do ban co the tim_kiem rat de_dang neu biet dia chi IP hoac nguoc lai 7 Cach thu hai 7 ban_vao commade 6 Ms DOS tren 1 hoac 1 va xp thi chon start 7 excute va go cmd 6 7 khi man_hinh dos xuat hien thi ban go 7 nslookup 7 may se bao cho ban biet server va dia_chi IP cua provider ma ban dang su dung de vao internet 7 ban se nhin thay dau hieu 7 tu day ban go dia chi IP vao 7 bam enter thi se hien ra web_site co ten dia chi do 7 Cach de_dang nhat 7 khi biet dia chi IP 7 ban go truc tiep vao khung adresse 7 2 bam enter no se hien ra ten website dia chi tren la IP cua mang www 7 vnexpress 7 net 7 Chuc_ban thanh_cong 7.

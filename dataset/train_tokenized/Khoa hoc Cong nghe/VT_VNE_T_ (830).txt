@@ -1,6 +1,0 @@
-Đánh_số_thứ_tự trong Report 6 1 6.
-Em co lap 1 chuong trình chay tren Access 7 Report la mot danh dach cac ca nhan 7 Xin cac anh chi cho biet co cach nao trong_danh_sach hien thi thu tu cua cac ca nhan do tu 1 - 1 chang han 7 6 Report cua em phai qua bo loc Query nen khong dung Autonumber duoc 6 7 Tran trong kinh_chao va rat mong nhan duoc_hoi am 7.
-Trung Kien.
-Hồi_âm 7.
-Bạn làm như_sau 7 - Trong phần body của Report bạn nhập 6 = 1 6 vào Textbox 6 lưu_ý 7 không có_dấu nháy_kép khi nhập 6 - Kích chuột phải vào Textbox đó rồi chọn Properties - Trong hộp_thoại Textbox chọn tab_Data - Ở mục Running Sum chọn Over_Group Bạn làm như_thế Report sẽ đánh_số_thứ_tự từ 1 trở đi 7 Chúc bạn thành_công 7.
-Vu Dinh_Nghiem_Hung.

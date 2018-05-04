@@ -1,5 +1,0 @@
-Rắc_rối với Yahoo_Messenger 6 1 6.
-Tôi có một phòng NET 7 Không hiểu tại_sao có một máy khi cài yahoo_mesenger để_chat 7 nếu lần_đầu nhập nic thì vào chat được 7 song khi thoát ra_vào lại nic đó thì máy báo lỗi không vào được 7 nhưng nhập nic khác thì lại vào được và cũng tương_tự nếu thoát ra_vào lại thì lại bị báo lỗi không_thể vào được 7 Nếu muốn vào lại thì_phải cài lại yahoo_messenger 7 Trong_khi các máy khác thì không_sao 7 Mặc_dù tôi đã Format lại ổ_cứng 7 Các máy của tôi đều có cấu_hinh như_nhau 7 1 7 1 7 ổ_cứng 1 và đều dùng winXP-1 7 Xin các_bạn hãy giúp tôi 7 Xin trân thành cảm_ơn 7.
-Nguyen_Khac_Hieu.
-Hồi_âm 7.
-Theo kinh_nghiem của tôi thì anh nên format 6 full_format 6 lại ổ_cứng rồi cài_đặt lại hệ_điều_hành và Yahoo_Messager 7 Hoặc_là anh thử cài lại bằng hệ_điều_hành 1 xem sao sau_đó nếu được thì upgrade lên 7 WinXP 7 Chúc thành_công 7.

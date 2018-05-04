@@ -1,6 +1,0 @@
-Tách audio từ đĩa VCD 6 1 6.
-Toi co 1 dia nhac duoi_dang VCD va muon thau_lai tieng hat tren VCD sang CD AUDIO duoi_dang wav 7 Xin nho cac ban chi dum lam cach nao de thau duoc 7 Xin cam_on 7.
-Thai_Minh.
-Hồi_âm 7 . Có_thể dùng VirtualDub để mở file 7 dat trên VCD 6 thực_chất là 1 6 7 chọn save_File - save WAV để tách phần âm_thanh ra 7.
-Le Dong_Phuong.
-Bạn có_thể dùng phần_mềm Herosoft để chuyển VCD thành audio hoặc 1 7.

@@ -1,4 +1,0 @@
-Oracle sửa_lỗi trong 7 7 7 bản vá lỗi.
-Hãng phần_mềm cơ_sở_dữ_liệu này vừa tung ra hai bản nâng_cấp để sửa những khiếm_khuyết trong bản vá lỗ_hổng ra_mắt gần_đây 7 Nói_cách_khác 7 đây là 6 miếng vá cho bản vá cũ 6 7.
-Một lỗ_hổng nghiêm_trọng đã xuất_hiện trong MySQL 7 hệ_thống quản_lý cơ_sở_dữ_liệu mã mở phổ_biến 7 cho_phép kẻ tấn_công kiểm_soát hệ_thống 7 Oracle tuần trước tuyên_bố đã nhận_dạng lỗi này và công_bố miếng vá 7 đồng_thời sửa luôn một_số lỗi nhỏ tạo cơ_hôi cho hacker phá_vỡ hệ_thống 7.
-Một bản vá khác liên_quan đến khiếm_khuyết trong chương_trình nâng_cấp Critical_Patch_Update tháng 1 7 vá 1 lỗi trong cơ_sở_dữ_liệu và server ứng_dụng 7 Oracle đã đưa_ra giải_pháp cho vấn_đề này trong Critical_Patch_Update tháng 1 7 tuy_nhiên vẫn gặp trục_trặc với Oracle_Database 1 7 1 7 1 7 1 và Oracle_Enterprise_Manager 7 . Tuy_nhiên 7 Oracle vẫn chưa_thể đưa_ra giải_pháp 1 lỗ_hổng nghiêm_trọng mà hãng bảo_mật Đức Red_Database_Security đã khuyến_cáo từ hai_năm trước 7.

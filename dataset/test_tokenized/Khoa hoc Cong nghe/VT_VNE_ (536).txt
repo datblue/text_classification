@@ -1,4 +1,0 @@
-Hỏi về lỗi dump 6 1 6.
-Tôi đang_dùng Windows 1 server 7 1 7 Ram 1 + 1 7 ổ_cứng Maxtor 1 7 Tôi mới thay một thanh Ram 1 bằng một thanh giống_hệt 7 Sau_khi dùng máy một_thời_gian_ngắn thì máy báo lỗi dump và tự khởi_động lại 7 Tôi phải làm thế_nào có phải cài lại Windows không 7 . Kakalot.
-Hồi_âm 7.
-Ban_khong can cai Windows 7 Khi copy du_lieu tu bo nho 6 ram 6 de_chuyen_len man_hinh neu truc trac thi win se bao loi DUMP 7 Ban nen coi lai thanh ram 7 Neu khe cam thu nhut la 1 thanh 1 thi khe cam thu 1 se la thanh ram 1 khong nen cam_nguoc lai 7 Doi khi phai cam 1 thanh dong bo voi nhau tuy theo su ho tro cua bo chu 6 MOBO 6 7 Truoc khi cai them ram ban hay vao day_dien nhung thong tin tren pc cua ban_de ho thu xem RAM cua ban ban thuoc loai nao 7 7 2 download chuong trinh nay ve thu xem RAM co hu_hay khong 7 2.

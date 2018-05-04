@@ -1,7 +1,0 @@
-Share 1 máy_tính thông_qua Internet 6 1 6.
-Tôi hiện_nay đang học_tập tại Singapore 7 Bạn_gái tôi hiện_nay đang học ở Trung_Quốc 7 Chúng_tôi có máy_tính riêng và đều kết_nối Internet 7 Chúng_tôi ở rất xa nhau và chính vì điều_đó nên chúng_tôi muốn thông_qua Internet để có_thể gần_gũi động_viên nhau hơn 7 Nhưng hiện_giờ có một khó_khăn lớn cho chúng_tôi là không thể_nào share được cho nhau những bộ_phim hay hoặc bản_nhạc ưa_thích 7 Chúng_tôi thật_sự rất buồn 7 Tôi đã tìm tài_liệu nói về vấn_đề đó trên mạng nhưng không thấy có 7 Vậy 7 nếu ai biết thông_tin gì có_thể hướng_dẫn tôi kết_nối được 1 máy_tính từ_xa thông_qua Internet thì tôi xin chân_thành cảm_ơn 7 Máy_tính của tôi và cô_ấy đều dùng Win XP 7 đường truyền DSL 7 Một_lần_nữa cảm_ơn các_bạn đã_đọc bài_viết này của tôi 7.
-Ngô trọng Thắng.
-Hồi_âm 7.
-Tren_Mang Internet Ban_Khong_The_Nao share 1 may tinh nhu binh_thuong duoc 7 Neu chuyen file cho nhau ban co the_dung tien ich briefcase cua Yahoo_Messenger 6 Truong hop_kich_thuoc tap tin nho 6 7 Neu file lon ban phai dang_ky_mien phi mot tai_khoan host_ftp hoac HTTP tren Internet va dung tai_khoan do chuyen file cho nhau.
-Long.
-Ban_co the setup VPN server tren may cua ban va VPN Client tren may cua nguoi ban gai 7 khi nao hai ban muon share phim anh 7 nhac 7 thi nguoi ban gai dung VPN client de login vao may cua ban 6 qua VPN Server 6 7 Ban co the vao day doc them chi_tiet ve setup VPN tren WINDOWS XP 7 . 2 . 1 7 1 7 htm.

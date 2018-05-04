@@ -1,3 +1,0 @@
-Chip Sempron chủ_bài mới của AMD.
-Dòng chip di_động Sempron được sản_xuất dựa_trên nền của bộ_vi_xử_lý di_động Athlon 1 7 Tuy_nhiên cache bộ_nhớ của Sempron sẽ thấp hơn cache bộ_nhớ của dòng Athlon 1 di_động chính gốc và sẽ không_có đầy_đủ tính_năng của hệ_thống di_động Athlon 1 7.
-Chip di_động Sempron 1 + chạy ở tốc_độ 1 GHz với 1 cache bộ_nhớ Level 1 7 có_giá là 1 / cái nếu mua_sỉ ở mức_độ 1 cái trở_lên và đã được AMD phân_phối rộng_rãi từ_ngày 4 7 Sempron 1 + được đánh_giá là khá rẻ và cũng là con át_chủ_bài_của AMD để cạnh_tranh với dòng chip Celeron của Intel 7.

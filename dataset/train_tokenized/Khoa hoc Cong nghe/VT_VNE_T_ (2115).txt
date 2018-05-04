@@ -1,5 +1,0 @@
-Cách tắt download DAP 6 1 6 . Máy_tính của em có chạy chương_trình download DAP mà em muốn xem truyền_hình trực_tuyến hoặc nghe nhạc onile thì máy luôn bắt download mà em lại không muốn download 7 Vậy làm cách nào để tắt chương_trình download DAP 7 Em mong các anh_chị chỉ giúp cách 7 Em xin cảm_ơn 7.
-Quang_Tung.
-Hồi_âm 7.
-Bạn hãy nhấn ALT key trong_khi nhấp chuột trên link_download 7 bạn có_thể vào đây xem cách_thức tắt DAP ở trình_duyệt IE hay netcap có_thể phiên_bản của bạn hơi khác chút_xíu 7 có kèm hình_ảnh rất dễ xử_dụng 2 tác từ 1 dến 1 7 . TOM.
-Để tắt chức_năng download DAP 7 bạn nhìn dưới góc phải màn_hình có 1 biểu_tượng hình_tia sét màu_vàng 6 khi chỉ chuột vào nó hiện_ra chữ Download_Accelerator 6 bạn_bấm chuột phải vào biểu_tượng 7 chọn Disable_Browser_Integration 7 Chúc bạn thành_công 7.

@@ -1,3 +1,0 @@
-TP 7 HCM 7 1 % phường_xã có trẻ mắc bệnh_tay 7 chân 7 miệng.
-Bệnh_viện 6 BV 6 Nhi_Đồng 1 báo_cáo từ_đầu năm đến hết ngày 4 7 BV đã tiếp_nhận 1 ca của TP 7 HCM và một_số tỉnh_thành đến khám_bệnh tay_chân miệng 7 Trong_đó có 1 ca phải nhập_viện điều_trị 7.
-Riêng TP 7 HCM 7 có 1 ca đến khám 7 trong_đó 1 ca có biến_chứng thần_kinh phải nhập_viện điều_trị 7 đã có hai ca ở Q 7 1 và Q 7 Bình_Thạnh tử_vong 7 1 % trẻ mắc bệnh ở độ tuổi 1 tháng đến 1 tuổi 7 . TS 7 BS Lê_Trường_Giang - phó_giám_đốc Sở_Y_tế TP 7 HCM - đề_nghị Trung_tâm Y_tế dự_phòng TP phối_hợp với BV Nhi_Đồng 1 7 BV Bệnh nhiệt_đới TP điều_tra 7 giám_sát ca bệnh để tích_lũy kinh_nghiệm trong phòng_chống dịch_bệnh vào thời_gian tới 7.

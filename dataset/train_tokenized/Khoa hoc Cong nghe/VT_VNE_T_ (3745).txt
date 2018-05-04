@@ -1,6 +1,0 @@
-Cách cài WinXP từ DOS 6 1 6.
-Xin chỉ giúp tôi cách cài WinXP từ Dos với 7 Cài bằng CD thì tôi biết qua qua_rồi nhưng có máy không_có CDRoom tôi phải làm gì 7 Có người nói chỉ_cần chạy file_winnt 7 exe trong 1 là cài được nhưng tôi làm vậy nó vẫn không chạy 7 Mong mọi_người giúp tôi 7 Tôi cảm_ơn rất_nhiều 7.
-Nguyễn_Luân.
-Hồi_âm 7.
-Muon cai duoc win_xp tu Dos ma k co o dia CDROM thi ban phai lam nhu sau 7 . 1 7 bo dia_mem khoi dong duoc lam tu 1 vao 7 khoi dong vao dau nhac DOS 6 truoc do phai vao BIOS set cho khoi dong tu dia_mem truoc_da 6 7 danh linh A 7 format C 7 / s 7 cho format cho den khi hoan tat 7 sau do copy_file SMARTDRV 7 EXE 6 thuong co trong cac dia hiren_boot tu dia_mem vao 6 . 1 7 dem o cung nay gan_vao may_nao do co chua bo nguon WINXP 7 nho set cho dia cung cua ban la master 7 khoi dong vao dau nhac dos va copy toan bo thu_muc cai dat win_xp vao dia D cua dia cung ban.
-1 7 Lap o cung vao may cua ban 7 khoi dong tu dau nhac DOS 7 danh linh D 7 roi tiep chuyen den file_winnt 7 exe va Enter 6 trong thu_muc 1 cua bo nguon cai dat WINXP 6 7 nho la truoc do ban phai danh linh SMARTDRV 7 EXE de tang_toc do truy xuat cho o dia cung_chay 7 doi voi cac may co cau_hinh thap thi top nhat k nen cai theo kieu nay 7.

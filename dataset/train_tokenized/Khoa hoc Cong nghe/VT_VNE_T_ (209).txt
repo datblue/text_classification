@@ -1,3 +1,0 @@
-Tìm_kiếm trong Table của MS Access.
-Tôi có một Table trong MS Access với n dòng 6 record 6 và m cột 6 field 6 7 Tôi muốn tìm giá_trị của một ô trong bảng và trả về kết_quả trong một form hoặc report thì sử_dụng hàm nào 6 ví_như trong Excel thì dùng hàm Vlookup / Hlookup / Lookup 6 hoặc phương_thức nào 7 Mong các_bạn có kinh_nghiệm Access chỉ giúp 7 Xin cảm_ơn 7.
-Lê Thanh_Bình.

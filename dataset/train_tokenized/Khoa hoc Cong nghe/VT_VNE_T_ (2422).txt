@@ -1,3 +1,0 @@
-Mozilla vá lỗi an_ninh phần_mềm e-mail và trình_duyệt.
-Phiên_bản nâng_cấp 1 7 1 cho trình_duyệt Mozilla và 1 7 1 cho công_cụ gửi nhận e-mail_Thunderbird vừa được tổ_chức phát_triển phần_mềm mã mở phát_hành tuần này 7 Xem danh_sách toàn_bộ các phần nâng_cấp tại_đây 7 . Trước_mắt 7 Mozilla vẫn tiếp_tục phát_triển và hỗ_trợ các trình_duyệt mang_tên tổ_chức này thuộc dòng 1 nhưng họ cũng đang bắt_đầu chuyển_giao dần công_việc cho một_nhóm mới nổi có tên Seamonkey 7.
-Tải Thunderbird 1 7 1 và Mozilla 1 7 1 cho Windows 7 Mac_OS X và Linux tại_đây 7.

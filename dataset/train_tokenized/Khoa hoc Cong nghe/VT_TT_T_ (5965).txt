@@ -1,7 +1,0 @@
-Hitachi và Seagate cùng phát_hành đĩa_cứng 1 GB.
-Loại đĩa_cứng 1 Hitachi_Deskstar 1 gồm_có 1 lớp đĩa_cứng xoay được đặt chồng_lên nhau 7 mỗi lớp có dung_lượng 1 7 Deskstar 1 có tốc_độ quay là 1 vòng / phút 7 tốc_độ truy_xuất thông_tin trung_bình là 1 mili giây 7 kèm_theo cache nhớ của_riêng ổ_cứng là 1 MB 7.
-Seagate cũng tung ra loại ổ_cứng Seagate_Barracuda 1 dung_lượng 1 có cấu_trúc tương_tự như Deskstar 1 7 nhưng tốc_độ truy_xuất thông_tin nhanh hơn 7 khoảng 1 mili giây 7 Cả_hai loại đĩa_cứng dung_lượng khổng_lồ này đều sử_dụng chuẩn SATA 1 / s 7.
-Cả 1 loại đĩa_cứng này đều đề được chế_tạo để tương_thích hoàn_toàn với loạt chuẩn công_nghệ ATA đời_mới là NCQ 7.
-Chuẩn công_nghệ này cho_phép đĩa_cứng cùng_lúc xử_lý được nhiều yêu_cầu phức_tạp do máy_tính đưa_ra với hiệu_suất rất cao trong thời_gian_ngắn 7 Hiện_nay các loại đĩa_cứng này có_thể đọc và ghi dữ_liệu ngay trong cùng 1 thời_điểm dữ_liệu được tải về 7.
-Theo Seagate cho_biết 7 công_nghệ NCQ cho_phép những máy_tính có hệ_thống tương_thích hoàn_toàn với NCQ có khả_năng 6 ép 6 các đời đĩa Barracuda trước_đây có tốc_độ 1 vòng / phút đạt đến tốc_độ những 1 vòng / phút 7 tức gia_tăng đến 1 % hiệu_quả truy_xuất dữ_liệu 7.
-Hiện loại đĩa_cứng Hitachi_Deskstar 1 có giá_thấp_nhất trên mạng là 1 USD 7 còn loại Seagate_Barracuda 1 có giá_thấp_nhất là 1 USD 7 Giá toàn_phần của mỗi loại lên gần_đến 1 USD 7.

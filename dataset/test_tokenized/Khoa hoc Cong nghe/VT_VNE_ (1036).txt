@@ -1,5 +1,0 @@
-Hỏi về Office 1 6 1 6.
-Xin giúp dùm_em làm cách nào để cho Office 1 hoặc XP có_thể hiểu được các file do Office 1 tạo ra 7 Xin cảm_ơn 7.
-Hoài_Nam.
-Hồi_âm 7.
-Ban vao Tools-Options-Compatibility 7 phan 6 Recommended_Options_for 6 7 chon 6 Microsoft_Word 1 6 7 Chuc thanh_cong 7.

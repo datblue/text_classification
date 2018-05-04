@@ -1,7 +1,0 @@
-Copy thư_từ Yahoo 6 1 6 . Hiện_nay hòm_thư Yahoo của tôi chật_cứng 7 tất_nhiên là tôi không muốn xoá thư 7 tôi muốn copy toàn_bộ thư có sang hòm_thư mới 6 hoăc tải về máy 6 7 Anh_chị nào biết cách chỉ giúp tôi với 7 Cảm_ơn rất_nhiều 7.
-Tôi đã làm_theo cách hướng_dẫn của anh_Tuấn dưới_đây để copy thư_từ hòm_thư yahoo về máy 6 hoặc forward sang địa_chỉ mail khác 6 nhưng không_được 7 tất_cả cac dịch_vụ đều từ_chối 7 Ai có cách gì hay chi giúp tôi với 7.
-Kiều Vân.
-Hồi_âm 7.
-Bạn có_thể dùng một_số chương_trình tải mail từ hòm_thư 1 như 1 7 Yahoo_pop rồi tải các mail từ hòm_thư yahoo của bạn về máy cá_nhân 7 Để_tải các phần_mềm tải_thư này 7 bạn vào trang 2 và tìm_kiếm với từ_khoá 1 7 yahoo_pop 7 Đây là link tới phần_mềm 1 7 2.
-Tuan.
-Using_Outlook 6 Microsoft_or_Express 6 Setup_Yahoo 1 mail 7 6 Information_how to setup 1 mail in Yahoo_or_Outlook 6 7 Open_Outlook 7 7 go to Tools / Accounts / Properties / advanced 7 Unmark 6 leave a copy_of_messages on server 7 6 Log on to outlook_mail 7 All_mail_from the server_will be loaded in the outlook_mail_computer_and the mail_box at yahoo_server_will be empty 7.

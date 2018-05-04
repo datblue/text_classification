@@ -1,5 +1,0 @@
-Tắt máy_tính chỉ bằng một_lần bấm chuột.
-Dịch_vụ Brutus 7 được phát_hành miễn_phí từ 4 với dung_lượng 1 MB 7 cho_phép người sử_dụng có_thể log-off 7 restart 6 khởi_động lại 6 7 và shut_down 6 tắt máy 6 theo cách mà họ vẫn mong_đợi 7 chỉ_cần click chuột một_lần duy_nhất 7.
-Brutus hoạt_động trên Windows 1 Second_Edition 7 Windows Me 7 Windows 1 7 Windows XP và Windows_Server 1 7.
-Nếu cài trên Windows XP và Windows 1 7 người sử_dụng cần_đăng nhập bằng tài_khoản được cấp quyền quản_lý 6 administrator 6 7 Đây không_phải là vấn_đề với người_dùng máy_tính ở nhà 7 nhưng nếu PC thuộc mạng nội_bộ trong một công_ty 7 họ sẽ cần hỏi_ý_kiến quản_trị mạng 7.
-Brutus được cài và gỡ bỏ tương_đối đơn_giản 7 Tải Brutus tại_đây 7.

@@ -1,5 +1,0 @@
-Lỗi sử_dụng từ_điển Lạc_Việt 6 1 6.
-Mac du da khai bao_dung duong dan den thu muc Data tren dia cung nhung Tu dien Lac_Viet van khong nhan 7 trong_khi khai_bao den o dia CD-ROM thi nhan duoc 7 Mong anh chi huong dan cach khac_phuc 7 Em xin cam_on 7 . HT. Hồi_âm 7.
-Bạn copy thư_mục Data trên_đĩa CD đè lên thư_mục Data trên đĩa_cứng rồi khai_báo lại đường_dẫn tới thư_mục Data trên đĩa_cứng 7.
-Dong_Ngo.
-Tôi cũng đã gặp_lỗi này rồi 7 Sau_đó tự khắc_phục bằng cách 7 copy nguyên_xi cấu_trúc của thư_mục Data trên CD vào HDD 6 để bất_kì đâu trên HDD cũng được 6 7 Trong thư_mục Data này có 6 chỉ 1 6 thư_mục Media 7 trong_đó chứa các file để Lacviet nhận_ra từ_điển Media của mình 7 Như_vậy nguyên_nhân theo tôi nghĩ là nó hiểu 6 máy_móc 6 là có DataMedia thì nó mới chịu nhận 7 còn nếu_như đường_dẫn bị modified đi là nó không nhận 7 Sau_đó nếu mở lên mà nó còn hỏi đường_dẫn 7 thì bạn cứ chọn đến thư_mục Data trên HDD và OK 7 Sau_đó chắc_chắn nó sẽ không hỏi gì thêm_nữa đâu 7 Chúc thành_công 7.

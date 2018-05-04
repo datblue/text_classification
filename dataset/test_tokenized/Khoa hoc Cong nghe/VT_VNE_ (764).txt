@@ -1,5 +1,0 @@
-Không đọc được đĩa trên ổ CD-R / RW rời 6 1 6.
-Tôi có ổ CD-R / RW 1 rời cắm qua cổng USB 7 máy nhận_được ổ nhưng khi tôi chọn ổ thì máy báo lỗi 6 Drive not found 7 Please_choose_another 7 6 7 Tôi không_biết là có phải cài phần_mềm gì không 7 Xin các_bạn chỉ giúp 7 Cám_ơn 7.
-Nguyễn_Văn_Đại.
-Hồi_âm 7.
-Ban_Dai men 7 Thong thuong cac o CD-R / RW roi_cam qua cong USB deu co_dia Drive kem theo 7 Co le ban quen_chua cho chay Driver truoc khi su dung 6 Mac du_may da nhan ra o CD-R / RW nhung khong co Driver thi van khong su dung duoc 6 7 Chuc ban thanh_cong 7.

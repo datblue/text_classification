@@ -1,3 +1,0 @@
-Hỏi về cách cài_đặt WAP cho ĐTDĐ 1 6 1 6.
-Có anh_chị nào biết cách cài_đặt WAP cho DT 1 or 1 không làm_ơn chỉ cho em với 7 ĐT của em dùng mạng Vinaphone nhưng chỉ nhận 7 gửi được MMS thôi 7 không tài nào kết_nối được WAP 7 . Hồi_âm 7.
-Bạn phải đặt proxy_server cho máy ĐT trong mục Setting của kết_nối GPRS trên máy của mình bằng_địa chỉ 7 1 7 1 và cổng là 1 mới vào được 7.

@@ -1,3 +1,0 @@
-Chip nhớ tích_hợp có dung_lượng lớn_nhất.
-Được tạo nên từ 1 thành_phần 7 bộ_nhớ đa chip 6 MCP - Multi Chip 6 của Samsung 7 có tổng dung_lượng lên đến 1 Gb trong kích_thước vẻn_vẹn 1 x 1 x 1 mm 7 hứa_hẹn tạo ra bước đột_phá vào thế_giới điện_thoại và thiết_bị di_động thông_minh 7 . 1 chip thành_phần bao_gồm 1 chip NAND flash 1 7 1 chip DRAM 1 Mb 7 1 chip NOR flash 1 Mb 7 1 chip UtRAM 1 Mb và 1 chip UtRAM 1 Mb 7 Tất_cả được ghép_lại để tạo_thành một chip nhớ lớn_nhất từ trước đến nay 7.
-Với không_gian lớn như_vậy 7 đây sẽ là một giải_pháp bộ_nhớ quan_trọng dành_cho điện_thoại và thiết_bị di_động thông_minh 7 Các tính_năng như nghe nhạc 7 xem phim 7 chơi game và lướt web trên thiết_bị sử_dụng loại chip này sẽ trở_nên dễ_dàng 7 nhanh_chóng và có chất_lượng cao_hơn 7.

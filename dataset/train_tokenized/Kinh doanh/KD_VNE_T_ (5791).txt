@@ -1,3 +1,0 @@
-Viettel nghẽn_mạch di_động.
-Chiều_qua 6 4 6 7 nhiều khách_hàng sử_dụng mạng di_động Viettel rất khó thực_hiện các cuộc_gọi sang các mạng di_động khác 7 trong_khi các cuộc_gọi nội mạng vẫn thực_hiện bình_thường 7 . Phó_giám_đốc Kỹ_thuật Viettel_Mobilie thừa_nhận 7 tình_trạng nghẽn_mạch trong ngày_hôm_qua là có_thật 7 Trước_đó 7 tại một_số khu_vực trên địa_bàn TP_HCM và Hà_Nội 7 người sử_dụng điện_thoại_di_động đã gặp hiện_tượng cuộc_gọi bị báo lỗi kết_nối khi mạng khác gọi vào mạng 1 7 hiện_tượng này sẽ hết khi thao_tác nhiều_lần 7.
-Trong 1 ngày 1 và 4 7 VNPT đã cung_cấp thêm cho mạng di_động Viettel 1 luồng kết_nối với khả_năng chuyển_tải 1 cuộc_gọi cùng_lúc 7 nâng tổng_số luồng kết_nối vào_khoảng 1 luồng 7.

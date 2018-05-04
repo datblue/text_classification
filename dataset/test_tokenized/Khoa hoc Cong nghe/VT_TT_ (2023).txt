@@ -1,4 +1,0 @@
-Chip xử_lý 1 lõi sẽ xuất_hiện vào năm 1.
-Azul_Systems 7 hiện là công_ty_con của Taiwan_Semiconductor_Manufacturing_Company 6 TSMC 6 7 cho_biết chip xử_lý Vega 1 1 bit được chế_tạo bằng công_nghệ chip 1 nanomet 7 với 1 lõi xử_lý được đặt trên cùng một bản_mạch 7 chứa đến 1 triệu transistor bán_dẫn 7 tăng được gấp_đôi số lõi xử_lý trên cùng một bản_mạch silicon so_với dòng chip Vega 1 1 lõi trước_đây 7.
-Với dòng chip xử_lý Vega 1 1 bit này 7 Azul_System có_thể tự_mình chế_tạo nên những siêu máy_tính đa_xử_lý đối_xứng được tích_hợp đến 1 con chip xử_lý 1 lõi 7 với 1 GB bộ_nhớ 7 Dòng siêu máy_tính hiện_tại của Azul được trang_bị hệ_thống chip xử_lý bao_gồm 1 con chip xử_lý 1 lõi với 1 GB bộ_nhớ 7.
-Azul_Systems cho_biết sẽ chính_thức bán ra dòng chíp Vega 1 1 lõi này vào_khoảng đầu năm 1 7.

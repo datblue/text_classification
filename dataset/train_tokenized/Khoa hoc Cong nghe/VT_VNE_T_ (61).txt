@@ -1,5 +1,0 @@
-Phần_mềm hỗ_trợ RAMBooster 1 7 1.
-Thật khó_chịu mỗi_khi hệ_thống bị treo 7 Phần_mềm này có_thể góp_phần phòng_ngừa tình_trạng đó và cho_phép bạn theo_dõi việc Windows sử_dụng dung_lượng RAM quý_giá của mình 7.
-Nếu dung_lượng ấy tụt xuống_dưới một_mức quy_định 7 RAMBooster 1 7 1 sẽ báo_động hoặc tự_động nâng dung_lượng RAM hiện_có 7 Điều_này được thực_hiện bằng cách 6 làm sạch 6 những thông_tin tồn_tại trước_đó trong RAM 6 làm đầy bộ_nhớ đệm 6 và ra_lệnh cho Windows tái phân_bổ tất_cả mọi_thứ sang tệp trung_gian 6 swap 6 7 Lưu_ý là chương_trình này không defrag RAM của bạn 7 không nâng gấp_đôi dung_lượng RAM và không điều_chỉnh hệ_thống 7.
-Một hạn_chế của phần_mềm là khi bạn mở lại một chương_trình nào đó lần thứ 1 7 nó sẽ không mở nhanh như thông_thường nếu chương_trình đang nằm ở RAM 7 Tuy_nhiên 7 đổi lại điều_này 7 ứng_dụng đó có_thể sử_dụng RAM hiệu_quả hơn rất_nhiều và mỗi_khi hệ_thống của bạn chậm hoặc treo thì nó vẫn ổn_định 7.
-Để_tải miễn_phí RAMBooster 1 7 1 7 bấm vào đây 7.

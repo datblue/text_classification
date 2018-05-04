@@ -1,5 +1,0 @@
-Hacker moi thêm lỗ_hổng trong Windows_Server 1.
-Nhiều trung_tâm bảo_mật hôm_qua thông_báo một lỗ_hổng trong Dịch_vụ định tên Internet_Windows 6 WINS 6 của Microsoft 7 bộ_phận phổ_biến trong phần_mềm máy_chủ Windows_Server 1 đã bị khai_thác nhiều trong ngày cuối_cùng của năm 1 7 . Mặc_dù khiếm_khuyết này đã được Microsoft vá từ giữa tháng 4 7 Trung_tâm an_ninh Internet REN-ISAC của Đại_học Indiana 6 Mỹ 6 vẫn phát_hiện thấy có sự_gia_tăng đáng_kể về số vụ xâm_nhập nhắm vào các dịch_vụ WINS 6 qua cổng TCP và UDP 1 6 7.
-Vá lỗi cho các hệ_thống này giờ_đây là quá chậm 7 thông_báo của Trung_tâm an_ninh Internet thuộc Viện SAN 6 Mỹ 6 7 viết 7 Ngoài_ra 7 các dịch_vụ WINS có_lẽ không vượt_qua ranh_giới router 7 Vì_thế 7 nên phong_tỏa các cổng có lỗ_hổng 7 đề_phòng quản_trị_viên Windows_Server chưa update 7.
-Nếu khai_thác thành_công những lỗ_hổng trên máy chưa vá lỗi 7 kẻ tấn_công có_thể khống_chế hệ_thống để cài_đặt phần_mềm tùy_ý 7 xem 7 thay_đổi hoặc xóa dữ_liệu 7 tạo ra các user_account mới với đầy_đủ quyền ưu_tiên 7.
-Bản vá lỗi WINS được cung_cấp tại website của Microsoft 7.

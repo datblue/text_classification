@@ -1,3 +1,0 @@
-Intel chuẩn_bị tung ra dòng chipset 1 giá rẻ.
-Hãng chế_tạo thiết_bị xử_lý lớn_nhất thế_giới sẽ đưa_ra thị_trường 1 loại chipset_Grantsdale trong tháng 4 7 Các sản_phẩm 1 và 1 thực_ra là phiên_bản của loại 1 và 1 hiện_hành nhưng tắt bỏ phần hỗ_trợ DDR 1 SDRAM 7 . 1 chipset mới hỗ_trợ công_nghệ PCI Express và front_side_bus 6 FSB 6 1 MHz 7 Tốc_độ FSB chính là yếu_tố phân_biệt 1 và 1 với 1 7 vốn chỉ hỗ_trợ DDR và có tốc_độ FSB 1 MHz 7 . 1 và 1 sẽ có_giá xấp_xỉ 4 so_với 1 và 1 7 Sự_xuất_hiện của 1 sản_phẩm này là tin_vui đối_với các công_ty sản_xuất bo_mạch_chủ 7 đối_tượng đang cần một sản_phẩm 1 giá rẻ để thúc_đẩy sự_chấp_nhận đối_với giao_diện xử_lý mới 7.
-Intel dự_kiến sẽ hạ_giá Grantsdale vào cuối năm_nay và tiếp_tục giảm nữa vào đầu quý II / 1 7.

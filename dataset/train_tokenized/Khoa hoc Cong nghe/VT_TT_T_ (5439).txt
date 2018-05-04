@@ -1,4 +1,0 @@
-SGI giới_thiệu siêu máy_tính mới.
-Cũng giống_như các hệ_thống máy Onyx 7 dòng máy Prism được thiết_kế đặc_biệt_để xử_lý các vấn_đề ở mức_độ chuyên_nghiệp rất cao như thăm_dò dầu_khí 7 mô_phỏng va_đập 7 nghiên_cứu y_khoa 7 Dòng máy này cũng sử_dụng cùng các bộ tăng_tốc đồ_họa của ATI và NUMAflex có khả_năng chia_sẻ cấu_trúc bộ_nhớ cùng_với các hệ_thống cấu_trúc nền MIPS của SGI 7.
-Shawn_Underwood 7 giám_đốc tiếp_thị của của SGI cho_biết 7 6 Dòng máy Prism sẽ chính_thức được phân_phối trong một_vài tháng tới 7 dòng máy_tính này sẽ được trang_bị từ 1 đến 1 bộ_vi_xử_lý 1 Itanium 1 và sẽ tương_thích với khoảng 1 loại card tăng_tốc đồ_họa siêu phân_luồng 7 Các hệ_thống máy này sẽ có_giá khởi_điểm khoảng 1 USD 7 đã giảm khoảng 1 USD so_với các hệ_thống máy Onyx đời_trước 6 7.
-Underwood cho_biết 7 6 Với HP thì 1 sản_phẩm / năm là lý_do để rời_bỏ thị_trường 7 còn đối_với chúng_tôi 7 1 sản_phẩm / năm là lý_do để bước_vào thị_trường 6 7.

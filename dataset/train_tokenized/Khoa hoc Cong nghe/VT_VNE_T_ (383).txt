@@ -1,5 +1,0 @@
-Gặp lỗi khi tải phần_mềm 6 1 6.
-Tôi có truy_cập vào một trang_Web của nhà_sản_xuất và cần download về một phần_mềm 7 nhưng gặp_phải thông_báo sau 7 6 Directory_Listing_Denied_This_Virtual_Directory_does not allow_contents to be listed 7 6 Vậy tôi có_thể giải_quyết như_thế_nào 7.
-Kat.
-Hồi_âm 7.
-Ban_hay copy mau thong bao 6 Directory_Listing_Denied_This_Virtual_Directory_does not allow_contents to be listed 6 va goi lai cho chu_nhan cua trang_web do 6 webmaster 6 de_ho sua lai 7 Thuong la do loi cua nguoi thiet ke trang_web 6 web_designer 6 o_phan index 7 html hay index 7 htm 7.

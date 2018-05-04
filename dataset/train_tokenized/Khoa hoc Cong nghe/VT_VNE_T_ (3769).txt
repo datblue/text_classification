@@ -1,7 +1,0 @@
-Tin_vắn ngày 4.
-Khoá_học lập_trình game bằng 1 miễn_phí Công_ty VTC đổi_tên thành Tổng_công_ty_Truyền_thông đa_phương_tiện Việt_Nam Tuần_lễ chăm_sóc khách_hàng Cityphone 7.
-Khoá_học lập_trình game bằng 1 miễn_phí do Diễn_đàn JavaVietnam 7 cùng Punch_Entertainment và Học_viện đào_tạo công_nghệ_thông_tin NIIT 6 HanoiCTT 6 tổ_chức gồm các chương_trình 7 giới_thiệu về 1 7 lập_trình giao_diện 7 lưu_trữ dữ_liệu 7 mạng HTTP 7 đồ_họa cùng các khái_niệm Sprite_LayerManager 7 TiledLayer- cách hiển_thị 7 7 7 . Chương_trình này dành_cho tất_cả những bạn đã có kiến_thức cơ_bản về Java và muốn rút_ngắn thời_gian nghiên_cứu 1 để viết riêng cho mình một game di_động 7
-N 7 H 7 . Thủ_tướng vừa ký Quyết_định phê_duyệt đề_án chuyển công_ty Đầu_tư và Phát_triển Công_nghệ Truyền_hình Việt_Nam 6 VTC 6 thuộc Bộ Bưu_chính Viễn_thông thành Tổng_công_ty_Truyền_thông đa_phương_tiện hoạt_động theo mô_hình công_ty_mẹ - công_ty_con 7.
-Các ngành_nghề kinh_doanh sẽ bao_gồm phát_thanh truyền_hình 7 bưu_chính viễn_thông 7 tin_học và nghiên_cứu ứng_dụng công_nghệ_cao cho ra_đời các sản_phẩm hội_tụ 7 đa_phương_tiện 7
-D 7 H 7 . UTStarcom tổ_chức Tuần_lễ chăm_sóc khách_hàng tại TP_HCM từ_ngày 4 đến hết ngày 4 7 Theo đó 7 khách_hàng sử_dụng mạng Cityphone có_thể đến Trung_tâm_dịch_vụ_khách_hàng Cityphone tại 1 Nguyễn_Trãi 7 Quận 1 để được thay vỏ mới miễn_phí cho_hai model 1 và 1 7 Ngoài_ra 7 việc sửa_chữa 7 thay_thế linh_kiện & cho điện_thoại Cityphone trong dịp này cũng được giảm 1 % giá dịch_vụ 7.
-Đợt này có tổng_cộng 1 vỏ điện_thoại sẽ dành_cho các khách_hàng đến Trung_tâm sớm nhất 7.

@@ -1,5 +1,0 @@
-Lỗi về Window_Media_Player 6 1 6.
-Tôi đang_dùng WINXP nhưng biết vì_sao khi click vào Window_Media_Player thi cứ báo lỗi là 6 An internal_Application_is_corrupt 6 Làm_ơn giúp tôi khắc_phục lỗi này 7.
-Phan_Khắc_Lê_Khoa.
-Hồi_âm 7.
-Cách đơn_giản nhất là bạn download_windows_media_player phiên_bản mới_nhất 1 final trên trang của microsoft về cài đè lên là giải_quyết ổn_thỏa 7 Chúc thành_công 7.

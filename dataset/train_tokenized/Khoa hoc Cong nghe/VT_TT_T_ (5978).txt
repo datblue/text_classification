@@ -1,4 +1,0 @@
-AOL hợp_tác với HP và Compaq.
-Các công_ty này đã đồng_ý ký_kết thỏa_thuận 7 Netscape sẽ được cài_đặt sẵn trong tất_cả PC hiệu HP và Compaq như_là trình_duyệt mặc_định 7.
-Netscape cũng sẽ hiệu_chỉnh trình_duyệt của mình tuơng_thích với khách_hàng của HP và Compaq bằng cách thêm các thẻ chuyển_tiếp người_dùng đến các website của HP và Compaq 7.
-Netscape phiên_bản 1 dựa_trên mã nguồn của FireFox 7 tự_động tinh_chỉnh các thiết_lập an_toàn và bảo_mật để giúp người_dùng lướt web an_toàn hơn 7 Trình_duyệt cũng giúp tăng tối_đa khả_năng tương_thích và bảo_mật bằng cách chuyển_đổi giữa các cỗ_máy biên_dịch được sử_dụng bởi FireFox và Internet_Explorer 7 Netscape 1 cũng hỗ_trợ ngừơi dùng duyệt web dễ_dàng 7 sử_dụng các thẻ_duyệt 7 kết_hợp với RSS 7 cải_tiến các thiết_lập riêng_tư 7 tích_hợp nhiều thanh công_cụ và nhiều tính_năng khác 7.

@@ -1,5 +1,0 @@
-Sửa tài_liệu trong Adobe_Reader 1 6 1 6.
-Tôi hiện đang sử_dụng chương_trình Adobe_Reader 1 để mở một_số tài_liệu của đồng_nghiệp gửi cho tôi 7 Nhưng có một vấn_đề bất_cập là tôi không thể_nào sửa được nhưng số_liệu mà không chính_xác 7 Vậy tôi mong quý_báo chỉ dùm tôi cách sửa_lại nhưng số_liệu này_càng_sớm_càng_tốt 7 Xin chân_thành cảm_ơn 7 Kính thư 7.
-Lê Vương_Mạnh.
-Hồi_âm 7.
-Để_sửa nội_dung của file 7 PDF 7 bạn cần_phải có trình Acrobat 6 không_phải là Acrobat_Reader 6 7 Tuy_nhiên 7 tốt_nhất là bảo đồng_nghiệp của bạn gửi các văn_bản đó bằng định dụng soạn_thảo được 6 như 7 doc - file của Word chẳng_hạn 6 7.

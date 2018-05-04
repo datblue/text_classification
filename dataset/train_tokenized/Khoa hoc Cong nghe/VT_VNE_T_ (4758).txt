@@ -1,4 +1,0 @@
-Cisco vá lỗi được công_bố tại diễn_đàn Black Hat . Tập_đoàn giải_pháp mạng Mỹ đã cung_cấp bản sửa cho lỗ_hổng bảo_mật nghiêm_trọng thứ_hai mà họ tìm_thấy trong IOS 7 hệ_điều_hành hỗ_trợ cho thiết_bị định_tuyến của hãng 7.
-Cisco cho_biết trong những tình_huống cụ_thể 7 hacker có_thể khai_thác lỗi để kiểm_soát toàn_bộ thiết_bị định_tuyến bằng cách lừa công_cụ bấm_giờ hệ_thống và tận_dụng thành_công các khiếm_khuyết của gói 1 để chạy mã nguy_hiểm 7.
-Hãng này khẳng_định lỗi vẫn chưa bị khai_thác dù đã có một cuộc_đua của hacker tại diễn_đàn Black Hat hồi tháng 1 6 Las_Vegas 7 Mỹ 6 nhằm xâm_nhập vào hệ_thống 7 Chuyên_gia phân_tích Michael_Lynn 7 người tìm_ra lỗ_hổng 7 bị kiện vì ông đã đặt hệ_thống vào tình_trạng nguy_hiểm 7 Tuy_nhiên 7 Lynn cho_rằng viễn_cảnh sẽ rất ảm đảm nếu một_cuộc_tấn_công IOS diễn_ra bởi hệ_điều_hành của Cisco được coi_là 6 Windows XP của Internet 6 7.
-Tải_bản vá lỗi tại_đây 7.

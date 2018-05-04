@@ -1,6 +1,0 @@
-Xây_dựng siêu máy_tính lớn_nhất châu_Âu.
-Theo Bộ_trưởng khoa_học và kỹ_thuật Tây_Ban_Nha Juan_Costa 7 ban_đầu nó sẽ dùng để ngăn_chặn dịch_bệnh 7 chống hạn_hán và cải_thiện quá_trình thiết_kế công_nghiệp 7.
-Siêu máy_tính mới cho thể hoạt_động với công_suất 1 nghìn_tỷ phép_tính dấu_phẩy động / giây 7 tức_là 1 teraflop theo cách chỉ sức_mạnh máy_tính hiện_đại 7 Hệ_thống này nặng 1 tấn 7 chạy hệ_điều_hành Linux 7 cài 1 bộ_xử_lý 7 có_thể lưu_trữ 1 terabyte dữ_liệu 7.
-Siêu máy_tính mới sẽ được xây_dựng tại một trung_tâm nghiên_cứu quốc_gia ở khu_vực đông_bắc Catalonia 7 Tây_Ban_Nha 7 Nơi_đây đang được xem là thủ_phủ của ngành công_nghệ kỹ_thuật cao của Tây_Ban_Nha 7.
-Nếu hệ_thống máy_tính này được khánh_thành đúng như kế_hoạch thì nó sẽ là hệ_thống siêu máy_tính lớn_nhất châu_Âu và thứ_nhì thế_giới 7 tức_là chỉ đứng sau siêu máy_tính tên là Earth_Simulator 1-teraflop của NEC ở_Nhật 7 có 1 bộ_xử_lý 7 dùng để nghiên_cứu khí_hậu và các vấn_đề địa_chấn 7.
-Tuần qua 7 IBM công_bố xây_dựng một siêu máy_tính mới thuộc dòng máy Blue_Gene / L trong khuôn_khổ dự_án kính_thiên_văn radio_Lofar tại Hà_Lan 7 Thiết_bị 7 dự_kiến sẽ hoàn_tất vào năm 1 7 chạy hệ_điều_hành Linux 7 với 1 bộ_xử_lý và đạt tốc_độ 1 nghìn_tỷ phép_tính / giây 7.

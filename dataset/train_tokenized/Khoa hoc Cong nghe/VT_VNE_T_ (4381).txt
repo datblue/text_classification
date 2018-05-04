@@ -1,7 +1,0 @@
-Lỗi khi khởi_động Office 6 1 6 . Máy_tính của tôi dùng Pen IV 1 GHz 7 RAM 1 MB và đã dùng 1 năm 7 Gần_đây 7 khi khởi_động đến Office thì_có hộp_thoại sau 7 6 The instruction at 6 1 6 referenced_memory at 6 1 6 7 The memory_could not be 6 read 6 7 Click on OK to terminate the programe 7 Click on CENCEL to debug the programe 6 7.
-Nếu tôi bấm OK thì sẽ có một hộp_thoại 7 Norton_Antivius 1 does not support the reapair_feature 7 please_install_and_reinstall 7 Tiếp_tục OK thì sẽ có hộp sau 7 Runtime_error 1 at 1.
-Nếu tôi nhấn CANCEL thì hiện_ra cửa_sổ sửa_lỗi 7 7 7.
-Kính mong mọi_người cho_biết cách khắc_phục 7 Xin cảm_ơn 7.
-Vũ_Minh_Anh.
-Hồi_âm 7.
-Runtime_error 1 thường có liên_quan đến 6 trojan_subseven 6 khi nối_mạng 7 Bạn hãy vào đây để Norton tìm dùm cho bạn link 2 Nhấp phải chuột trên Automated_Support_Assistant chọnopen_new_window 7 7 norton sẽ scan 7 Thứ 1 7 cởi_bỏ phần plug-in cho office bằng cách ở nortonoptionmiscellaneousở phần 6 How to keep_Microsoft_Office_documents_protected 6 cởi_bỏ dấu 6 unchecked 6 enable_office_plug-inOK 7 Có_thể bạn phải cài lại norton 7.

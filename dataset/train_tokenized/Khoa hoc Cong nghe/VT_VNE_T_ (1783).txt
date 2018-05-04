@@ -1,4 +1,0 @@
-Mất font chữ 6 1 6.
-Cháu cài tin_học văn_phòng vào máy để học 7 nhưng không hiểu làm_sao lại mất font_vntime hoặc vntimeH chỉ còn times_new_roman 7 Xin các bác cho cháu hỏi làm thế_nào để cài lại được vntime 7.
-Nguyễn_Đức_Khương.
-Hồi_âm 7 . Trường_hợp mà bạn nói nguyên_nhân có_thể do khi bạn cài 1 thì Windows tự add thêm máy_in vào trong ContrloPanelPrinter 7 Cách khắc_phục 7 Bạn vào ContrloPanelPrinter và xoá_bỏ máy_in được tự_động add vào trong máy 7 Sau_khi đã xoá bạn khởi_động lại máy_tính 7 Chúc bạn thành_công 7.

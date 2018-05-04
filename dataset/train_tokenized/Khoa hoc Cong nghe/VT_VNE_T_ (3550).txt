@@ -1,5 +1,0 @@
-Khôi_phục file_Corel 6 1 6.
-Tôi có một file 7 cdr 7 Khi mở file này lên trong chương_trình Corel 6 tất_cả các phiên_bản 6 thì chỉ xem được nó khi chọn Preview 7 Sau_đó thì nó không cho mở nữa 7 Có cách nào khôi_phục lại file này không 7 Xin chân_thành cảm_ơn 7.
-Quoc_Hung.
-Hồi_âm 7.
-Nếu là CorelDraw 1 7 Chọn File / Import - Cũng có_thể dùng phương_pháp kéo thả 6 Drag_Drop 6 vào CorelDraw 7 Nếu được thì save lại tên khác 7 chú_ý là không nên bỏ dấu 7 Đã sử_dụng nhiều năm nhưng chưa bị qua 7 trường_hợp này do lúc save có phần sai_lạc 7.

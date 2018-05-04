@@ -1,5 +1,0 @@
-Dùng data_label tiếng_Việt trong MS Excel 6 1 6.
-Xin duoc_huong dan ve su dung MS Excel 7 Hien toi dang dung MS Excel 1 tieng Anh 7 Neu muon the hien_gia_tri trong bieu do hay do thi bang tieng Viet 6 vi du 7 1 thay_vi 1 nhu tieng Anh 6 7 thi nen lam the nao 7 Toi moi hoc cach su dung Excel 7 hon nua nhieu tuoi_roi nen tiep_thu cham 7 Xin duoc_huong dan cu the cach lam 7 Cam_on cac ban nhieu 7.
-Doan_Vu_Dung.
-Hồi_âm 7.
-Chao bac 7 De nghi bac vao 6 CONTROL PANEL 6 sau do chon 6 REGIONAL AND LANGUAGE OPTIONS 6 trong phan 6 Regional_Options 6 Bac_nen chon 6 French 6 France 6 6 thay_vi 6 English 6 sau do nhap 6 OK 6 7 Dieu_nay se lam cho 6 Data_Label 6 tro_thanh kieu VN 7 chang han nhu 7 1 7 1 US bien thanh 1 7 1 US 7 ngay thang se_la NG / TH / NAM 7 Chuc bac may_man 7.

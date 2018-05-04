@@ -1,2 +1,0 @@
-Từ 4 7 xe_buýt được lưu_thông vào làn xe 4 bánh.
-Ngoài_ra xe_buýt thử_nghiệm cũng được_phép lưu_thông vào làn xe 4 bánh khi có hiệu_lệnh của CSGT 7 được vào làn xe 4 bánh khi cách giao_lộ từ 1 trở_lên và các làn ôtô đều bị tắc 7 . Tốc_độ lưu_thông của xe_buýt khi vào làn xe 4 bánh là 1 / giờ và phải giữ khoảng_cách an_toàn với các loại xe khác 7.

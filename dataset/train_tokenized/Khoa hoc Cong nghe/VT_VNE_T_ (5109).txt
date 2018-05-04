@@ -1,9 +1,0 @@
-Chuyển ảnh thành_tranh vẽ chì 6 1 6.
-Cách đây khoảng 4 năm tôi có đọc 1 bài_viết về việc chuyển 1 hình chụp 6 photo 6 với digital_camera thành 1 hình_vẽ sơ phát bằng bút_chì 6 skecth 6 7 và đã được sử_dụng bởi phần_mềm Adobe_Photoshop hoặc Adobe_Photoshop_Elements 7 Lúc_đó tôi có thử theo hướng_dẫn 7 nhưng kết_quả không_được đẹp 7 Vậy quý_vị có phương_cách hướng_dẫn nào mới hơn 7 xin_vui_lòng hướng_dẫn 7 Cảm_ơn quý_vị truớc 7.
-Phan Đạt.
-Hồi_âm 7.
-Ban_dung chuong trinh Photoshop 1 de thuc hien 7 Cac buoc nhu sau 7 - Mở một file ảnh bất_kỳ và nhân nó lên 1 lần 7 Nghĩa_là bạn phải có 1 bản copy và một layer_background.
-- Lần_lượt Desaturat 1 layer vừa được copy bằng cách chọn layer đó và nhấn tổ_hợp phím Ctrl-Shift-U.
-- Ở layer trên cùng vào Filter_Stylize_Find_Edge 7 sau_đó đổi chế_độ hoà_trộn thành Color_Burn.
-- Chọn layer thứ 1 từ trên xuống và nhấn Ctrl-I để invert_layer này 7 Sau_đó thì đổi chế_độ hoà_trộn thành Color_Dodge 7 Bạn sẽ thấy hình của bạn gần_như biến thành màu trắng hoàn_toàn 7 đừng lo 7 cái hay còn ở phía_sau 7 Vẫn ở layer đó 7 vào Filter_Blur_Gaussian_Blur với giá_trị Radius là 1 px 7 Bây_giờ hình của bạn cũng tạm ổn rồi đấy 7 . - Sau_đó bạn liên_kết layer 1 và layer 1 lại 7 Và nhấn Ctrl-E để merge 1 layer vừa được liên_kết lại 7 bây_giờ bạn còn_lại 1 layer 7 layer hình gốc và layer nét_vẽ bút_chì.
-- Sau_đó vào Filter_Brush_Stroke_Angles_Strokes và thiết_lập thông_số như_sau 7 Direction 7 1 Stroke_length 7 1 Sharpness 7 1 . - Bạn có_thể dừng_lại ở bước 1 7 vì cơ_bản đã hoàn_thành 7 nhưng bước này là tô thêm màu cho bức_ảnh thêm quốc_tế 7 Bạn chỉ việc chọn layer nằm trên cùng và hạ mức Opacity xuống còn khoảng 1 % 7.
