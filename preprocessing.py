@@ -6,11 +6,11 @@ import my_map
 import utils
 from io import open
 import unicodedata
-from tokenizer.tokenizer import Tokenizer
+from pyvi.pyvi import ViTokenizer
+import nlp_tools as nlp
 
 
 r = regex.regex()
-tokenizer = Tokenizer()
 
 
 def load_dataset(dataset):
@@ -26,10 +26,12 @@ def load_dataset(dataset):
             print('\r%s' % (file_path)),
             sys.stdout.flush()
             with open(file_path, 'r', encoding='utf-16') as fp:
-                content = unicodedata.normalize('NFKC', fp.read())
-                content = r.run(tokenizer.predict(content))
+                content = []
+                for sen in nlp.spliter.split(unicodedata.normalize('NFKC', fp.read())):
+                    sen = r.run(ViTokenizer.tokenize(sen))
+                    content.append(sen)
                 dir_name = utils.get_dir_name(file_path)
-                list_samples[dir_name].append(content)
+                list_samples[dir_name].append(u'\n'.join(content))
     print('')
     return list_samples
 
@@ -37,7 +39,7 @@ def load_dataset(dataset):
 def load_dataset_ex(list_samples):
     result = []
     for sample in list_samples:
-        sample = r.run(tokenizer.predict(sample))
+        sample = r.run(ViTokenizer.tokenize(sample))
         result.append(sample)
     return result
 

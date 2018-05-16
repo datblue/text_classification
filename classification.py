@@ -8,10 +8,11 @@ from collections import Counter
 from sklearn.externals import joblib
 from sklearn.svm import SVC
 from sklearn.linear_model import LogisticRegressionCV
-from sklearn.ensemble import BaggingClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.feature_extraction.text import TfidfVectorizer
 from io import open
+import embedding
+import numpy as np
 
 
 
@@ -74,11 +75,23 @@ class classification:
 
 
     def feature_extraction(self, X):
+        result = []
         if self.vectorizer == None:
             self.vectorizer = TfidfVectorizer(ngram_range=(1, 1), max_df=0.6, min_df=2)
             self.vectorizer.fit(X)
             self.vectorizer.stop_words_ = None
-        return self.vectorizer.transform(X)
+        tfidf_matrix = self.vectorizer.transform(X)
+        for doc in xrange(len(X)):
+            feature_names = self.vectorizer.get_feature_names()
+            feature_index = tfidf_matrix[doc, :].nonzero()[1]
+            tfidf_scores = zip(feature_index, [tfidf_matrix[doc, x] for x in feature_index])
+            doc_vec = np.zeros(embedding.embedd_dim)
+            for word, score in [(feature_names[i], score) for (i, score) in tfidf_scores]:
+                embedd = embedding.get_embedding(word)
+                embedd = embedd * score
+                doc_vec = np.add(doc_vec, embedd)
+            result.append(doc_vec.reshape(embedding.embedd_dim))
+        return result
 
 
     def prepare_data(self, dataset):
