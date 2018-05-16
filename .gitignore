@@ -105,3 +105,4 @@ model/
 *.tar.gz
 .idea/
 result/
+embedding/
