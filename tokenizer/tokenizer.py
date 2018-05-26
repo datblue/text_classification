@@ -294,7 +294,7 @@ class Tokenizer:
             prob = self.clf.predict_proba(X)
         else: # out of ambiguous
             res = [ambiguous_info[k][0] for k in xrange(len(ambiguous_info))]
-            return u'. '.join(res)
+            return u'\n'.join(res)
         for i, k in enumerate(ambiguous):
             words = ambiguous_info[k[1]][1]
             p1 = prob[i*2][1]; p2 = prob[i*2+1][1]
@@ -309,7 +309,7 @@ class Tokenizer:
         for k, v in ambiguous_info.items():
             v[0] = u' '.join(v[1])
         s = [x[0] for x in ambiguous_info.values()]
-        return u'. '.join(s)
+        return u'\n'.join(s)
 
 
     def process_ambiguous_ex(self, sentence, words, i, X):
