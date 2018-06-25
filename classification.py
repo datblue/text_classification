@@ -94,7 +94,7 @@ class classification:
     def training(self, data_train, data_test):
         X_train, y_train = self.load_training_vector()
         if X_train == None or y_train == None:
-            samples_train = preprocessing.load_dataset(data_train)
+            samples_train = preprocessing.load_dataset_from_disk(data_train)
             X_train, y_train = self.prepare_data(samples_train)
             X_train = self.feature_extraction(X_train)
             self.save_training_vector(X_train, y_train)
@@ -102,7 +102,7 @@ class classification:
 
         X_test, y_test = self.load_testing_vector()
         if X_test == None or y_test == None:
-            samples_test = preprocessing.load_dataset(data_test)
+            samples_test = preprocessing.load_dataset_from_disk(data_test)
             X_test, y_test = self.prepare_data(samples_test)
             X_test = self.feature_extraction(X_test)
             self.save_testing_vector(X_test, y_test)
@@ -138,7 +138,7 @@ class classification:
 
 
     def predict(self, list_document):
-        docs = preprocessing.load_dataset_ex(list_document)
+        docs = preprocessing.load_dataset_from_list(list_document)
         X = self.feature_extraction(docs)
         return self.model.predict(X)
 
