@@ -13,7 +13,7 @@ r = regex.regex()
 tokenizer = Tokenizer()
 
 
-def load_dataset(dataset):
+def load_dataset_from_disk(dataset):
     list_samples = {k:[] for k in my_map.name2label.keys()}
     stack = os.listdir(dataset)
     print 'loading data in ' + dataset
@@ -34,7 +34,7 @@ def load_dataset(dataset):
     return list_samples
 
 
-def load_dataset_ex(list_samples):
+def load_dataset_from_list(list_samples):
     result = []
     for sample in list_samples:
         sample = r.run(tokenizer.predict(sample))
@@ -45,4 +45,4 @@ def load_dataset_ex(list_samples):
 
 
 if __name__ == '__main__':
-    load_dataset('dataset/train')
+    load_dataset_from_disk('dataset/train')
