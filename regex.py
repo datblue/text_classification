@@ -23,17 +23,17 @@ class regex:
 
 
     def run(self, data):
-        s = self.detect_num.sub(u'1', data) # replaced number to 1
-        s = self.detect_url.sub(u'2', s)
-        s = self.detect_email.sub(u'3', s)
-        s = self.detect_datetime.sub(u'4', s)
+        s = self.detect_num.sub(u'<number>', data) # replaced number to 1
+        s = self.detect_url.sub(u'', s)
+        s = self.detect_email.sub(u'', s)
+        s = self.detect_datetime.sub(u'', s)
         s = self.change_to_space.sub(u' ', s)
         s = self.rm_except_chars.sub(u'', s)
         # s = self.detect_non_vnese.sub(u'5', s)
         s = self.normalize_special_mark.sub(u' \g<special_mark> ', s)
-        s = self.detect_special_mark.sub(u'6', s)
-        s = self.detect_special_mark2.sub(u'7', s)
-        # s = self.detect_special_mark3.sub(u'8', s)
+        s = self.detect_special_mark.sub(u'<punct>', s)
+        s = self.detect_special_mark2.sub(u'<punct>', s)
+        # s = self.detect_special_mark3.sub(u'<punct>', s)
         s = self.normalize_space.sub(u' ', s)
         return s.strip()
 

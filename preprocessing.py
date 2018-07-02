@@ -6,14 +6,14 @@ import my_map
 import utils
 from io import open
 import unicodedata
-from tokenizer.tokenizer import Tokenizer
+from pyvi.pyvi import ViTokenizer
+from nlp_tools import spliter
 
 
 r = regex.regex()
-tokenizer = Tokenizer()
 
 
-def load_dataset_from_disk(dataset):
+def load_dataset_from_disk(dataset, max_length):
     list_samples = {k:[] for k in my_map.name2label.keys()}
     stack = os.listdir(dataset)
     print 'loading data in ' + dataset
@@ -27,22 +27,28 @@ def load_dataset_from_disk(dataset):
             sys.stdout.flush()
             with open(file_path, 'r', encoding='utf-16') as fp:
                 content = unicodedata.normalize('NFKC', fp.read())
-                content = r.run(tokenizer.predict(content))
+                sentences = filter(lambda s: len(s) > 0, spliter.split(content))
+                sentences = map(lambda s: r.run(ViTokenizer.tokenize(s)), sentences)
+                content = u'\n'.join(sentences).lower()
+                words = content.split()
                 dir_name = utils.get_dir_name(file_path)
-                list_samples[dir_name].append(content)
+                list_samples[dir_name].append(words[:max_length])
     print('')
     return list_samples
 
 
-def load_dataset_from_list(list_samples):
+def load_dataset_from_list(list_samples, max_length):
     result = []
     for sample in list_samples:
-        sample = r.run(tokenizer.predict(sample))
-        result.append(sample)
+        sentences = filter(lambda s: len(s) > 0, spliter.split(sample))
+        sentences = map(lambda s: r.run(ViTokenizer.tokenize(s)), sentences)
+        sample = u'\n'.join(sentences).lower()
+        words = sample.split()
+        result.append(words[:max_length])
     return result
 
 
 
 
 if __name__ == '__main__':
-    load_dataset_from_disk('dataset/train')
+    load_dataset_from_disk('dataset/train', 500)

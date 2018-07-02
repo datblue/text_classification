@@ -1,0 +1,39 @@
+import numpy as np
+import pickle
+
+
+vector_dir = 'embedding/vectors.npy'
+word_dir = 'embedding/words.pl'
+
+embedd_vectors = np.load(vector_dir)
+with open(word_dir, 'rb') as handle:
+    embedd_words = pickle.load(handle)
+embedd_dim = np.shape(embedd_vectors)[1]
+# gen embedding vector for unknown token
+unknown_embedd = np.random.uniform(-0.01, 0.01, (1, embedd_dim))
+
+
+def get_embedding(word):
+    w = word.lower()
+    try:
+        embedd = embedd_vectors[embedd_words.index(w)]
+    except:
+        embedd = unknown_embedd
+    return embedd
+
+
+def construct_tensor_word(docs, max_length):
+    X = np.empty([len(docs), max_length, embedd_dim])
+    for i in range(len(docs)):
+        words = docs[i]
+        length = len(words)
+        for j in range(length):
+            word = words[j].lower()
+            try:
+                embedd = embedd_vectors[embedd_words.index(word)]
+            except:
+                embedd = unknown_embedd
+            X[i, j] = embedd
+        # Zero out X after the end of the sequence <=> ZERO_PADDING
+        X[i, length:] = np.zeros([1, embedd_dim])
+    return X

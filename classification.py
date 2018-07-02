@@ -4,23 +4,23 @@ import utils
 import os
 import my_map
 import preprocessing
-from collections import Counter
 from sklearn.externals import joblib
-from sklearn.svm import SVC
-from sklearn.linear_model import LogisticRegressionCV
-from sklearn.ensemble import BaggingClassifier
-from sklearn.metrics import accuracy_score, confusion_matrix
-from sklearn.feature_extraction.text import TfidfVectorizer
 from io import open
+import embedding
+import network
+from keras.models import load_model
+from keras.callbacks import EarlyStopping
+from sklearn.metrics import accuracy_score, confusion_matrix
 
 
 
 class classification:
     def __init__(self, root_dir='.'):
         self.model = None
-        self.vectorizer = None
         self.root_dir = root_dir
         self.result_dir = os.path.join(self.root_dir, 'result')
+        self.max_length = 500
+        self.patience = 3
 
 
     def load(self, model):
@@ -32,8 +32,10 @@ class classification:
 
 
     def load_model(self):
-        self.vectorizer = self.load('model/vectorizer.pkl')
-        self.model = self.load('model/model.pkl')
+        try:
+            self.model = load_model('model/model.h5')
+        except:
+            self.model = None
 
 
     def load_training_vector(self):
@@ -57,8 +59,7 @@ class classification:
 
     def save_model(self):
         utils.mkdir('model')
-        self.save(self.vectorizer, 'model/vectorizer.pkl')
-        self.save(self.model, 'model/model.pkl')
+        self.model.save('model/model.h5')
 
 
     def save_training_vector(self, X_train, y_train):
@@ -71,14 +72,6 @@ class classification:
         utils.mkdir('model')
         self.save(X_test, 'model/X_test.pkl')
         self.save(y_test, 'model/y_test.pkl')
-
-
-    def feature_extraction(self, X):
-        if self.vectorizer == None:
-            self.vectorizer = TfidfVectorizer(ngram_range=(1, 1), max_df=0.6, min_df=2)
-            self.vectorizer.fit(X)
-            self.vectorizer.stop_words_ = None
-        return self.vectorizer.transform(X)
 
 
     def prepare_data(self, dataset):
@@ -94,46 +87,51 @@ class classification:
     def training(self, data_train, data_test):
         X_train, y_train = self.load_training_vector()
         if X_train == None or y_train == None:
-            samples_train = preprocessing.load_dataset_from_disk(data_train)
+            samples_train = preprocessing.load_dataset_from_disk(data_train, self.max_length)
             X_train, y_train = self.prepare_data(samples_train)
-            X_train = self.feature_extraction(X_train)
+            X_train = embedding.construct_tensor_word(X_train, self.max_length)
             self.save_training_vector(X_train, y_train)
         self.fit(X_train, y_train)
 
         X_test, y_test = self.load_testing_vector()
         if X_test == None or y_test == None:
-            samples_test = preprocessing.load_dataset_from_disk(data_test)
+            samples_test = preprocessing.load_dataset_from_disk(data_test, self.max_length)
             X_test, y_test = self.prepare_data(samples_test)
-            X_test = self.feature_extraction(X_test)
+            X_test = embedding.construct_tensor_word(X_test, self.max_length)
             self.save_testing_vector(X_test, y_test)
         self.evaluation(X_test, y_test)
         self.save_model()
 
 
     def fit(self, X, y):
-        print('fit model...')
-        self.model = LogisticRegressionCV(class_weight='balanced')
-        self.model.fit(X, y)
-        # remove unnecessary attributes
-        self.model.coefs_paths_ = None
-        self.model.scores_ = None
-        self.model.C_ = None
-        self.n_iter_ = None
+        print('build model...')
+        # build network
+        num_lstm_layer = 1
+        num_hidden_node = 128
+        dropout = 0.6
+        self.model = network.building_ner(num_lstm_layer, num_hidden_node, dropout,
+                                          self.max_length, embedding.embedd_dim,
+                                          len(my_map.label2name))
+        print 'Model summary...'
+        print self.model.summary()
+        print 'Training model...'
+        early_stopping = EarlyStopping(patience=self.patience)
+        self.model.fit(X, y, batch_size=64, epochs=100,
+                           validation_split=0.1,
+                           callbacks=[early_stopping])
 
 
     def evaluation(self, X, y):
-        count = Counter(y)
-        print(count)
-        y_pred = self.model.predict(X)
+        y_pred = self.model.predict_classes(X, batch_size=64)
         accuracy = accuracy_score(y, y_pred)
-        print('accuracy score = %.5f' % (accuracy))
+        print('Accuracy = %.5f' % (accuracy))
         confusion = confusion_matrix(y, y_pred)
         print(confusion)
 
 
     def run(self, data_train, data_test):
         self.load_model()
-        if self.model == None or self.vectorizer == None:
+        if self.model == None:
             self.training(data_train, data_test)
 
 
