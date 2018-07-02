@@ -1,5 +1,6 @@
 import numpy as np
 import pickle
+import sys
 
 
 vector_dir = 'embedding/vectors.npy'
@@ -23,6 +24,7 @@ def get_embedding(word):
 
 
 def construct_tensor_word(docs, max_length):
+    print('construct tensor word for %d docs' % (len(docs)))
     X = np.empty([len(docs), max_length, embedd_dim])
     for i in range(len(docs)):
         words = docs[i]
@@ -36,4 +38,7 @@ def construct_tensor_word(docs, max_length):
             X[i, j] = embedd
         # Zero out X after the end of the sequence <=> ZERO_PADDING
         X[i, length:] = np.zeros([1, embedd_dim])
+        print '\rconstructed for document %d-th' % (i),
+        sys.stdout.flush()
+    print('')
     return X
