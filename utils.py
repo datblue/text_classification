@@ -5,6 +5,7 @@ import os, json
 from io import open
 import random, string
 from sklearn.externals import joblib
+import numpy as np
 
 
 # return list of string
@@ -105,6 +106,17 @@ def convert_dict_to_str(d):
 def get_dir_name(path):
     x = os.path.dirname(path)
     return os.path.basename(x)
+
+
+
+def convert_list_to_onehot(y, n_labels):
+    nsamples = len(y)
+    new_y = np.zeros(shape=(nsamples, n_labels))
+    for j, i in enumerate(y):
+        zero = np.zeros(shape=(n_labels,))
+        zero[i] = 1.0
+        new_y[j] = zero
+    return new_y
 
 
 

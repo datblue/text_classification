@@ -85,11 +85,13 @@ class classification:
 
 
     def training(self, data_train, data_test):
+        n_labels = len(my_map.label2name)
         X_train, y_train = self.load_training_vector()
         if X_train == None or y_train == None:
             samples_train = preprocessing.load_dataset_from_disk(data_train, self.max_length)
             X_train, y_train = self.prepare_data(samples_train)
             X_train = embedding.construct_tensor_word(X_train, self.max_length)
+            y_train = utils.convert_list_to_onehot(y_train, n_labels)
             self.save_training_vector(X_train, y_train)
         self.fit(X_train, y_train)
 
@@ -98,6 +100,7 @@ class classification:
             samples_test = preprocessing.load_dataset_from_disk(data_test, self.max_length)
             X_test, y_test = self.prepare_data(samples_test)
             X_test = embedding.construct_tensor_word(X_test, self.max_length)
+            y_test = utils.convert_list_to_onehot(y_test, n_labels)
             self.save_testing_vector(X_test, y_test)
         self.evaluation(X_test, y_test)
         self.save_model()
