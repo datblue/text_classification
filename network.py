@@ -1,5 +1,5 @@
 from keras.models import Sequential
-from keras.layers import LSTM, Dense, Flatten, Masking, Input
+from keras.layers import LSTM, Dense, Flatten, Masking
 
 
 def building_ner(num_lstm_layer, num_hidden_node, dropout,
@@ -7,9 +7,10 @@ def building_ner(num_lstm_layer, num_hidden_node, dropout,
     model = Sequential()
 
     # model.add(Masking(mask_value=0., input_shape=(time_step, vector_length)))
-    model.add(Input(shape=(time_step, vector_length)))
+    model.add(LSTM(num_hidden_node, return_sequences=True, dropout=dropout,
+                   input_shape=(time_step, vector_length)))
 
-    for i in xrange(num_lstm_layer):
+    for i in xrange(num_lstm_layer - 1):
         model.add(LSTM(num_hidden_node, return_sequences=True, dropout=dropout))
 
     model.add(Flatten())
