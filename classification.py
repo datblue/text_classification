@@ -111,7 +111,7 @@ class classification:
         # build network
         num_lstm_layer = 1
         num_hidden_node = 128
-        dropout = 0.6
+        dropout = 0.2
         self.model = network.building_ner(num_lstm_layer, num_hidden_node, dropout,
                                           self.max_length, embedding.embedd_dim,
                                           len(my_map.label2name))
