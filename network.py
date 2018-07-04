@@ -18,5 +18,5 @@ def building_ner(num_lstm_layer, num_hidden_node, dropout,
     model.add(Dense(output_lenght, activation='softmax'))
 
     model.compile(optimizer='adam', loss='categorical_crossentropy',
-                  metrics=['categorical_accuracy'])
+                  metrics=['accuracy'])
     return model
