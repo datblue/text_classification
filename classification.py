@@ -109,23 +109,23 @@ class classification:
     def fit(self, X, y):
         print('build model...')
         # build network
-        num_lstm_layer = 1
-        num_hidden_node = 128
+        num_lstm_layer = 2
+        num_hidden_node = 32
         dropout = 0.2
-        self.model = network.building_ner(num_lstm_layer, num_hidden_node, dropout,
-                                          self.max_length, embedding.embedd_dim,
-                                          len(my_map.label2name))
+        self.model = network.building_network(num_lstm_layer, num_hidden_node, dropout,
+                                              self.max_length, embedding.embedd_dim,
+                                              len(my_map.label2name))
         print 'Model summary...'
         print self.model.summary()
         print 'Training model...'
         early_stopping = EarlyStopping(patience=self.patience)
-        self.model.fit(X, y, batch_size=64, epochs=100,
+        self.model.fit(X, y, batch_size=128, epochs=100,
                            validation_split=0.1,
                            callbacks=[early_stopping])
 
 
     def evaluation(self, X, y):
-        y_pred = self.model.predict_classes(X, batch_size=64)
+        y_pred = self.model.predict_classes(X, batch_size=128)
         accuracy = accuracy_score(y, y_pred)
         print('Accuracy = %.5f' % (accuracy))
         confusion = confusion_matrix(y, y_pred)
@@ -139,9 +139,10 @@ class classification:
 
 
     def predict(self, list_document):
-        docs = preprocessing.load_dataset_from_list(list_document)
-        X = self.feature_extraction(docs)
-        return self.model.predict(X)
+        # docs = preprocessing.load_dataset_from_list(list_document)
+        # X = self.feature_extraction(docs)
+        # return self.model.predict(X)
+        pass
 
 
     def save_to_dir(self, list_document, labels):

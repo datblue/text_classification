@@ -2,8 +2,8 @@ from keras.models import Sequential
 from keras.layers import LSTM, Dense, Flatten, Masking
 
 
-def building_ner(num_lstm_layer, num_hidden_node, dropout,
-                 time_step, vector_length, output_lenght):
+def building_network(num_lstm_layer, num_hidden_node, dropout,
+                     time_step, vector_length, output_lenght):
     model = Sequential()
 
     # model.add(Masking(mask_value=0., input_shape=(time_step, vector_length)))
