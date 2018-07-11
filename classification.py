@@ -20,7 +20,7 @@ class classification:
         self.model = None
         self.root_dir = root_dir
         self.result_dir = os.path.join(self.root_dir, 'result')
-        self.max_length = 200
+        self.max_length = 100
         self.patience = 5
 
 
