@@ -97,7 +97,7 @@ class classification:
         for cat in samples_train:
             samples = samples_train[cat]
             boundary = int(round(0.9 * len(samples)))
-            samples_val.update({cat : samples[boundary : ]t })
+            samples_val.update({cat : samples[boundary : ]})
             samples_train[cat] = samples[: boundary]
         return samples_val
 
