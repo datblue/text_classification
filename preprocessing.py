@@ -33,7 +33,7 @@ def load_dataset_from_disk(dataset, max_length):
                 words = content.split()
                 total_words.update(words)
                 dir_name = utils.get_dir_name(file_path)
-                samples[dir_name].append(words[:max_length])
+                samples[dir_name].append(u' '.join(words[:max_length]))
     print('')
     print('there are %d words' % (len(total_words)))
     return samples, len(total_words)

@@ -106,3 +106,4 @@ model/
 .idea/
 result/
 embedding/
+sub_train/
