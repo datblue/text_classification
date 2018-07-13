@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+from keras_contrib.datasets.pascal_voc import voc_config
 
 import utils
 import os
@@ -21,7 +22,7 @@ class classification:
         self.root_dir = root_dir
         self.result_dir = os.path.join(self.root_dir, 'result')
         self.max_length = 100
-        self.patience = 5
+        self.patience = 3
 
 
     def load(self, model):
@@ -121,7 +122,7 @@ class classification:
         samples_test, y_test = self.load_testing_vector()
         if samples_test is None or y_test is None:
             samples_test, _ = preprocessing.load_dataset_from_disk(data_test, self.max_length)
-            padded_test, y_test = self.prepare_data(samples_test)
+            padded_test, y_test = self.prepare_data(samples_test, vocab_size)
             self.save_testing_vector(samples_test, y_test)
         self.evaluation(padded_test, y_test)
         # self.save_model()
