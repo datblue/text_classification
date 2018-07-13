@@ -118,23 +118,22 @@ class classification:
             self.save_training_vector(padded_train, y_train, padded_val, y_val, vocab_size)
         self.fit(padded_train, y_train, padded_val, y_val, vocab_size)
 
-        # samples_test, y_test = self.load_testing_vector()
-        # if samples_test is None or y_test is None:
-        #     samples_test, _ = preprocessing.load_dataset_from_disk(data_test, self.max_length)
-        #     samples_test, y_test = self.prepare_data(samples_test)
-        #     y_test = utils.convert_list_to_onehot(y_test, n_labels)
-        #     self.save_testing_vector(samples_test, y_test)
-        # self.evaluation(samples_test, y_test)
+        samples_test, y_test = self.load_testing_vector()
+        if samples_test is None or y_test is None:
+            samples_test, _ = preprocessing.load_dataset_from_disk(data_test, self.max_length)
+            padded_test, y_test = self.prepare_data(samples_test)
+            self.save_testing_vector(samples_test, y_test)
+        self.evaluation(padded_test, y_test)
         # self.save_model()
 
 
     def fit(self, padded_train, y_train, padded_val, y_val, vocab_size):
         print('build model...')
         # build network
-        num_lstm_layer = 2
+        num_lstm_layer = 1
         num_hidden_node = 32
-        dropout = 0.2
-        embedding_size = 64
+        dropout = 0.0
+        embedding_size = 32
         self.model = network.building_network(vocab_size, embedding_size,
                                               num_lstm_layer, num_hidden_node, dropout,
                                               self.max_length,
