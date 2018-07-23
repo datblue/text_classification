@@ -1,5 +1,4 @@
 # -*- encoding: utf-8 -*-
-from keras_contrib.datasets.pascal_voc import voc_config
 
 import utils
 import os
@@ -11,8 +10,7 @@ import network
 from keras.models import load_model
 from keras.callbacks import EarlyStopping
 from sklearn.metrics import accuracy_score, confusion_matrix
-from keras.preprocessing.text import one_hot
-from keras.preprocessing.sequence import pad_sequences
+import sentence_embedding as sen_emb
 
 
 
@@ -21,7 +19,7 @@ class classification:
         self.model = None
         self.root_dir = root_dir
         self.result_dir = os.path.join(self.root_dir, 'result')
-        self.max_length = 100
+        self.max_sentences = 50
         self.patience = 3
 
 
@@ -41,18 +39,17 @@ class classification:
 
 
     def load_training_vector(self):
-        samples_train = self.load('model/samples_train.pkl')
+        X_train = self.load('model/X_train.pkl')
         y_train = self.load('model/y_train.pkl')
-        samples_val = self.load('model/samples_val.pkl')
+        X_val = self.load('model/X_val.pkl')
         y_val = self.load('model/y_val.pkl')
-        vocab_size = self.load('model/vocab_size.pkl')
-        return samples_train, y_train, samples_val, y_val, vocab_size
+        return X_train, y_train, X_val, y_val
 
 
     def load_testing_vector(self):
-        samples_test = self.load('model/samples_test.pkl')
+        X_test = self.load('model/X_test.pkl')
         y_test = self.load('model/y_test.pkl')
-        return samples_test, y_test
+        return X_test, y_test
 
 
     def save(self, model, path):
@@ -67,30 +64,18 @@ class classification:
         self.model.save('model/model.h5')
 
 
-    def save_training_vector(self, samples_train, y_train, samples_val, y_val, vocab_size):
+    def save_training_vector(self, X_train, y_train, X_val, y_val):
         utils.mkdir('model')
-        self.save(samples_train, 'model/samples_train.pkl')
+        self.save(X_train, 'model/X_train.pkl')
         self.save(y_train, 'model/y_train.pkl')
-        self.save(samples_val, 'model/samples_val.pkl')
+        self.save(X_val, 'model/X_val.pkl')
         self.save(y_val, 'model/y_val.pkl')
-        self.save(vocab_size, 'model/vocab_size.pkl')
 
 
-    def save_testing_vector(self, samples_test, y_test):
+    def save_testing_vector(self, X_test, y_test):
         utils.mkdir('model')
-        self.save(samples_test, 'model/X_test.pkl')
+        self.save(X_test, 'model/X_test.pkl')
         self.save(y_test, 'model/y_test.pkl')
-
-
-    def prepare_data(self, samples, vocab_size):
-        encoded_samples = []; y = []
-        for name, list_content in samples.items():
-            label = my_map.name2label[name]
-            for content in list_content:
-                y.append(label)
-                encoded_samples.append(one_hot(content, vocab_size))
-        padded_samples = pad_sequences(encoded_samples, maxlen=self.max_length, padding='post')
-        return padded_samples, y
 
 
     def split_validation(self, samples_train):
@@ -105,51 +90,53 @@ class classification:
 
     def training(self, data_train, data_test):
         n_labels = len(my_map.label2name)
-        padded_train, y_train, padded_val, y_val, vocab_size = self.load_training_vector()
-        if padded_train is None or y_train is None or vocab_size is None\
-                or padded_val is None or y_val is None:
-            samples_train, vocab_size = preprocessing.load_dataset_from_disk(data_train, self.max_length)
+        X_train, y_train, X_val, y_val = self.load_training_vector()
+        if X_train is None or y_train is None \
+                or X_val is None or y_val is None:
+            samples_train = preprocessing.load_dataset_from_disk(
+                data_train, max_sentences=self.max_sentences)
             samples_val = self.split_validation(samples_train)
 
-            padded_train, y_train = self.prepare_data(samples_train, vocab_size)
-            padded_val, y_val = self.prepare_data(samples_val, vocab_size)
+            X_train, y_train = sen_emb.create_vector_data(samples_train, self.max_sentences)
+            X_val, y_val = sen_emb.create_vector_data(samples_val, self.max_sentences)
 
             y_train = utils.convert_list_to_onehot(y_train, n_labels)
             y_val = utils.convert_list_to_onehot(y_val, n_labels)
-            self.save_training_vector(padded_train, y_train, padded_val, y_val, vocab_size)
-        self.fit(padded_train, y_train, padded_val, y_val, vocab_size)
+            self.save_training_vector(X_train, y_train, X_val, y_val)
+        self.fit(X_train, y_train, X_val, y_val)
 
-        samples_test, y_test = self.load_testing_vector()
-        if samples_test is None or y_test is None:
-            samples_test, _ = preprocessing.load_dataset_from_disk(data_test, self.max_length)
-            padded_test, y_test = self.prepare_data(samples_test, vocab_size)
-            self.save_testing_vector(samples_test, y_test)
-        self.evaluation(padded_test, y_test)
+        X_test, y_test = self.load_testing_vector()
+        if X_test is None or y_test is None:
+            samples_test = preprocessing.load_dataset_from_disk(
+                data_test, max_sentences=self.max_sentences)
+            X_test, y_test = sen_emb.create_vector_data(samples_test, self.max_sentences)
+            self.save_testing_vector(X_test, y_test)
+        self.evaluation(X_test, y_test)
         # self.save_model()
 
 
-    def fit(self, padded_train, y_train, padded_val, y_val, vocab_size):
+    def fit(self, X_train, y_train, X_val, y_val):
         print('build model...')
         # build network
         num_lstm_layer = 1
-        num_hidden_node = 32
+        num_hidden_node = 64
         dropout = 0.0
-        embedding_size = 32
-        self.model = network.building_network(vocab_size, embedding_size,
+        embedding_size = sen_emb.emb_size
+        self.model = network.building_network(embedding_size,
                                               num_lstm_layer, num_hidden_node, dropout,
-                                              self.max_length,
+                                              self.max_sentences,
                                               len(my_map.label2name))
         print 'Model summary...'
         print self.model.summary()
         print 'Training model...'
         early_stopping = EarlyStopping(patience=self.patience)
-        self.model.fit(padded_train, y_train, batch_size=128, epochs=100,
-                       validation_data=(padded_val, y_val),
+        self.model.fit(X_train, y_train, batch_size=32, epochs=100,
+                       validation_data=(X_val, y_val),
                        callbacks=[early_stopping])
 
 
     def evaluation(self, X, y):
-        y_pred = self.model.predict_classes(X, batch_size=128)
+        y_pred = self.model.predict_classes(X, batch_size=32)
         accuracy = accuracy_score(y, y_pred)
         print('Accuracy = %.5f' % (accuracy))
         confusion = confusion_matrix(y, y_pred)
@@ -163,9 +150,6 @@ class classification:
 
 
     def predict(self, list_document):
-        # docs = preprocessing.load_dataset_from_list(list_document)
-        # X = self.feature_extraction(docs)
-        # return self.model.predict(X)
         pass
 
 
@@ -182,4 +166,4 @@ class classification:
 
 if __name__ == '__main__':
     c = classification()
-    c.run('dataset/sub_train', 'dataset/test')
+    c.run('dataset/train', 'dataset/test')

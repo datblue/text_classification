@@ -107,3 +107,4 @@ model/
 result/
 embedding/
 sub_train/
+*.bin
