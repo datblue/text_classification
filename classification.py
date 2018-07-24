@@ -53,7 +53,7 @@ class classification:
     def save(self, model, path):
         print('saving %s ...' % (path))
         utils.mkdir('model')
-        joblib.dump(model, path, compress=True)
+        joblib.dump(model, path, compress=9)
         return
 
 
