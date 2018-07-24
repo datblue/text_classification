@@ -1,14 +1,16 @@
 from keras.models import Sequential
-from keras.layers import LSTM, Dense, Flatten, Embedding
+from keras.layers import LSTM, Dense, Flatten, Masking
 
 
-def building_network(vocab_size, embedding_size, num_lstm_layer, num_hidden_node,
-                     dropout, time_step, output_lenght):
+def building_network(num_lstm_layer, num_hidden_node, dropout,
+                     time_step, vector_length, output_lenght):
     model = Sequential()
 
-    model.add(Embedding(vocab_size, embedding_size, input_length=time_step, mask_zero=False))
+    # model.add(Masking(mask_value=0., input_shape=(time_step, vector_length)))
+    model.add(LSTM(num_hidden_node, return_sequences=True, dropout=dropout,
+                   input_shape=(time_step, vector_length)))
 
-    for i in xrange(num_lstm_layer):
+    for i in xrange(num_lstm_layer - 1):
         model.add(LSTM(num_hidden_node, return_sequences=True, dropout=dropout))
 
     model.add(Flatten())
