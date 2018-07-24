@@ -119,11 +119,11 @@ class classification:
             self.save_training_vector(padded_train, y_train, padded_val, y_val, vocab_size)
         self.fit(padded_train, y_train, padded_val, y_val, vocab_size)
 
-        samples_test, y_test = self.load_testing_vector()
-        if samples_test is None or y_test is None:
+        padded_test, y_test = self.load_testing_vector()
+        if padded_test is None or y_test is None:
             samples_test, _ = preprocessing.load_dataset_from_disk(data_test, self.max_length)
             padded_test, y_test = self.prepare_data(samples_test, vocab_size)
-            self.save_testing_vector(samples_test, y_test)
+            self.save_testing_vector(padded_test, y_test)
         self.evaluation(padded_test, y_test)
         # self.save_model()
 
