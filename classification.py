@@ -95,14 +95,14 @@ class classification:
             # self.save_training_vector(X_train, y_train)
         self.fit(X_train, y_train)
 
-        # X_test, y_test = self.load_testing_vector()
-        # if X_test is None or y_test is None:
+        # X_test, y_test_onehot = self.load_testing_vector()
+        # if X_test is None or y_test_onehot is None:
         #     samples_test = preprocessing.load_dataset_from_disk(data_test, self.max_length)
         #     X_test, y_test = self.prepare_data(samples_test)
         #     X_test = embedding.construct_tensor_word(X_test, self.max_length)
-        #     y_test = utils.convert_list_to_onehot(y_test, n_labels)
-        #     self.save_testing_vector(X_test, y_test)
-        # self.evaluation(X_test, y_test)
+        #     y_test_onehot = utils.convert_list_to_onehot(y_test, n_labels)
+        #     self.save_testing_vector(X_test, y_test_onehot)
+        # self.evaluation(X_test, y_test_onehot)
         # self.save_model()
 
 
@@ -158,4 +158,4 @@ class classification:
 
 if __name__ == '__main__':
     c = classification()
-    c.run('dataset/test', 'dataset/test')
+    c.run('dataset/sub_train', 'dataset/test')
