@@ -41,7 +41,9 @@ class classification:
     def load_training_vector(self):
         X_train = self.load('model/X_train.pkl')
         y_train = self.load('model/y_train.pkl')
-        return X_train, y_train
+        X_val = self.load('model/X_val.pkl')
+        y_val = self.load('model/y_val.pkl')
+        return X_train, y_train, X_val, y_val
 
 
     def load_testing_vector(self):
@@ -83,17 +85,33 @@ class classification:
                 X.append(content)
         return X, y
 
+    def split_validation(self, samples_train):
+        samples_val = {}
+        for cat in samples_train:
+            samples = samples_train[cat]
+            boundary = int(round(0.9 * len(samples)))
+            samples_val.update({cat: samples[boundary:]})
+            samples_train[cat] = samples[: boundary]
+        return samples_val
+
 
     def training(self, data_train, data_test):
         n_labels = len(my_map.label2name)
-        X_train, y_train = self.load_training_vector()
-        if X_train is None or y_train is None:
+        X_train, y_train, X_val, y_val = self.load_training_vector()
+        if X_train is None or y_train is None or X_val is None or y_val is None:
             samples_train = preprocessing.load_dataset_from_disk(data_train, self.max_length)
+            samples_val = self.split_validation(samples_train)
+
             X_train, y_train = self.prepare_data(samples_train)
+            X_val, y_val = self.prepare_data(samples_val)
+
             X_train = embedding.construct_tensor_word(X_train, self.max_length)
             y_train = utils.convert_list_to_onehot(y_train, n_labels)
+
+            X_val = embedding.construct_tensor_word(X_val, self.max_length)
+            y_val = utils.convert_list_to_onehot(y_val, n_labels)
             # self.save_training_vector(X_train, y_train)
-        self.fit(X_train, y_train)
+        self.fit(X_train, y_train, X_val, y_val)
 
         # X_test, y_test_onehot = self.load_testing_vector()
         # if X_test is None or y_test_onehot is None:
@@ -106,7 +124,7 @@ class classification:
         # self.save_model()
 
 
-    def fit(self, X, y):
+    def fit(self, X_train, y_train, X_val, y_val):
         print('build model...')
         # build network
         num_lstm_layer = 2
@@ -119,9 +137,9 @@ class classification:
         print self.model.summary()
         print 'Training model...'
         early_stopping = EarlyStopping(patience=self.patience)
-        self.model.fit(X, y, batch_size=128, epochs=100,
-                           validation_split=0.1,
-                           callbacks=[early_stopping])
+        self.model.fit(X_train, y_train, batch_size=128, epochs=100,
+                       validation_data=(X_val, y_val),
+                       callbacks=[early_stopping])
 
 
     def evaluation(self, X, y):
