@@ -6,8 +6,7 @@ import my_map
 import utils
 from io import open
 import unicodedata
-from pyvi.pyvi import ViTokenizer
-from nlp_tools import spliter
+from nlp_tools import tokenizer
 
 
 r = regex.regex()
@@ -27,9 +26,7 @@ def load_dataset_from_disk(dataset, max_length):
             sys.stdout.flush()
             with open(file_path, 'r', encoding='utf-16') as fp:
                 content = unicodedata.normalize('NFKC', fp.read())
-                sentences = filter(lambda s: len(s) > 0, spliter.split(content))
-                sentences = map(lambda s: r.run(ViTokenizer.tokenize(s)), sentences)
-                content = u'\n'.join(sentences).lower()
+                content = r.run(tokenizer.predict(content)).lower()
                 words = content.split()
                 dir_name = utils.get_dir_name(file_path)
                 list_samples[dir_name].append(words[:max_length])
@@ -40,9 +37,7 @@ def load_dataset_from_disk(dataset, max_length):
 def load_dataset_from_list(list_samples, max_length):
     result = []
     for sample in list_samples:
-        sentences = filter(lambda s: len(s) > 0, spliter.split(sample))
-        sentences = map(lambda s: r.run(ViTokenizer.tokenize(s)), sentences)
-        sample = u'\n'.join(sentences).lower()
+        sample = r.run(tokenizer.predict(sample)).lower()
         words = sample.split()
         result.append(words[:max_length])
     return result
