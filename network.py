@@ -13,8 +13,8 @@ def building_network(embedding_size, num_lstm_layer, num_hidden_node,
     #     model.add(LSTM(num_hidden_node, return_sequences=True, dropout=dropout))
 
     model.add(Bidirectional(LSTM(num_hidden_node, return_sequences=True,
-                                 recurrent_dropout=dropout,
-                                 input_shape=(time_step, embedding_size))))
+                                 recurrent_dropout=dropout),
+                            input_shape=(time_step, embedding_size)))
 
     for i in xrange(num_lstm_layer-1):
         model.add(Bidirectional(LSTM(num_hidden_node, return_sequences=True,
