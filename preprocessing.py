@@ -6,11 +6,10 @@ import my_map
 import utils
 from io import open
 import unicodedata
-from tokenizer.tokenizer import Tokenizer
+from nlp_tools import tokenizer
 
 
 r = regex.regex()
-tokenizer = Tokenizer()
 
 
 def load_dataset_from_disk(dataset):
