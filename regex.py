@@ -10,6 +10,7 @@ class regex:
         self.rm_except_chars = re.compile(u'[^\w\s\d…\-–\./_,\(\)$%“”\"\'?!;:@#^&*\+=<>\[\]\{\}²³áÁàÀãÃảẢạẠăĂắẮằẰẳẲặẶẵẴâÂấẤầẦẩẨậẬẫẪđĐéÉèÈẻẺẽẼẹẸêÊếẾềỀễỄểỂệỆíÍìÌỉỈĩĨịỊóÓòÒỏỎõÕọỌôÔốỐồỒổỔỗỖộỘơƠớỚờỜởỞỡỠợỢúÚùÙủỦũŨụỤưƯứỨừỪửỬữỮựỰýÝỳỲỷỶỹỸỵỴ]')
         self.normalize_space = re.compile(u' +')
         self.detect_url = re.compile(u'(https|http|ftp|ssh)://[^\s\[\]\(\)\{\}]+', re.I)
+        self.detect_url2 = re.compile(u'[^\s\[\]\(\)\{\}]+(com|net|vn|org|info|biz|mobi|tv|ws|name|us|ca|uk)', re.I)
         self.detect_num = re.compile(ur'(\d+\,\d+\w*)|(\d+\.\d+\w*)|(\w*\d+\w*)')
         self.detect_email = re.compile(u'[^@|\s]+@[^@|\s]+')
         self.detect_datetime = re.compile(u'\d+[\-/]\d+[\-/]*\d*')
@@ -25,6 +26,7 @@ class regex:
     def run(self, data):
         s = self.detect_num.sub(u'<number>', data) # replaced number to 1
         s = self.detect_url.sub(u'', s)
+        s = self.detect_url2.sub(u'', s)
         s = self.detect_email.sub(u'', s)
         s = self.detect_datetime.sub(u'', s)
         s = self.change_to_space.sub(u' ', s)
