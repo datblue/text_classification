@@ -10,10 +10,10 @@ class regex:
         self.rm_except_chars = re.compile(u'[^\w\s\d…\-–\./_,\(\)$%“”\"\'?!;:@#^&*\+=<>\[\]\{\}²³áÁàÀãÃảẢạẠăĂắẮằẰẳẲặẶẵẴâÂấẤầẦẩẨậẬẫẪđĐéÉèÈẻẺẽẼẹẸêÊếẾềỀễỄểỂệỆíÍìÌỉỈĩĨịỊóÓòÒỏỎõÕọỌôÔốỐồỒổỔỗỖộỘơƠớỚờỜởỞỡỠợỢúÚùÙủỦũŨụỤưƯứỨừỪửỬữỮựỰýÝỳỲỷỶỹỸỵỴ]')
         self.normalize_space = re.compile(u' +')
         self.detect_url = re.compile(u'(https|http|ftp|ssh)://[^\s\[\]\(\)\{\}]+', re.I)
-        self.detect_url2 = re.compile(u'[^\s\[\]\(\)\{\}]+(com|net|vn|org|info|biz|mobi|tv|ws|name|us|ca|uk)', re.I)
+        self.detect_url2 = re.compile(u'[^\s\[\]\(\)\{\}]+(\.com|\.net|\.vn|\.org|\.info|\.biz|\.mobi|\.tv|\.ws|\.name|\.us|\.ca|\.uk)', re.I)
         self.detect_num = re.compile(ur'(\d+\,\d+\w*)|(\d+\.\d+\w*)|(\w*\d+\w*)')
         self.detect_email = re.compile(u'[^@|\s]+@[^@|\s]+')
-        self.detect_datetime = re.compile(u'\d+[\-/]\d+[\-/]*\d*')
+        self.detect_datetime = re.compile(u'\d+[\-/\.]\d+[\-/\.]*\d*')
         self.change_to_space = re.compile(u'\t')
         self.normalize_special_mark = re.compile(u'(?P<special_mark>[\.,\(\)\[\]\{\};!?:“”\"\'/\<\>])')
         self.detect_special_mark = re.compile(u'[\(\)\[\]\{\}\<\>“”\"\']')
@@ -133,6 +133,6 @@ class regex:
 
 if __name__ == '__main__':
     r = regex()
-    s = u'bền k56k năm'
-    ss = r.detect_num.sub(u'1', s)
+    s = u'ngày 25.12.2018'
+    ss = r.detect_datetime.sub(u'datetime', s)
     print ss
